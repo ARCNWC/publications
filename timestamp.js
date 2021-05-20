@@ -1,5 +1,5 @@
 function update_timestamp() {
-    fetch("/publications/timestamp.html")
+    fetch("https://ollybutters.github.io/puma/timestamp.html")
     .then(response => {
         return response.text()
     })
