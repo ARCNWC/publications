@@ -1,5 +1,8 @@
-function update_timestamp() {
-    fetch("https://ollybutters.github.io/puma/timestamp.html")
+function update_timestamp(timestamp_path) {
+    const myInit = {
+        mode: 'no-cors'
+    };
+    fetch(timestamp_path, myInit)
     .then(response => {
         return response.text()
     })
@@ -7,3 +10,4 @@ function update_timestamp() {
         document.getElementById("update_timestamp").innerHTML = "Updated: " + data;
     });
 }
+
