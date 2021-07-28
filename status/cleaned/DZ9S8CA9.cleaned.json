@@ -1,0 +1,1224 @@
+{
+    "IDs": {
+        "zotero": "DZ9S8CA9",
+        "DOI": "10.1002/14651858.CD007302.pub3",
+        "DOI_filename": "7062a17af6db2f9d0961592372cfa6a3",
+        "PMID": "32730657",
+        "scopus": "2-s2.0-85088884468",
+        "hash": "dfbbd59810a4a012cb21791c0e646f16"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "DZ9S8CA9",
+            "version": 1002,
+            "itemType": "journalArticle",
+            "title": "Vigabatrin add-on therapy for drug-resistant focal epilepsy",
+            "creators": [
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rebecca",
+                    "lastName": "Bresnahan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Myrsini",
+                    "lastName": "Gianatsi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Melissa J",
+                    "lastName": "Maguire"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catrin",
+                    "lastName": "Tudur Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "2020",
+            "issue": "7",
+            "pages": "",
+            "date": "2020-07-30",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD007302.pub3",
+            "ISSN": "14651858",
+            "shortTitle": "",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1002/14651858.CD007302.pub3",
+            "accessDate": "2021-07-23T16:46:04Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32730657",
+            "tags": [
+                {
+                    "tag": "PCCC"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:04Z",
+            "dateModified": "2021-07-27T12:14:20Z",
+            "pmid": "32730657"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        22
+                    ]
+                ],
+                "date-time": "2021-02-22T04:15:09Z",
+                "timestamp": 1613967309168
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2020,
+                                7,
+                                30
+                            ]
+                        ],
+                        "date-time": "2020-07-30T00:00:00Z",
+                        "timestamp": 1596067200000
+                    },
+                    "DOI": "10.1002/14651858.cd007302.pub2",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 42,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd007302.pub3",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        31
+                    ]
+                ],
+                "date-time": "2020-07-31T04:02:07Z",
+                "timestamp": 1596168127000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Vigabatrin add-on therapy for drug-resistant focal epilepsy",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Rebecca",
+                    "family": "Bresnahan",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Molecular and Clinical Pharmacology; Institute of Translational Medicine, University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Myrsini",
+                    "family": "Gianatsi",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Biostatistics; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Melissa J",
+                    "family": "Maguire",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Neurology; Leeds General Infirmary; Leeds UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Catrin",
+                    "family": "Tudur Smith",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Biostatistics; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Molecular and Clinical Pharmacology; Institute of Translational Medicine, University of Liverpool; Liverpool UK"
+                        },
+                        {
+                            "name": "The Walton Centre NHS Foundation Trust; Liverpool UK"
+                        },
+                        {
+                            "name": "Liverpool Health Partners; Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0001|cit1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "259",
+                    "DOI": "10.1016/S1059-1311(96)80018-5",
+                    "article-title": "A double-blind, placebo-controlled crossover study of vigabatrin 2 g/day and 3 g/day in uncontrolled partial seizures",
+                    "volume": "5",
+                    "author": "Beran",
+                    "year": "1996",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0002|cit2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "224",
+                    "DOI": "10.1053/seiz.2000.0381",
+                    "article-title": "Vigabatrin as add-on therapy for adult complex partial seizures: a double-blind, placebo-controlled multicentre study. The Canadian Vigabatrin Study Group",
+                    "volume": "9",
+                    "author": "Bruni",
+                    "year": "2000",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0003|cit3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "74",
+                    "DOI": "10.1111/j.1528-1157.1999.tb01991.x",
+                    "article-title": "Dose-response study of vigabatrin as add-on therapy in patients with uncontrolled complex partial seizures",
+                    "volume": "40",
+                    "author": "Dean",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "164",
+                    "DOI": "10.1111/j.1528-1157.1995.tb00976.x",
+                    "article-title": "Effects of differing dosages of vigabatrin (Sabril) on cognitive abilities and quality of life in epilepsy",
+                    "volume": "36",
+                    "author": "Dodrill",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0005|cit5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2501",
+                    "DOI": "10.1212/WNL.43.12.2501",
+                    "article-title": "Evaluation of the effects of vigabatrin on cognitive abilities and quality of life in epilepsy",
+                    "volume": "43",
+                    "author": "Dodrill",
+                    "year": "1993",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0006|cit6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "54",
+                    "DOI": "10.1212/WNL.46.1.54",
+                    "article-title": "A double-blind, placebo-controlled study of vigabatrin three g/day in patients with uncontrolled complex partial seizures",
+                    "volume": "46",
+                    "author": "French",
+                    "year": "1996",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0007|cit7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "262",
+                    "DOI": "10.1002/ana.410170307",
+                    "article-title": "Gamma-vinyl GABA: a double-blind placebo-controlled trial in partial epilepsy",
+                    "volume": "17",
+                    "author": "Gram",
+                    "year": "1985",
+                    "journal-title": "Annals of Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0008|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1057",
+                    "DOI": "10.1136/jnnp.57.9.1057",
+                    "article-title": "Effects of vigabatrin on partial seizures and cognitive function",
+                    "volume": "57",
+                    "author": "Grunewald",
+                    "year": "1994",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0009|cit9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "115",
+                    "DOI": "10.1111/j.1528-1157.1986.tb03512.x",
+                    "article-title": "Double blind, placebo controlled study of vigabatrin (gamma vinyl GABA) in drug resistant epilepsy",
+                    "volume": "27",
+                    "author": "Loiseau",
+                    "year": "1986",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0010|cit10",
+                    "first-page": "1271",
+                    "article-title": "Effect of vigabatrin on sedation and cognitive function in patients with refractory epilepsy",
+                    "volume": "56",
+                    "author": "Gilham",
+                    "year": "1993",
+                    "journal-title": "Journal of Neurology"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0011|cit11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "937",
+                    "DOI": "10.1111/j.1528-1157.1993.tb02115.x",
+                    "article-title": "Adjuvant vigabatrin in refractory epilepsy: a ceiling to effective dosage in individual patients?",
+                    "volume": "34",
+                    "author": "McKee",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "8370",
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0012|cit12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "189",
+                    "DOI": "10.1016/S0140-6736(84)92112-3",
+                    "article-title": "Double-blind study of gamma-vinyl GABA in patients with refractory epilepsy",
+                    "volume": "1",
+                    "author": "Rimmer",
+                    "year": "1984",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0013|cit13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "717",
+                    "DOI": "10.1111/j.1528-1157.1986.tb03600.x",
+                    "article-title": "Vigabatrin in the treatment of epilepsy: a double blind, placebo controlled study",
+                    "volume": "27",
+                    "author": "Tartara",
+                    "year": "1986",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0014|cit14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "907",
+                    "DOI": "10.1001/archneur.1987.00520210009010",
+                    "article-title": "Double blind study of vigabatrin in the treatment of drug resistant epilepsy",
+                    "volume": "44",
+                    "author": "Tassinari",
+                    "year": "1987",
+                    "journal-title": "Archives of Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0015|cit15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "209",
+                    "DOI": "10.1016/S0920-1211(96)00028-9",
+                    "article-title": "Vigabatrin withdrawal randomised study in children",
+                    "volume": "25",
+                    "author": "Chiron",
+                    "year": "1996",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0016|cit16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "12",
+                    "DOI": "10.1111/j.1600-0404.1996.tb00032.x",
+                    "article-title": "Influence of vigabatrin on cognitive performances and behaviour in patients with drug-resistant epilepsy",
+                    "volume": "94",
+                    "author": "Provinciali",
+                    "year": "1996",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0017|cit17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "530",
+                    "DOI": "10.1111/j.1528-1157.1991.tb04688.x",
+                    "article-title": "Open, double blind and long term study of vigabatrin in chronic epilepsy",
+                    "volume": "32",
+                    "author": "Reynolds",
+                    "year": "1991",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0018|cit18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1051",
+                    "DOI": "10.1136/jnnp.53.12.1051",
+                    "article-title": "Vigabatrin: rational treatment for chronic epilepsy",
+                    "volume": "53",
+                    "author": "Ring",
+                    "year": "1990",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0019|cit19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "311",
+                    "DOI": "10.1111/j.1528-1157.1999.tb00710.x",
+                    "article-title": "Once-daily versus twice daily vigabatrin: is there a difference? The results of a double blind pilot study",
+                    "volume": "40",
+                    "author": "Zahner",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0020|cit20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "217",
+                    "DOI": "10.2165/00148581-200810040-00003",
+                    "article-title": "Use of second-generation antiepileptic drugs in the pediatric population",
+                    "volume": "10",
+                    "author": "Chung",
+                    "year": "2008",
+                    "journal-title": "Paediatric drugs"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0021|cit21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1088",
+                    "DOI": "10.1111/j.1528-1157.1998.tb01295.x",
+                    "article-title": "Neuropsychological outcomes in randomised controlled trial of antiepileptic drugs. A systematic review of methodology and reporting standards",
+                    "volume": "39",
+                    "author": "Cochrane",
+                    "year": "1998",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0022|cit22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "140",
+                    "DOI": "10.1016/S0140-6736(95)91208-8",
+                    "article-title": "Remission of epilepsy: results from the national general practice study of epilepsy",
+                    "volume": "346",
+                    "author": "Cockerell",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "7075",
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0023|cit23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "180",
+                    "DOI": "10.1136/bmj.314.7075.180",
+                    "article-title": "Severe persistent visual field constriction associated with vigabatrin",
+                    "volume": "314",
+                    "author": "Eke",
+                    "year": "1997",
+                    "journal-title": "British Medical Journal"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0024|cit24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "296",
+                    "DOI": "10.1212/WNL.0000000000003509",
+                    "article-title": "Prevalence and incidence of epilepsy: A systematic review and meta-analysis of international studies",
+                    "volume": "88",
+                    "author": "Fiest Kirsten",
+                    "year": "2017",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0025|cit25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "522",
+                    "DOI": "10.1111/epi.13670",
+                    "article-title": "Operational classification of seizure types by the International League Against Epilepsy: Position Paper of the ILAE Commission for Classification and Terminology",
+                    "volume": "58",
+                    "author": "Fisher Robert",
+                    "year": "2017",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0026|cit26",
+                    "unstructured": "McMaster University (developed by Evidence Prime) GRADEpro GDT 2015"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0027|cit27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "889",
+                    "DOI": "10.2165/00003495-199141060-00007",
+                    "article-title": "Vigabatrin. A review of its pharmacodynamic and pharmacokinetic properties, and therapeutic potential in epilepsy and disorders of motor control",
+                    "volume": "41",
+                    "author": "Grant",
+                    "year": "1991",
+                    "journal-title": "Drugs"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0028|cit28",
+                    "author": "Hancock",
+                    "issue": "4",
+                    "year": "2008",
+                    "article-title": "Treatment of infantile spasms",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001770.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0029|cit29",
+                    "author": "Higgins",
+                    "year": "2005",
+                    "volume-title": "Cochrane Handbook for Systematic Reviews of Interventions"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0030|cit30",
+                    "unstructured": "Higgins JP Green S Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0031|cit31",
+                    "unstructured": "Lefebvre C Manheimer E Glanville J Chapter 6: Searching for studies. In: Higgins JP, Green S, editor(s). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0032|cit32",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "2423",
+                    "DOI": "10.1111/j.1528-1167.2010.02772",
+                    "article-title": "Prevalence of visual field loss following exposure to vigabatrin therapy: a systematic review",
+                    "volume": "51",
+                    "author": "Maguire",
+                    "year": "2010",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "7066",
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0033|cit33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1169",
+                    "DOI": "10.1136/bmj.313.7066.1169",
+                    "article-title": "New antiepileptic drugs: a systematic review of their efficacy and tolerability",
+                    "volume": "313",
+                    "author": "Marson",
+                    "year": "1996",
+                    "journal-title": "British Medical Journal"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0034|cit34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "327",
+                    "DOI": "10.1136/jnnp.73.3.327",
+                    "article-title": "The legacy of vigabatrin in a regional epilepsy clinic",
+                    "volume": "73",
+                    "author": "Nicolson",
+                    "year": "2002",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0035|cit35",
+                    "unstructured": "Nordic Cochrane Centre, The Cochrane Collaboration Review Manager 5 (RevMan 5) 2014"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0036|cit36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "182",
+                    "DOI": "10.1212/WNL.34.2.182",
+                    "article-title": "Biochemical and clinical effects of gamma-vinyl GABA in patients with epilepsy",
+                    "volume": "34",
+                    "author": "Schechter",
+                    "year": "1984",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0037|cit37",
+                    "unstructured": "Sch\u00fcnemann H Bro\u017cek J Guyatt G Oxman A editor(s) GRADE Working Group Handbook for grading the quality of evidence and the strength of recommendations using the GRADE approach (updated October 2013) Available from guidelinedevelopment.org/handbook"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0038|cit38",
+                    "unstructured": "Sterne JA Egger M Moher D Chapter 10: Addressing reporting biases. In: Higgins JP, Green S, editor(s). Cochrane Handbook for Systematic Reviews of Intervention. Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0039|cit39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1177/088307380502000101",
+                    "article-title": "Treatment of pediatric epilepsy: expert opinion",
+                    "volume": "20 Suppl",
+                    "author": "Wheless",
+                    "year": "2005",
+                    "journal-title": "Journal of Child Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0040|cit40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1318",
+                    "DOI": "10.1111/j.1528-1167.2007.01133.x",
+                    "article-title": "Vigabatrin and epilepsy: lessons learned",
+                    "volume": "48",
+                    "author": "Wild",
+                    "year": "2007",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0041|cit41",
+                    "author": "Hemming",
+                    "issue": "3",
+                    "year": "2008",
+                    "article-title": "Vigabatrin for refractory partial epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD007302",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD007302.pub3-BIB0042|cit42",
+                    "author": "Hemming",
+                    "issue": "1",
+                    "year": "2013",
+                    "article-title": "Vigabatrin for refractory partial epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD007302.pub2",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        22
+                    ]
+                ],
+                "date-time": "2021-02-22T03:37:54Z",
+                "timestamp": 1613965074000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "references-count": 42,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD007302.pub3",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32730657",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "09",
+                    "Day": "18"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "17"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "07",
+                            "Day": "30"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD007302.pub3"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "7",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "07",
+                                "Day": "30"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Vigabatrin add-on therapy for drug-resistant focal epilepsy.",
+                    "Pagination": {
+                        "MedlinePgn": "CD007302"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "This is an updated version of the original Cochrane Review published in 2008 and updated in 2013. Epilepsy is a common neurological condition which affects up to 1% of the population. Approximately 30% of people with epilepsy do not respond to treatment with currently available drugs. The majority of these people have focal epilepsy. Vigabatrin is an antiepileptic drug licensed for use in drug-resistant epilepsy.",
+                            "To assess the efficacy and tolerability of vigabatrin as an add-on therapy for people with drug-resistant focal epilepsy.",
+                            "For the latest update of this review, we searched the following databases on 1 November 2018: Cochrane Register of Studies (CRS Web), MEDLINE (Ovid 1946 to 31 October 2018), ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform. The Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL) are both included in the Cochrane Register of Studies (CRS Web). We checked reference lists of retrieved studies for additional reports of relevant studies and contacted Hoechst Marion Roussel (manufacturers of vigabatrin) in 2000.",
+                            "We included randomised, double-blind, placebo-controlled, fully published trials of vigabatrin in people of any age with drug-resistant focal epilepsy.",
+                            "Two review authors assessed trials for inclusion and extracted data using the standard methodological procedures expected by Cochrane. Primary analysis was by intention-to-treat (ITT). We evaluated: 50% or greater reduction in seizure frequency, treatment withdrawal, adverse effects, dose-response analysis, cognitive outcomes and quality of life. We presented results as risk ratios (RR) with 95% or 99% confidence intervals (CI).",
+                            "We identified 11 trials that included 756 participants (age range: 10 to 64 years). The trials tested vigabatrin doses between 1 g/day and 6 g/day. All 11 trials displayed a risk of bias across at least three risk of bias domains. Predominantly, the risk of bias was associated with: allocation concealment (selection bias), blinding of outcome assessment (detection bias) and incomplete outcome data (attrition bias). Participants treated with vigabatrin may be two to three times more likely to obtain a 50% or greater reduction in seizure frequency compared with those treated with placebo (RR 2.60, 95% CI 1.87 to 3.63; 4 studies; low-certainty evidence). Those treated with vigabatrin may also be three times more likely to have treatment withdrawn although we are uncertain (RR 2.86, 95% CI 1.25 to 6.55; 4 studies; very low-certainty evidence). Compared to placebo, participants given vigabatrin were more likely to experience adverse effects: dizziness/light-headedness (RR 1.74, 95% CI 1.05 to 2.87; 9 studies; low-certainty evidence), fatigue (RR 1.65, 95% CI 1.08 to 2.51; 9 studies; low-certainty evidence), drowsiness (RR 1.70, 95% CI 1.18 to 2.44; 8 studies) and depression (RR 3.28, 95% CI 1.30 to 8.27; 6 studies). Although the incidence rates were higher among participants receiving vigabatrin compared to those receiving placebo, the effect was not significant for the following adverse effects: ataxia (RR 2.76, 95% CI 0.96 to 7.94; 7 studies; very low-certainty evidence), nausea (RR 3.57, 95% CI 0.63 to 20.30; 4 studies), abnormal vision (RR 1.64, 95% CI 0.67 to 4.02; 5 studies; very low-certainty evidence), headache (RR 1.23, 95% CI 0.79 to 1.92; 9 studies), diplopia (RR 1.76, 99% CI 0.94 to 3.30) and nystagmus (RR 1.53, 99% CI 0.62 to 3.76; 2 studies; low-certainty evidence). Vigabatrin had little to no effect on cognitive outcomes or quality of life.",
+                            "Vigabatrin may significantly reduce seizure frequency in people with drug-resistant focal epilepsy. The results largely apply to adults and should not be extrapolated to children under 10 years old. Short-term follow-up of participants showed that some adverse effects were associated with its use. Analysis of longer-term observational studies elsewhere, however, has demonstrated that vigabatrin use can lead to the development of visual field defects."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bresnahan",
+                            "ForeName": "Rebecca",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gianatsi",
+                            "ForeName": "Myrsini",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Neurology, Leeds General Infirmary, Leeds, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Maguire",
+                            "ForeName": "Melissa J",
+                            "Initials": "MJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Biostatistics, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Tudur Smith",
+                            "ForeName": "Catrin",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Walton Centre NHS Foundation Trust, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Health Partners, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "16/114/26",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Research Support, Non-U.S. Gov't",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    },
+                    {
+                        "RegistryNumber": "GR120KRT6K",
+                        "NameOfSubstance": "Vigabatrin"
+                    }
+                ],
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2013 Jan 31;(1):CD007302",
+                        "PMID": "23440814"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "chemically induced"
+                        ],
+                        "DescriptorName": "Dizziness",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Drug Resistant Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Drug Therapy, Combination",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsies, Partial",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "chemically induced"
+                        ],
+                        "DescriptorName": "Fatigue",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "chemically induced"
+                        ],
+                        "DescriptorName": "Nystagmus, Pathologic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Seizures",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Vigabatrin",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "chemically induced"
+                        ],
+                        "DescriptorName": "Vision Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [],
+                        "Title": "References"
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "7",
+                        "Day": "31",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "7",
+                        "Day": "31",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "9",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "32730657",
+                    "10.1002/14651858.CD007302.pub3"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32730657)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832730657%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832730657%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088884468"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088884468?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85088884468&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85088884468&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85088884468",
+                        "dc:identifier": "SCOPUS_ID:85088884468",
+                        "eid": "2-s2.0-85088884468",
+                        "dc:title": "Vigabatrin add-on therapy for drug-resistant focal epilepsy",
+                        "dc:creator": "Bresnahan R.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2020",
+                        "prism:issueIdentifier": "7",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-07-30",
+                        "prism:coverDisplayDate": "30 July 2020",
+                        "prism:doi": "10.1002/14651858.CD007302.pub3",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32730657",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD007302",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "DZ9S8CA9.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32730657"
+            }
+        },
+        "title": "Vigabatrin add-on therapy for drug-resistant focal epilepsy.",
+        "full_author_list": [
+            {
+                "clean": "Bresnahan R",
+                "family": "Bresnahan",
+                "given": "Rebecca",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gianatsi M",
+                "family": "Gianatsi",
+                "given": "Myrsini",
+                "affiliation": {
+                    "name": "Department of Biostatistics, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Maguire M",
+                "family": "Maguire",
+                "given": "Melissa J",
+                "affiliation": {
+                    "name": "Department of Neurology, Leeds General Infirmary, Leeds, UK."
+                }
+            },
+            {
+                "clean": "Tudur Smith C",
+                "family": "Tudur Smith",
+                "given": "Catrin",
+                "affiliation": {
+                    "name": "Department of Biostatistics, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Bresnahan R",
+        "zotero_tags": [
+            {
+                "tag": "PCCC"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Child",
+                    "major": "N"
+                },
+                {
+                    "term": "Dizziness",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Resistant Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Therapy, Combination",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsies, Partial",
+                    "major": "N"
+                },
+                {
+                    "term": "Fatigue",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Nystagmus, Pathologic",
+                    "major": "N"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Seizures",
+                    "major": "N"
+                },
+                {
+                    "term": "Vigabatrin",
+                    "major": "N"
+                },
+                {
+                    "term": "Vision Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "7",
+            "issue": ""
+        },
+        "abstract": "['This is an updated version of the original Cochrane Review published in 2008 and updated in 2013. Epilepsy is a common neurological condition which affects up to 1% of the population. Approximately 30% of people with epilepsy do not respond to treatment with currently available drugs. The majority of these people have focal epilepsy. Vigabatrin is an antiepileptic drug licensed for use in drug-resistant epilepsy.', 'To assess the efficacy and tolerability of vigabatrin as an add-on therapy for people with drug-resistant focal epilepsy.', 'For the latest update of this review, we searched the following databases on 1 November 2018: Cochrane Register of Studies (CRS Web), MEDLINE (Ovid 1946 to 31 October 2018), ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform. The Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL) are both included in the Cochrane Register of Studies (CRS Web). We checked reference lists of retrieved studies for additional reports of relevant studies and contacted Hoechst Marion Roussel (manufacturers of vigabatrin) in 2000.', 'We included randomised, double-blind, placebo-controlled, fully published trials of vigabatrin in people of any age with drug-resistant focal epilepsy.', 'Two review authors assessed trials for inclusion and extracted data using the standard methodological procedures expected by Cochrane. Primary analysis was by intention-to-treat (ITT). We evaluated: 50% or greater reduction in seizure frequency, treatment withdrawal, adverse effects, dose-response analysis, cognitive outcomes and quality of life. We presented results as risk ratios (RR) with 95% or 99% confidence intervals (CI).', 'We identified 11 trials that included 756 participants (age range: 10 to 64 years). The trials tested vigabatrin doses between 1 g/day and 6 g/day. All 11 trials displayed a risk of bias across at least three risk of bias domains. Predominantly, the risk of bias was associated with: allocation concealment (selection bias), blinding of outcome assessment (detection bias) and incomplete outcome data (attrition bias). Participants treated with vigabatrin may be two to three times more likely to obtain a 50% or greater reduction in seizure frequency compared with those treated with placebo (RR 2.60, 95% CI 1.87 to 3.63; 4 studies; low-certainty evidence). Those treated with vigabatrin may also be three times more likely to have treatment withdrawn although we are uncertain (RR 2.86, 95% CI 1.25 to 6.55; 4 studies; very low-certainty evidence). Compared to placebo, participants given vigabatrin were more likely to experience adverse effects: dizziness/light-headedness (RR 1.74, 95% CI 1.05 to 2.87; 9 studies; low-certainty evidence), fatigue (RR 1.65, 95% CI 1.08 to 2.51; 9 studies; low-certainty evidence), drowsiness (RR 1.70, 95% CI 1.18 to 2.44; 8 studies) and depression (RR 3.28, 95% CI 1.30 to 8.27; 6 studies). Although the incidence rates were higher among participants receiving vigabatrin compared to those receiving placebo, the effect was not significant for the following adverse effects: ataxia (RR 2.76, 95% CI 0.96 to 7.94; 7 studies; very low-certainty evidence), nausea (RR 3.57, 95% CI 0.63 to 20.30; 4 studies), abnormal vision (RR 1.64, 95% CI 0.67 to 4.02; 5 studies; very low-certainty evidence), headache (RR 1.23, 95% CI 0.79 to 1.92; 9 studies), diplopia (RR 1.76, 99% CI 0.94 to 3.30) and nystagmus (RR 1.53, 99% CI 0.62 to 3.76; 2 studies; low-certainty evidence). Vigabatrin had little to no effect on cognitive outcomes or quality of life.', 'Vigabatrin may significantly reduce seizure frequency in people with drug-resistant focal epilepsy. The results largely apply to adults and should not be extrapolated to children under 10 years old. Short-term follow-up of participants showed that some adverse effects were associated with its use. Analysis of longer-term observational studies elsewhere, however, has demonstrated that vigabatrin use can lead to the development of visual field defects.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

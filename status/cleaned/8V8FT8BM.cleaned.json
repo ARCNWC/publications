@@ -1,0 +1,527 @@
+{
+    "IDs": {
+        "zotero": "8V8FT8BM",
+        "DOI": "10.1017/S1041610220003452",
+        "DOI_filename": "fb982bfdc65af231dc6f188c2ebc6959",
+        "PMID": "34127169",
+        "scopus": "2-s2.0-85108069114",
+        "hash": "924c041c4c4d31cb01fec9a55b10af2c"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "8V8FT8BM",
+            "version": 1002,
+            "itemType": "journalArticle",
+            "title": "Young-onset dementia and its difficulties in diagnosis and care",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "International Psychogeriatrics",
+            "volume": "",
+            "issue": "",
+            "pages": "1-3",
+            "date": "2021-06-15",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Int. Psychogeriatr.",
+            "language": "en",
+            "DOI": "10.1017/S1041610220003452",
+            "ISSN": "1041-6102, 1741-203X",
+            "shortTitle": "",
+            "url": "https://www.cambridge.org/core/product/identifier/S1041610220003452/type/journal_article",
+            "accessDate": "2021-07-23T16:46:06Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:34127169",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:10Z",
+            "dateModified": "2021-07-27T12:14:49Z",
+            "pmid": "34127169"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        15
+                    ]
+                ],
+                "date-time": "2021-06-15T06:42:26Z",
+                "timestamp": 1623739346567
+            },
+            "reference-count": 17,
+            "publisher": "Cambridge University Press (CUP)",
+            "license": [
+                {
+                    "URL": "https://www.cambridge.org/core/terms",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                6,
+                                15
+                            ]
+                        ],
+                        "date-time": "2021-06-15T00:00:00Z",
+                        "timestamp": 1623715200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "unspecified"
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "DOI": "10.1017/s1041610220003452",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        15
+                    ]
+                ],
+                "date-time": "2021-06-15T06:22:43Z",
+                "timestamp": 1623738163000
+            },
+            "page": "1-3",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Young-onset dementia and its difficulties in diagnosis and care",
+            "prefix": "10.1017",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "member": "56",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        15
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "S1041610220003452_ref5",
+                    "DOI": "10.1002/gps.4430",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220003452_ref7",
+                    "DOI": "10.1016/j.gaitpost.2016.08.009",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220003452_ref13",
+                    "DOI": "10.1080/13607863.2017.1334038",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220003452_ref8",
+                    "DOI": "10.1212/WNL.0b013e3181f5d4c4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220003452_ref14",
+                    "first-page": "e490",
+                    "article-title": "Multiple stakeholders\u2019 perspectives on respite service access for people with dementia and their carers",
+                    "volume": "59",
+                    "author": "O\u2019Shea",
+                    "year": "2019",
+                    "journal-title": "The Gerontologist"
+                },
+                {
+                    "key": "S1041610220003452_ref1",
+                    "year": "2020",
+                    "volume-title": "From Plan to Impact III: Maintaining Dementia as a Priority in Unprecedented Times"
+                },
+                {
+                    "key": "S1041610220003452_ref16",
+                    "DOI": "10.1017/S1041610219000784",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220003452_ref11",
+                    "DOI": "10.3233/JAD-191307",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220003452_ref12",
+                    "DOI": "10.1017/S1041610220001489",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220003452_ref2",
+                    "author": "Birks",
+                    "year": "2018",
+                    "article-title": "Donepezil for dementia due to Alzheimer\u2019s disease",
+                    "journal-title": "Cochrane Library"
+                },
+                {
+                    "key": "S1041610220003452_ref15",
+                    "DOI": "10.1017/S1041610219002229",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220003452_ref17",
+                    "DOI": "10.1136/bmjopen-2017-021166",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220003452_ref3",
+                    "author": "Black",
+                    "year": "2019",
+                    "article-title": "Quantifying the diagnostic pathway for patients with cognitive impairment: real-world data from Australia",
+                    "journal-title": "International Psychogeriatrics"
+                },
+                {
+                    "key": "S1041610220003452_ref9",
+                    "DOI": "10.1186/s12913-020-5027-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220003452_ref4",
+                    "DOI": "10.1371/journal.pone.0180935",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220003452_ref10",
+                    "DOI": "10.3233/JAD-181223",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220003452_ref6",
+                    "DOI": "10.1007/s00415-019-09616-2",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "International Psychogeriatrics",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1041610220003452",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        15
+                    ]
+                ],
+                "date-time": "2021-06-15T06:22:47Z",
+                "timestamp": 1623738167000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        15
+                    ]
+                ]
+            },
+            "references-count": 17,
+            "alternative-id": [
+                "S1041610220003452"
+            ],
+            "URL": "http://dx.doi.org/10.1017/S1041610220003452",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1041-6102",
+                "1741-203X"
+            ],
+            "subject": [
+                "Gerontology",
+                "Clinical Psychology",
+                "Geriatrics and Gerontology",
+                "Psychiatry and Mental health"
+            ],
+            "container-title-short": "Int. Psychogeriatr."
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [],
+                "OtherID": [],
+                "PMID": "34127169",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "06",
+                    "Day": "15"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "06",
+                            "Day": "15"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1017/S1041610220003452"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1741-203X",
+                        "JournalIssue": {
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "Jun",
+                                "Day": "15"
+                            }
+                        },
+                        "Title": "International psychogeriatrics",
+                        "ISOAbbreviation": "Int Psychogeriatr"
+                    },
+                    "ArticleTitle": "Young-onset dementia and its difficulties in diagnosis and care.",
+                    "Pagination": {
+                        "MedlinePgn": "1-3"
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Int Psychogeriatr",
+                    "NlmUniqueID": "9007918",
+                    "ISSNLinking": "1041-6102"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2021",
+                        "Month": "6",
+                        "Day": "15",
+                        "Hour": "5",
+                        "Minute": "56"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "6",
+                        "Day": "16",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "6",
+                        "Day": "16",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "aheadofprint",
+                "ArticleIdList": [
+                    "34127169",
+                    "S1041610220003452",
+                    "10.1017/S1041610220003452"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1017/S1041610220003452)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1017%2FS1041610220003452%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1017%2FS1041610220003452%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108069114"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108069114?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108069114&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108069114&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108069114",
+                        "dc:identifier": "SCOPUS_ID:85108069114",
+                        "eid": "2-s2.0-85108069114",
+                        "dc:title": "Young-onset dementia and its difficulties in diagnosis and care",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "International Psychogeriatrics",
+                        "prism:issn": "10416102",
+                        "prism:eIssn": "1741203X",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-01-01",
+                        "prism:coverDisplayDate": "2021",
+                        "prism:doi": "10.1017/S1041610220003452",
+                        "pii": "S1041610220003452",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR ARC NWC",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "no",
+                        "subtypeDescription": "Note",
+                        "source-id": "16200",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "8V8FT8BM.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "34127169"
+            }
+        },
+        "title": "Young-onset dementia and its difficulties in diagnosis and care.",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Int Psychogeriatr",
+            "volume": "",
+            "issue": ""
+        },
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

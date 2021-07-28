@@ -1,0 +1,545 @@
+{
+    "IDs": {
+        "zotero": "H62ZPWN2",
+        "DOI": "10.12968/bjhc.2019.0020",
+        "DOI_filename": "f84441db29f5727008dea104ab85df60",
+        "PMID": "",
+        "scopus": "2-s2.0-85072511524",
+        "hash": "131453376f693cf6ea3a13d1de2734c8"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "H62ZPWN2",
+            "version": 983,
+            "itemType": "journalArticle",
+            "title": "Developing clinical academic researchers: insights from practitioners and managers in nursing, midwifery and allied health",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Hazel",
+                    "lastName": "Roddam"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lucy",
+                    "lastName": "Cross"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rachel",
+                    "lastName": "Georgiou"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Josephine",
+                    "lastName": "Gibson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stephanie",
+                    "lastName": "Jones"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Philippa",
+                    "lastName": "Olive"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Grete",
+                    "lastName": "Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lois",
+                    "lastName": "Thomas"
+                }
+            ],
+            "abstractNote": "Background/Aims\n              Developing a clinical academic role in nursing, midwifery and the allied health professions is challenging because of the lack of a national career pathway, recognition and understanding of the role. This evaluation aimed to explore perspectives of aspiring, or active clinical academics, and healthcare managers in nursing, midwifery and the allied health professions about the benefits, barriers and enablers of engagement in these career pathways.\n            \n            \n              Methods\n              In total, eight workshops were facilitated across England (four each for managers and prospective clinical academics), where 162 participants shared their experiences and perceptions of clinical academic research activities.\n            \n            \n              Results\n              Three major themes were identified that related to the perceived benefits, barriers and enablers of engagement in these career pathways: building health research capacity, building individuals' health research capability, and improving patient care.\n            \n            \n              Conclusion\n              This article demonstrates factors that are valued and perceived to be working well by practitioners and their clinical service managers, and highlights key priorities for further strategic support.",
+            "publicationTitle": "British Journal of Healthcare Management",
+            "volume": "25",
+            "issue": "9",
+            "pages": "282-292",
+            "date": "2019-09-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "British Journal of Healthcare Management",
+            "language": "en",
+            "DOI": "10.12968/bjhc.2019.0020",
+            "ISSN": "1358-0574, 1759-7382",
+            "shortTitle": "Developing clinical academic researchers",
+            "url": "http://www.magonlinelibrary.com/doi/10.12968/bjhc.2019.0020",
+            "accessDate": "2021-07-23T16:46:16Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "PCCC"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:38Z",
+            "dateModified": "2021-07-27T11:53:21Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        30
+                    ]
+                ],
+                "date-time": "2020-07-30T22:12:14Z",
+                "timestamp": 1596147134028
+            },
+            "reference-count": 7,
+            "publisher": "Mark Allen Group",
+            "issue": "9",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        2
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Background/Aims</jats:title><jats:p> Developing a clinical academic role in nursing, midwifery and the allied health professions is challenging because of the lack of a national career pathway, recognition and understanding of the role. This evaluation aimed to explore perspectives of aspiring, or active clinical academics, and healthcare managers in nursing, midwifery and the allied health professions about the benefits, barriers and enablers of engagement in these career pathways. </jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p> In total, eight workshops were facilitated across England (four each for managers and prospective clinical academics), where 162 participants shared their experiences and perceptions of clinical academic research activities. </jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p> Three major themes were identified that related to the perceived benefits, barriers and enablers of engagement in these career pathways: building health research capacity, building individuals' health research capability, and improving patient care. </jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p> This article demonstrates factors that are valued and perceived to be working well by practitioners and their clinical service managers, and highlights key priorities for further strategic support. </jats:p></jats:sec>",
+            "DOI": "10.12968/bjhc.2019.0020",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        19
+                    ]
+                ],
+                "date-time": "2019-09-19T17:16:27Z",
+                "timestamp": 1568913387000
+            },
+            "page": "282-292",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Developing clinical academic researchers: insights from practitioners and managers in nursing, midwifery and allied health",
+            "prefix": "10.12968",
+            "volume": "25",
+            "author": [
+                {
+                    "given": "Hazel",
+                    "family": "Roddam",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "School of Health Sciences, University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Lucy",
+                    "family": "Cross",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rachel",
+                    "family": "Georgiou",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Josephine",
+                    "family": "Gibson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Stephanie",
+                    "family": "Jones",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Philippa",
+                    "family": "Olive",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Grete",
+                    "family": "Smith",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Lois",
+                    "family": "Thomas",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "5130",
+            "reference": [
+                {
+                    "issue": "3",
+                    "key": "B1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "385",
+                    "DOI": "10.1177/146879410100100307",
+                    "volume": "1",
+                    "author": "Attride-Stirling J.",
+                    "year": "2001",
+                    "journal-title": "Qual Res"
+                },
+                {
+                    "key": "B3",
+                    "unstructured": "Baltruks D, Callaghan P. Nursing, midwifery and allied health clinical academic research careers in the UK. London: Council of Deans of Health; 2018"
+                },
+                {
+                    "issue": "12",
+                    "key": "B4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e009415",
+                    "DOI": "10.1136/bmjopen-2015-009415",
+                    "volume": "5",
+                    "author": "Boaz A",
+                    "year": "2015",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "issue": "2",
+                    "key": "B12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e0118253",
+                    "DOI": "10.1371/journal.pone.0118253",
+                    "volume": "10",
+                    "author": "Ozdemir BA",
+                    "year": "2015",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "issue": "1",
+                    "key": "B13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "75",
+                    "DOI": "10.1332/174426408783477864",
+                    "volume": "4",
+                    "author": "Pickstone C",
+                    "year": "2008",
+                    "journal-title": "Evid Policy"
+                },
+                {
+                    "issue": "3",
+                    "key": "B14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "244",
+                    "DOI": "10.1111/j.1365-2524.2008.00821.x",
+                    "volume": "17",
+                    "author": "Sarre G",
+                    "year": "2009",
+                    "journal-title": "Health Soc Care Community"
+                },
+                {
+                    "issue": "1",
+                    "key": "B16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "6",
+                    "DOI": "10.1186/s12961-016-0166-4",
+                    "volume": "15",
+                    "author": "Wenke RJ",
+                    "year": "2017",
+                    "journal-title": "Health Res Policy Sys"
+                }
+            ],
+            "container-title": "British Journal of Healthcare Management",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://www.magonlinelibrary.com/doi/pdf/10.12968/bjhc.2019.0020",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        19
+                    ]
+                ],
+                "date-time": "2019-09-19T17:16:51Z",
+                "timestamp": 1568913411000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 7,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            9,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "9"
+            },
+            "alternative-id": [
+                "10.12968/bjhc.2019.0020"
+            ],
+            "URL": "http://dx.doi.org/10.12968/bjhc.2019.0020",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1358-0574",
+                "1759-7382"
+            ],
+            "subject": [
+                "Health Policy",
+                "Leadership and Management"
+            ],
+            "container-title-short": "British Journal of Healthcare Management"
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.12968/bjhc.2019.0020)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.12968%2Fbjhc.2019.0020%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.12968%2Fbjhc.2019.0020%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072511524"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072511524?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072511524&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072511524&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072511524",
+                        "dc:identifier": "SCOPUS_ID:85072511524",
+                        "eid": "2-s2.0-85072511524",
+                        "dc:title": "Developing clinical academic researchers: Insights from practitioners and managers in nursing, midwifery and allied health",
+                        "dc:creator": "Roddam H.",
+                        "prism:publicationName": "British Journal of Health Care Management",
+                        "prism:issn": "13580574",
+                        "prism:eIssn": "17597382",
+                        "prism:volume": "25",
+                        "prism:issueIdentifier": "9",
+                        "prism:pageRange": "282-292",
+                        "prism:coverDate": "2019-09-02",
+                        "prism:coverDisplayDate": "2 September 2019",
+                        "prism:doi": "10.12968/bjhc.2019.0020",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "4900153502",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "H62ZPWN2.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Developing clinical academic researchers: insights from practitioners and managers in nursing, midwifery and allied health",
+        "full_author_list": [
+            {
+                "clean": "Roddam H",
+                "family": "Roddam",
+                "given": "Hazel",
+                "affiliation": {
+                    "name": "School of Health Sciences, University of Central Lancashire, Preston, UK"
+                }
+            },
+            {
+                "clean": "Cross L",
+                "family": "Cross",
+                "given": "Lucy",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK"
+                }
+            },
+            {
+                "clean": "Georgiou R",
+                "family": "Georgiou",
+                "given": "Rachel",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK"
+                }
+            },
+            {
+                "clean": "Gibson J",
+                "family": "Gibson",
+                "given": "Josephine",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK"
+                }
+            },
+            {
+                "clean": "Jones S",
+                "family": "Jones",
+                "given": "Stephanie",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK"
+                }
+            },
+            {
+                "clean": "Olive P",
+                "family": "Olive",
+                "given": "Philippa",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK"
+                }
+            },
+            {
+                "clean": "Smith G",
+                "family": "Smith",
+                "given": "Grete",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK"
+                }
+            },
+            {
+                "clean": "Thomas L",
+                "family": "Thomas",
+                "given": "Lois",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK"
+                }
+            }
+        ],
+        "first_author": "Roddam H",
+        "zotero_tags": [
+            {
+                "tag": "PCCC"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "British Journal of Healthcare Management",
+            "volume": "25",
+            "issue": "9"
+        },
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "School of Health Sciences, University of Central Lancashire, Preston, UK",
+            "clean_institute": "University of Central Lancashire",
+            "country": "United Kingdom",
+            "latitude": "53.759444444444",
+            "longitude": "-2.6980555555556"
+        }
+    }
+}

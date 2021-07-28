@@ -1,0 +1,1073 @@
+{
+    "IDs": {
+        "zotero": "3GUI6EBA",
+        "DOI": "10.1186/s12913-020-4945-9",
+        "DOI_filename": "68e8508797992990edbf208922ce7669",
+        "PMID": "32028940",
+        "scopus": "2-s2.0-85079084283",
+        "hash": "77eb3ae253e99ab912236ba781af2eb7"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "3GUI6EBA",
+            "version": 997,
+            "itemType": "journalArticle",
+            "title": "Reducing hospital admissions in older care home residents: a 4-year evaluation of the care home innovation Programme (CHIP)",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Debbie",
+                    "lastName": "Harvey"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Asangaedem",
+                    "lastName": "Akpan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Peter",
+                    "lastName": "Chamberlain"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              Older care home residents frequently attend emergency departments with a high conversion to admissions. For this purpose, a novel Care Home Innovation Programme (CHIP) was introduced with the aim of reducing potentially avoidable hospital admissions by 30%. The aim of this study is to evaluate the implementation of this innovative service in practice.\n            \n            \n              Methods\n              A total of 32 care homes with 1314 beds in South Sefton, Merseyside were invited to sign up to CHIP which was launched in April 2015 and continued in its entirety until June 2018. As part of the CHIP, care home matrons were introduced, new protocols were developed to address common presentations, a 24-h 7\u2013day a week televideo system installed across all homes, and a quarterly training collaborative brought care homes together to learn and share good practices together. Data on emergency calls and calls resulting in conveyances were recorded over a four-year period, and analysed using frequency analysis.\n            \n            \n              Results\n              In comparison to the 12\u2009months prior to launch, over a four-year period, implementation of the CHIP resulted in a 15% reduction of emergency calls, and in a 19% reduction of conveyances to hospital.\n            \n            \n              Conclusions\n              The South Sefton CHIP demonstrated itself an effective programme in reducing conveyances and consequently, hospital admissions of care home residents. This model will be superseded by the enhanced health in care homes being promoted by the NHS Long Term Care Plan.",
+            "publicationTitle": "BMC Health Services Research",
+            "volume": "20",
+            "issue": "1",
+            "pages": "94",
+            "date": "12/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Health Serv Res",
+            "language": "en",
+            "DOI": "10.1186/s12913-020-4945-9",
+            "ISSN": "1472-6963",
+            "shortTitle": "Reducing hospital admissions in older care home residents",
+            "url": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-4945-9",
+            "accessDate": "2021-07-23T16:46:16Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32028940",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:37Z",
+            "dateModified": "2021-07-27T12:08:43Z",
+            "pmid": "32028940"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        5
+                    ]
+                ],
+                "date-time": "2021-02-05T05:26:09Z",
+                "timestamp": 1612502769547
+            },
+            "reference-count": 14,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                2,
+                                6
+                            ]
+                        ],
+                        "date-time": "2020-02-06T00:00:00Z",
+                        "timestamp": 1580947200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                2,
+                                6
+                            ]
+                        ],
+                        "date-time": "2020-02-06T00:00:00Z",
+                        "timestamp": 1580947200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "ARC NWC"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Older care home residents frequently attend emergency departments with a high conversion to admissions. For this purpose, a novel Care Home Innovation Programme (CHIP) was introduced with the aim of reducing potentially avoidable hospital admissions by 30%. The aim of this study is to evaluate the implementation of this innovative service in practice.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>A total of 32 care homes with 1314 beds in South Sefton, Merseyside were invited to sign up to CHIP which was launched in April 2015 and continued in its entirety until June 2018. As part of the CHIP, care home matrons were introduced, new protocols were developed to address common presentations, a 24-h 7\u2013day a week televideo system installed across all homes, and a quarterly training collaborative brought care homes together to learn and share good practices together. Data on emergency calls and calls resulting in conveyances were recorded over a four-year period, and analysed using frequency analysis.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>In comparison to the 12\u2009months prior to launch, over a four-year period, implementation of the CHIP resulted in a 15% reduction of emergency calls, and in a 19% reduction of conveyances to hospital.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>The South Sefton CHIP demonstrated itself an effective programme in reducing conveyances and consequently, hospital admissions of care home residents. This model will be superseded by the enhanced health in care homes being promoted by the NHS Long Term Care Plan.</jats:p>\n              </jats:sec>",
+            "DOI": "10.1186/s12913-020-4945-9",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        6
+                    ]
+                ],
+                "date-time": "2020-02-06T16:07:07Z",
+                "timestamp": 1581005227000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "Reducing hospital admissions in older care home residents: a 4-year evaluation of the care home innovation Programme (CHIP)",
+            "prefix": "10.1186",
+            "volume": "20",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Debbie",
+                    "family": "Harvey",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Asangaedem",
+                    "family": "Akpan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Peter",
+                    "family": "Chamberlain",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        6
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "2",
+                    "key": "4945_CR1",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "108",
+                    "DOI": "10.1016/j.jamda.2013.09.012",
+                    "volume": "15",
+                    "author": "B Afram",
+                    "year": "2014",
+                    "unstructured": "Afram B, Stephan A, Verbeek H, et al. Reasons for institutionalization of people with dementia: informal caregiver reports from 8 European countries. J Am Med Dir Assoc. 2014;15(2):108\u201316.",
+                    "journal-title": "J Am Med Dir Assoc"
+                },
+                {
+                    "issue": "1",
+                    "key": "4945_CR2",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "29",
+                    "DOI": "10.1023/A:1018770820728",
+                    "volume": "23",
+                    "author": "K Brazil",
+                    "year": "1998",
+                    "unstructured": "Brazil K, Bolton C, Ulrichsen D, Knott C. Substituting home care for hospitalisation: the role of a quick response service for the elderly. J Community Health. 1998;23(1):29\u201344.",
+                    "journal-title": "J Community Health"
+                },
+                {
+                    "issue": "6",
+                    "key": "4945_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "616",
+                    "DOI": "10.1097/01.mlr.0000163661.67170.b9",
+                    "volume": "43",
+                    "author": "NG Castle",
+                    "year": "2005",
+                    "unstructured": "Castle NG, Engberg J. Staff turnover and quality of care in nursing homes. Med Care. 2005;43(6):616\u201326.",
+                    "journal-title": "Med Care"
+                },
+                {
+                    "issue": "10",
+                    "key": "4945_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1657",
+                    "DOI": "10.1093/gerona/glz027",
+                    "volume": "74",
+                    "author": "Wei Duan-Porter",
+                    "year": "2019",
+                    "unstructured": "Duan-Porter W, Vo TN, Ullman K, et al. Hospitalization-associated change in gait speed and risk of functional limitations for older adults. J Gerontol Series A. 2019. https://doi.org/10.1093/gerona/glz027.",
+                    "journal-title": "The Journals of Gerontology: Series A"
+                },
+                {
+                    "issue": "10",
+                    "key": "4945_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "2061",
+                    "DOI": "10.1111/jgs.13663",
+                    "volume": "63",
+                    "author": "WJ Ehlenbach",
+                    "year": "2015",
+                    "unstructured": "Ehlenbach WJ, Larson EB, Curtis JR, Hough CL. Physical function and disability after acute care and critical illness hospitalizations in a prospective cohort of older adults. J Am Geriatr Soc. 2015;63(10):2061\u20139.",
+                    "journal-title": "J Am Geriatr Soc"
+                },
+                {
+                    "issue": "5",
+                    "key": "4945_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "544",
+                    "DOI": "10.1071/AH14185",
+                    "volume": "39",
+                    "author": "Debbie Faulkner",
+                    "year": "2015",
+                    "unstructured": "Faulkner D, Law J. (2015). The \u2018unnecessary\u201d use of emergency departments by older people: findings from hospital data, hospital staff and older people. Aust Health Rev, 39(5), 544\u2013551.",
+                    "journal-title": "Australian Health Review"
+                },
+                {
+                    "issue": "5",
+                    "key": "4945_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "792",
+                    "DOI": "10.1177/0898264313493003",
+                    "volume": "25",
+                    "author": "A Kanwar",
+                    "year": "2012",
+                    "unstructured": "Kanwar A, Singh M, Lennon R, et al. Frailty and health-related quality of life among residents of long-term care facilities. J Age Health. 2012;25(5):792\u2013802.",
+                    "journal-title": "J Age Health"
+                },
+                {
+                    "issue": "11",
+                    "key": "4945_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "940",
+                    "DOI": "10.1016/j.jamda.2015.06.025",
+                    "volume": "16",
+                    "author": "G Kojima",
+                    "year": "2015",
+                    "unstructured": "Kojima G. Prevalence of frailty in nursing homes: a systematic review and meta-analysis. J Am Med Dir Assoc. 2015;16(11):940\u20135.",
+                    "journal-title": "J Am Med Dir Assoc"
+                },
+                {
+                    "key": "4945_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "11",
+                    "DOI": "10.1186/s12904-016-0081-z",
+                    "volume": "15",
+                    "author": "A Mayrhofer",
+                    "year": "2016",
+                    "unstructured": "Mayrhofer A, Goodman C, Smeeton N, et al. The feasibility of a train-the-trainer approach to end of life care training in care homes: an evaluation. BMC Palliat Care. 2016;15:11.",
+                    "journal-title": "BMC Palliat Care"
+                },
+                {
+                    "key": "4945_CR10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1186/1472-6963-10-1",
+                    "volume": "10",
+                    "author": "M Mesteig",
+                    "year": "2010",
+                    "unstructured": "Mesteig M, Helbostad JL, Sletvold O, Rosstad T, Saltvedt I. Unwanted incidents during transition of geriatric patients from hospital to home: a prospective observational study. BMC Health Serv Res. 2010;10:1.",
+                    "journal-title": "BMC Health Serv Res"
+                },
+                {
+                    "key": "4945_CR11",
+                    "author": "Office for National Statistics",
+                    "year": "2014",
+                    "unstructured": "Office for National Statistics (2014). Changes in the Older Resident Care Home Population between 2001 and 2011.",
+                    "volume-title": "Changes in the Older Resident Care Home Population between 2001 and 2011"
+                },
+                {
+                    "issue": "4",
+                    "key": "4945_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "745",
+                    "DOI": "10.1111/j.1532-5415.2011.03333.x",
+                    "volume": "59",
+                    "author": "JG Ouslander",
+                    "year": "2011",
+                    "unstructured": "Ouslander JG, Lamb G, Tappen R, et al. Interventions to reduce hospitalisations from nursing homes; evaluation of the INTERACT II collaborative quality improvement project. J Am Geriatr Soc. 2011;59(4):745\u201353.",
+                    "journal-title": "J Am Geriatr Soc"
+                },
+                {
+                    "key": "4945_CR13",
+                    "author": "LP Provost",
+                    "year": "2011",
+                    "unstructured": "Provost LP, Murray S. The Health Care Data Guide: Learning from data for improvement; 2011.",
+                    "volume-title": "The Health Care Data Guide: Learning from data for improvement"
+                },
+                {
+                    "issue": "6",
+                    "key": "4945_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1338",
+                    "DOI": "10.1111/jan.12663",
+                    "volume": "71",
+                    "author": "H Verbeek",
+                    "year": "2015",
+                    "unstructured": "Verbeek H, Meyer G, Challis D, et al. Inter-country exploration of factors associated with admission to long-term institutional dementia care: evidence from the RightTimePlaceCare study. J Adv Nurs. 2015;71(6):1338\u201350.",
+                    "journal-title": "J Adv Nurs"
+                }
+            ],
+            "container-title": "BMC Health Services Research",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12913-020-4945-9.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s12913-020-4945-9/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12913-020-4945-9.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        5
+                    ]
+                ],
+                "date-time": "2021-02-05T01:02:21Z",
+                "timestamp": 1612486941000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        6
+                    ]
+                ]
+            },
+            "references-count": 14,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "4945"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12913-020-4945-9",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1472-6963"
+            ],
+            "subject": [
+                "Health Policy"
+            ],
+            "container-title-short": "BMC Health Serv Res",
+            "assertion": [
+                {
+                    "value": "21 October 2019",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "29 January 2020",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "6 February 2020",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "No ethical approval was required as this study involves routinely collected data by the Sefton Clinical Commissioning Group. Data collected are not patient specific.",
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "Not applicable.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "Corresponding author Dr. Clarissa Giebel is an Associate Editor of this journal.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "94"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Care homes",
+                        "Hospital attendance",
+                        "System change",
+                        "Training"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32028940",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "05",
+                    "Day": "22"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "05",
+                    "Day": "22"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "02",
+                            "Day": "06"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12913-020-4945-9"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1472-6963",
+                        "JournalIssue": {
+                            "Volume": "20",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Feb",
+                                "Day": "06"
+                            }
+                        },
+                        "Title": "BMC health services research",
+                        "ISOAbbreviation": "BMC Health Serv Res"
+                    },
+                    "ArticleTitle": "Reducing hospital admissions in older care home residents: a 4-year evaluation of the care home innovation Programme (CHIP).",
+                    "Pagination": {
+                        "MedlinePgn": "94"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Older care home residents frequently attend emergency departments with a high conversion to admissions. For this purpose, a novel Care Home Innovation Programme (CHIP) was introduced with the aim of reducing potentially avoidable hospital admissions by 30%. The aim of this study is to evaluate the implementation of this innovative service in practice.",
+                            "A total of 32 care homes with 1314 beds in South Sefton, Merseyside were invited to sign up to CHIP which was launched in April 2015 and continued in its entirety until June 2018. As part of the CHIP, care home matrons were introduced, new protocols were developed to address common presentations, a 24-h 7-day a week televideo system installed across all homes, and a quarterly training collaborative brought care homes together to learn and share good practices together. Data on emergency calls and calls resulting in conveyances were recorded over a four-year period, and analysed using frequency analysis.",
+                            "In comparison to the 12\u2009months prior to launch, over a four-year period, implementation of the CHIP resulted in a 15% reduction of emergency calls, and in a 19% reduction of conveyances to hospital.",
+                            "The South Sefton CHIP demonstrated itself an effective programme in reducing conveyances and consequently, hospital admissions of care home residents. This model will be superseded by the enhanced health in care homes being promoted by the NHS Long Term Care Plan."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, England. Clarissa.Giebel@liverpool.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, England. Clarissa.Giebel@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "South Sefton Clinical Commissioning Group, Liverpool, England."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harvey",
+                            "ForeName": "Debbie",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, England."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool University Hospitals NHS FT, Liverpool, England."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Ageing & Chronic Disease, University of Liverpool, Liverpool, England."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Akpan",
+                            "ForeName": "Asangaedem",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "South Sefton Clinical Commissioning Group, Liverpool, England."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Chamberlain",
+                            "ForeName": "Peter",
+                            "Initials": "P"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "ARC NWC",
+                            "Agency": "National Institute for Health Research",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Evaluation Study",
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Health Serv Res",
+                    "NlmUniqueID": "101088677",
+                    "ISSNLinking": "1472-6963"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Emergency Service, Hospital",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "organization & administration"
+                        ],
+                        "DescriptorName": "Homes for the Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Hospitalization",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Models, Organizational",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Organizational Innovation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Program Evaluation",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "J Am Med Dir Assoc. 2015 Nov 1;16(11):940-5",
+                                "ArticleIdList": [
+                                    "26255709"
+                                ]
+                            },
+                            {
+                                "Citation": "J Gerontol A Biol Sci Med Sci. 2019 Sep 15;74(10):1657-1663",
+                                "ArticleIdList": [
+                                    "30715162"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2010 Jan 04;10:1",
+                                "ArticleIdList": [
+                                    "20044945"
+                                ]
+                            },
+                            {
+                                "Citation": "Med Care. 2005 Jun;43(6):616-26",
+                                "ArticleIdList": [
+                                    "15908857"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Geriatr Soc. 2011 Apr;59(4):745-53",
+                                "ArticleIdList": [
+                                    "21410447"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Geriatr Soc. 2015 Oct;63(10):2061-9",
+                                "ArticleIdList": [
+                                    "26415711"
+                                ]
+                            },
+                            {
+                                "Citation": "J Community Health. 1998 Feb;23(1):29-43",
+                                "ArticleIdList": [
+                                    "9526724"
+                                ]
+                            },
+                            {
+                                "Citation": "J Aging Health. 2013 Aug;25(5):792-802",
+                                "ArticleIdList": [
+                                    "23801154"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Palliat Care. 2016 Jan 22;15:11",
+                                "ArticleIdList": [
+                                    "26801232"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Med Dir Assoc. 2014 Feb;15(2):108-16",
+                                "ArticleIdList": [
+                                    "24238605"
+                                ]
+                            },
+                            {
+                                "Citation": "J Adv Nurs. 2015 Jun;71(6):1338-50",
+                                "ArticleIdList": [
+                                    "25869186"
+                                ]
+                            },
+                            {
+                                "Citation": "Aust Health Rev. 2015 Nov;39(5):544-551",
+                                "ArticleIdList": [
+                                    "25913422"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "10",
+                        "Day": "21"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "01",
+                        "Day": "29"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "2",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "2",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "5",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "32028940",
+                    "10.1186/s12913-020-4945-9",
+                    "10.1186/s12913-020-4945-9",
+                    "PMC7006107"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32028940)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832028940%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832028940%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079084283"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079084283?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079084283&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079084283&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079084283",
+                        "dc:identifier": "SCOPUS_ID:85079084283",
+                        "eid": "2-s2.0-85079084283",
+                        "dc:title": "Reducing hospital admissions in older care home residents: A 4-year evaluation of the care home innovation Programme (CHIP)",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "BMC Health Services Research",
+                        "prism:eIssn": "14726963",
+                        "prism:volume": "20",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-02-06",
+                        "prism:coverDisplayDate": "6 February 2020",
+                        "prism:doi": "10.1186/s12913-020-4945-9",
+                        "citedby-count": "3",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR ARC NWC",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32028940",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "94",
+                        "source-id": "28098",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "3GUI6EBA.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32028940"
+            }
+        },
+        "title": "Reducing hospital admissions in older care home residents: a 4-year evaluation of the care home innovation Programme (CHIP).",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, England. Clarissa.Giebel@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Harvey D",
+                "family": "Harvey",
+                "given": "Debbie",
+                "affiliation": {
+                    "name": "South Sefton Clinical Commissioning Group, Liverpool, England."
+                }
+            },
+            {
+                "clean": "Akpan A",
+                "family": "Akpan",
+                "given": "Asangaedem",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, England."
+                }
+            },
+            {
+                "clean": "Chamberlain P",
+                "family": "Chamberlain",
+                "given": "Peter",
+                "affiliation": {
+                    "name": "South Sefton Clinical Commissioning Group, Liverpool, England."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Emergency Service, Hospital",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Homes for the Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Hospitalization",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Models, Organizational",
+                    "major": "N"
+                },
+                {
+                    "term": "Organizational Innovation",
+                    "major": "N"
+                },
+                {
+                    "term": "Program Evaluation",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "Care homes",
+                "Hospital attendance",
+                "System change",
+                "Training"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMC Health Serv Res",
+            "volume": "20",
+            "issue": "1"
+        },
+        "abstract": "['Older care home residents frequently attend emergency departments with a high conversion to admissions. For this purpose, a novel Care Home Innovation Programme (CHIP) was introduced with the aim of reducing potentially avoidable hospital admissions by 30%. The aim of this study is to evaluate the implementation of this innovative service in practice.', 'A total of 32 care homes with 1314 beds in South Sefton, Merseyside were invited to sign up to CHIP which was launched in April 2015 and continued in its entirety until June 2018. As part of the CHIP, care home matrons were introduced, new protocols were developed to address common presentations, a 24-h 7-day a week televideo system installed across all homes, and a quarterly training collaborative brought care homes together to learn and share good practices together. Data on emergency calls and calls resulting in conveyances were recorded over a four-year period, and analysed using frequency analysis.', 'In comparison to the 12\\u2009months prior to launch, over a four-year period, implementation of the CHIP resulted in a 15% reduction of emergency calls, and in a 19% reduction of conveyances to hospital.', 'The South Sefton CHIP demonstrated itself an effective programme in reducing conveyances and consequently, hospital admissions of care home residents. This model will be superseded by the enhanced health in care homes being promoted by the NHS Long Term Care Plan.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "3"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Population Health Sciences, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, England. Clarissa.Giebel@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

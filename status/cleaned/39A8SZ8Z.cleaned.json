@@ -1,0 +1,312 @@
+{
+    "IDs": {
+        "zotero": "39A8SZ8Z",
+        "DOI": "10.12968/bjca.2021.0029",
+        "DOI_filename": "13bf759a35fc25593a5184ca3c48f823",
+        "PMID": "",
+        "scopus": "",
+        "hash": "3388b5fbe32f1cb179f893a1e681a281"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "39A8SZ8Z",
+            "version": 988,
+            "itemType": "journalArticle",
+            "title": "Identifying risk factors for mortality in patients admitted to hospital with COVID-19",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Joanna",
+                    "lastName": "Harrison"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "James",
+                    "lastName": "Hill"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Karen",
+                    "lastName": "Palmer"
+                }
+            ],
+            "abstractNote": "This article is an evidence commentary based on the study \u2018Predictors of mortality in hospitalised COVID-19 patients: a systematic review and meta-analysis\u2019 by Tian et al, published in volume 92 of the Journal of Medical Virology in 2020. This commentary critically appraises the methods used within this systematic review and meta-analysis and discusses the findings in the context of clinical practice.",
+            "publicationTitle": "British Journal of Cardiac Nursing",
+            "volume": "16",
+            "issue": "6",
+            "pages": "1-4",
+            "date": "2021-06-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "British Journal of Cardiac Nursing",
+            "language": "en",
+            "DOI": "10.12968/bjca.2021.0029",
+            "ISSN": "2052-2207",
+            "shortTitle": "",
+            "url": "http://www.magonlinelibrary.com/doi/10.12968/bjca.2021.0029",
+            "accessDate": "2021-07-23T16:46:15Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:36Z",
+            "dateModified": "2021-07-27T11:58:59Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        7,
+                        3
+                    ]
+                ],
+                "date-time": "2021-07-03T23:10:20Z",
+                "timestamp": 1625353820217
+            },
+            "reference-count": 8,
+            "publisher": "Mark Allen Group",
+            "issue": "6",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        2
+                    ]
+                ]
+            },
+            "abstract": "<jats:p> This article is an evidence commentary based on the study \u2018Predictors of mortality in hospitalised COVID-19 patients: a systematic review and meta-analysis\u2019 by Tian et al, published in volume 92 of the Journal of Medical Virology in 2020. This commentary critically appraises the methods used within this systematic review and meta-analysis and discusses the findings in the context of clinical practice. </jats:p>",
+            "DOI": "10.12968/bjca.2021.0029",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        29
+                    ]
+                ],
+                "date-time": "2021-06-29T16:28:17Z",
+                "timestamp": 1624984097000
+            },
+            "page": "1-4",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Identifying risk factors for mortality in patients admitted to hospital with COVID-19",
+            "prefix": "10.12968",
+            "volume": "16",
+            "author": [
+                {
+                    "given": "Joanna",
+                    "family": "Harrison",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Synthesis, Economic Evaluation and Decision Science Group, University of Central Lancashire, Colne, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "James",
+                    "family": "Hill",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Synthesis, Economic Evaluation and Decision Science Group, University of Central Lancashire, Colne, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Karen",
+                    "family": "Palmer",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Lancashire and South Cumbria NHS Foundation Trust, Lancashire, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "5130",
+            "reference": [
+                {
+                    "key": "B1",
+                    "DOI": "10.1097/XEB.0000000000000055",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B2",
+                    "DOI": "10.1016/j.jcv.2020.104371",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B3",
+                    "DOI": "10.1016/j.dsx.2020.04.044",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B4",
+                    "DOI": "10.1016/j.eujim.2020.101226",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B5",
+                    "DOI": "10.1016/j.jstrokecerebrovasdis.2020.104949",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B6",
+                    "DOI": "10.1002/jmv.26050",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B7",
+                    "DOI": "10.1007/s00125-020-05351-w",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B9",
+                    "DOI": "10.1016/j.ijid.2020.03.017",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "British Journal of Cardiac Nursing",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://www.magonlinelibrary.com/doi/pdf/10.12968/bjca.2021.0029",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        7,
+                        1
+                    ]
+                ],
+                "date-time": "2021-07-01T08:31:53Z",
+                "timestamp": 1625128313000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 8,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            6,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "6"
+            },
+            "alternative-id": [
+                "10.12968/bjca.2021.0029"
+            ],
+            "URL": "http://dx.doi.org/10.12968/bjca.2021.0029",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2052-2207"
+            ],
+            "container-title-short": "British Journal of Cardiac Nursing"
+        },
+        "pmid_data": {},
+        "scopus_data": null
+    },
+    "filename": "39A8SZ8Z.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Identifying risk factors for mortality in patients admitted to hospital with COVID-19",
+        "full_author_list": [
+            {
+                "clean": "Harrison J",
+                "family": "Harrison",
+                "given": "Joanna",
+                "affiliation": {
+                    "name": "Synthesis, Economic Evaluation and Decision Science Group, University of Central Lancashire, Colne, UK"
+                }
+            },
+            {
+                "clean": "Hill J",
+                "family": "Hill",
+                "given": "James",
+                "affiliation": {
+                    "name": "Synthesis, Economic Evaluation and Decision Science Group, University of Central Lancashire, Colne, UK"
+                }
+            },
+            {
+                "clean": "Palmer K",
+                "family": "Palmer",
+                "given": "Karen",
+                "affiliation": {
+                    "name": "Lancashire and South Cumbria NHS Foundation Trust, Lancashire, UK"
+                }
+            }
+        ],
+        "first_author": "Harrison J",
+        "zotero_tags": [
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "British Journal of Cardiac Nursing",
+            "volume": "16",
+            "issue": "6"
+        },
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {}
+        },
+        "location": {
+            "candidate_institute": "Synthesis, Economic Evaluation and Decision Science Group, University of Central Lancashire, Colne, UK",
+            "clean_institute": "University of Central Lancashire",
+            "country": "United Kingdom",
+            "latitude": "53.759444444444",
+            "longitude": "-2.6980555555556"
+        }
+    }
+}

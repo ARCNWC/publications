@@ -1,0 +1,1220 @@
+{
+    "IDs": {
+        "zotero": "IP3A2W4E",
+        "DOI": "10.1093/abm/kaaa058",
+        "DOI_filename": "9f6dedc67a4379312f2a8c04d4c272cc",
+        "PMID": "32964915",
+        "scopus": "2-s2.0-85104047093",
+        "hash": "4ad75124ca3d09a62650c764cafc8eab"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "IP3A2W4E",
+            "version": 982,
+            "itemType": "journalArticle",
+            "title": "Care Starts at Home: Emotional State and Appeals to Altruism may Reduce Demand for Overused Health Services in the UK",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Philip A",
+                    "lastName": "Powell"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Roberts"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Nathan S",
+                    "lastName": "Consedine"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              Overuse of unnecessary services, screening tests, and treatments is an ongoing problem for national health care systems. Overuse is at least partly driven by patient demand.\n            \n            \n              Purpose\n              This study examined whether altering patients\u2019 emotional state and appealing to patient altruism would reduce demand for three commonly overused UK health services.\n            \n            \n              Methods\n              In an online experiment, 1,267 UK volunteers were randomized to anxiety, compassion, or neutral conditions before viewing three overuse vignettes. In each vignette, use of the health service was recommended against by the doctor and participants were further randomized to one of three altruism frames, emphasizing the impact of overuse on the self, the self and others locally, or the self and others nationally. Participants rated the likelihood that they would pursue the health service and, assuming that they did not, how long they would be willing-to-wait for it.\n            \n            \n              Results\n              Altruism frame had a small effect on intentions to use the health service. Those in the local or national (vs. self) frame were 4.7 and 6.1 percentage points, respectively, less likely to ask for the service. Emotion induction had no direct effect on outcomes. However, self-reporting higher levels of anxiety or compassion post-induction was associated with a small, greater likelihood in intentions to ask for the health service or willingness-to-wait, respectively. No interactions between frame and emotion were observed.\n            \n            \n              Conclusions\n              As a low-cost initiative, emphasizing the benefits to the self and local or national communities could be embedded in appeals designed to appropriately reduce health care overuse in the UK.",
+            "publicationTitle": "Annals of Behavioral Medicine",
+            "volume": "55",
+            "issue": "4",
+            "pages": "356-368",
+            "date": "2021-04-07",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1093/abm/kaaa058",
+            "ISSN": "0883-6612, 1532-4796",
+            "shortTitle": "Care Starts at Home",
+            "url": "https://academic.oup.com/abm/article/55/4/356/5910421",
+            "accessDate": "2021-07-23T16:46:07Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32964915",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:12Z",
+            "dateModified": "2021-07-27T11:52:27Z",
+            "pmid": "32964915"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        7
+                    ]
+                ],
+                "date-time": "2021-04-07T10:41:52Z",
+                "timestamp": 1617792112466
+            },
+            "reference-count": 61,
+            "publisher": "Oxford University Press (OUP)",
+            "issue": "4",
+            "license": [
+                {
+                    "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                9,
+                                23
+                            ]
+                        ],
+                        "date-time": "2020-09-23T00:00:00Z",
+                        "timestamp": 1600819200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                },
+                {
+                    "name": "Applied Research Collaboration North West Coast",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        7
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Overuse of unnecessary services, screening tests, and treatments is an ongoing problem for national health care systems. Overuse is at least partly driven by patient demand.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Purpose</jats:title>\n                  <jats:p>This study examined whether altering patients\u2019 emotional state and appealing to patient altruism would reduce demand for three commonly overused UK health services.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>In an online experiment, 1,267 UK volunteers were randomized to anxiety, compassion, or neutral conditions before viewing three overuse vignettes. In each vignette, use of the health service was recommended against by the doctor and participants were further randomized to one of three altruism frames, emphasizing the impact of overuse on the self, the self and others locally, or the self and others nationally. Participants rated the likelihood that they would pursue the health service and, assuming that they did not, how long they would be willing-to-wait for it.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Altruism frame had a small effect on intentions to use the health service. Those in the local or national (vs. self) frame were 4.7 and 6.1 percentage points, respectively, less likely to ask for the service. Emotion induction had no direct effect on outcomes. However, self-reporting higher levels of anxiety or compassion post-induction was associated with a small, greater likelihood in intentions to ask for the health service or willingness-to-wait, respectively. No interactions between frame and emotion were observed.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>As a low-cost initiative, emphasizing the benefits to the self and local or national communities could be embedded in appeals designed to appropriately reduce health care overuse in the UK.</jats:p>\n               </jats:sec>",
+            "DOI": "10.1093/abm/kaaa058",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        23
+                    ]
+                ],
+                "date-time": "2020-09-23T12:09:04Z",
+                "timestamp": 1600862944000
+            },
+            "page": "356-368",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Care Starts at Home: Emotional State and Appeals to Altruism may Reduce Demand for Overused Health Services in the UK",
+            "prefix": "10.1093",
+            "volume": "55",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-1169-3431",
+                    "authenticated-orcid": false,
+                    "given": "Philip A",
+                    "family": "Powell",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "School of Health and Related Research, University of Sheffield, Sheffield, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jennifer",
+                    "family": "Roberts",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Economics, University of Sheffield, Sheffield, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Nathan S",
+                    "family": "Consedine",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Psychological Medicine, University of Auckland, Auckland, New Zealand"
+                        }
+                    ]
+                }
+            ],
+            "member": "286",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        23
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2021040710121023700_CIT0001",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "ii36",
+                    "DOI": "10.1093/jac/dkx500",
+                    "article-title": "Potential for reducing inappropriate antibiotic prescribing in English primary care",
+                    "volume": "73",
+                    "author": "Smieszek",
+                    "year": "2018",
+                    "journal-title": "J Antimicrob Chemother."
+                },
+                {
+                    "key": "2021040710121023700_CIT0002",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "581",
+                    "DOI": "10.1093/fampra/18.6.581",
+                    "article-title": "GPs\u2019 attitudes to minor ailments",
+                    "volume": "18",
+                    "author": "Morris",
+                    "year": "2001",
+                    "journal-title": "Fam Pract."
+                },
+                {
+                    "key": "2021040710121023700_CIT0003",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "143",
+                    "DOI": "10.1111/j.1369-7625.2011.00706.x",
+                    "article-title": "Met or matched expectations: What accounts for a successful back pain consultation in primary care?",
+                    "volume": "16",
+                    "author": "Georgy",
+                    "year": "2013",
+                    "journal-title": "Health Expect."
+                },
+                {
+                    "key": "2021040710121023700_CIT0004",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "j2148",
+                    "DOI": "10.1136/bmj.j2148",
+                    "article-title": "Antibiotic prescription strategies and adverse outcome for uncomplicated lower respiratory tract infections: Prospective cough complication cohort (3C) study",
+                    "volume": "357",
+                    "author": "Little",
+                    "year": "2017",
+                    "journal-title": "BMJ."
+                },
+                {
+                    "key": "2021040710121023700_CIT0005",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "736",
+                    "DOI": "10.1016/S0140-6736(16)30970-9",
+                    "article-title": "Non-specific low back pain",
+                    "volume": "389",
+                    "author": "Maher",
+                    "year": "2017",
+                    "journal-title": "Lancet."
+                },
+                {
+                    "key": "2021040710121023700_CIT0006",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "g4289",
+                    "DOI": "10.1136/bmj.g4289",
+                    "article-title": "Can doctors reduce harmful medical overuse worldwide?",
+                    "volume": "349",
+                    "author": "Hurley",
+                    "year": "2014",
+                    "journal-title": "BMJ."
+                },
+                {
+                    "key": "2021040710121023700_CIT0007",
+                    "author": "Foot",
+                    "year": "2010",
+                    "volume-title": "The Quality of GP Diagnosis and Referral"
+                },
+                {
+                    "key": "2021040710121023700_CIT0008",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "219",
+                    "DOI": "10.1177/1755738016681344",
+                    "article-title": "Antibiotic over-prescribing",
+                    "volume": "10",
+                    "author": "James",
+                    "year": "2017",
+                    "journal-title": "InnovAiT."
+                },
+                {
+                    "key": "2021040710121023700_CIT0009",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e429",
+                    "DOI": "10.3399/bjgp13X669149",
+                    "article-title": "Expectations for consultations and antibiotics for respiratory tract infection in primary care: The RTI clinical iceberg",
+                    "volume": "63",
+                    "author": "McNulty",
+                    "year": "2013",
+                    "journal-title": "Br J Gen Pract."
+                },
+                {
+                    "key": "2021040710121023700_CIT0010",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "790",
+                    "DOI": "10.3399/bjgp08X319909",
+                    "article-title": "Content and outcome of usual primary care for back pain: A systematic review",
+                    "volume": "58",
+                    "author": "Somerville",
+                    "year": "2008",
+                    "journal-title": "Br J Gen Pract."
+                },
+                {
+                    "key": "2021040710121023700_CIT0011",
+                    "author": "NHS Institute for Innovation and Improvement",
+                    "year": "2013",
+                    "volume-title": "The Patient Experience Book. A Collection of the NHS Institute for Innovation and Improvement\u2019s Guidance and Support"
+                },
+                {
+                    "key": "2021040710121023700_CIT0012",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "h6148",
+                    "DOI": "10.1136/bmj.h6148",
+                    "article-title": "Should GPs be paid to reduce unnecessary referrals?",
+                    "volume": "351",
+                    "author": "Shaw",
+                    "year": "2015",
+                    "journal-title": "BMJ."
+                },
+                {
+                    "key": "2021040710121023700_CIT0013",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "237",
+                    "DOI": "10.1002/1099-1751(200007/09)15:3<237::AID-HPM593>3.0.CO;2-P",
+                    "article-title": "Demanding healthcare",
+                    "volume": "15",
+                    "author": "Mark",
+                    "year": "2000",
+                    "journal-title": "Int J Health Plann Manage."
+                },
+                {
+                    "key": "2021040710121023700_CIT0014",
+                    "author": "Pinder",
+                    "year": "2015",
+                    "volume-title": "Behaviour Change and Antibiotic Prescribing in Healthcare Settings. Literature Review and Behavioural Analysis"
+                },
+                {
+                    "key": "2021040710121023700_CIT0015",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "82",
+                    "DOI": "10.1037/0278-6133.25.1.82",
+                    "article-title": "Emotions and preventive health behavior: Worry, regret, and influenza vaccination",
+                    "volume": "25",
+                    "author": "Chapman",
+                    "year": "2006",
+                    "journal-title": "Health Psychol."
+                },
+                {
+                    "key": "2021040710121023700_CIT0016",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2767",
+                    "DOI": "10.1007/s00586-016-4461-0",
+                    "article-title": "Emotional distress drives health services overuse in patients with acute low back pain: A longitudinal observational study",
+                    "volume": "25",
+                    "author": "Traeger",
+                    "year": "2016",
+                    "journal-title": "Eur Spine J."
+                },
+                {
+                    "key": "2021040710121023700_CIT0017",
+                    "first-page": "149",
+                    "article-title": "Patients\u2019 preferences and experiences in handling emotions: A study on communication sequences in primary care medical visits",
+                    "volume": "55",
+                    "author": "van Dulmen",
+                    "year": "2004",
+                    "journal-title": "Patient Educ Couns."
+                },
+                {
+                    "key": "2021040710121023700_CIT0018",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "59",
+                    "DOI": "10.1016/j.appsy.2007.09.001",
+                    "article-title": "The role of discrete emotions in health outcomes: A critical review",
+                    "volume": "12",
+                    "author": "Consedine",
+                    "year": "2007",
+                    "journal-title": "Appl Prev Psychol."
+                },
+                {
+                    "key": "2021040710121023700_CIT0019",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "635",
+                    "DOI": "10.1093/scan/nsr045",
+                    "article-title": "An fMRI study of caring vs self-focus during induced compassion and pride",
+                    "volume": "7",
+                    "author": "Simon-Thomas",
+                    "year": "2012",
+                    "journal-title": "Soc Cogn Affect Neurosci."
+                },
+                {
+                    "key": "2021040710121023700_CIT0020",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "177",
+                    "DOI": "10.1006/obhd.1994.1055",
+                    "article-title": "The roles of altruism, free riding, and bandwagoning in vaccination decisions",
+                    "volume": "59",
+                    "author": "Hershey",
+                    "year": "1994",
+                    "journal-title": "Organ Behav Human Decis Proc."
+                },
+                {
+                    "key": "2021040710121023700_CIT0021",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "631",
+                    "DOI": "10.1007/s40271-019-00378-7",
+                    "article-title": "What matters most for treatment decisions in hepatitis c: Effectiveness, costs, and altruism",
+                    "volume": "12",
+                    "author": "Mattingly",
+                    "year": "2019",
+                    "journal-title": "Patient."
+                },
+                {
+                    "key": "2021040710121023700_CIT0022",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "732",
+                    "DOI": "10.1007/s11606-017-4002-5",
+                    "article-title": "Can appealing to patient altruism reduce overuse of health care services? An experimental survey",
+                    "volume": "32",
+                    "author": "Riggs",
+                    "year": "2017",
+                    "journal-title": "J Gen Intern Med."
+                },
+                {
+                    "key": "2021040710121023700_CIT0023",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "335",
+                    "DOI": "10.1136/ewjm.172.5.335",
+                    "article-title": "An introduction to cultural differences",
+                    "volume": "172",
+                    "author": "Galanti",
+                    "year": "2000",
+                    "journal-title": "West J Med."
+                },
+                {
+                    "key": "2021040710121023700_CIT0024",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "978",
+                    "DOI": "10.1037/a0031590",
+                    "article-title": "Inviting free-riders or appealing to prosocial behavior? Game-theoretical reflections on communicating herd immunity in vaccine advocacy",
+                    "volume": "32",
+                    "author": "Betsch",
+                    "year": "2013",
+                    "journal-title": "Health Psychol."
+                },
+                {
+                    "key": "2021040710121023700_CIT0025",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "134",
+                    "DOI": "10.1186/1748-5908-8-134",
+                    "article-title": "Evaluation of a web-based intervention to reduce antibiotic prescribing for LRTI in six European countries: Quantitative process analysis of the GRACE/INTRO randomised controlled trial",
+                    "volume": "8",
+                    "author": "Yardley",
+                    "year": "2013",
+                    "journal-title": "Implement Sci."
+                },
+                {
+                    "key": "2021040710121023700_CIT0026",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "143",
+                    "DOI": "10.1111/j.1751-2409.2010.01020.x",
+                    "article-title": "Empathy-related responding: Associations with prosocial behavior, aggression, and intergroup relations",
+                    "volume": "4",
+                    "author": "Eisenberg",
+                    "year": "2010",
+                    "journal-title": "Soc Issues Policy Rev."
+                },
+                {
+                    "key": "2021040710121023700_CIT0027",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "193",
+                    "DOI": "10.1080/10911359.2017.1355291",
+                    "article-title": "Does the sense of the geographic proximity of a requester influence donation? Three evaluations in field studies",
+                    "volume": "28",
+                    "author": "Gu\u00e9guen",
+                    "year": "2018",
+                    "journal-title": "J Hum Behav Soc Environ."
+                },
+                {
+                    "key": "2021040710121023700_CIT0028",
+                    "author": "Gaertner",
+                    "year": "2000",
+                    "volume-title": "Reducing Intergroup B: The Common Ingroup Identity Model"
+                },
+                {
+                    "key": "2021040710121023700_CIT0029",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "229",
+                    "DOI": "10.3200/SOCP.144.3.229-245",
+                    "article-title": "Identity, place, and bystander intervention: Social categories and helping after natural disasters",
+                    "volume": "144",
+                    "author": "Levine",
+                    "year": "2004",
+                    "journal-title": "J Soc Psychol."
+                },
+                {
+                    "key": "2021040710121023700_CIT0030",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "175",
+                    "DOI": "10.1037/emo0000144",
+                    "article-title": "Suffering and compassion: The links among adverse life experiences, empathy, compassion, and prosocial behavior",
+                    "volume": "16",
+                    "author": "Lim",
+                    "year": "2016",
+                    "journal-title": "Emotion."
+                },
+                {
+                    "key": "2021040710121023700_CIT0031",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "200",
+                    "DOI": "10.1177/1754073916684557",
+                    "article-title": "Self-transcendent emotions and their social functions: Compassion, gratitude, and awe bind us to others through prosociality",
+                    "volume": "9",
+                    "author": "Stellar",
+                    "year": "2017",
+                    "journal-title": "Emotion Rev."
+                },
+                {
+                    "key": "2021040710121023700_CIT0032",
+                    "author": "Clay",
+                    "year": "2015",
+                    "volume-title": "Making Time in General Practice"
+                },
+                {
+                    "key": "2021040710121023700_CIT0033",
+                    "author": "Lang",
+                    "year": "1997",
+                    "volume-title": "International Affective Picture System (IAPS): Technical Manual and Affective Ratings"
+                },
+                {
+                    "key": "2021040710121023700_CIT0034",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1026",
+                    "DOI": "10.1037/xge0000315",
+                    "article-title": "Lying because we care: Compassion increases prosocial lying",
+                    "volume": "146",
+                    "author": "Lupoli",
+                    "year": "2017",
+                    "journal-title": "J Exp Psychol Gen."
+                },
+                {
+                    "key": "2021040710121023700_CIT0035",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1140",
+                    "DOI": "10.1093/schbul/sbp029",
+                    "article-title": "The effect of state anxiety on paranoid ideation and jumping to conclusions. An experimental investigation",
+                    "volume": "36",
+                    "author": "Lincoln",
+                    "year": "2010",
+                    "journal-title": "Schizophr Bull."
+                },
+                {
+                    "key": "2021040710121023700_CIT0036",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "310",
+                    "DOI": "10.1037/pspp0000120",
+                    "article-title": "The dark side of the sublime: Distinguishing a threat-based variant of awe",
+                    "volume": "113",
+                    "author": "Gordon",
+                    "year": "2017",
+                    "journal-title": "J Pers Soc Psychol."
+                },
+                {
+                    "key": "2021040710121023700_CIT0037",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "572",
+                    "DOI": "10.1037/pspi0000010",
+                    "article-title": "Affective and physiological responses to the suffering of others: Compassion and vagal activity",
+                    "volume": "108",
+                    "author": "Stellar",
+                    "year": "2015",
+                    "journal-title": "J Pers Soc Psychol."
+                },
+                {
+                    "key": "2021040710121023700_CIT0038",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "360",
+                    "DOI": "10.1037/a0037796",
+                    "article-title": "Anxious, threatened, and also unethical: How anxiety makes individuals feel threatened and commit unethical acts",
+                    "volume": "100",
+                    "author": "Kouchaki",
+                    "year": "2015",
+                    "journal-title": "J Appl Psychol."
+                },
+                {
+                    "key": "2021040710121023700_CIT0039",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "49",
+                    "DOI": "10.1016/0005-7916(94)90063-9",
+                    "article-title": "Measuring emotion: The self-assessment manikin and the semantic differential",
+                    "volume": "25",
+                    "author": "Bradley",
+                    "year": "1994",
+                    "journal-title": "J Behav Ther Exp Psychiatry"
+                },
+                {
+                    "key": "2021040710121023700_CIT0040",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "917",
+                    "DOI": "10.1037/a0030811",
+                    "article-title": "The relation between valence and arousal in subjective experience",
+                    "volume": "139",
+                    "author": "Kuppens",
+                    "year": "2013",
+                    "journal-title": "Psychol Bull."
+                },
+                {
+                    "key": "2021040710121023700_CIT0041",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "522",
+                    "DOI": "10.1111/j.1542-4774.2011.01015.x",
+                    "article-title": "Individual risk attitudes: Measurement, determinants, and behavioral consequences",
+                    "volume": "9",
+                    "author": "Dohmen",
+                    "year": "2011",
+                    "journal-title": "J Eur Econ Assoc."
+                },
+                {
+                    "key": "2021040710121023700_CIT0042",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1080/08870449908407311",
+                    "article-title": "The beliefs about medicines questionnaire: The development and evaluation of a new method for assessing the cognitive representation of medication",
+                    "volume": "14",
+                    "author": "Horne",
+                    "year": "1999",
+                    "journal-title": "Psychol Health."
+                },
+                {
+                    "key": "2021040710121023700_CIT0043",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "541",
+                    "DOI": "10.1016/j.paid.2009.05.001",
+                    "article-title": "Perceived vulnerability to disease: Development and validation of a 15-item self-report instrument",
+                    "volume": "47",
+                    "author": "Duncan",
+                    "year": "2009",
+                    "journal-title": "Person Individ Diff."
+                },
+                {
+                    "key": "2021040710121023700_CIT0044",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "485",
+                    "DOI": "10.1590/S0102-79722011000300009",
+                    "article-title": "Development and validation of a short-form version of the Brazilian State-Trait Anxiety Inventory",
+                    "volume": "24",
+                    "author": "Fioravanti-Bastos",
+                    "year": "2011",
+                    "journal-title": "Psicol Refl Crit."
+                },
+                {
+                    "key": "2021040710121023700_CIT0045",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "61",
+                    "DOI": "10.1080/17439760500510833",
+                    "article-title": "Positive emotion dispositions differentially associated with Big Five personality and attachment style",
+                    "volume": "1",
+                    "author": "Shiota",
+                    "year": "2006",
+                    "journal-title": "J Posit Psychol."
+                },
+                {
+                    "key": "2021040710121023700_CIT0046",
+                    "author": "R Core Team",
+                    "year": "2019",
+                    "volume-title": "R: A Language and Environment for Statistical Computing"
+                },
+                {
+                    "key": "2021040710121023700_CIT0047",
+                    "author": "Fox",
+                    "year": "2018",
+                    "volume-title": "An R Companion to Applied Regression"
+                },
+                {
+                    "key": "2021040710121023700_CIT0048",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.18637/jss.v069.i01",
+                    "article-title": "Least-squares means: The R Package lsmeans",
+                    "volume": "69",
+                    "author": "Lenth",
+                    "year": "2016",
+                    "journal-title": "J Stat Softw."
+                },
+                {
+                    "key": "2021040710121023700_CIT0049",
+                    "author": "Revelle",
+                    "year": "2018",
+                    "volume-title": "Psych: Procedures for Personality and Psychological Research"
+                },
+                {
+                    "key": "2021040710121023700_CIT0050",
+                    "author": "L\u00fcdecke",
+                    "year": "2019",
+                    "volume-title": "SJSTATS: Statistical Functions for Regression Models (Version 0.17.6)"
+                },
+                {
+                    "key": "2021040710121023700_CIT0051",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1918",
+                    "DOI": "10.1177/0956797613480187",
+                    "article-title": "The relative trustworthiness of inferential tests of the indirect effect in statistical mediation analysis: Does method really matter?",
+                    "volume": "24",
+                    "author": "Hayes",
+                    "year": "2013",
+                    "journal-title": "Psychol Sci."
+                },
+                {
+                    "key": "2021040710121023700_CIT0052",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "372",
+                    "DOI": "10.1037/0022-0167.53.3.372",
+                    "article-title": "Advances in testing the statistical significance of mediation effects",
+                    "volume": "53",
+                    "author": "Mallinckrodt",
+                    "year": "2006",
+                    "journal-title": "J Counsel Psychol."
+                },
+                {
+                    "key": "2021040710121023700_CIT0053",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "h2308",
+                    "DOI": "10.1136/bmj.h2308",
+                    "article-title": "Choosing Wisely in the UK: The Academy of Medical Royal Colleges\u2019 initiative to reduce the harms of too much medicine",
+                    "volume": "350",
+                    "author": "Malhotra",
+                    "year": "2015",
+                    "journal-title": "BMJ."
+                },
+                {
+                    "key": "2021040710121023700_CIT0054",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "618",
+                    "DOI": "10.1037/a0017628",
+                    "article-title": "Compassion, pride, and social intuitions of self-other similarity",
+                    "volume": "98",
+                    "author": "Oveis",
+                    "year": "2010",
+                    "journal-title": "J Pers Soc Psychol."
+                },
+                {
+                    "key": "2021040710121023700_CIT0055",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "982",
+                    "DOI": "10.1111/bjhp.12390",
+                    "article-title": "Fighting the flinch: Experimentally induced compassion makes a difference in health care providers",
+                    "volume": "24",
+                    "author": "Reynolds",
+                    "year": "2019",
+                    "journal-title": "Br J Health Psychol."
+                },
+                {
+                    "key": "2021040710121023700_CIT0056",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "6",
+                    "DOI": "10.1186/s12904-016-0080-0",
+                    "article-title": "Compassion: A scoping review of the healthcare literature",
+                    "volume": "15",
+                    "author": "Sinclair",
+                    "year": "2016",
+                    "journal-title": "BMC Palliat Care."
+                },
+                {
+                    "key": "2021040710121023700_CIT0057",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "340",
+                    "DOI": "10.3399/bjgp16X685741",
+                    "article-title": "Enhancing compassion in general practice: It\u2019s not all about the doctor",
+                    "volume": "66",
+                    "author": "Fernando",
+                    "year": "2016",
+                    "journal-title": "Br J Gen Pract."
+                },
+                {
+                    "key": "2021040710121023700_CIT0058",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "503",
+                    "DOI": "10.1016/j.neuron.2008.10.032",
+                    "article-title": "Implicit and explicit processes in social cognition",
+                    "volume": "60",
+                    "author": "Frith",
+                    "year": "2008",
+                    "journal-title": "Neuron."
+                },
+                {
+                    "key": "2021040710121023700_CIT0059",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "14",
+                    "DOI": "10.1080/21642850.2016.1258313",
+                    "article-title": "Implicit attitudes to organ donor registration: Altruism and distaste",
+                    "volume": "5",
+                    "author": "Joshi",
+                    "year": "2016",
+                    "journal-title": "Health Psychol Beha Med."
+                },
+                {
+                    "key": "2021040710121023700_CIT0060",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "771",
+                    "DOI": "10.3389/fpsyg.2018.00771",
+                    "article-title": "Visual attention to suffering after compassion training is associated with decreased amygdala responses",
+                    "volume": "9",
+                    "author": "Weng",
+                    "year": "2018",
+                    "journal-title": "Front Psychol."
+                },
+                {
+                    "key": "2021040710121023700_CIT0061",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "137",
+                    "DOI": "10.1027/1864-9335/a000020",
+                    "article-title": "The surprisingly limited malleability of implicit racial evaluations",
+                    "volume": "41",
+                    "author": "Joy-Gaba",
+                    "year": "2010",
+                    "journal-title": "Soc Psychol."
+                }
+            ],
+            "container-title": "Annals of Behavioral Medicine",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://academic.oup.com/abm/article-pdf/55/4/356/36955150/kaaa058.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "syndication"
+                },
+                {
+                    "URL": "http://academic.oup.com/abm/article-pdf/55/4/356/36955150/kaaa058.pdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        7
+                    ]
+                ],
+                "date-time": "2021-04-07T10:13:43Z",
+                "timestamp": 1617790423000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        23
+                    ]
+                ]
+            },
+            "references-count": 61,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2020,
+                            9,
+                            23
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            4,
+                            7
+                        ]
+                    ]
+                },
+                "issue": "4"
+            },
+            "URL": "http://dx.doi.org/10.1093/abm/kaaa058",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0883-6612",
+                "1532-4796"
+            ],
+            "subject": [
+                "General Psychology",
+                "Psychiatry and Mental health"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Altruism",
+                        "Anxiety",
+                        "Compassion",
+                        "Medical overuse",
+                        "Patient demand",
+                        "Primary health care"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32964915",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "07"
+                },
+                "Article": {
+                    "ArticleDate": [],
+                    "ELocationID": [
+                        "10.1093/abm/kaaa058"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1532-4796",
+                        "JournalIssue": {
+                            "Volume": "55",
+                            "Issue": "4",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "04",
+                                "Day": "07"
+                            }
+                        },
+                        "Title": "Annals of behavioral medicine : a publication of the Society of Behavioral Medicine",
+                        "ISOAbbreviation": "Ann Behav Med"
+                    },
+                    "ArticleTitle": "Care Starts at Home: Emotional State and Appeals to Altruism may Reduce Demand for Overused Health Services in the UK.",
+                    "Pagination": {
+                        "MedlinePgn": "356-368"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Overuse of unnecessary services, screening tests, and treatments is an ongoing problem for national health care systems. Overuse is at least partly driven by patient demand.",
+                            "This study examined whether altering patients' emotional state and appealing to patient altruism would reduce demand for three commonly overused UK health services.",
+                            "In an online experiment, 1,267 UK volunteers were randomized to anxiety, compassion, or neutral conditions before viewing three overuse vignettes. In each vignette, use of the health service was recommended against by the doctor and participants were further randomized to one of three altruism frames, emphasizing the impact of overuse on the self, the self and others locally, or the self and others nationally. Participants rated the likelihood that they would pursue the health service and, assuming that they did not, how long they would be willing-to-wait for it.",
+                            "Altruism frame had a small effect on intentions to use the health service. Those in the local or national (vs. self) frame were 4.7 and 6.1 percentage points, respectively, less likely to ask for the service. Emotion induction had no direct effect on outcomes. However, self-reporting higher levels of anxiety or compassion post-induction was associated with a small, greater likelihood in intentions to ask for the health service or willingness-to-wait, respectively. No interactions between frame and emotion were observed.",
+                            "As a low-cost initiative, emphasizing the benefits to the self and local or national communities could be embedded in appeals designed to appropriately reduce health care overuse in the UK."
+                        ],
+                        "CopyrightInformation": "\u00a9 Society of Behavioral Medicine 2020. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Health and Related Research, University of Sheffield, Sheffield, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Powell",
+                            "ForeName": "Philip A",
+                            "Initials": "PA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Economics, University of Sheffield, Sheffield, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Roberts",
+                            "ForeName": "Jennifer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Psychological Medicine, University of Auckland, Auckland, New Zealand."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Consedine",
+                            "ForeName": "Nathan S",
+                            "Initials": "NS"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Ann Behav Med",
+                    "NlmUniqueID": "8510246",
+                    "ISSNLinking": "0883-6612"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "9",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "9",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "9",
+                        "Day": "23",
+                        "Hour": "9",
+                        "Minute": "3"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "32964915",
+                    "5910421",
+                    "10.1093/abm/kaaa058"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32964915)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832964915%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832964915%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104047093"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104047093?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85104047093&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85104047093&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85104047093",
+                        "dc:identifier": "SCOPUS_ID:85104047093",
+                        "eid": "2-s2.0-85104047093",
+                        "dc:title": "Care Starts at Home: Emotional State and Appeals to Altruism may Reduce Demand for Overused Health Services in the UK",
+                        "dc:creator": "Powell P.A.",
+                        "prism:publicationName": "Annals of Behavioral Medicine",
+                        "prism:issn": "08836612",
+                        "prism:eIssn": "15324796",
+                        "prism:volume": "55",
+                        "prism:issueIdentifier": "4",
+                        "prism:pageRange": "356-368",
+                        "prism:coverDate": "2021-04-01",
+                        "prism:coverDisplayDate": "1 April 2021",
+                        "prism:doi": "10.1093/abm/kaaa058",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Faculty of Medicine, Dentistry and Health",
+                                "affiliation-city": "Sheffield",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32964915",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "27473",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "IP3A2W4E.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32964915"
+            }
+        },
+        "title": "Care Starts at Home: Emotional State and Appeals to Altruism may Reduce Demand for Overused Health Services in the UK.",
+        "full_author_list": [
+            {
+                "clean": "Powell P",
+                "family": "Powell",
+                "given": "Philip A",
+                "affiliation": {
+                    "name": "School of Health and Related Research, University of Sheffield, Sheffield, UK."
+                }
+            },
+            {
+                "clean": "Roberts J",
+                "family": "Roberts",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": "Department of Economics, University of Sheffield, Sheffield, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Consedine N",
+                "family": "Consedine",
+                "given": "Nathan S",
+                "affiliation": {
+                    "name": "Department of Psychological Medicine, University of Auckland, Auckland, New Zealand."
+                }
+            }
+        ],
+        "first_author": "Powell P",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "Altruism",
+                "Anxiety",
+                "Compassion",
+                "Medical overuse",
+                "Patient demand",
+                "Primary health care"
+            ]
+        },
+        "journal": {
+            "journal_name": "Ann Behav Med",
+            "volume": "55",
+            "issue": "4"
+        },
+        "abstract": "['Overuse of unnecessary services, screening tests, and treatments is an ongoing problem for national health care systems. Overuse is at least partly driven by patient demand.', \"This study examined whether altering patients' emotional state and appealing to patient altruism would reduce demand for three commonly overused UK health services.\", 'In an online experiment, 1,267 UK volunteers were randomized to anxiety, compassion, or neutral conditions before viewing three overuse vignettes. In each vignette, use of the health service was recommended against by the doctor and participants were further randomized to one of three altruism frames, emphasizing the impact of overuse on the self, the self and others locally, or the self and others nationally. Participants rated the likelihood that they would pursue the health service and, assuming that they did not, how long they would be willing-to-wait for it.', 'Altruism frame had a small effect on intentions to use the health service. Those in the local or national (vs. self) frame were 4.7 and 6.1 percentage points, respectively, less likely to ask for the service. Emotion induction had no direct effect on outcomes. However, self-reporting higher levels of anxiety or compassion post-induction was associated with a small, greater likelihood in intentions to ask for the health service or willingness-to-wait, respectively. No interactions between frame and emotion were observed.', 'As a low-cost initiative, emphasizing the benefits to the self and local or national communities could be embedded in appeals designed to appropriately reduce health care overuse in the UK.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "School of Health and Related Research, University of Sheffield, Sheffield, UK.",
+            "clean_institute": "University of Sheffield",
+            "country": "United Kingdom",
+            "latitude": "53.380722222222",
+            "longitude": "-1.4888055555556"
+        }
+    }
+}

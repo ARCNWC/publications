@@ -1,0 +1,1070 @@
+{
+    "IDs": {
+        "zotero": "YDN84ECQ",
+        "DOI": "10.12688/f1000research.25484.2",
+        "DOI_filename": "6d643b1c2f620d6d6ca75765e6308c59",
+        "PMID": "34026049",
+        "scopus": "2-s2.0-85105680024",
+        "hash": "6fa81d5681043771dc2fc9da852f84b2"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "YDN84ECQ",
+            "version": 997,
+            "itemType": "journalArticle",
+            "title": "PUblications Metadata Augmentation (PUMA) pipeline",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Oliver W.",
+                    "lastName": "Butters"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rebecca C.",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hugh",
+                    "lastName": "Garner"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Thomas W. Y.",
+                    "lastName": "Burton"
+                }
+            ],
+            "abstractNote": "Cohort studies collect, generate and distribute data over long periods of time \u2013 often over the lifecourse of their participants. It is common for these studies to host a list of publications (which can number many thousands) on their website to demonstrate the impact of the study and facilitate the search of existing research to which the study data has contributed. The ability to search and explore these publication lists varies greatly between studies.\n            We believe a lack of rich search and exploration functionality of study publications is a barrier to entry for new or prospective users of a study\u2019s data, since it may be difficult to find and evaluate previous work in a given area. These lists of publications are also typically manually curated, resulting in a lack of rich metadata to analyse, making bibliometric analysis difficult.\n            We present here a software pipeline that aggregates metadata from a variety of third-party providers to power a web based search and exploration tool for lists of publications. Alongside core publication metadata (i.e. author lists, keywords etc.), we include geocoding of first authors and citation counts in our pipeline. This allows a characterisation of a study as a whole based on common locations of authors, frequency of keywords, citation profile etc. This enriched publications metadata can be useful for generating study impact metrics and web-based graphics for public dissemination. In addition, the pipeline produces a research data set for bibliometric analysis or social studies of science. We use a previously published list of publications from a cohort study as an exemplar input data set to show the output and utility of the pipeline here.",
+            "publicationTitle": "F1000Research",
+            "volume": "9",
+            "issue": "",
+            "pages": "1095",
+            "date": "2021-4-12",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "F1000Res",
+            "language": "en",
+            "DOI": "10.12688/f1000research.25484.2",
+            "ISSN": "2046-1402",
+            "shortTitle": "",
+            "url": "https://f1000research.com/articles/9-1095/v2",
+            "accessDate": "2021-07-23T16:46:18Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:34026049",
+            "tags": [
+                {
+                    "tag": "CHI"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:44Z",
+            "dateModified": "2021-07-27T12:08:32Z",
+            "pmid": "34026049"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        7
+                    ]
+                ],
+                "date-time": "2021-05-07T10:55:43Z",
+                "timestamp": 1620384943401
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2021,
+                                4,
+                                12
+                            ]
+                        ],
+                        "date-time": "2021-04-12T00:00:00Z",
+                        "timestamp": 1618185600000
+                    },
+                    "DOI": "10.12688/f1000research.25484.1",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 16,
+            "publisher": "F1000 Research Ltd",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                4,
+                                12
+                            ]
+                        ],
+                        "date-time": "2021-04-12T00:00:00Z",
+                        "timestamp": 1618185600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000265",
+                    "name": "Medical Research Council",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "108439",
+                        "MR/S003959/1",
+                        "ES/K000357/1"
+                    ]
+                },
+                {
+                    "DOI": "10.13039/100010677",
+                    "name": "H2020 Health",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "824989"
+                    ]
+                },
+                {
+                    "DOI": "10.13039/501100000269",
+                    "name": "Economic and Social Research Council",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "ES/K000357/1"
+                    ]
+                },
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                },
+                {
+                    "DOI": "10.13039/100004440",
+                    "name": "Wellcome",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "108439"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "f1000research.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "abstract": "<ns4:p>Cohort studies collect, generate and distribute data over long periods of time \u2013 often over the lifecourse of their participants. It is common for these studies to host a list of publications (which can number many thousands) on their website to demonstrate the impact of the study and facilitate the search of existing research to which the study data has contributed. The ability to search and explore these publication lists varies greatly between studies.</ns4:p><ns4:p> We believe a lack of rich search and exploration functionality of study publications is a barrier to entry for new or prospective users of a study\u2019s data, since it may be difficult to find and evaluate previous work in a given area. These lists of publications are also typically manually curated, resulting in a lack of rich metadata to analyse, making bibliometric analysis difficult.</ns4:p><ns4:p> We present here a software pipeline that aggregates metadata from a variety of third-party providers to power a web based search and exploration tool for lists of publications. Alongside core publication metadata (i.e. author lists, keywords etc.), we include geocoding of first authors and citation counts in our pipeline. This allows a characterisation of a study as a whole based on common locations of authors, frequency of keywords, citation profile etc. This enriched publications metadata can be useful for generating study impact metrics and web-based graphics for public dissemination. In addition, the pipeline produces a research data set for bibliometric analysis or social studies of science. We use a previously published list of publications from a cohort study as an exemplar input data set to show the output and utility of the pipeline here.</ns4:p>",
+            "DOI": "10.12688/f1000research.25484.2",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        12
+                    ]
+                ],
+                "date-time": "2021-04-12T12:33:25Z",
+                "timestamp": 1618230805000
+            },
+            "page": "1095",
+            "update-policy": "http://dx.doi.org/10.12688/f1000research.crossmark-policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "PUblications Metadata Augmentation (PUMA) pipeline",
+            "prefix": "10.12688",
+            "volume": "9",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-0354-8461",
+                    "authenticated-orcid": false,
+                    "given": "Oliver W.",
+                    "family": "Butters",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0003-2294-593X",
+                    "authenticated-orcid": false,
+                    "given": "Rebecca C.",
+                    "family": "Wilson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0003-1707-0139",
+                    "authenticated-orcid": false,
+                    "given": "Hugh",
+                    "family": "Garner",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-6632-0950",
+                    "authenticated-orcid": false,
+                    "given": "Thomas W. Y.",
+                    "family": "Burton",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "2560",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        12
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "ref-1",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e1-e9",
+                    "DOI": "10.1093/ije/dyq231",
+                    "article-title": "Cohort profile: updating the cohort profile for the MRC National Survey of Health and Development: a new clinic-based data collection for ageing research.",
+                    "volume": "40",
+                    "author": "D Kuh",
+                    "year": "2011",
+                    "journal-title": "Int J Epidemiol."
+                },
+                {
+                    "key": "ref-2",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "24",
+                    "DOI": "10.1186/s40246-018-0154-6",
+                    "article-title": "Better governance, better access: practising responsible data sharing in the METADAC governance infrastructure.",
+                    "volume": "12",
+                    "author": "M Murtagh",
+                    "year": "2018",
+                    "journal-title": "Hum Genomics."
+                },
+                {
+                    "key": "ref-3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "275-300",
+                    "DOI": "10.1007/s11192-016-2162-4",
+                    "article-title": "What publications metadata tell us about the evolution of a scientific community: the case of the Brazilian human\u2013computer interaction conference series.",
+                    "volume": "110",
+                    "author": "S Barbosa",
+                    "year": "2017",
+                    "journal-title": "Scientometrics."
+                },
+                {
+                    "key": "ref-4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "180-189",
+                    "DOI": "10.1109/TVCG.2015.2467757",
+                    "article-title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis.",
+                    "volume": "22",
+                    "author": "F Beck",
+                    "year": "2016",
+                    "journal-title": "IEEE Trans Vis Comput Graph."
+                },
+                {
+                    "key": "ref-5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "215-232",
+                    "DOI": "10.1057/palgrave.ivs.9500156",
+                    "article-title": "CiteWiz: A tool for the visualization of scientific citation networks.",
+                    "volume": "6",
+                    "author": "N Elmqvist",
+                    "year": "2007",
+                    "journal-title": "Inf Vis."
+                },
+                {
+                    "key": "ref-6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "2080-2089",
+                    "DOI": "10.1109/TVCG.2013.167",
+                    "article-title": "Interactive Exploration of Implicit and Explicit Relations in Faceted Datasets.",
+                    "volume": "19",
+                    "author": "J Zhao",
+                    "year": "2013",
+                    "journal-title": "IEEE Trans Vis Comput Graph."
+                },
+                {
+                    "key": "ref-7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "523-538",
+                    "DOI": "10.1007/s11192-009-0146-3",
+                    "article-title": "Software survey: VOSviewer, a computer program for bibliometric mapping.",
+                    "volume": "84",
+                    "author": "N van Eck",
+                    "year": "2010",
+                    "journal-title": "Scientometrics."
+                },
+                {
+                    "key": "ref-8",
+                    "volume": "46",
+                    "first-page": "D8-D13",
+                    "year": "2018",
+                    "article-title": "Database resources of the national center for biotechnology information.",
+                    "journal-title": "Nucleic Acids Res.",
+                    "DOI": "10.1093/nar/gkx1095",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref-9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "506-510",
+                    "DOI": "10.3233/978-1-61499-753-5-506",
+                    "article-title": "Identifying emerging trends in medical informatics: A synthesis approach.",
+                    "volume": "235",
+                    "author": "Y Van Kasteren",
+                    "year": "2017",
+                    "journal-title": "Stud Health Technol Inform."
+                },
+                {
+                    "key": "ref-10",
+                    "author": "S Bird",
+                    "year": "2009",
+                    "article-title": "Natural Language Processing with Python"
+                },
+                {
+                    "key": "ref-11",
+                    "author": "O Butters",
+                    "year": "2018",
+                    "article-title": "ALSPAC peer reviewed publications 1989\u20132015"
+                },
+                {
+                    "key": "ref-12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "161",
+                    "DOI": "10.12688/wellcomeopenres.14986.1",
+                    "article-title": "Generation of a cleaned dataset listing Avon Longitudinal Study of Parents And Children peer-reviewed publications to 2015 [version 1; peer review: 2 approved].",
+                    "volume": "3",
+                    "author": "O Butters",
+                    "year": "2018",
+                    "journal-title": "Wellcome Open Res."
+                },
+                {
+                    "key": "ref-13",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "111-127",
+                    "DOI": "10.1093/ije/dys064",
+                    "article-title": "Cohort Profile: The \u2018Children of the 90s\u2019 - the index offspring of the Avon Longitudinal Study of Parents and Children.",
+                    "volume": "42",
+                    "author": "A Boyd",
+                    "year": "2013",
+                    "journal-title": "Int J Epidemiol."
+                },
+                {
+                    "key": "ref-14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1-19",
+                    "DOI": "10.1016/j.ejor.2015.04.002",
+                    "article-title": "A review of theory and practice in scientometrics.",
+                    "volume": "246",
+                    "author": "J Mingers",
+                    "year": "2015",
+                    "journal-title": "Eur J Oper Res."
+                },
+                {
+                    "key": "ref-15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "871-906",
+                    "DOI": "10.1007/s11192-020-03690-4",
+                    "article-title": "Google Scholar, Microsoft Academic, Scopus, Dimensions, Web of Science, and OpenCitations\u2019 COCI: a multidisciplinary comparison of coverage via citations.",
+                    "volume": "126",
+                    "author": "A Mart\u00edn-Mart\u00edn",
+                    "year": "2021",
+                    "journal-title": "Scientometrics."
+                },
+                {
+                    "key": "ref-16",
+                    "author": "O Butters",
+                    "year": "2020",
+                    "article-title": "OllyButters/puma: v1.2."
+                }
+            ],
+            "container-title": "F1000Research",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://f1000research.com/articles/9-1095/v2/xml",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://f1000research.com/articles/9-1095/v2/pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://f1000research.com/articles/9-1095/v2/iparadigms",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        5
+                    ]
+                ],
+                "date-time": "2021-05-05T10:20:28Z",
+                "timestamp": 1620210028000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        12
+                    ]
+                ]
+            },
+            "references-count": 16,
+            "URL": "http://dx.doi.org/10.12688/f1000research.25484.2",
+            "relation": {
+                "has-review": [
+                    {
+                        "id-type": "doi",
+                        "id": "10.5256/f1000research.55033.r83114",
+                        "asserted-by": "subject"
+                    },
+                    {
+                        "id-type": "doi",
+                        "id": "10.5256/f1000research.55033.r83113",
+                        "asserted-by": "subject"
+                    }
+                ],
+                "cites": []
+            },
+            "ISSN": [
+                "2046-1402"
+            ],
+            "container-title-short": "F1000Res",
+            "assertion": [
+                {
+                    "value": "Indexed",
+                    "URL": "https://f1000research.com/articles/9-1095/v2#article-reports",
+                    "order": 0,
+                    "name": "referee-status",
+                    "label": "Referee status",
+                    "group": {
+                        "name": "current-referee-status",
+                        "label": "Current Referee Status"
+                    }
+                },
+                {
+                    "value": "10.5256/f1000research.55033.r83114, Leslie McIntosh, Ripeta, Saint Louis, MO, USA, 05 May 2021, version 2, indexed",
+                    "URL": "https://f1000research.com/articles/9-1095/v2#referee-response-83114",
+                    "order": 0,
+                    "name": "referee-response-83114",
+                    "label": "Referee Report",
+                    "group": {
+                        "name": "article-reports",
+                        "label": "Article Reports"
+                    }
+                },
+                {
+                    "value": "10.5256/f1000research.55033.r83113, Meena Khatwa, Evidence for Policy and Practice Information and Co-ordinating Centre, UCL Institute of Education, University College London, London, UK, 29 Apr 2021, version 2, indexed",
+                    "URL": "https://f1000research.com/articles/9-1095/v2#referee-response-83113",
+                    "order": 1,
+                    "name": "referee-response-83113",
+                    "label": "Referee Report",
+                    "group": {
+                        "name": "article-reports",
+                        "label": "Article Reports"
+                    }
+                },
+                {
+                    "value": "This project was primarily funded by CLOSER, whose mission is to maximise the use, value and impact of longitudinal studies. CLOSER is funded by the Economic and Social Research Council (ESRC) and Medical Research Council (MRC) (grant reference: ES/K000357/1). The funders took no role in the design, execution, analysis or interpretation of the data or in the writing up of the findings. www.closer.ac.uk \n\nThe UK Medical Research Council and Wellcome (Grant ref: 102215/2/13/2) and the University of Bristol provide core support for ALSPAC. This publication is the work of the authors they will serve as guarantors for the contents of this article.\n\nRW is a UKRI Innovation Fellow with HDR UK [MR/S003959/1].\n\nAdditional support was provided by: The Wellcome Trust and Medical Research Council (grant number 108439/Z/15/Z). The European Union\u2019s Horizon 2020 research and innovation programme under grant agreement No 824989 and the Canadian Institutes of Health Research (CIHR). The National Institute for Health Research Applied Research Collaboration. The views expressed in this publication are those of the author(s) and not necessarily those of the National Institute for Health Research or the Department of Health and Social Care. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+                    "order": 2,
+                    "name": "grant-information",
+                    "label": "Grant Information"
+                },
+                {
+                    "value": "This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+                    "order": 0,
+                    "name": "copyright-info",
+                    "label": "Copyright"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [
+                    [
+                        "ALSPAC",
+                        "Bibliography",
+                        "Bibliometrics",
+                        "Longitudinal birth cohort"
+                    ]
+                ],
+                "OtherID": [],
+                "PMID": "34026049",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "06",
+                    "Day": "02"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "06",
+                    "Day": "02"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "09",
+                            "Day": "04"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.12688/f1000research.25484.2"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "2046-1402",
+                        "JournalIssue": {
+                            "Volume": "9",
+                            "PubDate": {
+                                "Year": "2020"
+                            }
+                        },
+                        "Title": "F1000Research",
+                        "ISOAbbreviation": "F1000Res"
+                    },
+                    "ArticleTitle": "PUblications Metadata Augmentation (PUMA) pipeline.",
+                    "Pagination": {
+                        "MedlinePgn": "1095"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Cohort studies collect, generate and distribute data over long periods of time - often over the lifecourse of their participants. It is common for these studies to host a list of publications (which can number many thousands) on their website to demonstrate the impact of the study and facilitate the search of existing research to which the study data has contributed. The ability to search and explore these publication lists varies greatly between studies. We believe a lack of rich search and exploration functionality of study publications is a barrier to entry for new or prospective users of a study's data, since it may be difficult to find and evaluate previous work in a given area. These lists of publications are also typically manually curated, resulting in a lack of rich metadata to analyse, making bibliometric analysis difficult. We present here a software pipeline that aggregates metadata from a variety of third-party providers to power a web based search and exploration tool for lists of publications. Alongside core publication metadata (i.e. author lists, keywords etc.), we include geocoding of first authors and citation counts in our pipeline. This allows a characterisation of a study as a whole based on common locations of authors, frequency of keywords, citation profile etc. This enriched publications metadata can be useful for generating study impact metrics and web-based graphics for public dissemination. In addition, the pipeline produces a research data set for bibliometric analysis or social studies of science. We use a previously published list of publications from a cohort study as an exemplar input data set to show the output and utility of the pipeline here."
+                        ],
+                        "CopyrightInformation": "Copyright: \u00a9 2021 Butters OW et al."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Population Health Sciences Institute, Newcastle University, Newcastle upon Tyne, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Social and Community Medicine, University of Bristol, Bristol, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0003-0354-8461"
+                            ],
+                            "LastName": "Butters",
+                            "ForeName": "Oliver W",
+                            "Initials": "OW"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Population Health Sciences Institute, Newcastle University, Newcastle upon Tyne, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Social and Community Medicine, University of Bristol, Bristol, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0003-2294-593X"
+                            ],
+                            "LastName": "Wilson",
+                            "ForeName": "Rebecca C",
+                            "Initials": "RC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Population Health Sciences Institute, Newcastle University, Newcastle upon Tyne, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Social and Community Medicine, University of Bristol, Bristol, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0003-1707-0139"
+                            ],
+                            "LastName": "Garner",
+                            "ForeName": "Hugh",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Social and Community Medicine, University of Bristol, Bristol, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Computer Science, University of Oxford, Oxford, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-6632-0950"
+                            ],
+                            "LastName": "Burton",
+                            "ForeName": "Thomas W Y",
+                            "Initials": "TWY"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "ES/K000357/1",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "102215/2/13/2",
+                            "Acronym": "WT_",
+                            "Agency": "Wellcome Trust",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "MR/S003959/1",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "108439/Z/15/Z",
+                            "Acronym": "WT_",
+                            "Agency": "Wellcome Trust",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "Agency": "CIHR",
+                            "Country": "Canada"
+                        },
+                        {
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "F1000Res",
+                    "NlmUniqueID": "101594320",
+                    "ISSNLinking": "2046-1402"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Bibliometrics",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cohort Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Metadata",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Prospective Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Publications",
+                        "MajorTopicYN": "Y"
+                    }
+                ],
+                "CoiStatement": "No competing interests were disclosed."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Wellcome Open Res. 2018 Dec 19;3:161",
+                                "ArticleIdList": [
+                                    "30828646"
+                                ]
+                            },
+                            {
+                                "Citation": "Scientometrics. 2020 Sep 21;:1-36",
+                                "ArticleIdList": [
+                                    "32981987"
+                                ]
+                            },
+                            {
+                                "Citation": "IEEE Trans Vis Comput Graph. 2013 Dec;19(12):2080-9",
+                                "ArticleIdList": [
+                                    "24051774"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Epidemiol. 2013 Feb;42(1):111-27",
+                                "ArticleIdList": [
+                                    "22507743"
+                                ]
+                            },
+                            {
+                                "Citation": "Scientometrics. 2010 Aug;84(2):523-538",
+                                "ArticleIdList": [
+                                    "20585380"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Epidemiol. 2011 Feb;40(1):e1-9",
+                                "ArticleIdList": [
+                                    "21345808"
+                                ]
+                            },
+                            {
+                                "Citation": "Hum Genomics. 2018 Apr 26;12(1):24",
+                                "ArticleIdList": [
+                                    "29695297"
+                                ]
+                            },
+                            {
+                                "Citation": "IEEE Trans Vis Comput Graph. 2016 Jan;22(1):180-9",
+                                "ArticleIdList": [
+                                    "26529698"
+                                ]
+                            },
+                            {
+                                "Citation": "Stud Health Technol Inform. 2017;235:506-510",
+                                "ArticleIdList": [
+                                    "28423844"
+                                ]
+                            },
+                            {
+                                "Citation": "Nucleic Acids Res. 2018 Jan 4;46(D1):D8-D13",
+                                "ArticleIdList": [
+                                    "29140470"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2021",
+                        "Month": "03",
+                        "Day": "01"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "5",
+                        "Day": "26",
+                        "Hour": "6",
+                        "Minute": "55"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "5",
+                        "Day": "27",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "6",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "34026049",
+                    "10.12688/f1000research.25484.2",
+                    "PMC8108552"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(34026049)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2834026049%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2834026049%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105680024"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105680024?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105680024&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85105680024&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85105680024",
+                        "dc:identifier": "SCOPUS_ID:85105680024",
+                        "eid": "2-s2.0-85105680024",
+                        "dc:title": "PUblications Metadata Augmentation (PUMA) pipeline",
+                        "dc:creator": "Butters O.W.",
+                        "prism:publicationName": "F1000Research",
+                        "prism:issn": "20461402",
+                        "prism:eIssn": "1759796X",
+                        "prism:volume": "9",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-01-01",
+                        "prism:coverDisplayDate": "2021",
+                        "prism:doi": "10.12688/f1000research.25484.2",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Bristol",
+                                "affiliation-city": "Bristol",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "Newcastle University",
+                                "affiliation-city": "Newcastle",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "34026049",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "1095",
+                        "source-id": "21100258853",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "YDN84ECQ.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "34026049"
+            }
+        },
+        "title": "PUblications Metadata Augmentation (PUMA) pipeline.",
+        "full_author_list": [
+            {
+                "clean": "Butters O",
+                "family": "Butters",
+                "given": "Oliver W",
+                "affiliation": {
+                    "name": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wilson R",
+                "family": "Wilson",
+                "given": "Rebecca C",
+                "affiliation": {
+                    "name": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Garner H",
+                "family": "Garner",
+                "given": "Hugh",
+                "affiliation": {
+                    "name": "Population Health Sciences Institute, Newcastle University, Newcastle upon Tyne, UK."
+                }
+            },
+            {
+                "clean": "Burton T",
+                "family": "Burton",
+                "given": "Thomas W Y",
+                "affiliation": {
+                    "name": "Social and Community Medicine, University of Bristol, Bristol, UK."
+                }
+            }
+        ],
+        "first_author": "Butters O",
+        "zotero_tags": [
+            {
+                "tag": "CHI"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Bibliometrics",
+                    "major": "N"
+                },
+                {
+                    "term": "Cohort Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Metadata",
+                    "major": "Y"
+                },
+                {
+                    "term": "Prospective Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Publications",
+                    "major": "Y"
+                }
+            ],
+            "other": [
+                "ALSPAC",
+                "Bibliography",
+                "Bibliometrics",
+                "Longitudinal birth cohort"
+            ]
+        },
+        "journal": {
+            "journal_name": "F1000Res",
+            "volume": "9",
+            "issue": ""
+        },
+        "abstract": "[\"Cohort studies collect, generate and distribute data over long periods of time - often over the lifecourse of their participants. It is common for these studies to host a list of publications (which can number many thousands) on their website to demonstrate the impact of the study and facilitate the search of existing research to which the study data has contributed. The ability to search and explore these publication lists varies greatly between studies. We believe a lack of rich search and exploration functionality of study publications is a barrier to entry for new or prospective users of a study's data, since it may be difficult to find and evaluate previous work in a given area. These lists of publications are also typically manually curated, resulting in a lack of rich metadata to analyse, making bibliometric analysis difficult. We present here a software pipeline that aggregates metadata from a variety of third-party providers to power a web based search and exploration tool for lists of publications. Alongside core publication metadata (i.e. author lists, keywords etc.), we include geocoding of first authors and citation counts in our pipeline. This allows a characterisation of a study as a whole based on common locations of authors, frequency of keywords, citation profile etc. This enriched publications metadata can be useful for generating study impact metrics and web-based graphics for public dissemination. In addition, the pipeline produces a research data set for bibliometric analysis or social studies of science. We use a previously published list of publications from a cohort study as an exemplar input data set to show the output and utility of the pipeline here.\"]",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

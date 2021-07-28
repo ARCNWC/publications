@@ -1,0 +1,1658 @@
+{
+    "IDs": {
+        "zotero": "PYXYUJRY",
+        "DOI": "10.1186/s12877-020-01719-0",
+        "DOI_filename": "96015ea5faa1b7a33435510b351fee4a",
+        "PMID": "32900360",
+        "scopus": "2-s2.0-85090725209",
+        "hash": "b3cefa4a447b21d359d9c42cbb640085"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "PYXYUJRY",
+            "version": 983,
+            "itemType": "journalArticle",
+            "title": "Decision-making for receiving paid home care for dementia in the time of COVID-19: a qualitative study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kerry",
+                    "lastName": "Hanna"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jacqueline",
+                    "lastName": "Cannon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ruth",
+                    "lastName": "Eley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hilary",
+                    "lastName": "Tetlow"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anna",
+                    "lastName": "Gaughan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Aravind",
+                    "lastName": "Komuravelli"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Justine",
+                    "lastName": "Shenton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Carol",
+                    "lastName": "Rogers"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah",
+                    "lastName": "Butchard"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Steve",
+                    "lastName": "Callaghan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stan",
+                    "lastName": "Limbert"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Manoj",
+                    "lastName": "Rajagopal"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kym",
+                    "lastName": "Ward"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lisa",
+                    "lastName": "Shaw"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rosie",
+                    "lastName": "Whittington"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mishca",
+                    "lastName": "Hughes"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              The lockdown imposed in the UK on the 23rd of March and associated public health measures of social distancing are likely to have had a great impact on care provision. The aim of this study was to explore the decision-making processes of continued paid home care support for dementia in the time of COVID-19.\n            \n            \n              Methods\n              Unpaid carers caring for a person living with dementia (PLWD) who were accessing paid home care before COVID-19 and residing in the UK were eligible to take part. Participants were interviewed over the phone and asked about their experiences of using paid home care services before and since COVID-19, and their decision-making processes of accessing paid home care since the outbreak and public health restrictions.\n            \n            \n              Results\n              Fifteen unpaid carers, who were also accessing paid care support for the PLWD before COVID-19, were included in the analysis. Thematic analysis identified three overarching themes: (1) Risk; (2) Making difficult choices and risk management; and (3) Implications for unpaid carers. Many unpaid carers decided to discontinue paid carers entering the home due to the risk of infection, resulting in unpaid carers having to pick up the care hours to support the person living with dementia.\n            \n            \n              Conclusions\n              This is the first study to report on the impact of COVID-19 on paid home care changes in dementia. Findings raise implications for providing better Personal Protective Equipment for paid carers, and to support unpaid carers better in their roles, with the pandemic likely to stay in place for the foreseeable future.",
+            "publicationTitle": "BMC Geriatrics",
+            "volume": "20",
+            "issue": "1",
+            "pages": "333",
+            "date": "12/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Geriatr",
+            "language": "en",
+            "DOI": "10.1186/s12877-020-01719-0",
+            "ISSN": "1471-2318",
+            "shortTitle": "Decision-making for receiving paid home care for dementia in the time of COVID-19",
+            "url": "https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-020-01719-0",
+            "accessDate": "2021-07-23T16:46:12Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32900360",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:27Z",
+            "dateModified": "2021-07-27T11:53:02Z",
+            "pmid": "32900360"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        1
+                    ]
+                ],
+                "date-time": "2021-05-01T01:46:30Z",
+                "timestamp": 1619833590299
+            },
+            "reference-count": 22,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                9,
+                                9
+                            ]
+                        ],
+                        "date-time": "2020-09-09T00:00:00Z",
+                        "timestamp": 1599609600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                9,
+                                9
+                            ]
+                        ],
+                        "date-time": "2020-09-09T00:00:00Z",
+                        "timestamp": 1599609600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "NIHR ARC NWC"
+                    ]
+                },
+                {
+                    "DOI": "10.13039/501100000836",
+                    "name": "University of Liverpool",
+                    "doi-asserted-by": "crossref",
+                    "award": [
+                        "COVID-19 Strategic Research Fund"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title>\n              <jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>The lockdown imposed in the UK on the 23rd of March and associated public health measures of social distancing are likely to have had a great impact on care provision. The aim of this study was to explore the decision-making processes of continued paid home care support for dementia in the time of COVID-19.</jats:p>\n              </jats:sec>\n              <jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>Unpaid carers caring for a person living with dementia (PLWD) who were accessing paid home care before COVID-19 and residing in the UK were eligible to take part. Participants were interviewed over the phone and asked about their experiences of using paid home care services before and since COVID-19, and their decision-making processes of accessing paid home care since the outbreak and public health restrictions.</jats:p>\n              </jats:sec>\n              <jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>Fifteen unpaid carers, who were also accessing paid care support for the PLWD before COVID-19, were included in the analysis. Thematic analysis identified three overarching themes: (1) Risk; (2) Making difficult choices and risk management; and (3) Implications for unpaid carers. Many unpaid carers decided to discontinue paid carers entering the home due to the risk of infection, resulting in unpaid carers having to pick up the care hours to support the person living with dementia.</jats:p>\n              </jats:sec>\n              <jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>This is the first study to report on the impact of COVID-19 on paid home care changes in dementia. Findings raise implications for providing better Personal Protective Equipment for paid carers, and to support unpaid carers better in their roles, with the pandemic likely to stay in place for the foreseeable future.</jats:p>\n              </jats:sec>",
+            "DOI": "10.1186/s12877-020-01719-0",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        10
+                    ]
+                ],
+                "date-time": "2020-09-10T08:52:22Z",
+                "timestamp": 1599727942000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 6,
+            "title": "Decision-making for receiving paid home care for dementia in the time of COVID-19: a qualitative study",
+            "prefix": "10.1186",
+            "volume": "20",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Kerry",
+                    "family": "Hanna",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jacqueline",
+                    "family": "Cannon",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ruth",
+                    "family": "Eley",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Hilary",
+                    "family": "Tetlow",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Anna",
+                    "family": "Gaughan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Aravind",
+                    "family": "Komuravelli",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Justine",
+                    "family": "Shenton",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Carol",
+                    "family": "Rogers",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Sarah",
+                    "family": "Butchard",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Steve",
+                    "family": "Callaghan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Stan",
+                    "family": "Limbert",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Manoj",
+                    "family": "Rajagopal",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Kym",
+                    "family": "Ward",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Lisa",
+                    "family": "Shaw",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Rosie",
+                    "family": "Whittington",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mishca",
+                    "family": "Hughes",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        9
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "1719_CR1",
+                    "author": "Alzheimer\u2019s Disease International",
+                    "year": "2016",
+                    "unstructured": "Alzheimer\u2019s Disease International. Improving healthcare for people living with dementia: coverage, quality and costs now and in the future. London, England: ADI; 2016.",
+                    "volume-title": "Improving healthcare for people living with dementia: coverage, quality and costs now and in the future"
+                },
+                {
+                    "issue": "2",
+                    "key": "1719_CR2",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e273",
+                    "DOI": "10.1002/gps.4787",
+                    "volume": "33",
+                    "author": "MJ Hollocks",
+                    "year": "2018",
+                    "unstructured": "Hollocks MJ, Brookes RL, Morris RG, Markus HS. The brief memory and executive test (BMET): a cognitive screening tool to detect and differentiate vascular cognitive impairment and Alzheimer\u2019s disease. Int J Geriatr Psychiatry. 2018;33(2):e273\u20139.",
+                    "journal-title": "Int J Geriatr Psychiatry"
+                },
+                {
+                    "key": "1719_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.gaitpost.2016.08.009",
+                    "volume": "50",
+                    "author": "NE Fritz",
+                    "year": "2016",
+                    "unstructured": "Fritz NE, Kegelmeyer DA, Kloos AD, et al. Motor performance differentiates individuals with Lewy body dementia, Parkinson\u2019s and Alzheimer\u2019s disease. Gait Posture. 2016;50:1\u20137.",
+                    "journal-title": "Gait Posture"
+                },
+                {
+                    "issue": "3",
+                    "key": "1719_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "255",
+                    "DOI": "10.1016/S0168-8510(02)00010-6",
+                    "volume": "61",
+                    "author": "A Wimo",
+                    "year": "2002",
+                    "unstructured": "Wimo A, von Strauss E, Nordberg G, Sassi F, Johansson L. Time spent on informal and formal care giving for persons with dementia in Sweden. Health Policy. 2002;61(3):255\u201368.",
+                    "journal-title": "Health Policy"
+                },
+                {
+                    "key": "1719_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "5",
+                    "DOI": "10.1186/s12877-019-1406-6",
+                    "volume": "20",
+                    "author": "P Rapaport",
+                    "year": "2020",
+                    "unstructured": "Rapaport P, Burton A, Leverton M, et al. \u201cI just keep thinking that I don\u2019t want to rely on people.\u201d A qualitative study of how people living with dementia achieve and maintain independence at home: stakeholder perspectives. BMC Geriatrics. 2020;20:5.",
+                    "journal-title": "BMC Geriatrics"
+                },
+                {
+                    "issue": "1",
+                    "key": "1719_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "63",
+                    "DOI": "10.1080/13607863.2014.915920",
+                    "volume": "19",
+                    "author": "CM Giebel",
+                    "year": "2015",
+                    "unstructured": "Giebel CM, Sutcliffe C, Challis D. Activities of daily living and quality of life across different stages of dementia: a UK study. Aging Ment Health. 2015;19(1):63\u201371.",
+                    "journal-title": "Aging Ment Health"
+                },
+                {
+                    "issue": "1",
+                    "key": "1719_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "186",
+                    "DOI": "10.1111/jgs.16215",
+                    "volume": "68",
+                    "author": "JM Reckrey",
+                    "year": "2020",
+                    "unstructured": "Reckrey JM, Morrison RS, Boerner K, et al. Living in the community with dementia: who receives paid care? J Am Geriatr Soc. 2020;68(1):186\u201391.",
+                    "journal-title": "J Am Geriatr Soc"
+                },
+                {
+                    "issue": "6",
+                    "key": "1719_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "613",
+                    "DOI": "10.1016/j.healthpol.2017.03.013",
+                    "volume": "121",
+                    "author": "P Bremer",
+                    "year": "2017",
+                    "unstructured": "Bremer P, Challis D, Rahm Hallberg I, et al. Informal and formal care: substitutes or complements in care for people with dementia? Empirical evidence for 8 European countries. Health Policy. 2017;121(6):613\u201322.",
+                    "journal-title": "Health Policy"
+                },
+                {
+                    "key": "1719_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "131",
+                    "DOI": "10.1186/s12877-018-0816-1",
+                    "volume": "18",
+                    "author": "A Stephan",
+                    "year": "2018",
+                    "unstructured": "Stephan A, Bieber A, Hopper L, et al. Barriers and facilitators to the access to and use of formal dementia care: findings of a focus group study with people with dementia, informal carers and health and social care professionals in eight European countries. BMC Geriatr. 2018;18:131.",
+                    "journal-title": "BMC Geriatr"
+                },
+                {
+                    "issue": "1",
+                    "key": "1719_CR10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1080/01621420802700952",
+                    "volume": "28",
+                    "author": "L Jansen",
+                    "year": "2009",
+                    "unstructured": "Jansen L, Forbes DA, Markle-Reid M, et al. Formal care providers; perceptions of home- and community-based services: informing dementia care quality. Home Health Care Serv Q. 2009;28(1):1\u201323.",
+                    "journal-title": "Home Health Care Serv Q"
+                },
+                {
+                    "issue": "3",
+                    "key": "1719_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "903",
+                    "DOI": "10.1111/hsc.12921",
+                    "volume": "28",
+                    "author": "S Hughes",
+                    "year": "2020",
+                    "unstructured": "Hughes S, Burch S. \u2018I\u2019m not just a number on a sheet, I\u2019m a person\u2019: domiciliary care, self and getting older. Health Soc Care Community. 2020;28(3):903\u201312.",
+                    "journal-title": "Health Soc Care Community"
+                },
+                {
+                    "issue": "2",
+                    "key": "1719_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "77",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "volume": "3",
+                    "author": "V Braun",
+                    "year": "2006",
+                    "unstructured": "Braun V, Clarke C. Using thematic analysis in psychology. Qual Res Psychol. 2006;3(2):77\u2013101.",
+                    "journal-title": "Qual Res Psychol"
+                },
+                {
+                    "key": "1719_CR13",
+                    "unstructured": "Pollock K, Wilkinson S, Perry-Young L, et al. What do family care-givers want from domiciliary care for relatives living with dementia? A qualitative study. Ageing Soc. 2020. \n                  https://doi.org/10.1017/S0144686X20000185\n                  \n                .",
+                    "DOI": "10.1017/S0144686X20000185",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "1719_CR14",
+                    "unstructured": "Cook TM. Personal protective equipment during the coronavirus disease (COVID) 2019 Pandemic \u2013 a narrative review. Anaesthesia. 2020. \n                  https://doi.org/10.1111/anae.15071\n                  \n                .",
+                    "DOI": "10.1111/anae.15071",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "1719_CR15",
+                    "author": "Alzheimer\u2019s Society",
+                    "year": "2014",
+                    "unstructured": "Alzheimer\u2019s Society. Dementia UK: An Update. London, England: Alzheimer\u2019s Society; 2014.",
+                    "volume-title": "Dementia UK: An Update"
+                },
+                {
+                    "issue": "2",
+                    "key": "1719_CR16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "101",
+                    "DOI": "10.1002/gps.4295",
+                    "volume": "31",
+                    "author": "CL Sutcliffe",
+                    "year": "2016",
+                    "unstructured": "Sutcliffe CL, Giebel CM, Jolley D, Challis DJ. Experience of burden in carers of people with dementia on the margins of long-term care. Int J Geriatr Psychiatry. 2016;31(2):101\u20138.",
+                    "journal-title": "Int J Geriatr Psychiatry"
+                },
+                {
+                    "issue": "6",
+                    "key": "1719_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "617",
+                    "DOI": "10.1177/1533317513494449",
+                    "volume": "28",
+                    "author": "N Greenwood",
+                    "year": "2013",
+                    "unstructured": "Greenwood N, Habibi R, Mackenzie A, Drennan V, Easton N. Peer support for carers: a qualitative investigation of the experiences of carers and peer volunteers. Am J Alzheimers Dis Other Dement. 2013;28(6):617\u201326.",
+                    "journal-title": "Am J Alzheimers Dis Other Dement"
+                },
+                {
+                    "key": "1719_CR18",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "108409",
+                    "DOI": "10.1016/j.clim.2020.108409",
+                    "volume": "215",
+                    "author": "A Gasmi",
+                    "year": "2020",
+                    "unstructured": "Gasmi A, Noor S, Tippairote T, et al. Individual risk management strategy and potential therapeutic options for the COVID-19 pandemic. Clin Immunol. 2020;215:108409.",
+                    "journal-title": "Clin Immunol"
+                },
+                {
+                    "key": "1719_CR19",
+                    "unstructured": "Office for National Statistics. Coronavirus (COVID-19) related deaths by occupation, England and Wales: deaths registered up to and including 20 April 2020: ONS, London; 2020."
+                },
+                {
+                    "key": "1719_CR20",
+                    "unstructured": "Kisely S, Warren N, McMahon L, et al. Occurrence, prevention, and management of the psychological effects of emerging virus outbreaks on healthcare workers: rapid review and meta-analysis. BMJ. 2020;369. \n                  https://doi.org/10.1136/bmj.m1642\n                  \n                .",
+                    "DOI": "10.1136/bmj.m1642",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "1719_CR21",
+                    "unstructured": "Verbeek H, Gerritsen DL, Backhaus R, et al. Allowing visitors back in the nursing home during the COVID-19 crisis \u2013 a Dutch national study into first experiences and impact on well-being. JAMDA. 2020. \n                  https://doi.org/10.1016/j.jamda.2020.06.020\n                  \n                .",
+                    "DOI": "10.1016/j.jamda.2020.06.020",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "1719_CR22",
+                    "author": "A\u2019s Society",
+                    "year": "2020",
+                    "unstructured": "Society A\u2019s. Women\u2019s unpaid dementia care and the impact on employment. Alzheimer\u2019s Society: London, England; 2020.",
+                    "volume-title": "Women\u2019s unpaid dementia care and the impact on employment"
+                }
+            ],
+            "container-title": "BMC Geriatrics",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12877-020-01719-0.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s12877-020-01719-0/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12877-020-01719-0.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        10
+                    ]
+                ],
+                "date-time": "2020-09-10T10:07:11Z",
+                "timestamp": 1599732431000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        9
+                    ]
+                ]
+            },
+            "references-count": 22,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "1719"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12877-020-01719-0",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1471-2318"
+            ],
+            "subject": [
+                "Geriatrics and Gerontology"
+            ],
+            "container-title-short": "BMC Geriatr",
+            "assertion": [
+                {
+                    "value": "29 June 2020",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "19 August 2020",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "9 September 2020",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "We received ethical approval from the University of Liverpool Ethics [ID 7626]. Verbal informed consent was taken over the phone before the interview, which was approved by the ethics committee.",
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "N/a",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "None.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "333"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "COVID-19",
+                        "Carers",
+                        "Corona virus",
+                        "Dementia",
+                        "Formal care"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32900360",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "09",
+                    "Day": "16"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "12",
+                    "Day": "18"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "09",
+                            "Day": "09"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12877-020-01719-0"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1471-2318",
+                        "JournalIssue": {
+                            "Volume": "20",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "09",
+                                "Day": "09"
+                            }
+                        },
+                        "Title": "BMC geriatrics",
+                        "ISOAbbreviation": "BMC Geriatr"
+                    },
+                    "ArticleTitle": "Decision-making for receiving paid home care for dementia in the time of COVID-19: a qualitative study.",
+                    "Pagination": {
+                        "MedlinePgn": "333"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The lockdown imposed in the UK on the 23rd of March and associated public health measures of social distancing are likely to have had a great impact on care provision. The aim of this study was to explore the decision-making processes of continued paid home care support for dementia in the time of COVID-19.",
+                            "Unpaid carers caring for a person living with dementia (PLWD) who were accessing paid home care before COVID-19 and residing in the UK were eligible to take part. Participants were interviewed over the phone and asked about their experiences of using paid home care services before and since COVID-19, and their decision-making processes of accessing paid home care since the outbreak and public health restrictions.",
+                            "Fifteen unpaid carers, who were also accessing paid care support for the PLWD before COVID-19, were included in the analysis. Thematic analysis identified three overarching themes: (1) Risk; (2) Making difficult choices and risk management; and (3) Implications for unpaid carers. Many unpaid carers decided to discontinue paid carers entering the home due to the risk of infection, resulting in unpaid carers having to pick up the care hours to support the person living with dementia.",
+                            "This is the first study to report on the impact of COVID-19 on paid home care changes in dementia. Findings raise implications for providing better Personal Protective Equipment for paid carers, and to support unpaid carers better in their roles, with the pandemic likely to stay in place for the foreseeable future."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK. Clarissa.giebel@liverpool.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK. Clarissa.giebel@liverpool.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Waterhouse Building B Block, University of Liverpool, Brownlow Street, Liverpool, L69 3GL, UK. Clarissa.giebel@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hanna",
+                            "ForeName": "Kerry",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lewy Body Society, Wigan, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cannon",
+                            "ForeName": "Jacqueline",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Dementia Action Alliance, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Eley",
+                            "ForeName": "Ruth",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "SURF Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Tetlow",
+                            "ForeName": "Hilary",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Together in Dementia Everyday, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gaughan",
+                            "ForeName": "Anna",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "North West Boroughs NHS Trust, Warrington, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Komuravelli",
+                            "ForeName": "Aravind",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Sefton Older People's Forum, Sefton, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shenton",
+                            "ForeName": "Justine",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Museums Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rogers",
+                            "ForeName": "Carol",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Mersey Care NHS Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Butchard",
+                            "ForeName": "Sarah",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "EQE Health, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Callaghan",
+                            "ForeName": "Steve",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Limbert",
+                            "ForeName": "Stan",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lancashire and South Cumbria NHS Trust, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rajagopal",
+                            "ForeName": "Manoj",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Brain Charity, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ward",
+                            "ForeName": "Kym",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shaw",
+                            "ForeName": "Lisa",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Me2U Day Care Centre, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Whittington",
+                            "ForeName": "Rosie",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hughes",
+                            "ForeName": "Mishca",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "NIHR ARC NWC",
+                            "Agency": "National Institute for Health Research",
+                            "Country": "International"
+                        },
+                        {
+                            "GrantID": "COVID-19 Strategic Research Fund",
+                            "Agency": "University of Liverpool",
+                            "Country": "International"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Geriatr",
+                    "NlmUniqueID": "100968548",
+                    "ISSNLinking": "1471-2318"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Betacoronavirus",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "COVID-19",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "psychology"
+                        ],
+                        "DescriptorName": "Caregivers",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Coronavirus Infections",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "therapy"
+                        ],
+                        "DescriptorName": "Dementia",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Services Accessibility",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics"
+                        ],
+                        "DescriptorName": "Home Care Services",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pandemics",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Pneumonia, Viral",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Qualitative Research",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "SARS-CoV-2",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Anaesthesia. 2020 Jul;75(7):920-927",
+                                "ArticleIdList": [
+                                    "32246849"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Soc Care Community. 2020 May;28(3):903-912",
+                                "ArticleIdList": [
+                                    "31833154"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Med Dir Assoc. 2020 Jul;21(7):900-904",
+                                "ArticleIdList": [
+                                    "32674816"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Geriatr Soc. 2020 Jan;68(1):186-191",
+                                "ArticleIdList": [
+                                    "31696511"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Policy. 2017 Jun;121(6):613-622",
+                                "ArticleIdList": [
+                                    "28449885"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Geriatr Psychiatry. 2018 Feb;33(2):e273-e279",
+                                "ArticleIdList": [
+                                    "28881062"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Geriatr Psychiatry. 2016 Feb;31(2):101-8",
+                                "ArticleIdList": [
+                                    "25963021"
+                                ]
+                            },
+                            {
+                                "Citation": "Aging Ment Health. 2015 Jan;19(1):63-71",
+                                "ArticleIdList": [
+                                    "24831511"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Geriatr. 2018 Jun 4;18(1):131",
+                                "ArticleIdList": [
+                                    "29866102"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Alzheimers Dis Other Demen. 2013 Sep;28(6):617-26",
+                                "ArticleIdList": [
+                                    "23813790"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Geriatr. 2020 Jan 3;20(1):5",
+                                "ArticleIdList": [
+                                    "31900113"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Immunol. 2020 Jun;215:108409",
+                                "ArticleIdList": [
+                                    "32276137"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Policy. 2002 Sep;61(3):255-68",
+                                "ArticleIdList": [
+                                    "12098519"
+                                ]
+                            },
+                            {
+                                "Citation": "Home Health Care Serv Q. 2009;28(1):1-23",
+                                "ArticleIdList": [
+                                    "19266368"
+                                ]
+                            },
+                            {
+                                "Citation": "Gait Posture. 2016 Oct;50:1-7",
+                                "ArticleIdList": [
+                                    "27544062"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2020 May 5;369:m1642",
+                                "ArticleIdList": [
+                                    "32371466"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "06",
+                        "Day": "29"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "08",
+                        "Day": "19"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "9",
+                        "Day": "9",
+                        "Hour": "5",
+                        "Minute": "21"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "9",
+                        "Day": "10",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "9",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "32900360",
+                    "10.1186/s12877-020-01719-0",
+                    "10.1186/s12877-020-01719-0",
+                    "PMC7478902"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32900360)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832900360%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832900360%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090725209"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090725209?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85090725209&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85090725209&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85090725209",
+                        "dc:identifier": "SCOPUS_ID:85090725209",
+                        "eid": "2-s2.0-85090725209",
+                        "dc:title": "Decision-making for receiving paid home care for dementia in the time of COVID-19: A qualitative study",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "BMC Geriatrics",
+                        "prism:eIssn": "14712318",
+                        "prism:volume": "20",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-09-09",
+                        "prism:coverDisplayDate": "9 September 2020",
+                        "prism:doi": "10.1186/s12877-020-01719-0",
+                        "citedby-count": "9",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR ARC NWC",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32900360",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "333",
+                        "source-id": "28558",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "PYXYUJRY.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32900360"
+            }
+        },
+        "title": "Decision-making for receiving paid home care for dementia in the time of COVID-19: a qualitative study.",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK. Clarissa.giebel@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Hanna K",
+                "family": "Hanna",
+                "given": "Kerry",
+                "affiliation": {
+                    "name": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Cannon J",
+                "family": "Cannon",
+                "given": "Jacqueline",
+                "affiliation": {
+                    "name": "Lewy Body Society, Wigan, UK."
+                }
+            },
+            {
+                "clean": "Eley R",
+                "family": "Eley",
+                "given": "Ruth",
+                "affiliation": {
+                    "name": "Liverpool Dementia Action Alliance, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Tetlow H",
+                "family": "Tetlow",
+                "given": "Hilary",
+                "affiliation": {
+                    "name": "SURF Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gaughan A",
+                "family": "Gaughan",
+                "given": "Anna",
+                "affiliation": {
+                    "name": "Together in Dementia Everyday, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Komuravelli A",
+                "family": "Komuravelli",
+                "given": "Aravind",
+                "affiliation": {
+                    "name": "North West Boroughs NHS Trust, Warrington, UK."
+                }
+            },
+            {
+                "clean": "Shenton J",
+                "family": "Shenton",
+                "given": "Justine",
+                "affiliation": {
+                    "name": "Sefton Older People's Forum, Sefton, UK."
+                }
+            },
+            {
+                "clean": "Rogers C",
+                "family": "Rogers",
+                "given": "Carol",
+                "affiliation": {
+                    "name": "National Museums Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Butchard S",
+                "family": "Butchard",
+                "given": "Sarah",
+                "affiliation": {
+                    "name": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Callaghan S",
+                "family": "Callaghan",
+                "given": "Steve",
+                "affiliation": {
+                    "name": "EQE Health, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Limbert S",
+                "family": "Limbert",
+                "given": "Stan",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Rajagopal M",
+                "family": "Rajagopal",
+                "given": "Manoj",
+                "affiliation": {
+                    "name": "Lancashire and South Cumbria NHS Trust, Preston, UK."
+                }
+            },
+            {
+                "clean": "Ward K",
+                "family": "Ward",
+                "given": "Kym",
+                "affiliation": {
+                    "name": "The Brain Charity, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Shaw L",
+                "family": "Shaw",
+                "given": "Lisa",
+                "affiliation": {
+                    "name": "Department of, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Whittington R",
+                "family": "Whittington",
+                "given": "Rosie",
+                "affiliation": {
+                    "name": "Me2U Day Care Centre, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Hughes M",
+                "family": "Hughes",
+                "given": "Mishca",
+                "affiliation": {
+                    "name": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Betacoronavirus",
+                    "major": "Y"
+                },
+                {
+                    "term": "COVID-19",
+                    "major": "N"
+                },
+                {
+                    "term": "Caregivers",
+                    "major": "N"
+                },
+                {
+                    "term": "Coronavirus Infections",
+                    "major": "N"
+                },
+                {
+                    "term": "Dementia",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Services Accessibility",
+                    "major": "Y"
+                },
+                {
+                    "term": "Home Care Services",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Pandemics",
+                    "major": "N"
+                },
+                {
+                    "term": "Pneumonia, Viral",
+                    "major": "N"
+                },
+                {
+                    "term": "Qualitative Research",
+                    "major": "N"
+                },
+                {
+                    "term": "SARS-CoV-2",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "COVID-19",
+                "Carers",
+                "Corona virus",
+                "Dementia",
+                "Formal care"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMC Geriatr",
+            "volume": "20",
+            "issue": "1"
+        },
+        "abstract": "['The lockdown imposed in the UK on the 23rd of March and associated public health measures of social distancing are likely to have had a great impact on care provision. The aim of this study was to explore the decision-making processes of continued paid home care support for dementia in the time of COVID-19.', 'Unpaid carers caring for a person living with dementia (PLWD) who were accessing paid home care before COVID-19 and residing in the UK were eligible to take part. Participants were interviewed over the phone and asked about their experiences of using paid home care services before and since COVID-19, and their decision-making processes of accessing paid home care since the outbreak and public health restrictions.', 'Fifteen unpaid carers, who were also accessing paid care support for the PLWD before COVID-19, were included in the analysis. Thematic analysis identified three overarching themes: (1) Risk; (2) Making difficult choices and risk management; and (3) Implications for unpaid carers. Many unpaid carers decided to discontinue paid carers entering the home due to the risk of infection, resulting in unpaid carers having to pick up the care hours to support the person living with dementia.', 'This is the first study to report on the impact of COVID-19 on paid home care changes in dementia. Findings raise implications for providing better Personal Protective Equipment for paid carers, and to support unpaid carers better in their roles, with the pandemic likely to stay in place for the foreseeable future.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "9"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK. Clarissa.giebel@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

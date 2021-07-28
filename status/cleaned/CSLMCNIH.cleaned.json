@@ -1,0 +1,1287 @@
+{
+    "IDs": {
+        "zotero": "CSLMCNIH",
+        "DOI": "10.1136/bmjopen-2019-032931",
+        "DOI_filename": "e36f0383e9285b7b2ce833f51000efc8",
+        "PMID": "32467250",
+        "scopus": "2-s2.0-85085588344",
+        "hash": "d49e44f17b7453e4aaf3113592f4660b"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "CSLMCNIH",
+            "version": 990,
+            "itemType": "journalArticle",
+            "title": "Impact of community-based chronic obstructive pulmonary disease service, a multidisciplinary intervention in an area of high deprivation: a longitudinal matched controlled study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Pooja",
+                    "lastName": "Saini"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tanith",
+                    "lastName": "Rose"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Downing"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Bashir",
+                    "lastName": "Matata"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Samantha",
+                    "lastName": "Pilsworth"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Allan",
+                    "lastName": "Pemberton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Terence",
+                    "lastName": "Comerford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Keith",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Matthew",
+                    "lastName": "Shaw"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lesley M",
+                    "lastName": "Harper"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Konstantinos",
+                    "lastName": "Daras"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Benjamin",
+                    "lastName": "Barr"
+                }
+            ],
+            "abstractNote": "Objective\n              To examine the effects of a consultant-led, community-based chronic obstructive pulmonary disease (COPD) service, based in a highly deprived area on emergency hospital admissions.\n            \n            \n              Design\n              A longitudinal matched controlled study using difference-in-differences analysis to compare the change in outcomes in the intervention population to a matched comparison population, 5 years before and after implementation.\n            \n            \n              Setting\n              A deprived district in the North West of England between 2005 and 2016.\n            \n            \n              Intervention\n              A community-based, consultant-led COPD service providing diagnostics, treatment and rehabilitation from 2011 to 2016.\n            \n            \n              Main outcome measures\n              Emergency hospital admissions, length of stay per emergency admission and emergency readmissions for COPD.\n            \n            \n              Results\n              The intervention was associated with 24 fewer emergency COPD admissions per 100 000 population per year (95% CI \u221210.6 to 58.8, p=0.17) in the postintervention period, relative to the control group. There were significantly fewer emergency admissions in populations with medium levels of deprivation (64 per 100 000 per year; 95% CI 1.8 to 126.9) and among men (60 per 100 000 per year; 95% CI 12.3 to 107.3).\n            \n            \n              Conclusion\n              We found limited evidence that the service reduced emergency hospital admissions, after an initial decline the effect was not sustained. The service, however, may have been more effective in some subgroups.",
+            "publicationTitle": "BMJ Open",
+            "volume": "10",
+            "issue": "5",
+            "pages": "e032931",
+            "date": "05/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open",
+            "language": "en",
+            "DOI": "10.1136/bmjopen-2019-032931",
+            "ISSN": "2044-6055, 2044-6055",
+            "shortTitle": "Impact of community-based chronic obstructive pulmonary disease service, a multidisciplinary intervention in an area of high deprivation",
+            "url": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2019-032931",
+            "accessDate": "2021-07-23T16:46:10Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32467250",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:20Z",
+            "dateModified": "2021-07-27T12:00:10Z",
+            "pmid": "32467250"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        26
+                    ]
+                ],
+                "date-time": "2020-09-26T13:48:16Z",
+                "timestamp": 1601128096510
+            },
+            "reference-count": 45,
+            "publisher": "BMJ",
+            "issue": "5",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by-nc/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                5,
+                                28
+                            ]
+                        ],
+                        "date-time": "2020-05-28T00:00:00Z",
+                        "timestamp": 1590624000000
+                    },
+                    "delay-in-days": 27,
+                    "content-version": "unspecified"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast",
+                    "award": [
+                        "CLAHRC-NWC-167"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        5
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Objective</jats:title><jats:p>To examine the effects of a consultant-led, community-based chronic obstructive pulmonary disease (COPD) service, based in a highly deprived area on emergency hospital admissions.</jats:p></jats:sec><jats:sec><jats:title>Design</jats:title><jats:p>A longitudinal matched controlled study using difference-in-differences analysis to compare the change in outcomes in the intervention population to a matched comparison population, 5 years before and after implementation.</jats:p></jats:sec><jats:sec><jats:title>Setting</jats:title><jats:p>A deprived district in the North West of England between 2005 and 2016.</jats:p></jats:sec><jats:sec><jats:title>Intervention</jats:title><jats:p>A community-based, consultant-led COPD service providing diagnostics, treatment and rehabilitation from 2011 to 2016.</jats:p></jats:sec><jats:sec><jats:title>Main outcome measures</jats:title><jats:p>Emergency hospital admissions, length of stay per emergency admission and emergency readmissions for COPD.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>The intervention was associated with 24 fewer emergency COPD admissions per 100 000 population per year (95% CI \u221210.6 to 58.8, p=0.17) in the postintervention period, relative to the control group. There were significantly fewer emergency admissions in populations with medium levels of deprivation (64 per 100 000 per year; 95% CI 1.8 to 126.9) and among men (60 per 100 000 per year; 95% CI 12.3 to 107.3).</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>We found limited evidence that the service reduced emergency hospital admissions, after an initial decline the effect was not sustained. The service, however, may have been more effective in some subgroups.</jats:p></jats:sec>",
+            "DOI": "10.1136/bmjopen-2019-032931",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        28
+                    ]
+                ],
+                "date-time": "2020-05-28T10:25:29Z",
+                "timestamp": 1590661529000
+            },
+            "page": "e032931",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Impact of community-based chronic obstructive pulmonary disease service, a multidisciplinary intervention in an area of high deprivation: a longitudinal matched controlled study",
+            "prefix": "10.1136",
+            "volume": "10",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-4981-7914",
+                    "authenticated-orcid": false,
+                    "given": "Pooja",
+                    "family": "Saini",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Tanith",
+                    "family": "Rose",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jennifer",
+                    "family": "Downing",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Bashir",
+                    "family": "Matata",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Samantha",
+                    "family": "Pilsworth",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Allan",
+                    "family": "Pemberton",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Terence",
+                    "family": "Comerford",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Keith",
+                    "family": "Wilson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Matthew",
+                    "family": "Shaw",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Lesley M",
+                    "family": "Harper",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Konstantinos",
+                    "family": "Daras",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Benjamin",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        27
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020052803251626000_10.5.e032931.1",
+                    "unstructured": "Department of Health and Social Care [DH and SC] . An Outcomes Strategy for COPD and Asthma. In: NHS Companion Document - A new action plan for treatment of respiratory problems for the NHS. England: . NHS, 2012."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.2",
+                    "unstructured": "Health and Social Care Information Centre . Ccg outcome indicator set, 2016. Available: https://data.england.nhs.uk/dataset/nhsof-3-2-emergency-re-admissions-within-30-days-of-discharge-from-hospital[Accessed 23 Feb 18]."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.3",
+                    "unstructured": "National COPD Audit Programme . Copd: working together. National chronic obstructive pulmonary disease (COPD) audit programme: clinical audit of COPD exacerbations admitted to acute hospitals in England and Wales 2017, 2018. Available: www.rcplondon.ac.uk/working-together"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.4",
+                    "unstructured": "British Lung Foundation . Chronic obstructive pulmonary disease (COPD) statistics, 2018. Available: https://statistics.blf.org.uk/copd [Accessed 23 Mar 19]."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.5",
+                    "unstructured": "Joint Strategic Needs Assessment [JSNA] Report . Respiratory Disease. Knowsley Joint Strategic Needs Assessment Report, 2016. Available: http://knowsleyknowledge.org.uk/wp-content/uploads/2015/06/JSNA-Report-Respiratory-Final.pdf"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.6",
+                    "unstructured": "Knowsley Public Health Annual Report Statistical Compendium . Knowsley public health annual report statistical compendium 2013/14, 2013. Available: http://www.knowsley.gov.uk/PDF/knowsley-public-health-statistical-compendium-2013-14.pdf"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.7",
+                    "unstructured": "Knowsley Public Health Annual Report . Knowsley public health annual report 2014/15, 2014. Available: https://www.knowsley.gov.uk/pdf/public-health-annual-report-2014-15.pdf"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.8",
+                    "unstructured": "NHS England . Next steps on the NHS five year forward view. London: NHS England, 2017."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.9",
+                    "unstructured": "NHS England . The long term plan. England: NHS, 2019."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.10"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.11",
+                    "unstructured": "Puhan MA , Gimeno-Santos E , Cates CJ , et al . Pulmonary rehabilitation following exacerbations of chronic obstructive pulmonary disease. Cochrane Database Syst Rev 2016;59.doi:10.1002/14651858.CD005305.pub4"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.12",
+                    "unstructured": "Pilsworth S , Matata B , Shaw M , et al . A Service Evaluation into the effectiveness of the Knowsley Community Chronic Obstructive Pulmonary Disease Service. In: Liverpool heart and chest Hospital report, Knowsley, 2018."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.13",
+                    "first-page": "92",
+                    "article-title": "Reshaping care for older people: trends in emergency admissions to hospital during a period of simultaneous interventions in Glasgow City, April 2011-March 2015",
+                    "volume": "94",
+                    "author": "Levin",
+                    "year": "2016",
+                    "journal-title": "Maturitas"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.14",
+                    "unstructured": "British Thoracic Society . Impress; improving and integrating respiratory services., 2011. Available: https://www.networks.nhs.uk/nhs-networks/impress-improving-and-integrating-respiratory"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.15"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.16",
+                    "author": "Wilkinson",
+                    "volume": "24",
+                    "year": "2014",
+                    "article-title": "Reducing hospital admissions and improving the diagnosis of COPD in Southampton City: methods and results of a 12-month service improvement project",
+                    "journal-title": "NPJ Prim Care Respir Med"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.17",
+                    "unstructured": "Robertson R , Sonola L , Honeyman M , et al . Specialists in out-of-hospital settings: findings from six case studies. London: The King's Fund, 2014."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.18"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.19"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.20",
+                    "unstructured": "Office for National Statistics . Lower layer super output area population estimates (supporting information), 2018. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/lowersuperoutputareamidyearpopulationestimates"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.21",
+                    "unstructured": "Department for Communities and Local Government . The English Indices of Deprivation 2015: Statistical Release, 2015. Available: https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015 [Accessed 01 Sep 17]."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.22",
+                    "unstructured": "Knowsley Health Advisory Group Report . Respiratory disease and lung cancer in Kirkby. Knowsley Council, NHS, 2008. Available: http://www.knowsley.gov.uk/pdf/Health%20advisory%20group%20report.pdf"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.23"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.24"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.25"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.26",
+                    "unstructured": "Health and Social Care Information Centre . Indicator specification: Compendium of population health indicators - Emergency hospital admissions: all conditions, 2016. Available: https://digital.nhs.uk/data-and-information/publications/clinical-indicators/compendium-of-population-health-indicators/compendium-hospital-care/current/emergency-admissions"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.27",
+                    "unstructured": "Health and Social Care Information Centre . Methodology to create provider and CIP spells from hES APC data, 2014. Available: https://indicators.hscic.gov.uk/download/Additional%20Reading/Methods%20annexes/Compendium%20User%20Guide%202015%20Feb%20Annex%2013%20V1.pdf [Accessed 16 Jan 2018]."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.28",
+                    "unstructured": "Downing J , Rose TC , Saini P , et al . Impact of a community-based cardiovascular service in an area of high deprivation. Heart 2019."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.29",
+                    "unstructured": "NHS digital . NHS digital, 2019. Available: https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics/hospital-episode-statistics-data-dictionary"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.30",
+                    "unstructured": "Health and Social Care Information Centre . Ccg outcome indicator set, 2016. Available: https://data.england.nhs.uk/dataset/nhsof-3-2-emergency-readmissions-within-30-days-of-discharge-from-hospital [Accessed 23 Feb 2018]."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.31"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.32",
+                    "first-page": "107",
+                    "article-title": "Power by simulation",
+                    "volume": "2",
+                    "author": "Feiveson",
+                    "year": "2002",
+                    "journal-title": "Stata J"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.33",
+                    "unstructured": "Curtis LA , Burns A . Unit costs of health and social care,Project report. University of Kent, 2018: 1\u2013201. 10.22024/UniKent/01.02.70995"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.34",
+                    "unstructured": "Angrist JD , Pischke JS . Mostly Harmless Econometrics: An Empiricist\u2019s Companion. Princeton University Press, 2009."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.35"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.36",
+                    "first-page": "223",
+                    "article-title": "Underdiagnosis of chronic obstructive pulmonary disease in women: quantification of the problem, determinants and proposed actions",
+                    "volume": "49",
+                    "author": "Ancochea",
+                    "year": "2013",
+                    "journal-title": "Arch Bronconeumol"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.37"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.38",
+                    "first-page": "671",
+                    "article-title": "Understanding the biological differences in susceptibility to chronic obstructive pulmonary disease between men and women",
+                    "volume": "4",
+                    "author": "Sin",
+                    "year": "2007",
+                    "journal-title": "Proc Am Thorac Soc"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.39",
+                    "unstructured": "Lundsgaard J . Consumer Direction and Choice in Long-term Care for Older Persons, Including Payments for Informal Care, Health Working Paper No 20. Paris: OECD, 2005."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.40",
+                    "unstructured": "Himmelweit S , Land H . Reducing Gender Inequalities to Create a Sustainable Care System. York: Joseph Rowntree Foundation, 2008."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.41"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.42"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.43"
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.44",
+                    "unstructured": "National Institute for Health and Care Excellence [NICE] . Chronic obstructive pulmonary disease in over 16s: diagnosis and management . In: Clinical guideline [CG101, 2010."
+                },
+                {
+                    "key": "2020052803251626000_10.5.e032931.45",
+                    "unstructured": "National Institute for Health and Care Excellence [NICE] . Chronic obstructive pulmonary disease in adults . In: NICE quality standard QS10, 2016. www.nice.org.uk/guidance/qs10"
+                }
+            ],
+            "container-title": "BMJ Open",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2019-032931",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        26
+                    ]
+                ],
+                "date-time": "2020-09-26T02:07:06Z",
+                "timestamp": 1601086026000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        5
+                    ]
+                ]
+            },
+            "references-count": 45,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2020,
+                            5,
+                            27
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            5
+                        ]
+                    ]
+                },
+                "issue": "5"
+            },
+            "alternative-id": [
+                "10.1136/bmjopen-2019-032931"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmjopen-2019-032931",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2044-6055",
+                "2044-6055"
+            ],
+            "subject": [
+                "General Medicine"
+            ],
+            "container-title-short": "BMJ Open"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "A&E attendance",
+                        "COPD",
+                        "community care multidisciplinary",
+                        "pulmonary rehabilitation",
+                        "readmission",
+                        "respiratory medicine (see thoracic medicine)"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32467250",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "30"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "30"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "05",
+                            "Day": "27"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmjopen-2019-032931"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "2044-6055",
+                        "JournalIssue": {
+                            "Volume": "10",
+                            "Issue": "5",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "05",
+                                "Day": "27"
+                            }
+                        },
+                        "Title": "BMJ open",
+                        "ISOAbbreviation": "BMJ Open"
+                    },
+                    "ArticleTitle": "Impact of community-based chronic obstructive pulmonary disease service, a multidisciplinary intervention in an area of high deprivation: a longitudinal matched controlled study.",
+                    "Pagination": {
+                        "MedlinePgn": "e032931"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To examine the effects of a consultant-led, community-based chronic obstructive pulmonary disease (COPD) service, based in a highly deprived area on emergency hospital admissions.",
+                            "A longitudinal matched controlled study using difference-in-differences analysis to compare the change in outcomes in the intervention population to a matched comparison population, 5 years before and after implementation.",
+                            "A deprived district in the North West of England between 2005 and 2016.",
+                            "A community-based, consultant-led COPD service providing diagnostics, treatment and rehabilitation from 2011 to 2016.",
+                            "Emergency hospital admissions, length of stay per emergency admission and emergency readmissions for COPD.",
+                            "The intervention was associated with 24 fewer emergency COPD admissions per 100 000 population per year (95% CI -10.6 to 58.8, p=0.17) in the postintervention period, relative to the control group. There were significantly fewer emergency admissions in populations with medium levels of deprivation (64 per 100 000 per year; 95% CI 1.8 to 126.9) and among men (60 per 100 000 per year; 95% CI 12.3 to 107.3).",
+                            "We found limited evidence that the service reduced emergency hospital admissions, after an initial decline the effect was not sustained. The service, however, may have been more effective in some subgroups."
+                        ],
+                        "CopyrightInformation": "\u00a9 Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Psychology, Liverpool John Moores University, Liverpool, UK P.Saini@ljmu.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-4981-7914"
+                            ],
+                            "LastName": "Saini",
+                            "ForeName": "Pooja",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rose",
+                            "ForeName": "Tanith",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Downing",
+                            "ForeName": "Jennifer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Clinical Trials Unit/Clinical Quality, Liverpool Heart & Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Matata",
+                            "ForeName": "Bashir",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Clinical Trials Unit/Clinical Quality, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pilsworth",
+                            "ForeName": "Samantha",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Clinical Trials Unit/Clinical Quality, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pemberton",
+                            "ForeName": "Allan",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Clinical Trials Unit/Clinical Quality, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Comerford",
+                            "ForeName": "Terence",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Clinical Trials Unit/Clinical Quality, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wilson",
+                            "ForeName": "Keith",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Adult CF centre, The Liverpool Heart and Chest Hospital, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shaw",
+                            "ForeName": "Matthew",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harper",
+                            "ForeName": "Lesley M",
+                            "Initials": "LM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Daras",
+                            "ForeName": "Konstantinos",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "Benjamin",
+                            "Initials": "B"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "NIHR130258",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open",
+                    "NlmUniqueID": "101552874",
+                    "ISSNLinking": "2044-6055"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Case-Control Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Community Health Services",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Emergency Service, Hospital",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Hospitalization",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Longitudinal Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapy"
+                        ],
+                        "DescriptorName": "Pulmonary Disease, Chronic Obstructive",
+                        "MajorTopicYN": "Y"
+                    }
+                ],
+                "CoiStatement": "Competing interests: This study was supported by the National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast (NIHR CLAHRC NWC). All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available on request from the corresponding author) and declare: BM and SP are employed by Liverpool Heart and Chest NHS Foundation Trust the provider of KCOPD and were involved in providing information about the nature of the intervention and providing contextual information on request when interpreting the results. AP is an elected governor and KW is employed as patient ambassador at Liverpool Heart and Chest NHS Foundation Trust, both were involved as a public advisors. They had no role in the analysis or presentation of the results."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Lancet. 2012 Jul 7;380(9836):37-43",
+                                "ArticleIdList": [
+                                    "22579043"
+                                ]
+                            },
+                            {
+                                "Citation": "Proc Am Thorac Soc. 2007 Dec;4(8):671-4",
+                                "ArticleIdList": [
+                                    "18073400"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Respir J. 2016 Jan;47(1):19-22",
+                                "ArticleIdList": [
+                                    "26721958"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2016 Nov 21;6(11):e011952",
+                                "ArticleIdList": [
+                                    "27872113"
+                                ]
+                            },
+                            {
+                                "Citation": "Chest. 2015 Oct;148(4):971-985",
+                                "ArticleIdList": [
+                                    "25950276"
+                                ]
+                            },
+                            {
+                                "Citation": "J Public Health (Oxf). 2011 Mar;33(1):108-16",
+                                "ArticleIdList": [
+                                    "20522452"
+                                ]
+                            },
+                            {
+                                "Citation": "Thorax. 2001 Oct;56(10):779-84",
+                                "ArticleIdList": [
+                                    "11562517"
+                                ]
+                            },
+                            {
+                                "Citation": "Thorax. 2006 Dec;61(12):1043-7",
+                                "ArticleIdList": [
+                                    "17040932"
+                                ]
+                            },
+                            {
+                                "Citation": "NPJ Prim Care Respir Med. 2014 Aug 21;24:14035",
+                                "ArticleIdList": [
+                                    "25141877"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2016 Feb 07;352:i768",
+                                "ArticleIdList": [
+                                    "26858175"
+                                ]
+                            },
+                            {
+                                "Citation": "Maturitas. 2016 Dec;94:92-97",
+                                "ArticleIdList": [
+                                    "27823752"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Qual Life Outcomes. 2006 Sep 28;4:72",
+                                "ArticleIdList": [
+                                    "17007639"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2016 Dec 08;12:CD005305",
+                                "ArticleIdList": [
+                                    "27930803"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Bronconeumol. 2013 Jun;49(6):223-9",
+                                "ArticleIdList": [
+                                    "23317767"
+                                ]
+                            },
+                            {
+                                "Citation": "JAMA. 2014 Dec 10;312(22):2401-2",
+                                "ArticleIdList": [
+                                    "25490331"
+                                ]
+                            },
+                            {
+                                "Citation": "Multivariate Behav Res. 2011 May;46(3):399-424",
+                                "ArticleIdList": [
+                                    "21818162"
+                                ]
+                            },
+                            {
+                                "Citation": "Nicotine Tob Res. 2003 Feb;5(1):111-6",
+                                "ArticleIdList": [
+                                    "12745512"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "5",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "5",
+                        "Day": "30",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "3",
+                        "Day": "31",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "32467250",
+                    "bmjopen-2019-032931",
+                    "10.1136/bmjopen-2019-032931",
+                    "PMC7259850"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32467250)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832467250%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832467250%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085588344"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085588344?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085588344&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085588344&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085588344",
+                        "dc:identifier": "SCOPUS_ID:85085588344",
+                        "eid": "2-s2.0-85085588344",
+                        "dc:title": "Impact of community-based chronic obstructive pulmonary disease service, a multidisciplinary intervention in an area of high deprivation: a longitudinal matched controlled study",
+                        "dc:creator": "Saini P.",
+                        "prism:publicationName": "BMJ Open",
+                        "prism:eIssn": "20446055",
+                        "prism:volume": "10",
+                        "prism:issueIdentifier": "5",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-05-27",
+                        "prism:coverDisplayDate": "27 May 2020",
+                        "prism:doi": "10.1136/bmjopen-2019-032931",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Liverpool John Moores University",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32467250",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e032931",
+                        "source-id": "19800188003",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "CSLMCNIH.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32467250"
+            }
+        },
+        "title": "Impact of community-based chronic obstructive pulmonary disease service, a multidisciplinary intervention in an area of high deprivation: a longitudinal matched controlled study.",
+        "full_author_list": [
+            {
+                "clean": "Saini P",
+                "family": "Saini",
+                "given": "Pooja",
+                "affiliation": {
+                    "name": "Psychology, Liverpool John Moores University, Liverpool, UK P.Saini@ljmu.ac.uk."
+                }
+            },
+            {
+                "clean": "Rose T",
+                "family": "Rose",
+                "given": "Tanith",
+                "affiliation": {
+                    "name": "Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Downing J",
+                "family": "Downing",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Matata B",
+                "family": "Matata",
+                "given": "Bashir",
+                "affiliation": {
+                    "name": "Clinical Trials Unit/Clinical Quality, Liverpool Heart & Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Pilsworth S",
+                "family": "Pilsworth",
+                "given": "Samantha",
+                "affiliation": {
+                    "name": "Clinical Trials Unit/Clinical Quality, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Pemberton A",
+                "family": "Pemberton",
+                "given": "Allan",
+                "affiliation": {
+                    "name": "Clinical Trials Unit/Clinical Quality, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Comerford T",
+                "family": "Comerford",
+                "given": "Terence",
+                "affiliation": {
+                    "name": "Clinical Trials Unit/Clinical Quality, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wilson K",
+                "family": "Wilson",
+                "given": "Keith",
+                "affiliation": {
+                    "name": "Clinical Trials Unit/Clinical Quality, Liverpool Heart and Chest Hospital NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Shaw M",
+                "family": "Shaw",
+                "given": "Matthew",
+                "affiliation": {
+                    "name": "Adult CF centre, The Liverpool Heart and Chest Hospital, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Harper L",
+                "family": "Harper",
+                "given": "Lesley M",
+                "affiliation": {
+                    "name": "Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Daras K",
+                "family": "Daras",
+                "given": "Konstantinos",
+                "affiliation": {
+                    "name": "Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Benjamin",
+                "affiliation": {
+                    "name": "Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Saini P",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Case-Control Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Community Health Services",
+                    "major": "Y"
+                },
+                {
+                    "term": "Emergency Service, Hospital",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Hospitalization",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Longitudinal Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Pulmonary Disease, Chronic Obstructive",
+                    "major": "Y"
+                }
+            ],
+            "other": [
+                "A&E attendance",
+                "COPD",
+                "community care multidisciplinary",
+                "pulmonary rehabilitation",
+                "readmission",
+                "respiratory medicine (see thoracic medicine)"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMJ Open",
+            "volume": "10",
+            "issue": "5"
+        },
+        "abstract": "['To examine the effects of a consultant-led, community-based chronic obstructive pulmonary disease (COPD) service, based in a highly deprived area on emergency hospital admissions.', 'A longitudinal matched controlled study using difference-in-differences analysis to compare the change in outcomes in the intervention population to a matched comparison population, 5 years before and after implementation.', 'A deprived district in the North West of England between 2005 and 2016.', 'A community-based, consultant-led COPD service providing diagnostics, treatment and rehabilitation from 2011 to 2016.', 'Emergency hospital admissions, length of stay per emergency admission and emergency readmissions for COPD.', 'The intervention was associated with 24 fewer emergency COPD admissions per 100 000 population per year (95% CI -10.6 to 58.8, p=0.17) in the postintervention period, relative to the control group. There were significantly fewer emergency admissions in populations with medium levels of deprivation (64 per 100 000 per year; 95% CI 1.8 to 126.9) and among men (60 per 100 000 per year; 95% CI 12.3 to 107.3).', 'We found limited evidence that the service reduced emergency hospital admissions, after an initial decline the effect was not sustained. The service, however, may have been more effective in some subgroups.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Psychology, Liverpool John Moores University, Liverpool, UK P.Saini@ljmu.ac.uk.",
+            "clean_institute": "Liverpool John Moores University",
+            "country": "United Kingdom",
+            "latitude": "53.403",
+            "longitude": "-2.97"
+        }
+    }
+}

@@ -1,0 +1,934 @@
+{
+    "IDs": {
+        "zotero": "24CZQQNJ",
+        "DOI": "10.1002/14651858.CD013867",
+        "DOI_filename": "991ee40a98c4e93668b39c55badb601f",
+        "PMID": "",
+        "scopus": "2-s2.0-85102746427",
+        "hash": "17ab18a6380a7c7045703541463ac3f4"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "24CZQQNJ",
+            "version": 980,
+            "itemType": "journalArticle",
+            "title": "Antiepileptic drug add-on therapy for focal epilepsy: a network meta-analysis",
+            "creators": [
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Myrsini",
+                    "lastName": "Gianatsi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ruaraidh A",
+                    "lastName": "Hill"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah J",
+                    "lastName": "Nevitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah",
+                    "lastName": "Donegan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catrin",
+                    "lastName": "Tudur Smith"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2021-02-11",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD013867",
+            "ISSN": "14651858",
+            "shortTitle": "Antiepileptic drug add-on therapy for focal epilepsy",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD013867",
+            "accessDate": "2021-07-23T16:46:05Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "PCCC"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:07Z",
+            "dateModified": "2021-07-27T11:50:44Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        14
+                    ]
+                ],
+                "date-time": "2021-02-14T02:48:52Z",
+                "timestamp": 1613270932410
+            },
+            "reference-count": 52,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd013867",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        14
+                    ]
+                ],
+                "date-time": "2021-02-14T01:50:34Z",
+                "timestamp": 1613267434000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Antiepileptic drug add-on therapy for focal epilepsy: a network meta-analysis",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Myrsini",
+                    "family": "Gianatsi",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Data Science; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Ruaraidh A",
+                    "family": "Hill",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Liverpool Reviews and Implementation Group; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Molecular and Clinical Pharmacology; Institute of Translational Medicine, University of Liverpool; Liverpool UK"
+                        },
+                        {
+                            "name": "The Walton Centre NHS Foundation Trust; Liverpool UK"
+                        },
+                        {
+                            "name": "Liverpool Health Partners; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sarah J",
+                    "family": "Nevitt",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Data Science; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sarah",
+                    "family": "Donegan",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Data Science; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Catrin",
+                    "family": "Tudur Smith",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Data Science; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        11
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0001|cit1",
+                    "unstructured": "Pregabalin Pharmacology and Its Relevance to Clinical Practic Epilepsia 45 13 18 10.1111/j.0013-9580.2004.455003.x 15315511",
+                    "DOI": "10.1111/j.0013-9580.2004.455003.x",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD013867-BIB0002|cit2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "649",
+                    "DOI": "10.1111/bcp.12083",
+                    "article-title": "Comparative efficacy and tolerability of anti-epileptic drugs for refractory focal epilepsy: systematic review and network meta-analysis reveals the need for long term comparator trials",
+                    "volume": "76",
+                    "author": "Bodalia",
+                    "year": "2013",
+                    "journal-title": "British Journal of Clinical Pharmacology"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0003|cit3",
+                    "author": "Bresnahan",
+                    "issue": "3",
+                    "year": "2019",
+                    "article-title": "Brivaracetam add-on therapy for drug-resistant epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD011501.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0004|cit4",
+                    "author": "Bresnahan",
+                    "issue": "10",
+                    "year": "2019",
+                    "article-title": "Clobazam add-on therapy for drug-resistant epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD004154.pub5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0005|cit5",
+                    "author": "Bresnahan",
+                    "issue": "10",
+                    "year": "2019",
+                    "article-title": "Topiramate add-on therapy for drug-resistant focal epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001417.pub4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0006|cit6",
+                    "author": "Bresnahan",
+                    "issue": "7",
+                    "year": "2020",
+                    "article-title": "Vigabatrin add-on therapy for drug-resistant focal epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD007302.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0007|cit7",
+                    "author": "Bresnahan",
+                    "issue": "3",
+                    "year": "2020",
+                    "article-title": "Oxcarbazepine add-on for drug-resistant focal epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD012433.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0008|cit8",
+                    "author": "Brigo",
+                    "issue": "7",
+                    "year": "2020",
+                    "article-title": "Zonisamide add-on therapy for focal epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001416.pub5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD013867-BIB0009|cit9",
+                    "first-page": "122",
+                    "article-title": "The novel anticonvulsant topiramate enhances GABA-mediated chloride flux",
+                    "volume": "34",
+                    "author": "Brown",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD013867-BIB0010|cit10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "517",
+                    "DOI": "10.1016/j.neuint.2012.02.035",
+                    "article-title": "A novel anti-epileptic agent, perampanel, selectively inhibits AMPA receptor-mediated synaptic transmission in the hippocampus",
+                    "volume": "61",
+                    "author": "Ceolin",
+                    "year": "2012",
+                    "journal-title": "Neurochemistry International"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0011|cit11",
+                    "author": "Chang",
+                    "issue": "10",
+                    "year": "2017",
+                    "article-title": "Eslicarbazepine acetate add-on for drug-resistant focal epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD008907.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "8968",
+                    "key": "10.1002/14651858.CD013867-BIB0012|cit12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "140",
+                    "DOI": "10.1016/S0140-6736(95)91208-8",
+                    "article-title": "Remission of epilepsy: results from the National General Practice Study of Epilepsy",
+                    "volume": "346",
+                    "author": "Cockerell",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD013867-BIB0013|cit13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1280",
+                    "DOI": "10.1111/j.1528-1167.2011.03047.x",
+                    "article-title": "Clinical comparability of the new antiepileptic drugs in refractory partial epilepsy: a systematic review and meta-analysis",
+                    "volume": "52",
+                    "author": "Costa",
+                    "year": "2011",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD013867-BIB0014|cit14",
+                    "first-page": "123",
+                    "article-title": "Selective effects of topiramate on sustained repetitive firing and spontaneous bursting in cultured hippocampal neurons",
+                    "volume": "34",
+                    "author": "Coulter",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0015|cit15",
+                    "unstructured": "Deeks JJ Higgins JPT Chapter 10: Analysing data and undertaking meta-analyses. In: Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA (editors). Cochrane Handbook for Systematic Reviews of Interventions version 6.1 (updated September 2020). Cochrane, 2020 Available from training.cochrane.org/handbook"
+                },
+                {
+                    "issue": "7-8",
+                    "key": "10.1002/14651858.CD013867-BIB0016|cit16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "932",
+                    "DOI": "10.1002/sim.3767",
+                    "article-title": "Checking consistency in mixed treatment comparison meta-analysis",
+                    "volume": "29",
+                    "author": "Dias",
+                    "year": "2010",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0017|cit17",
+                    "unstructured": "Dias S Welton NJ Sutton AJ Ades AE NICE DSU Technical Support Document 2. A Generalised Linear Modelling Framework for Pairwise and Network Meta-Analysis of Randomised Controlled Trials. National Institute for Health and Care Excellence (NICE); 2014 Apr Available from www.ncbi.nlm.nih.gov/books/NBK310366/ 27466657"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD013867-BIB0018|cit18",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "145",
+                    "DOI": "10.1016/j.nurt.2006.10.002",
+                    "article-title": "Lacosamide",
+                    "volume": "4",
+                    "author": "Doty",
+                    "year": "2007",
+                    "journal-title": "Neurotherapeutics"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0019|cit19",
+                    "unstructured": "European Medicines Agency Guideline on clinical investigation of medicinal products in the treatment of epileptic disorders. Revision 3 [draft] CHMP/EWP/566/98 Rev.3 2018 Available from www.ema.europa.eu/en/documents/scientific-guideline/draft-guideline-clinical-investigation-medicinal-products-treatment-epileptic-disorders-revision-3_en.pdf"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD013867-BIB0020|cit20",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "437",
+                    "DOI": "10.1111/j.1528-1157.1979.tb04825.x",
+                    "article-title": "Antiepileptic properties of clobazam, a 1-5 benzodiazepine, in man",
+                    "volume": "20",
+                    "author": "Gastaut",
+                    "year": "1979",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1-2",
+                    "key": "10.1002/14651858.CD013867-BIB0021|cit21",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "102",
+                    "DOI": "10.1016/j.ejphar.2006.02.022",
+                    "article-title": "Binding characteristics of levetiracetam to synaptic vesicle protein 2A (SV2A) in human brain and in CHO cells expressing the human recombinant protein",
+                    "volume": "536",
+                    "author": "Gillard",
+                    "year": "2006",
+                    "journal-title": "European Journal of Pharmacology"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD013867-BIB0022|cit22",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "889",
+                    "DOI": "10.2165/00003495-199141060-00007",
+                    "article-title": "Vigabatrin: a review of its pharmacodynamic and pharmacokinetic properties, and therapeutic potential in epilepsy and disorders of motor control",
+                    "volume": "41",
+                    "author": "Grant",
+                    "year": "1991",
+                    "journal-title": "Drugs"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD013867-BIB0023|cit23",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1331",
+                    "DOI": "10.1111/j.1528-1167.2011.03109.x",
+                    "article-title": "Perampanel: a novel, orally active, noncompetitive AMPA-receptor antagonist that reduces seizure activity in rodent models of epilepsy",
+                    "volume": "52",
+                    "author": "Hanada",
+                    "year": "2011",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD013867-BIB0024|cit24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "453",
+                    "DOI": "10.1111/j.1528-1157.1993.tb02586.x",
+                    "article-title": "Incidence of epilepsy and unprovoked seizures in Rochester, Minnesota: 1935-1984",
+                    "volume": "34",
+                    "author": "Hauser",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0025|cit25",
+                    "unstructured": "Higgins JP Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011] The Cochrane Collaboration, 2011. Available from training.cochrane.org/handbook/archive/v5.1"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0026|cit26",
+                    "unstructured": "Higgins JPT Thomas J Chandler J Cumpston M Li T Page MJ Cochrane Handbook for Systematic Reviews of Interventions \u00a0version 6.1\u00a0(updated September 2020). Cochrane, 2020 Available from www.training.cochrane.org/handbook.",
+                    "DOI": "10.1002/9781119536604",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD013867-BIB0027|cit27",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1007/s00415-017-8621-x",
+                    "article-title": "Efficacy and safety of antiepileptic drugs for refractory partial-onset epilepsy: a network meta-analysis",
+                    "volume": "265",
+                    "author": "Hu",
+                    "year": "2018",
+                    "journal-title": "Journal of Neurology"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD013867-BIB0028|cit28",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1069",
+                    "DOI": "10.1111/j.1528-1167.2009.02397.x",
+                    "article-title": "Definition of drug resistant epilepsy: consensus proposal by the ad hoc Task Force of the ILAE Commission on Therapeutic Strategies",
+                    "volume": "51",
+                    "author": "Kwan",
+                    "year": "2010",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD013867-BIB0029|cit29",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "86",
+                    "DOI": "10.1016/s0895-4356(01)00414-0",
+                    "article-title": "A comparison of summary patient-level covariates in meta-regression with individual patient data meta-analysis",
+                    "volume": "55",
+                    "author": "Lambert",
+                    "year": "2002",
+                    "journal-title": "Journal of Clinical Epidemiology"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0030|cit30",
+                    "unstructured": "Lefebvre C Glanville J Briscoe S Littlewood A Marshall C Technical Supplement to Chapter 4: Searching for and selecting studies. In: Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, et al, editor(s). Cochrane Handbook for Systematic Reviews of Interventions version 6.0 (updated July 2019). Cochrane, 2019 Available from www.training.cochrane.org/handbook"
+                },
+                {
+                    "issue": "Suppl 1",
+                    "key": "10.1002/14651858.CD013867-BIB0031|cit31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S5",
+                    "DOI": "10.1016/j.seizure.2004.04.016",
+                    "article-title": "Zonisamide: chemistry, mechanism of action, and pharmacokinetics",
+                    "volume": "13",
+                    "author": "Leppik",
+                    "year": "2004",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD013867-BIB0032|cit32",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "9",
+                    "DOI": "10.1046/j.1528-1157.2002.24501.x",
+                    "article-title": "Selective blockade of N-type calcium channels by levetiracetam",
+                    "volume": "43",
+                    "author": "Lukyanetz",
+                    "year": "2002",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "26",
+                    "key": "10.1002/14651858.CD013867-BIB0033|cit33",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "9861",
+                    "DOI": "10.1073/pnas.0308208101",
+                    "article-title": "The synaptic vesicle protein SV2A is the binding site for the antiepileptic drug levetiracetam",
+                    "volume": "101",
+                    "author": "Lynch",
+                    "year": "2004",
+                    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0034|cit34",
+                    "author": "Marson",
+                    "issue": "3",
+                    "year": "2000",
+                    "article-title": "Carbamazepine versus valproate monotherapy for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001030",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "9566",
+                    "key": "10.1002/14651858.CD013867-BIB0035|cit35",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1000",
+                    "DOI": "10.1016/S0140-6736(07)60460-7",
+                    "article-title": "The SANAD study of effectiveness of carbamazepine, gabapentin, lamotrigine, oxcarbazepine, or topiramate for treatment of partial epilepsy: an unblinded randomised controlled trial",
+                    "volume": "369",
+                    "author": "Marson",
+                    "year": "2007",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0036|cit36",
+                    "author": "Mbizvo",
+                    "issue": "7",
+                    "year": "2020",
+                    "article-title": "Levetiracetam add-on for drug-resistant focal epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001901.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD013867-BIB0037|cit37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S73",
+                    "DOI": "10.1111/j.1528-1157.1995.tb06001.x",
+                    "article-title": "Gabapentin",
+                    "volume": "36",
+                    "author": "McLean",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0038|cit38",
+                    "author": "Nevitt",
+                    "issue": "12",
+                    "year": "2017",
+                    "article-title": "Antiepileptic drug monotherapy for epilepsy: a network meta-analysis of individual participant data",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD011412.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1-2",
+                    "key": "10.1002/14651858.CD013867-BIB0039|cit39",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "5",
+                    "DOI": "10.1016/s0304-3940(01)01884-5",
+                    "article-title": "Levetiracetam inhibits the high-voltage-activated Ca(2+) current in pyramidal neurones of rat hippocampal slices",
+                    "volume": "306",
+                    "author": "Niespodziany",
+                    "year": "2001",
+                    "journal-title": "Neuroscience Letters"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD013867-BIB0040|cit40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e1003082",
+                    "DOI": "10.1371/journal.pmed.1003082",
+                    "article-title": "CINeMA: an approach for assessing confidence in the results of a network meta-analysis",
+                    "volume": "17",
+                    "author": "Nikolakopoulou",
+                    "year": "2020",
+                    "journal-title": "PLoS Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0041|cit41",
+                    "author": "Panebianco",
+                    "issue": "7",
+                    "year": "2019",
+                    "article-title": "Pregabalin add-on for drug-resistant focal epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD005612.pub4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0042|cit42",
+                    "author": "Panebianco",
+                    "issue": "3",
+                    "year": "2020",
+                    "article-title": "Lamotrigine add-on therapy for drug-resistant focal epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001909.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0043|cit43",
+                    "author": "Panebianco",
+                    "issue": "1",
+                    "year": "2021",
+                    "article-title": "Gabapentin add-on treatment for drug-resistant focal epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001415.pub4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD013867-BIB0044|cit44",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "182",
+                    "DOI": "10.1212/wnl.34.2.182",
+                    "article-title": "Biochemical and clinical effects of \u03b3-vinyl GABA in patients with epilepsy",
+                    "volume": "34",
+                    "author": "Schechter",
+                    "year": "1984",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0045|cit45",
+                    "unstructured": "Sch\u00fcnemann H Bro\u017cek J Guyatt G Oxman A Handbook for grading the quality of evidence and the strength of recommendations using the GRADE approach (updated October 2013). GRADE Working Group, 2013 Available from gdt.guidelinedevelopment.org/app/handbook/handbook.html"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD013867-BIB0046|cit46",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "463",
+                    "DOI": "10.2165/00019053-200826060-00002",
+                    "article-title": "Cost of epilepsy: a systematic review",
+                    "volume": "26",
+                    "author": "Strzelczyk",
+                    "year": "2008",
+                    "journal-title": "PharmacoEconomics"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD013867-BIB0047|cit47",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "651",
+                    "DOI": "10.1002/sim.2916",
+                    "article-title": "Meta-analysis of individual- and aggregate-level data",
+                    "volume": "27",
+                    "author": "Sutton",
+                    "year": "2008",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD013867-BIB0048|cit48",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "257",
+                    "DOI": "10.1016/0165-6147(80)90014-0",
+                    "article-title": "Sodium valproate, GABA and epilepsy",
+                    "volume": "1",
+                    "author": "Turner",
+                    "year": "1980",
+                    "journal-title": "Trends in Pharmacological Sciences"
+                },
+                {
+                    "issue": "1-2",
+                    "key": "10.1002/14651858.CD013867-BIB0049|cit49",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1016/s0169-328x(03)00183-9",
+                    "article-title": "Effect of zonisamide on molecular regulation of glutamate and GABA transporter proteins during epileptogenesis in rats with hippocampal seizures",
+                    "volume": "116",
+                    "author": "Ueda",
+                    "year": "2003",
+                    "journal-title": "Molecular Brain Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0050|cit50",
+                    "author": "Weston",
+                    "issue": "6",
+                    "year": "2015",
+                    "article-title": "Lacosamide add-on therapy for partial epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD008841.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0051|cit51",
+                    "unstructured": "World Health Organization (WHO) Epilepsy www.who.int/news-room/fact-sheets/detail/epilepsy"
+                },
+                {
+                    "key": "10.1002/14651858.CD013867-BIB0052|cit52",
+                    "unstructured": "WinBUGS - a Bayesian modelling framework: concepts, structure, and extensibility. Statistics and Computing,\u00a010 :325-337. 2000"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        14
+                    ]
+                ],
+                "date-time": "2021-02-14T01:50:58Z",
+                "timestamp": 1613267458000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        11
+                    ]
+                ]
+            },
+            "references-count": 52,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD013867",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {},
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1002/14651858.CD013867)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1002%2F14651858.CD013867%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1002%2F14651858.CD013867%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102746427"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102746427?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102746427&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102746427&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102746427",
+                        "dc:identifier": "SCOPUS_ID:85102746427",
+                        "eid": "2-s2.0-85102746427",
+                        "dc:title": "Antiepileptic drug add-on therapy for focal epilepsy: a network meta-analysis",
+                        "dc:creator": "Gianatsi M.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:issn": "14651858",
+                        "prism:volume": "2021",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-02-11",
+                        "prism:coverDisplayDate": "11 February 2021",
+                        "prism:doi": "10.1002/14651858.CD013867",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "CD013867",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "24CZQQNJ.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Antiepileptic drug add-on therapy for focal epilepsy: a network meta-analysis",
+        "full_author_list": [
+            {
+                "clean": "Gianatsi M",
+                "family": "Gianatsi",
+                "given": "Myrsini",
+                "affiliation": {
+                    "name": "Department of Health Data Science; University of Liverpool; Liverpool UK"
+                }
+            },
+            {
+                "clean": "Hill R",
+                "family": "Hill",
+                "given": "Ruaraidh A",
+                "affiliation": {
+                    "name": "Liverpool Reviews and Implementation Group; University of Liverpool; Liverpool UK"
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology; Institute of Translational Medicine, University of Liverpool; Liverpool UK"
+                }
+            },
+            {
+                "clean": "Nevitt S",
+                "family": "Nevitt",
+                "given": "Sarah J",
+                "affiliation": {
+                    "name": "Department of Health Data Science; University of Liverpool; Liverpool UK"
+                }
+            },
+            {
+                "clean": "Donegan S",
+                "family": "Donegan",
+                "given": "Sarah",
+                "affiliation": {
+                    "name": "Department of Health Data Science; University of Liverpool; Liverpool UK"
+                }
+            },
+            {
+                "clean": "Tudur Smith C",
+                "family": "Tudur Smith",
+                "given": "Catrin",
+                "affiliation": {
+                    "name": "Department of Health Data Science; University of Liverpool; Liverpool UK"
+                }
+            }
+        ],
+        "first_author": "Gianatsi M",
+        "zotero_tags": [
+            {
+                "tag": "PCCC"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": ""
+        },
+        "clean_date": {
+            "month": "2",
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Health Data Science; University of Liverpool; Liverpool UK",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

@@ -1,0 +1,571 @@
+{
+    "IDs": {
+        "zotero": "PIEUMXYQ",
+        "DOI": "10.1136/ebnurs-2020-103287",
+        "DOI_filename": "25f7e73a32c27bd8b13829cd9cd5f0ce",
+        "PMID": "32709601",
+        "scopus": "2-s2.0-85108543355",
+        "hash": "c4fd6a99e9a49f38a0b4634af6161718"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "PIEUMXYQ",
+            "version": 986,
+            "itemType": "journalArticle",
+            "title": "Fathers report experiencing negative feelings and psychological difficulties during the perinatal period",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "James",
+                    "lastName": "Hill"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Elizabeth",
+                    "lastName": "Gomez"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Clegg"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Evidence Based Nursing",
+            "volume": "24",
+            "issue": "3",
+            "pages": "79-79",
+            "date": "07/2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Evid Based Nurs",
+            "language": "en",
+            "DOI": "10.1136/ebnurs-2020-103287",
+            "ISSN": "1367-6539, 1468-9618",
+            "shortTitle": "",
+            "url": "https://ebn.bmj.com/lookup/doi/10.1136/ebnurs-2020-103287",
+            "accessDate": "2021-07-23T16:46:13Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32709601",
+            "tags": [
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:29Z",
+            "dateModified": "2021-07-27T11:56:56Z",
+            "pmid": "32709601"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        21
+                    ]
+                ],
+                "date-time": "2021-06-21T12:11:15Z",
+                "timestamp": 1624277475774
+            },
+            "reference-count": 4,
+            "publisher": "BMJ",
+            "issue": "3",
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        7
+                    ]
+                ]
+            },
+            "DOI": "10.1136/ebnurs-2020-103287",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        24
+                    ]
+                ],
+                "date-time": "2020-07-24T21:24:54Z",
+                "timestamp": 1595625894000
+            },
+            "page": "79-79",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Fathers report experiencing negative feelings and psychological difficulties during the perinatal period",
+            "prefix": "10.1136",
+            "volume": "24",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-1430-6927",
+                    "authenticated-orcid": false,
+                    "given": "James",
+                    "family": "Hill",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Elizabeth",
+                    "family": "Gomez",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Andrew",
+                    "family": "Clegg",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        24
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2021062104500866000_24.3.79.1",
+                    "DOI": "10.1016/j.jad.2015.09.063",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021062104500866000_24.3.79.2",
+                    "DOI": "10.1001/jama.2010.605",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021062104500866000_24.3.79.3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2118",
+                    "DOI": "10.11124/JBISRIR-2017-003773",
+                    "article-title": "Mental health and wellbeing during the transition to fatherhood: a systematic review of first time fathers' experiences",
+                    "volume": "16",
+                    "author": "Baldwin",
+                    "year": "2018",
+                    "journal-title": "JBI Database System Rev Implement Rep"
+                },
+                {
+                    "key": "2021062104500866000_24.3.79.4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1307",
+                    "DOI": "10.1111/jan.14325",
+                    "article-title": "Paternal mental health during the perinatal period: a qualitative systematic review",
+                    "volume": "76",
+                    "author": "Shorey",
+                    "year": "2020",
+                    "journal-title": "J Adv Nurs"
+                }
+            ],
+            "container-title": "Evidence Based Nursing",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/ebnurs-2020-103287",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        21
+                    ]
+                ],
+                "date-time": "2021-06-21T11:52:18Z",
+                "timestamp": 1624276338000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        24
+                    ]
+                ]
+            },
+            "references-count": 4,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2021,
+                            6,
+                            21
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            7
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "alternative-id": [
+                "10.1136/ebnurs-2020-103287"
+            ],
+            "URL": "http://dx.doi.org/10.1136/ebnurs-2020-103287",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1367-6539",
+                "1468-9618"
+            ],
+            "subject": [
+                "Fundamentals and skills"
+            ],
+            "container-title-short": "Evid Based Nurs"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM",
+                    "N"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [
+                    [
+                        "mental health",
+                        "nursing",
+                        "paediatrics",
+                        "qualitative research"
+                    ]
+                ],
+                "OtherID": [],
+                "PMID": "32709601",
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "07",
+                    "Day": "25"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "07",
+                            "Day": "24"
+                        }
+                    ],
+                    "ELocationID": [
+                        "ebnurs-2020-103287",
+                        "10.1136/ebnurs-2020-103287"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1468-9618",
+                        "JournalIssue": {
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Jul",
+                                "Day": "24"
+                            }
+                        },
+                        "Title": "Evidence-based nursing",
+                        "ISOAbbreviation": "Evid Based Nurs"
+                    },
+                    "ArticleTitle": "Fathers report experiencing negative feelings and psychological difficulties during the perinatal period.",
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Health Technology Assessment Group, University of Central Lancashire, Preston, Lancashire, UK jehill1@uclan.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0003-1430-6927"
+                            ],
+                            "LastName": "Hill",
+                            "ForeName": "James",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Community Health & Midwifery, University of Central Lancashire, Preston, Lancashire, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gomez",
+                            "ForeName": "Elizabeth",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Health Technology Assessment Group, University of Central Lancashire, Preston, Lancashire, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Clegg",
+                            "ForeName": "Andrew",
+                            "Initials": "A"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Evid Based Nurs",
+                    "NlmUniqueID": "9815947",
+                    "ISSNLinking": "1367-6539"
+                },
+                "CoiStatement": "Competing interests: None declared."
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "06",
+                        "Day": "11"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "7",
+                        "Day": "26",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "7",
+                        "Day": "28",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "7",
+                        "Day": "28",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "aheadofprint",
+                "ArticleIdList": [
+                    "32709601",
+                    "ebnurs-2020-103287",
+                    "10.1136/ebnurs-2020-103287"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1136/ebnurs-2020-103287)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1136%2Febnurs-2020-103287%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1136%2Febnurs-2020-103287%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108543355"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108543355?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108543355&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108543355&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108543355",
+                        "dc:identifier": "SCOPUS_ID:85108543355",
+                        "eid": "2-s2.0-85108543355",
+                        "dc:title": "Fathers report experiencing negative feelings and psychological difficulties during the perinatal period",
+                        "dc:creator": "Hill J.",
+                        "prism:publicationName": "Evidence-Based Nursing",
+                        "prism:issn": "13676539",
+                        "prism:eIssn": "14689618",
+                        "prism:volume": "24",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "79",
+                        "prism:coverDate": "2021-07-01",
+                        "prism:coverDisplayDate": "1 July 2021",
+                        "prism:doi": "10.1136/ebnurs-2020-103287",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "no",
+                        "subtypeDescription": "Note",
+                        "source-id": "27689",
+                        "openaccess": "0",
+                        "openaccessFlag": false,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "PIEUMXYQ.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32709601"
+            }
+        },
+        "title": "Fathers report experiencing negative feelings and psychological difficulties during the perinatal period.",
+        "full_author_list": [
+            {
+                "clean": "Hill J",
+                "family": "Hill",
+                "given": "James",
+                "affiliation": {
+                    "name": "Health Technology Assessment Group, University of Central Lancashire, Preston, Lancashire, UK jehill1@uclan.ac.uk."
+                }
+            },
+            {
+                "clean": "Gomez E",
+                "family": "Gomez",
+                "given": "Elizabeth",
+                "affiliation": {
+                    "name": "School of Community Health & Midwifery, University of Central Lancashire, Preston, Lancashire, UK."
+                }
+            },
+            {
+                "clean": "Clegg A",
+                "family": "Clegg",
+                "given": "Andrew",
+                "affiliation": {
+                    "name": "Health Technology Assessment Group, University of Central Lancashire, Preston, Lancashire, UK."
+                }
+            }
+        ],
+        "first_author": "Hill J",
+        "zotero_tags": [
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "mental health",
+                "nursing",
+                "paediatrics",
+                "qualitative research"
+            ]
+        },
+        "journal": {
+            "journal_name": "Evid Based Nurs",
+            "volume": "",
+            "issue": ""
+        },
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Health Technology Assessment Group, University of Central Lancashire, Preston, Lancashire, UK jehill1@uclan.ac.uk.",
+            "clean_institute": "University of Central Lancashire",
+            "country": "United Kingdom",
+            "latitude": "53.759444444444",
+            "longitude": "-2.6980555555556"
+        }
+    }
+}

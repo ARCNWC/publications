@@ -1,0 +1,1115 @@
+{
+    "IDs": {
+        "zotero": "YG6X23HD",
+        "DOI": "10.1080/17482631.2020.1857579",
+        "DOI_filename": "4703317f1f24aeccd9a7f6249a3a9faf",
+        "PMID": "33287691",
+        "scopus": "2-s2.0-85097367653",
+        "hash": "bf29a515c91dba2645d7f59cfc49a99a"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "YG6X23HD",
+            "version": 993,
+            "itemType": "journalArticle",
+            "title": "Non-visible disease, the hidden disruptive experiences of chronic illness in adversity",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Sara",
+                    "lastName": "Estecha Querol"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Pam",
+                    "lastName": "Clarke"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Elisabeth Lilian Pia",
+                    "lastName": "Sattler"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jason C. G.",
+                    "lastName": "Halford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "International Journal of Qualitative Studies on Health and Well-being",
+            "volume": "15",
+            "issue": "1",
+            "pages": "1857579",
+            "date": "2020-01-01",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "International Journal of Qualitative Studies on Health and Well-being",
+            "language": "en",
+            "DOI": "10.1080/17482631.2020.1857579",
+            "ISSN": "1748-2631",
+            "shortTitle": "",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/17482631.2020.1857579",
+            "accessDate": "2021-07-23T16:46:10Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33287691",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:21Z",
+            "dateModified": "2021-07-27T12:05:15Z",
+            "pmid": "33287691"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        12
+                    ]
+                ],
+                "date-time": "2021-05-12T22:40:27Z",
+                "timestamp": 1620859227338
+            },
+            "reference-count": 52,
+            "publisher": "Informa UK Limited",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                12,
+                                4
+                            ]
+                        ],
+                        "date-time": "2020-12-04T00:00:00Z",
+                        "timestamp": 1607040000000
+                    },
+                    "delay-in-days": 338,
+                    "content-version": "unspecified"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "National Institute for Health Research (NIHR) CLAHRC NWC Programme",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        1,
+                        1
+                    ]
+                ]
+            },
+            "DOI": "10.1080/17482631.2020.1857579",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        8
+                    ]
+                ],
+                "date-time": "2020-12-08T16:50:23Z",
+                "timestamp": 1607446223000
+            },
+            "page": "1857579",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Non-visible disease, the hidden disruptive experiences of chronic illness in adversity",
+            "prefix": "10.1080",
+            "volume": "15",
+            "author": [
+                {
+                    "given": "Sara",
+                    "family": "Estecha Querol",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Population Health, University of Liverpool, Liverpool, UK"
+                        },
+                        {
+                            "name": "Academic Unit of Primary Care, Warwick Medical School, University of Warwick, Coventry, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Pam",
+                    "family": "Clarke",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Population Health, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Elisabeth Lilian Pia",
+                    "family": "Sattler",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Foods and Nutrition and Department of Clinical and Administrative Pharmacy, University of Georgia, Athens, GA, USA"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jason C. G.",
+                    "family": "Halford",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Population Health, University of Liverpool, Liverpool, UK"
+                        },
+                        {
+                            "name": "School of Psychology, University of Leeds, Leeds, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Population Health, University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        7
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "cit0001",
+                    "DOI": "10.1016/S1353-8292(03)00013-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0002",
+                    "DOI": "10.1093/pubmed/fdu029",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0003",
+                    "DOI": "10.1136/jech.2008.082743",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0004",
+                    "DOI": "10.1136/bmj.j3310",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0005",
+                    "DOI": "10.1080/14768320500286526",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0006",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0007",
+                    "author": "Braun V.",
+                    "year": "2013",
+                    "volume-title": "Successful qualitative research: A practical guide for beginners"
+                },
+                {
+                    "key": "cit0008",
+                    "DOI": "10.1111/1467-9566.ep11339939",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0009",
+                    "DOI": "10.1111/j.1467-9566.1991.tb00522.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0010",
+                    "DOI": "10.1111/1467-9566.00252",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0011",
+                    "unstructured": "Calnan, M. & Rowe, R. (2005). Trust relations in the \u2018new\u2019 NHS: Theoretical and methodological challenges. Department of Social Medicine, University of Bristol. https://www.kent.ac.uk/scarr/events/Calnanand%20Rowe%20paper.pdf"
+                },
+                {
+                    "key": "cit0012",
+                    "DOI": "10.1093/pubmed/fdx055",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0013",
+                    "DOI": "10.1111/1467-9566.ep10934486",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "505",
+                    "key": "cit0014",
+                    "first-page": "589",
+                    "volume": "54",
+                    "author": "Chapple A.",
+                    "year": "2004",
+                    "journal-title": "British Journal of General Practice"
+                },
+                {
+                    "key": "cit0015",
+                    "unstructured": "Department for Communities and Local Government. (2015). The index of multiple deprivation 2015. National Statistics. https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015"
+                },
+                {
+                    "key": "cit0016",
+                    "author": "Dorling D.",
+                    "first-page": "66",
+                    "year": "2009",
+                    "volume-title": "Understanding health inequalities"
+                },
+                {
+                    "key": "cit0017",
+                    "DOI": "10.1177/1359105311414952",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0018",
+                    "DOI": "10.1177/1742395307082124",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0019",
+                    "DOI": "10.1111/j.1467-9566.2004.00388.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2",
+                    "key": "cit0020",
+                    "first-page": "101",
+                    "volume": "7",
+                    "author": "Felde L. H.",
+                    "year": "2011",
+                    "journal-title": "Qualitative Sociology Review"
+                },
+                {
+                    "key": "cit0021",
+                    "DOI": "10.1177/0020764003494003",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0022",
+                    "DOI": "10.1080/09687599.2011.560420",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0023",
+                    "DOI": "10.1016/j.socscimed.2015.03.019",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0024",
+                    "author": "Graham H.",
+                    "year": "2009",
+                    "volume-title": "Understanding Health Inequalities"
+                },
+                {
+                    "key": "cit0025",
+                    "DOI": "10.1016/j.appet.2016.01.004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0026",
+                    "DOI": "10.1177/1363459309353294",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0027",
+                    "DOI": "10.1186/1471-2458-10-538",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0028",
+                    "DOI": "10.4135/9780857020116",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0029",
+                    "DOI": "10.3945/an.112.003277",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0030",
+                    "DOI": "10.1111/1467-9566.00338",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0031",
+                    "DOI": "10.1111/j.1467-9566.2009.01176.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0032",
+                    "author": "Marmot M.",
+                    "year": "2010",
+                    "volume-title": "Fair society healthy lives (The Marmot review)"
+                },
+                {
+                    "key": "cit0033",
+                    "DOI": "10.1186/s12889-015-1781-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0034",
+                    "unstructured": "National Institute for Health Research. (2017). NIHR CLAHRC North West Coast Health Inequalities Assessment Toolkit (HIAT). National Institute for Health Research. http://www.hiat.org.uk/"
+                },
+                {
+                    "key": "cit0035",
+                    "unstructured": "Nelson, M., Erens, B., Bates, B., Church, S. & Boshier, T. (2007). Low income diet and nutrition survey. London: The Stationery Office."
+                },
+                {
+                    "key": "cit0036",
+                    "DOI": "10.3109/09638288.2013.788217",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0037",
+                    "DOI": "10.1093/acprof:oso/9780198703358.003.0014",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0038",
+                    "author": "Pilgrim D.",
+                    "year": "2010",
+                    "volume-title": "Examining trust in healthcare: A multidisciplinary perspective"
+                },
+                {
+                    "key": "cit0039",
+                    "DOI": "10.1016/S0277-9536(02)00299-X",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0040",
+                    "DOI": "10.1111/1467-9566.00112",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0041",
+                    "DOI": "10.1177/1363459309353298",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0042",
+                    "DOI": "10.1111/j.1467-9566.2010.01305.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0043",
+                    "DOI": "10.1056/NEJMp1000072",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0044",
+                    "DOI": "10.2190/986L-LHQ6-2VTE-YRRN",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0045",
+                    "unstructured": "Whitehead, M. (2014). Due North: Report of the Inquiry on Health Equity for the North. University of Liverpool and Centre for Local Economic Strategies. https://www.gmcvo.org.uk/system/files/Due-North-Report-of-the-Inquiry-on-Health-Equity-in-the-North-final.pdf"
+                },
+                {
+                    "key": "cit0046",
+                    "DOI": "10.1016/j.socscimed.2017.08.031",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0047",
+                    "DOI": "10.1080/2159676X.2017.1346698",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0048",
+                    "DOI": "10.1111/1467-9566.00191",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0049",
+                    "DOI": "10.1111/1467-9566.00220",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0050",
+                    "DOI": "10.1093/jn/133.9.2762",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "cit0051",
+                    "author": "Wood J.",
+                    "year": "2006",
+                    "volume-title": "Where wealth means health. Illustrating inequality in the North West"
+                },
+                {
+                    "key": "cit0052",
+                    "unstructured": "World Health Organization. (2008). Social determinants of health. World Health Organization. https://www.who.int/social_determinants/thecommission/finalreport/key_concepts/en/"
+                }
+            ],
+            "container-title": "International Journal of Qualitative Studies on Health and Well-being",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/17482631.2020.1857579",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        12
+                    ]
+                ],
+                "date-time": "2021-05-12T22:10:44Z",
+                "timestamp": 1620857444000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        1,
+                        1
+                    ]
+                ]
+            },
+            "references-count": 52,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            1,
+                            1
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "10.1080/17482631.2020.1857579"
+            ],
+            "URL": "http://dx.doi.org/10.1080/17482631.2020.1857579",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1748-2631"
+            ],
+            "container-title-short": "International Journal of Qualitative Studies on Health and Well-being",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=zqhw20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=zqhw20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                },
+                {
+                    "value": "2020-11-24",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2020-12-07",
+                    "order": 3,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [
+                    [
+                        "Chronic illness experience",
+                        "adversity",
+                        "biographical disruption",
+                        "cardiovascular disease",
+                        "disruptive experience",
+                        "health inequalities"
+                    ]
+                ],
+                "OtherID": [],
+                "PMID": "33287691",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "07"
+                },
+                "Article": {
+                    "ArticleDate": [],
+                    "ELocationID": [
+                        "10.1080/17482631.2020.1857579"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1748-2631",
+                        "JournalIssue": {
+                            "Volume": "15",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Dec"
+                            }
+                        },
+                        "Title": "International journal of qualitative studies on health and well-being",
+                        "ISOAbbreviation": "Int J Qual Stud Health Well-being"
+                    },
+                    "ArticleTitle": "Non-visible disease, the hidden disruptive experiences of chronic illness in adversity.",
+                    "Pagination": {
+                        "MedlinePgn": "1857579"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "<b>Objective</b>: This study's principal aim was to describe the lived reality for people with cardiovascular disease (CVD) and other chronic health conditions, who live in economically deprived neighbourhoods in a city in North West England. <b>Methodology</b>: This is a qualitative, exploratory study based on in-depth, semi-structured interviews with participants experiencing compromised cardiovascular health, conducted in August 2017. The study sample comprised 14 adults (3 females) aged 54 to 76. Thematic analysis was used for data analysis, and the biographical disruption concept was used as theoretical reference to explore the results. Wider health inequalities literature supplemented the individual experiences of chronic illness. <b>Results</b>: Four main themes were developed from the data: (1) chronic illness as a disruptive experience; (2) struggling for money; (3) lifestyle and health risks; and (4) reflections on current inequalities. The varied nature of participants' narratives about their chronic illness indicated that the experience of biographical disruption depends on the wider socioeconomic and cultural factors of the individual. <b>Discussion</b>: This study suggests that biographical disruption theory combined with health inequalities contexts highlights the role of hidden suffering and enhances the understanding of chronic illness experiences and thus informs clinical management, service and public health planning."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health, University of Liverpool , Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Academic Unit of Primary Care, Warwick Medical School, University of Warwick , Coventry, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Estecha Querol",
+                            "ForeName": "Sara",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health, University of Liverpool , Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Clarke",
+                            "ForeName": "Pam",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Foods and Nutrition and Department of Clinical and Administrative Pharmacy, University of Georgia , Athens, GA, USA."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Sattler",
+                            "ForeName": "Elisabeth Lilian Pia",
+                            "Initials": "ELP"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health, University of Liverpool , Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Psychology, University of Leeds , Leeds, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Halford",
+                            "ForeName": "Jason C G",
+                            "Initials": "JCG"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health, University of Liverpool , Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Int J Qual Stud Health Well-being",
+                    "NlmUniqueID": "101256506",
+                    "ISSNLinking": "1748-2623"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Br J Gen Pract. 2004 Aug;54(505):589-94",
+                                "ArticleIdList": [
+                                    "15296557"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2015 May 02;15:457",
+                                "ArticleIdList": [
+                                    "25934496"
+                                ]
+                            },
+                            {
+                                "Citation": "Sociol Health Illn. 2004 Mar;26(2):242-61",
+                                "ArticleIdList": [
+                                    "15027986"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Place. 2003 Jun;9(2):129-37",
+                                "ArticleIdList": [
+                                    "12753796"
+                                ]
+                            },
+                            {
+                                "Citation": "Sociol Health Illn. 1982 Jul;4(2):167-82",
+                                "ArticleIdList": [
+                                    "10260456"
+                                ]
+                            },
+                            {
+                                "Citation": "J Public Health (Oxf). 2014 Jun;36(2):183-6",
+                                "ArticleIdList": [
+                                    "24860153"
+                                ]
+                            },
+                            {
+                                "Citation": "Sociol Health Illn. 2011 May;33(4):618-33",
+                                "ArticleIdList": [
+                                    "21281314"
+                                ]
+                            },
+                            {
+                                "Citation": "Health (London). 2010 Mar;14(2):178-95",
+                                "ArticleIdList": [
+                                    "20164165"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2010 Sep 08;10:538",
+                                "ArticleIdList": [
+                                    "20825660"
+                                ]
+                            },
+                            {
+                                "Citation": "Sociol Health Illn. 2003;25:23-40",
+                                "ArticleIdList": [
+                                    "14498928"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2017 Oct;190:181-189",
+                                "ArticleIdList": [
+                                    "28865254"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2015 May;132:38-44",
+                                "ArticleIdList": [
+                                    "25792338"
+                                ]
+                            },
+                            {
+                                "Citation": "Health (London). 2010 Mar;14(2):131-46",
+                                "ArticleIdList": [
+                                    "20164162"
+                                ]
+                            },
+                            {
+                                "Citation": "Sociol Health Illn. 2009 Nov;31(7):1043-58",
+                                "ArticleIdList": [
+                                    "19659736"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2010 Apr;64(4):284-91",
+                                "ArticleIdList": [
+                                    "19692738"
+                                ]
+                            },
+                            {
+                                "Citation": "J Public Health (Oxf). 2018 Jun 1;40(2):350-358",
+                                "ArticleIdList": [
+                                    "28525612"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2003 Jul;57(1):55-69",
+                                "ArticleIdList": [
+                                    "12753816"
+                                ]
+                            },
+                            {
+                                "Citation": "J Nutr. 2003 Sep;133(9):2762-9",
+                                "ArticleIdList": [
+                                    "12949362"
+                                ]
+                            },
+                            {
+                                "Citation": "Chronic Illn. 2007 Jun;3(2):155-66",
+                                "ArticleIdList": [
+                                    "18083670"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2017 Jul 26;358:j3310",
+                                "ArticleIdList": [
+                                    "28747304"
+                                ]
+                            },
+                            {
+                                "Citation": "Adv Nutr. 2013 Mar 01;4(2):203-12",
+                                "ArticleIdList": [
+                                    "23493536"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Soc Psychiatry. 2003 Dec;49(4):251-63",
+                                "ArticleIdList": [
+                                    "14727692"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Psychol. 2012 Mar;17(2):157-68",
+                                "ArticleIdList": [
+                                    "21799078"
+                                ]
+                            },
+                            {
+                                "Citation": "Disabil Rehabil. 2014;36(3):232-41",
+                                "ArticleIdList": [
+                                    "23631656"
+                                ]
+                            },
+                            {
+                                "Citation": "Appetite. 2016 Apr 1;99:235-244",
+                                "ArticleIdList": [
+                                    "26767615"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Health Serv. 1992;22(3):429-45",
+                                "ArticleIdList": [
+                                    "1644507"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2010 Jul 1;363(1):6-9",
+                                "ArticleIdList": [
+                                    "20592297"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "8",
+                        "Hour": "5",
+                        "Minute": "30"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "33287691",
+                    "10.1080/17482631.2020.1857579",
+                    "PMC7733900"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33287691)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833287691%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833287691%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097367653"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097367653?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097367653&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097367653&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097367653",
+                        "dc:identifier": "SCOPUS_ID:85097367653",
+                        "eid": "2-s2.0-85097367653",
+                        "dc:title": "Non-visible disease, the hidden disruptive experiences of chronic illness in adversity",
+                        "prism:publicationName": "International Journal of Qualitative Studies on Health and Well-being",
+                        "prism:issn": "17482623",
+                        "prism:eIssn": "17482631",
+                        "prism:volume": "15",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-01-01",
+                        "prism:coverDisplayDate": "2020",
+                        "prism:doi": "10.1080/17482631.2020.1857579",
+                        "citedby-count": "0",
+                        "pubmed-id": "33287691",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "1857579",
+                        "source-id": "11800154595",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "YG6X23HD.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33287691"
+            }
+        },
+        "title": "Non-visible disease, the hidden disruptive experiences of chronic illness in adversity.",
+        "full_author_list": [
+            {
+                "clean": "Estecha Querol S",
+                "family": "Estecha Querol",
+                "given": "Sara",
+                "affiliation": {
+                    "name": "Institute of Population Health, University of Liverpool , Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Clarke P",
+                "family": "Clarke",
+                "given": "Pam",
+                "affiliation": {
+                    "name": "Institute of Population Health, University of Liverpool , Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Sattler E",
+                "family": "Sattler",
+                "given": "Elisabeth Lilian Pia",
+                "affiliation": {
+                    "name": "Department of Foods and Nutrition and Department of Clinical and Administrative Pharmacy, University of Georgia , Athens, GA, USA."
+                }
+            },
+            {
+                "clean": "Halford J",
+                "family": "Halford",
+                "given": "Jason C G",
+                "affiliation": {
+                    "name": "Institute of Population Health, University of Liverpool , Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Institute of Population Health, University of Liverpool , Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Estecha Querol S",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "Chronic illness experience",
+                "adversity",
+                "biographical disruption",
+                "cardiovascular disease",
+                "disruptive experience",
+                "health inequalities"
+            ]
+        },
+        "journal": {
+            "journal_name": "Int J Qual Stud Health Well-being",
+            "volume": "15",
+            "issue": "1"
+        },
+        "abstract": "[\"<b>Objective</b>: This study's principal aim was to describe the lived reality for people with cardiovascular disease (CVD) and other chronic health conditions, who live in economically deprived neighbourhoods in a city in North West England. <b>Methodology</b>: This is a qualitative, exploratory study based on in-depth, semi-structured interviews with participants experiencing compromised cardiovascular health, conducted in August 2017. The study sample comprised 14 adults (3 females) aged 54 to 76. Thematic analysis was used for data analysis, and the biographical disruption concept was used as theoretical reference to explore the results. Wider health inequalities literature supplemented the individual experiences of chronic illness. <b>Results</b>: Four main themes were developed from the data: (1) chronic illness as a disruptive experience; (2) struggling for money; (3) lifestyle and health risks; and (4) reflections on current inequalities. The varied nature of participants' narratives about their chronic illness indicated that the experience of biographical disruption depends on the wider socioeconomic and cultural factors of the individual. <b>Discussion</b>: This study suggests that biographical disruption theory combined with health inequalities contexts highlights the role of hidden suffering and enhances the understanding of chronic illness experiences and thus informs clinical management, service and public health planning.\"]",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Population Health, University of Liverpool , Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

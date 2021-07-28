@@ -1,0 +1,1586 @@
+{
+    "IDs": {
+        "zotero": "VKZTAT2D",
+        "DOI": "10.1002/14651858.CD001417.pub4",
+        "DOI_filename": "62c032574398ede5b1a3063497cee4e8",
+        "PMID": "31642054",
+        "scopus": "2-s2.0-85074036942",
+        "hash": "3b55f82a78dc600091fc62bc7244b38e"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "VKZTAT2D",
+            "version": 1001,
+            "itemType": "journalArticle",
+            "title": "Topiramate add-on therapy for drug-resistant focal epilepsy",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Rebecca",
+                    "lastName": "Bresnahan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Juliet",
+                    "lastName": "Hounsome"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Nathalie",
+                    "lastName": "Jette"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jane L",
+                    "lastName": "Hutton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2019-10-23",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD001417.pub4",
+            "ISSN": "14651858",
+            "shortTitle": "",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1002/14651858.CD001417.pub4",
+            "accessDate": "2021-07-23T16:46:08Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:31642054",
+            "tags": [
+                {
+                    "tag": "PCCC"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:16Z",
+            "dateModified": "2021-07-27T12:13:28Z",
+            "pmid": "31642054"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        22
+                    ]
+                ],
+                "date-time": "2021-02-22T13:47:44Z",
+                "timestamp": 1614001664754
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2019,
+                                10,
+                                23
+                            ]
+                        ],
+                        "date-time": "2019-10-23T00:00:00Z",
+                        "timestamp": 1571788800000
+                    },
+                    "DOI": "10.1002/14651858.cd001417.pub3",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 73,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd001417.pub4",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        10,
+                        23
+                    ]
+                ],
+                "date-time": "2019-10-23T18:44:48Z",
+                "timestamp": 1571856288000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": "Topiramate add-on therapy for drug-resistant focal epilepsy",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Rebecca",
+                    "family": "Bresnahan",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Lower Lane Liverpool UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Juliet",
+                    "family": "Hounsome",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool; Liverpool Reviews and Implementation Group; Sherrington Building Ashton Street Liverpool UK L69 3GE"
+                        }
+                    ]
+                },
+                {
+                    "given": "Nathalie",
+                    "family": "Jette",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Icahn School of Medicine at Mount Sinai; Neurology; One Gustave L. Levey Place Box 1137 New York New York USA 10029"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jane L",
+                    "family": "Hutton",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Warwick; Department of Statistics; Coventry UK CV4 7AL"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Lower Lane Liverpool UK L9 7LJ"
+                        },
+                        {
+                            "name": "The Walton Centre NHS Foundation Trust; Liverpool UK"
+                        },
+                        {
+                            "name": "Liverpool Health Partners; Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        10,
+                        23
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "Suppl 3",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0001|cit1",
+                    "first-page": "S150",
+                    "article-title": "Double-blind, placebo-controlled trial of 800 mg/day topiramate as add-on therapy in patients with refractory partial epilepsy",
+                    "volume": "36",
+                    "author": "Ben-Menachem",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0002|cit2",
+                    "first-page": "109",
+                    "article-title": "Topiramate add-on treatment in patients with intractable partial epilepsy: a multicenter study",
+                    "volume": "34",
+                    "author": "Ben-Menachem",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0003|cit3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "539",
+                    "DOI": "10.1111/j.1528-1157.1996.tb00606.x",
+                    "article-title": "Double-blind, placebo-controlled trial of topiramate as add-on therapy in patients with refractory partial seizures",
+                    "volume": "37",
+                    "author": "Ben-Menachem",
+                    "year": "1996",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 3",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0004|cit4",
+                    "first-page": "S149",
+                    "article-title": "Double-blind, placebo-controlled trial of 400 mg/day topiramate as add-on therapy in patients with refractory partial epilepsy",
+                    "volume": "36",
+                    "author": "Martinez-Lage",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 3",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0005|cit5",
+                    "first-page": "105",
+                    "article-title": "Topiramate as add-on therapy in refractory partial epilepsy",
+                    "volume": "33",
+                    "author": "Ostergard",
+                    "year": "1992",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 1",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0006|cit6",
+                    "first-page": "105, Abstract n",
+                    "article-title": "USL255, a once-daily, extended-release topiramate, has positive effects on clinical outcomes and quality of life: results from the phase 3 PREVAIL clinical trial",
+                    "volume": "14",
+                    "author": "Arnold",
+                    "year": "2014",
+                    "journal-title": "Epilepsy Currents"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0007|cit7",
+                    "first-page": "42-43, Abstract",
+                    "article-title": "Efficacy and safety of USL255, once-daily extended-release topiramate, in adults with partial onset seizures: the PREVAIL study",
+                    "volume": "55",
+                    "author": "Blatt",
+                    "year": "2014",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "10 Suppl",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0008|cit8",
+                    "first-page": "Abstract no: P3",
+                    "article-title": "Efficacy of USL255 across partial-onset seizure types and refractory patient status: subgroup analyses from the PREVAIL study",
+                    "volume": "82",
+                    "author": "Blatt",
+                    "year": "2014",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "Suppl 1",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0009|cit9",
+                    "first-page": "204, Abstract n",
+                    "article-title": "USL255 is efficacious across all partial-onset seizure types and with a variety of concomitant antiepileptic drugs: Results from subgroup analyses of the phase 3 PREVAIL clinical trial",
+                    "volume": "14",
+                    "author": "Blatt",
+                    "year": "2014",
+                    "journal-title": "Epilepsy Currents"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0010|cit10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1127",
+                    "DOI": "10.1586/14737175.2014.958470",
+                    "article-title": "USL255 extended-release topiramate for the treatment of epilepsy",
+                    "volume": "14",
+                    "author": "Chung",
+                    "year": "2014",
+                    "journal-title": "Expert Review of Neurotherapeutics"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0013|cit11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "131",
+                    "DOI": "10.1177/1756285615578406",
+                    "article-title": "A review of the efficacy and safety of extended-release topiramate in the adjunctive treatment for refractory partial-onset seizures",
+                    "volume": "8",
+                    "author": "Chung",
+                    "year": "2015",
+                    "journal-title": "Therapeutic Advances in Neurological Disorders"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0011|cit12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1077",
+                    "DOI": "10.1111/epi.12660",
+                    "article-title": "Once-daily USL255 as adjunctive treatment of partial-onset seizures: randomized phase III study",
+                    "volume": "55",
+                    "author": "Chung",
+                    "year": "2014",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0012|cit13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "13",
+                    "DOI": "10.1016/j.yebeh.2016.03.005",
+                    "article-title": "Long-term safety and sustained efficacy of USL255 (topiramate extended-release capsules) in patients with refractory partial-onset seizures",
+                    "volume": "59",
+                    "author": "Chung",
+                    "year": "2016",
+                    "journal-title": "Epilepsy & Behavior"
+                },
+                {
+                    "issue": "Suppl 1",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0014|cit14",
+                    "first-page": "142-3, Abstract",
+                    "article-title": "Efficacy of USL255 (qudexyTM XR; Extended-release topiramate) in patients with refractory partial-onset seizures: PREVAIL and PREVAIL OLE",
+                    "volume": "15",
+                    "author": "Clark",
+                    "year": "2015",
+                    "journal-title": "Epilepsy Currents"
+                },
+                {
+                    "issue": "10 Suppl",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0015|cit15",
+                    "first-page": "Abstract no: P3",
+                    "article-title": "Adverse event profile of USL255 in patients with refractory partial-onset seizures: the PREVAIL study",
+                    "volume": "82",
+                    "author": "Hogan",
+                    "year": "2014",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "Suppl 1",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0016|cit16",
+                    "first-page": "103-4, Abstract",
+                    "article-title": "Safety and tolerability of USL255 in subjects with refractory partial-onset seizures: results from the randomized, phase 3 PREVAIL clinical trial",
+                    "volume": "14",
+                    "author": "Hogan",
+                    "year": "2014",
+                    "journal-title": "Epilepsy Currents"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0017|cit17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "136",
+                    "DOI": "10.1016/j.yebeh.2014.09.061",
+                    "article-title": "Efficacy of once-daily extended-release topiramate (USL255): a subgroup analysis based on the level of treatment resistance",
+                    "volume": "41",
+                    "author": "Hogan",
+                    "year": "2014",
+                    "journal-title": "Epilepsy & Behavior"
+                },
+                {
+                    "issue": "Suppl 1",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0018|cit18",
+                    "first-page": "104, Abstract n",
+                    "article-title": "Time to onset of efficacy and sustained treatment effects of USL255: results from the phase 3 PREVAIL clinical trial",
+                    "volume": "14",
+                    "author": "Lawson",
+                    "year": "2014",
+                    "journal-title": "Epilepsy Currents"
+                },
+                {
+                    "issue": "10 Suppl",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0019|cit19",
+                    "first-page": "Abstract no: P3",
+                    "article-title": "Early onset of efficacy and safety outcomes with USL255 treatment: The PREVAIL study",
+                    "volume": "82",
+                    "author": "Nagaraddi",
+                    "year": "2014",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0020|cit20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1338",
+                    "DOI": "10.1212/WNL.52.7.1338",
+                    "article-title": "A double-blind, randomized trial of topiramate as adjunctive therapy for partial-onset seizures in children",
+                    "volume": "52",
+                    "author": "Elterman",
+                    "year": "1999",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "Suppl 4",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0022|cit21",
+                    "first-page": "33, Abstract no",
+                    "article-title": "Topiramate dose-ranging trial in refractory partial epilepsy",
+                    "volume": "36",
+                    "author": "Faught",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0021|cit22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1684",
+                    "DOI": "10.1212/WNL.46.6.1684",
+                    "article-title": "Topiramate placebo-controlled dose-ranging trial in refractory partial epilepsy using 200-, 400-, and 600-mg daily dosages",
+                    "volume": "46",
+                    "author": "Faught",
+                    "year": "1996",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0023|cit23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "183",
+                    "DOI": "10.1034/j.1600-0404.2002.02071.x",
+                    "article-title": "Low-dose topiramate in adults with treatment-resistant partial-onset seizures",
+                    "volume": "106",
+                    "author": "Guberman",
+                    "year": "2002",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "issue": "Suppl 7",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0024|cit24",
+                    "first-page": "179-80, Abstrac",
+                    "article-title": "Efficacy of 200 mg/day topiramate in treatment-resistant partial seizures when added to an enzyme-inducing anti-epileptic drug (AED)",
+                    "volume": "42",
+                    "author": "Guberman",
+                    "year": "2001",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0025|cit25",
+                    "first-page": "35",
+                    "article-title": "Efficacy and tolerability of 200 mg/day topiramate in a placebo-controlled comparison of titration rates",
+                    "volume": "41",
+                    "author": "Neto",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 8",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0026|cit26",
+                    "first-page": "152, Abstract n",
+                    "article-title": "Weight reduction during topiramate treatment of partial seizures",
+                    "volume": "43",
+                    "author": "Oene",
+                    "year": "2002",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0027|cit27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1767",
+                    "DOI": "10.1111/j.1528-1157.1999.tb01596.x",
+                    "article-title": "Topiramate in medically intractable partial epilepsies: double-blind placebo-controlled randomized parallel group trial",
+                    "volume": "40",
+                    "author": "Korean Topiramate Study Group",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0028|cit28",
+                    "first-page": "809",
+                    "article-title": "Double-blind placebo-controlled randomized clinical trial of topiramate add-on therapy in medically intractable partial epilepsies",
+                    "volume": "16",
+                    "author": "Lee",
+                    "year": "1998",
+                    "journal-title": "Journal of the Korean Neurology Association"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0029|cit29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1678",
+                    "DOI": "10.1212/WNL.46.6.1678",
+                    "article-title": "Topiramate placebo-controlled dose-ranging trial in refractory partial epilepsy using 600-, 800-, and 1,000-mg daily dosages",
+                    "volume": "46",
+                    "author": "Privitera",
+                    "year": "1996",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "Suppl 4",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0030|cit30",
+                    "first-page": "33, Abstract no",
+                    "article-title": "Dose-ranging trial with higher doses of topiramate in patients with resistant partial seizures",
+                    "volume": "36",
+                    "author": "Privitera",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 5",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0031|cit31",
+                    "first-page": "153, Abstract n",
+                    "article-title": "Placebo-controlled trial of topiramate as adjunctive therapy to carbamazepine or phenytoin for partial-onset seizures",
+                    "volume": "37",
+                    "author": "Rosenfeld",
+                    "year": "1996",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0032|cit32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "217",
+                    "DOI": "10.1016/S0920-1211(96)00029-0",
+                    "article-title": "Double-blind, placebo-controlled study of topiramate in patients with refractory partial epilepsy",
+                    "volume": "25",
+                    "author": "Sharief",
+                    "year": "1996",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0033|cit33",
+                    "first-page": "41",
+                    "article-title": "Adjuvant topiramate treatment in intractable partial epilepsy",
+                    "volume": "6",
+                    "author": "Sharief",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 3",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0034|cit34",
+                    "first-page": "S150",
+                    "article-title": "Double-blind, placebo-controlled trial of 600 mg/day topiramate as add-on therapy in patients with refractory partial epilepsy",
+                    "volume": "36",
+                    "author": "Tassinari",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0035|cit35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "763",
+                    "DOI": "10.1111/j.1528-1157.1996.tb00649.x",
+                    "article-title": "Double-blind, placebo-controlled trial of topiramate (600 mg daily) for the treatment of refractory partial epilepsy",
+                    "volume": "37",
+                    "author": "Tassinari",
+                    "year": "1996",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0036|cit36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1162",
+                    "DOI": "10.1111/j.1528-1157.2000.tb00321.x",
+                    "article-title": "A double-blind, placebo-controlled study of topiramate in adult patients with refractory partial epilepsy",
+                    "volume": "41",
+                    "author": "Yen",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0037|cit37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "408",
+                    "DOI": "10.1177/147323001103900208",
+                    "article-title": "Topiramate as an adjunctive treatment for refractory partial epilepsy in the elderly",
+                    "volume": "39",
+                    "author": "Zhang",
+                    "year": "2011",
+                    "journal-title": "Journal of International Medical Research"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0038|cit38",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1210",
+                    "DOI": "10.1212/01.WNL.0000091867.09720.6B",
+                    "article-title": "Randomized, concentration-controlled trail of topiramate in refractory focal epilepsy",
+                    "volume": "61",
+                    "author": "Christensen",
+                    "year": "2003",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0039|cit39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e6",
+                    "DOI": "10.4081/ni.2009.e6",
+                    "article-title": "Cognitive effects of lamotrigine versus topiramate as adjunctive therapy in older adults with epilepsy",
+                    "volume": "1",
+                    "author": "Chung",
+                    "year": "2009",
+                    "journal-title": "Neurology international"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0040|cit40",
+                    "first-page": "285",
+                    "article-title": "Seizure severity in patients with partial onset (POS) or primary generalised tonic-clonic (PGTC) seizures following treatment with topiramate. A comparison of two different methodologies in a randomised controlled trial",
+                    "volume": "40",
+                    "author": "Coles",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0041|cit41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "714",
+                    "DOI": "10.1212/WNL.0b013e3181d1cd4c",
+                    "article-title": "Randomized trial of adjunctive topiramate therapy in infants with refractory partial seizures",
+                    "volume": "74",
+                    "author": "Novotny",
+                    "year": "2010",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "Suppl 7",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0042|cit42",
+                    "first-page": "233, Abstract n",
+                    "article-title": "A randomized, double-blind, placebo-controlled study of topiramate as an adjunct to anticonvulsant therapy in infants with refractory partial onset seizures",
+                    "volume": "49",
+                    "author": "Renfroe",
+                    "year": "2008",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 6",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0043|cit43",
+                    "first-page": "114, Abstract n",
+                    "article-title": "Topiramate (TPM) in older adults with partial-onset seizures: a double-blind, dose-comparison study",
+                    "volume": "46",
+                    "author": "Ramsay",
+                    "year": "2005",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0044|cit44",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1180",
+                    "DOI": "10.1111/j.1528-1167.2008.01584.x",
+                    "article-title": "Topiramate in older patients with partial-onset seizures: a pilot double-blind, dose-comparison study",
+                    "volume": "49",
+                    "author": "Ramsay",
+                    "year": "2008",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 3",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0045|cit45",
+                    "first-page": "11",
+                    "article-title": "Safety and effectiveness of three oral doses of topiramate in the treatment of patients with refractory partial epilepsy",
+                    "volume": "32",
+                    "author": "Aranguiz",
+                    "year": "1991",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0046|cit46",
+                    "first-page": "38",
+                    "article-title": "Efficacy of therapy with new antiepileptic drugs (tiagabine, gabapentin, topiramate) in drug-resistant epilepsy",
+                    "volume": "41",
+                    "author": "Kazibutowska",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0047|cit47",
+                    "unstructured": "Brown SD Wolf HH Swinyard EA Twyman RE White HS The novel anticonvulsant topiramate enhances GABA-mediated chloride flux Epilepsia 1993 122 3"
+                },
+                {
+                    "issue": "8968",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0048|cit48",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "140",
+                    "DOI": "10.1016/S0140-6736(95)91208-8",
+                    "article-title": "Remission of epilepsy: results from the national general practice study of epilepsy",
+                    "volume": "346",
+                    "author": "Cockerell",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0049|cit49",
+                    "first-page": "123",
+                    "article-title": "Selective effects of topiramate on sustained repetitive firing and spontaneous bursting in cultured hippocampal neurons",
+                    "volume": "34",
+                    "author": "Coulter",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0050|cit50",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "296",
+                    "DOI": "10.1212/WNL.0000000000003509",
+                    "article-title": "Prevalence and incidence of epilepsy: A systematic review and meta-analysis of international studies",
+                    "volume": "88",
+                    "author": "Fiest",
+                    "year": "2017",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0051|cit51",
+                    "unstructured": "McMaster University (developed by Evidence Prime) GRADEpro GDT 2015"
+                },
+                {
+                    "issue": "18",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0052|cit52",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "7069",
+                    "DOI": "10.1523/JNEUROSCI.23-18-07069.2003",
+                    "article-title": "Selective antagonism of GluR5 kainate-receptor-mediated synaptic currents by topiramate in rat basolateral amygdala neurons",
+                    "volume": "23",
+                    "author": "Gryder",
+                    "year": "2003",
+                    "journal-title": "The Journal of Neuroscience"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0053|cit53",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "210",
+                    "DOI": "10.1016/S0028-3908(01)00171-X",
+                    "article-title": "Two new actions of topiramate: inhibition of depolarizing GABA(A)-mediated responses and activation of a potassium conductance",
+                    "volume": "42",
+                    "author": "Herrero",
+                    "year": "2002",
+                    "journal-title": "Neuropharmacology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0054|cit54",
+                    "unstructured": "Higgins JP Green S editor(s) Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0055|cit55",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "c365",
+                    "DOI": "10.1136/bmj.c365",
+                    "article-title": "The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews",
+                    "volume": "340",
+                    "author": "Kirkham",
+                    "year": "2010",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0056|cit56",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "314",
+                    "DOI": "10.1056/NEJM200002033420503",
+                    "article-title": "Early identification of refractory epilepsy",
+                    "volume": "342",
+                    "author": "Kwan",
+                    "year": "2000",
+                    "journal-title": "New England Journal of Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0057|cit57",
+                    "unstructured": "Lefebvre C Manheimer E Glanville J Chapter 6: Searching for studies. In: Higgins JP, Green S, editor(s). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from handbook.cochrane.org"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0058|cit58",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "84",
+                    "DOI": "10.1136/bmjebm-2018-110891",
+                    "article-title": "The effect of publication bias magnitude and direction on the certainty in evidence",
+                    "volume": "23",
+                    "author": "Murad",
+                    "year": "2018",
+                    "journal-title": "BMJ Evidence-Based Medicine"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0059|cit59",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "241",
+                    "DOI": "10.1006/phrs.1997.0124",
+                    "article-title": "A pharmacological and clinical review on topiramate, a new antiepileptic drug",
+                    "volume": "35",
+                    "author": "Perucca",
+                    "year": "1997",
+                    "journal-title": "Pharmacological Research"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0060|cit60",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1164",
+                    "DOI": "10.1177/106002809703101010",
+                    "article-title": "Topiramate: a new antiepileptic drug",
+                    "volume": "31",
+                    "author": "Privitera",
+                    "year": "1997",
+                    "journal-title": "The Annals of Pharmacotherapy"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0061|cit61",
+                    "unstructured": "Nordic Cochrane Centre, The Cochrane Collaboration Review Manager 5 (RevMan 5) 2014"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0062|cit62",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "475",
+                    "DOI": "10.1111/j.1528-1157.1981.tb06158.x",
+                    "article-title": "Phenytoin for epilepsy: a long term prospective study, assisted by serum level monitoring, in previously untreated patients",
+                    "volume": "22",
+                    "author": "Reynolds",
+                    "year": "1981",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0063|cit63",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "512",
+                    "DOI": "10.1111/epi.13709",
+                    "article-title": "ILAE classification of the epilepsies: position paper of the ILAE Commission for Classification and Terminology",
+                    "volume": "58",
+                    "author": "Scheffer",
+                    "year": "2017",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0064|cit64",
+                    "unstructured": "Sch\u00fcnemann H Bro\u017cek J Guyatt G Oxman A editor(s) Handbook for grading the quality of evidence and the strength of recommendations using the GRADE approach (updated October 2013). GRADE Working Group, 2013 Available from gdt.guidelinedevelopment.org/app/handbook/handbook.html"
+                },
+                {
+                    "issue": "24",
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0065|cit65",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "3417",
+                    "DOI": "10.1002/1097-0258(20001230)19:24<3417::AID-SIM614>3.0.CO;2-L",
+                    "article-title": "A multilevel model framework for meta-analysis of clinical trials with binary outcomes",
+                    "volume": "19",
+                    "author": "Turner",
+                    "year": "2000",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0066|cit66",
+                    "author": "Jette",
+                    "issue": "1",
+                    "year": "1999",
+                    "article-title": "TOPIRAMATE FOR DRUG RESISTANT PARTIAL EPILEPSY",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001417",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0067|cit67",
+                    "author": "Jette",
+                    "issue": "3",
+                    "year": "1999",
+                    "article-title": "TOPIRAMATE IN DRUG-RESISTANT PARTIAL EPILEPSY",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001417",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0068|cit68",
+                    "author": "Jette",
+                    "issue": "1",
+                    "year": "2000",
+                    "article-title": "Topiramate for drug-resistant partial epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001417",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0069|cit69",
+                    "author": "Jette",
+                    "issue": "3",
+                    "year": "2002",
+                    "article-title": "Topiramate add-on for drug-resistant partial epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001417",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0070|cit70",
+                    "author": "Jette",
+                    "issue": "3",
+                    "year": "2008",
+                    "article-title": "Topiramate add-on for drug-resistant partial epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001417.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0071|cit71",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1169",
+                    "DOI": "10.1136/bmj.313.7066.1169",
+                    "article-title": "New antiepileptic drugs; a systematic review of their efficacy and tolerability",
+                    "volume": "313",
+                    "author": "Marson",
+                    "year": "1996",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0072|cit72",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "859",
+                    "DOI": "10.1111/j.1528-1157.1997.tb01251.x",
+                    "article-title": "The new antiepileptic drugs; a systematic review of their efficacy and tolerability",
+                    "volume": "38",
+                    "author": "Marson",
+                    "year": "1997",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001417.pub4-BIB0073|cit73",
+                    "author": "Pulman",
+                    "issue": "2",
+                    "year": "2014",
+                    "article-title": "Topiramate add-on for drug-resistant partial epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001417.pub3",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001417.pub4/epdf/full",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        22
+                    ]
+                ],
+                "date-time": "2021-02-22T13:19:28Z",
+                "timestamp": 1613999968000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        10,
+                        23
+                    ]
+                ]
+            },
+            "references-count": 73,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD001417.pub4",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "31642054",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "01",
+                    "Day": "10"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "10",
+                            "Day": "23"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD001417.pub4"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "10",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "Oct",
+                                "Day": "23"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Topiramate add-on therapy for drug-resistant focal epilepsy.",
+                    "Pagination": {
+                        "MedlinePgn": "CD001417"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The majority of people with epilepsy have a good prognosis and their seizures are controlled by a single antiepileptic drug. However, up to 20% of patients from population-based studies, and up to 30% from clinical series (not population-based), develop drug-resistant epilepsy, especially those with focal-onset seizures. In this review, we summarise the current evidence regarding topiramate, an antiepileptic drug first marketed in 1996, when used as an add-on treatment for drug-resistant focal epilepsy.This is an update of a Cochrane Review first published in 1999, and last updated in 2014.",
+                            "To evaluate the efficacy and tolerability of topiramate when used as an add-on treatment for people with drug-resistant focal epilepsy.",
+                            "For the latest update of this review we searched the following databases on 2 July 2018: Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE (Ovid, 1946- ); ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP). We imposed no language restrictions. We also contacted the manufacturers of topiramate and researchers in the field to identify any ongoing or unpublished studies.",
+                            "Randomised, placebo-controlled add-on trials of topiramate, recruiting people with drug-resistant focal epilepsy.",
+                            "Two review authors independently selected trials for inclusion and extracted the relevant data. We assessed the following outcomes: (1) 50% or greater reduction in seizure frequency; (2) seizure freedom; (3) treatment withdrawal (any reason); (4) adverse effects. Primary analyses were intention-to-treat (ITT), and summary risk ratios (RRs) with 95% confidence intervals (95% CIs) are presented. We evaluated dose-response in regression models. We carried out a 'Risk of bias' assessment for each included study using the Cochrane 'Risk of bias' tool and assessed the overall certainty of evidence using the GRADE approach.",
+                            "We included 12 trials, representing 1650 participants. Baseline phases ranged from four to 12 weeks and double-blind phases ranged from 11 to 19 weeks. The RR for a 50% or greater reduction in seizure frequency with add-on topiramate compared to placebo was 2.71 (95% CI 2.05 to 3.59; 12 studies; high-certainty evidence). Dose regression analysis showed increasing effect with increasing topiramate dose demonstrated by an odds ratio (OR) of 1.45 (95% CI 1.28 to 1.64; P < 0.001) per 200 mg/d increase in topiramate dosage. The proportion of participants achieving seizure freedom was also significantly increased with add-on topiramate compared to placebo (RR 3.67, 95% CI 1.79 to 7.54; 8 studies; moderate-certainty evidence). Treatment withdrawal was significantly higher for add-on topiramate compared to placebo (RR 2.37, 95% CI 1.66 to 3.37; 12 studies; high-certainty evidence). The RRs for the following adverse effects indicate that they are significantly more prevalent with topiramate, compared to placebo: ataxia 2.29 (99% CI 1.10 to 4.77; 4 studies); concentration difficulties 7.81 (99% CI 2.08 to 29.29; 6 studies; moderate-certainty evidence); dizziness 1.52 (99% CI 1.07 to 2.16; 8 studies); fatigue 2.08 (99% CI 1.37 to 3.15; 10 studies); paraesthesia 3.65 (99% CI 1.58 to 8.39; 7 studies; moderate-certainty evidence); somnolence 2.44 (99% CI 1.61 to 3.68; 9 studies); 'thinking abnormally' 5.70 (99% CI 2.26 to 14.38; 4 studies; high-certainty evidence); and weight loss 3.99 (99% CI 1.82 to 8.72; 9 studies; low-certainty evidence). Evidence of publication bias for the primary outcome was found (Egger test, P = 0.001). We rated all studies included in the review as having either low or unclear risk of bias. Overall, we assessed the evidence as moderate to high certainty due to the evidence of publication bias, statistical heterogeneity and imprecision, which was partially compensated for by large effect sizes.",
+                            "Topiramate has efficacy as an add-on treatment for drug-resistant focal epilepsy as it is almost three times more effective compared to a placebo in reducing seizures. The trials reviewed were of relatively short duration and provided no evidence for the long-term efficacy of topiramate. Short-term use of add-on topiramate was shown to be associated with several adverse events. The results of this review should only be applied to adult populations as only one study included children. Future research should consider further examining the effect of dose."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Lower Lane, Liverpool, UK, L9 7LJ."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bresnahan",
+                            "ForeName": "Rebecca",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Hounsome",
+                            "ForeName": "Juliet",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Jette",
+                            "ForeName": "Nathalie",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Hutton",
+                            "ForeName": "Jane L",
+                            "Initials": "JL"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "SRP/16/114/26",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Acta Neurol Scand. 2002 Oct;106(4):183-9",
+                                "ArticleIdList": [
+                                    "12225311"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1996 Jun;46(6):1678-83",
+                                "ArticleIdList": [
+                                    "8649569"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1981 Aug;22(4):475-88",
+                                "ArticleIdList": [
+                                    "6790274"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2002;(3):CD001417",
+                                "ArticleIdList": [
+                                    "12137625"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1999 Apr 22;52(7):1338-44",
+                                "ArticleIdList": [
+                                    "10227615"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1999 Dec;40(12):1767-74",
+                                "ArticleIdList": [
+                                    "10612342"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1996 Jun;46(6):1684-90",
+                                "ArticleIdList": [
+                                    "8649570"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Pharmacother. 1997 Oct;31(10):1164-73",
+                                "ArticleIdList": [
+                                    "9337443"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2000;41 Suppl 1:S40-4",
+                                "ArticleIdList": [
+                                    "10768299"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacol Res. 1997 Apr;35(4):241-56",
+                                "ArticleIdList": [
+                                    "9264038"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2008 Jul 16;(3):CD001417",
+                                "ArticleIdList": [
+                                    "18646072"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2010 Mar 2;74(9):714-20",
+                                "ArticleIdList": [
+                                    "20089937"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurol Int. 2009 Nov 16;1(1):e6",
+                                "ArticleIdList": [
+                                    "21577364"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2000 Sep;41(9):1162-6",
+                                "ArticleIdList": [
+                                    "10999555"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2017 Jan 17;88(3):296-303",
+                                "ArticleIdList": [
+                                    "27986877"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2008 Jul;49(7):1180-5",
+                                "ArticleIdList": [
+                                    "18494791"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2016 Jun;59:13-20",
+                                "ArticleIdList": [
+                                    "27084978"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1996 Aug;37(8):763-8",
+                                "ArticleIdList": [
+                                    "8764816"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2017 Apr;58(4):512-521",
+                                "ArticleIdList": [
+                                    "28276062"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurosci. 2003 Aug 6;23(18):7069-74",
+                                "ArticleIdList": [
+                                    "12904467"
+                                ]
+                            },
+                            {
+                                "Citation": "Neuropharmacology. 2002 Feb;42(2):210-20",
+                                "ArticleIdList": [
+                                    "11804617"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2014 Dec;41:136-9",
+                                "ArticleIdList": [
+                                    "25461205"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2014 Feb 25;(2):CD001417",
+                                "ArticleIdList": [
+                                    "24570033"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1997 Aug;38(8):859-80",
+                                "ArticleIdList": [
+                                    "9579887"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 1996 Nov 9;313(7066):1169-74",
+                                "ArticleIdList": [
+                                    "8916746"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2003 Nov 11;61(9):1210-8",
+                                "ArticleIdList": [
+                                    "14610122"
+                                ]
+                            },
+                            {
+                                "Citation": "Ther Adv Neurol Disord. 2015 May;8(3):131-6",
+                                "ArticleIdList": [
+                                    "25941540"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Feb 15;340:c365",
+                                "ArticleIdList": [
+                                    "20156912"
+                                ]
+                            },
+                            {
+                                "Citation": "Expert Rev Neurother. 2014 Oct;14(10):1127-37",
+                                "ArticleIdList": [
+                                    "25220748"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2000;(2):CD001417",
+                                "ArticleIdList": [
+                                    "10796787"
+                                ]
+                            },
+                            {
+                                "Citation": "J Int Med Res. 2011;39(2):408-15",
+                                "ArticleIdList": [
+                                    "21672344"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1996 Jun;37(6):539-43",
+                                "ArticleIdList": [
+                                    "8641230"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1995 Jul 15;346(8968):140-4",
+                                "ArticleIdList": [
+                                    "7603228"
+                                ]
+                            },
+                            {
+                                "Citation": "Stat Med. 2000 Dec 30;19(24):3417-32",
+                                "ArticleIdList": [
+                                    "11122505"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1996 Nov;25(3):217-24",
+                                "ArticleIdList": [
+                                    "8956919"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2014 Jul;55(7):1077-87",
+                                "ArticleIdList": [
+                                    "24902983"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Evid Based Med. 2018 Jun;23(3):84-86",
+                                "ArticleIdList": [
+                                    "29650725"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2000 Feb 3;342(5):314-9",
+                                "ArticleIdList": [
+                                    "10660394"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "10",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "10",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "10",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "aheadofprint",
+                "ArticleIdList": [
+                    "31642054",
+                    "10.1002/14651858.CD001417.pub4",
+                    "PMC6806021"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(31642054)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831642054%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831642054%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074036942"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074036942?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85074036942&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85074036942&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85074036942",
+                        "dc:identifier": "SCOPUS_ID:85074036942",
+                        "eid": "2-s2.0-85074036942",
+                        "dc:title": "Topiramate add-on therapy for drug-resistant focal epilepsy",
+                        "dc:creator": "Bresnahan R.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2019",
+                        "prism:issueIdentifier": "10",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2019-10-23",
+                        "prism:coverDisplayDate": "23 October 2019",
+                        "prism:doi": "10.1002/14651858.CD001417.pub4",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "31642054",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "CD001417",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "VKZTAT2D.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "31642054"
+            }
+        },
+        "title": "Topiramate add-on therapy for drug-resistant focal epilepsy.",
+        "full_author_list": [
+            {
+                "clean": "Bresnahan R",
+                "family": "Bresnahan",
+                "given": "Rebecca",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Lower Lane, Liverpool, UK, L9 7LJ."
+                }
+            },
+            {
+                "clean": "Hounsome J",
+                "family": "Hounsome",
+                "given": "Juliet",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Jette N",
+                "family": "Jette",
+                "given": "Nathalie",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Hutton J",
+                "family": "Hutton",
+                "given": "Jane L",
+                "affiliation": {
+                    "name": ""
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": ""
+                }
+            }
+        ],
+        "first_author": "Bresnahan R",
+        "zotero_tags": [
+            {
+                "tag": "PCCC"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "10",
+            "issue": ""
+        },
+        "abstract": "['The majority of people with epilepsy have a good prognosis and their seizures are controlled by a single antiepileptic drug. However, up to 20% of patients from population-based studies, and up to 30% from clinical series (not population-based), develop drug-resistant epilepsy, especially those with focal-onset seizures. In this review, we summarise the current evidence regarding topiramate, an antiepileptic drug first marketed in 1996, when used as an add-on treatment for drug-resistant focal epilepsy.This is an update of a Cochrane Review first published in 1999, and last updated in 2014.', 'To evaluate the efficacy and tolerability of topiramate when used as an add-on treatment for people with drug-resistant focal epilepsy.', 'For the latest update of this review we searched the following databases on 2 July 2018: Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE (Ovid, 1946- ); ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP). We imposed no language restrictions. We also contacted the manufacturers of topiramate and researchers in the field to identify any ongoing or unpublished studies.', 'Randomised, placebo-controlled add-on trials of topiramate, recruiting people with drug-resistant focal epilepsy.', \"Two review authors independently selected trials for inclusion and extracted the relevant data. We assessed the following outcomes: (1) 50% or greater reduction in seizure frequency; (2) seizure freedom; (3) treatment withdrawal (any reason); (4) adverse effects. Primary analyses were intention-to-treat (ITT), and summary risk ratios (RRs) with 95% confidence intervals (95% CIs) are presented. We evaluated dose-response in regression models. We carried out a 'Risk of bias' assessment for each included study using the Cochrane 'Risk of bias' tool and assessed the overall certainty of evidence using the GRADE approach.\", \"We included 12 trials, representing 1650 participants. Baseline phases ranged from four to 12 weeks and double-blind phases ranged from 11 to 19 weeks. The RR for a 50% or greater reduction in seizure frequency with add-on topiramate compared to placebo was 2.71 (95% CI 2.05 to 3.59; 12 studies; high-certainty evidence). Dose regression analysis showed increasing effect with increasing topiramate dose demonstrated by an odds ratio (OR) of 1.45 (95% CI 1.28 to 1.64; P < 0.001) per 200 mg/d increase in topiramate dosage. The proportion of participants achieving seizure freedom was also significantly increased with add-on topiramate compared to placebo (RR 3.67, 95% CI 1.79 to 7.54; 8 studies; moderate-certainty evidence). Treatment withdrawal was significantly higher for add-on topiramate compared to placebo (RR 2.37, 95% CI 1.66 to 3.37; 12 studies; high-certainty evidence). The RRs for the following adverse effects indicate that they are significantly more prevalent with topiramate, compared to placebo: ataxia 2.29 (99% CI 1.10 to 4.77; 4 studies); concentration difficulties 7.81 (99% CI 2.08 to 29.29; 6 studies; moderate-certainty evidence); dizziness 1.52 (99% CI 1.07 to 2.16; 8 studies); fatigue 2.08 (99% CI 1.37 to 3.15; 10 studies); paraesthesia 3.65 (99% CI 1.58 to 8.39; 7 studies; moderate-certainty evidence); somnolence 2.44 (99% CI 1.61 to 3.68; 9 studies); 'thinking abnormally' 5.70 (99% CI 2.26 to 14.38; 4 studies; high-certainty evidence); and weight loss 3.99 (99% CI 1.82 to 8.72; 9 studies; low-certainty evidence). Evidence of publication bias for the primary outcome was found (Egger test, P = 0.001). We rated all studies included in the review as having either low or unclear risk of bias. Overall, we assessed the evidence as moderate to high certainty due to the evidence of publication bias, statistical heterogeneity and imprecision, which was partially compensated for by large effect sizes.\", 'Topiramate has efficacy as an add-on treatment for drug-resistant focal epilepsy as it is almost three times more effective compared to a placebo in reducing seizures. The trials reviewed were of relatively short duration and provided no evidence for the long-term efficacy of topiramate. Short-term use of add-on topiramate was shown to be associated with several adverse events. The results of this review should only be applied to adult populations as only one study included children. Future research should consider further examining the effect of dose.']",
+        "clean_date": {
+            "year": "2019"
+        },
+        "year_published": "2019",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Lower Lane, Liverpool, UK, L9 7LJ.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

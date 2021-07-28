@@ -1,0 +1,1429 @@
+{
+    "IDs": {
+        "zotero": "HHYF854S",
+        "DOI": "10.1186/s12961-020-00648-z",
+        "DOI_filename": "149f43adc57947613136614c3dd3c50a",
+        "PMID": "33658047",
+        "scopus": "2-s2.0-85101985027",
+        "hash": "41e6dfb51a4a1476c18e13578fa55a0c"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "HHYF854S",
+            "version": 986,
+            "itemType": "journalArticle",
+            "title": "From fringe to centre-stage: experiences of mainstreaming health equity in a health research collaboration",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ana",
+                    "lastName": "Porroche-Escudero"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennie",
+                    "lastName": "Popay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Fiona",
+                    "lastName": "Ward"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Saiqa",
+                    "lastName": "Ahmed"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dorkas",
+                    "lastName": "Akeju"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jane",
+                    "lastName": "Cloke"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Shaima",
+                    "lastName": "Hassan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Koser",
+                    "lastName": "Khan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Esmaeil",
+                    "lastName": "Khedmati-Morasae"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              Action to address the structural determinants of health inequalities is prioritized in high-level initiatives such as the United Nations Sustainable Development Goals and many national health strategies. Yet, the focus of much local policy and practice is on behaviour change. Research shows that whilst lifestyle approaches can improve population health, at best they fail to reduce health inequalities because they fail to address upstream structural determinants of behaviour and health outcomes. In health research, most efforts have been directed at three streams of work: understanding causal pathways; evaluating the equity impact of national policy; and developing and evaluating lifestyle/behavioural approaches to health improvement. As a result, there is a dearth of research on effective interventions to reduce health inequalities that can be developed and implemented at a local level.\n            \n            \n              Objective\n              To describe an initiative that aimed to mainstream a focus on health equity in a large-scale research collaboration in the United Kingdom and to assess the impact on organizational culture, research processes and individual research practice.\n            \n            \n              Methods\n              \n                The study used multiple qualitative methods including semi-structured interviews, focus groups and workshops (\n                n\n                \u2009=\u2009131 respondents including Public Advisers, university, National Health Service (NHS), and local and document review.\n              \n            \n            \n              Results\n              utilizing Extended Normalization Process Theory (ENPT) and gender mainstreaming theory, the evaluation illuminated (i) the processes developed by Collaboration for Leadership in Applied Health Research and Care North West Coast to integrate ways of thinking and acting to tackle the upstream social determinants of health inequities (i.e. to mainstream a health equity focus) and (ii) the factors that promoted or frustrated these efforts.\n            \n            \n              Conclusions\n              Findings highlight the role of contextual factors and processes aimed at developing and implementing a robust strategy for mainstreaming health equity as building blocks for transformative change in applied health research.",
+            "publicationTitle": "Health Research Policy and Systems",
+            "volume": "19",
+            "issue": "1",
+            "pages": "28",
+            "date": "12/2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Health Res Policy Sys",
+            "language": "en",
+            "DOI": "10.1186/s12961-020-00648-z",
+            "ISSN": "1478-4505",
+            "shortTitle": "From fringe to centre-stage",
+            "url": "https://health-policy-systems.biomedcentral.com/articles/10.1186/s12961-020-00648-z",
+            "accessDate": "2021-07-23T16:46:16Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33658047",
+            "tags": [
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:38Z",
+            "dateModified": "2021-07-27T11:57:08Z",
+            "pmid": "33658047"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        4
+                    ]
+                ],
+                "date-time": "2021-03-04T23:47:08Z",
+                "timestamp": 1614901628343
+            },
+            "reference-count": 54,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                3,
+                                3
+                            ]
+                        ],
+                        "date-time": "2021-03-03T00:00:00Z",
+                        "timestamp": 1614729600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                3,
+                                3
+                            ]
+                        ],
+                        "date-time": "2021-03-03T00:00:00Z",
+                        "timestamp": 1614729600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Action to address the structural determinants of health inequalities is prioritized in high-level initiatives such as the United Nations Sustainable Development Goals and many national health strategies. Yet, the focus of much local policy and practice is on behaviour change. Research shows that whilst lifestyle approaches can improve population health, at best they fail to reduce health inequalities because they fail to address upstream structural determinants of behaviour and health outcomes. In health research, most efforts have been directed at three streams of work: understanding causal pathways; evaluating the equity impact of national policy; and developing and evaluating lifestyle/behavioural approaches to health improvement. As a result, there is a dearth of research on effective interventions to reduce health inequalities that can be developed and implemented at a local level.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Objective</jats:title>\n                <jats:p>To describe an initiative that aimed to mainstream a focus on health equity in a large-scale research collaboration in the United Kingdom and to assess the impact on organizational culture, research processes and individual research practice.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>The study used multiple qualitative methods including semi-structured interviews, focus groups and workshops (<jats:italic>n</jats:italic>\u2009=\u2009131 respondents including Public Advisers, university, National Health Service (NHS), and local and document review.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>utilizing Extended Normalization Process Theory (ENPT) and gender mainstreaming theory, the evaluation illuminated (i) the processes developed by Collaboration for Leadership in Applied Health Research and Care North West Coast to integrate ways of thinking and acting to tackle the upstream social determinants of health inequities (i.e. to mainstream a health equity focus) and (ii) the factors that promoted or frustrated these efforts.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>Findings highlight the role of contextual factors and processes aimed at developing and implementing a robust strategy for mainstreaming health equity as building blocks for transformative change in applied health research.</jats:p>\n              </jats:sec>",
+            "DOI": "10.1186/s12961-020-00648-z",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        3
+                    ]
+                ],
+                "date-time": "2021-03-03T19:10:32Z",
+                "timestamp": 1614798632000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "From fringe to centre-stage: experiences of mainstreaming health equity in a health research collaboration",
+            "prefix": "10.1186",
+            "volume": "19",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-2740-5273",
+                    "authenticated-orcid": false,
+                    "given": "Ana",
+                    "family": "Porroche-Escudero",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jennie",
+                    "family": "Popay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Fiona",
+                    "family": "Ward",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Saiqa",
+                    "family": "Ahmed",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Dorkas",
+                    "family": "Akeju",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jane",
+                    "family": "Cloke",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Shaima",
+                    "family": "Hassan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Koser",
+                    "family": "Khan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Esmaeil",
+                    "family": "Khedmati-Morasae",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        3
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "3",
+                    "key": "648_CR1",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "527",
+                    "DOI": "10.1093/ijtj/ijw018",
+                    "volume": "10",
+                    "author": "Y Ahmed",
+                    "year": "2016",
+                    "unstructured": "Ahmed Y, Duddy S, Hackett C, et al. Developing gender principles for dealing with the legacy of the past. Int J Trans Justice. 2016;10(3):527\u201337. https://doi.org/10.1093/ijtj/ijw018.",
+                    "journal-title": "Int J Trans Justice"
+                },
+                {
+                    "issue": "4",
+                    "key": "648_CR2",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "284",
+                    "DOI": "10.1136/jech.2008.082743",
+                    "volume": "64",
+                    "author": "C Bambra",
+                    "year": "2010",
+                    "unstructured": "Bambra C, Gibson M, Sowden A, et al. Tackling the wider social determinants of health and health inequalities: evidence from systematic reviews. J Epidemiol Community Health. 2010;64(4):284\u201391. https://doi.org/10.1136/jech.2008.082743.",
+                    "journal-title": "J Epidemiol Community Health"
+                },
+                {
+                    "key": "648_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "j3310",
+                    "DOI": "10.1136/bmj.j3310",
+                    "volume": "358",
+                    "author": "B Barr",
+                    "year": "2017",
+                    "unstructured": "Barr B, Higgerson J, Whitehead M. Investigating the impact of the English health inequalities strategy: time trend analysis. BMJ. 2017;358:j3310. https://doi.org/10.1136/bmj.j3310.",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "4",
+                    "key": "648_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "383",
+                    "DOI": "10.1177/135638900300900402",
+                    "volume": "9",
+                    "author": "M Bustelo",
+                    "year": "2003",
+                    "unstructured": "Bustelo M. Evaluation of gender mainstreaming: Ideas from a meta-evaluation study. Evaluation. 2003;9(4):383\u2013403.",
+                    "journal-title": "Evaluation"
+                },
+                {
+                    "key": "648_CR5",
+                    "unstructured": "Cambridge Dictionary. Mainstreaming. (n.d.). https://dictionary.cambridge.org/dictionary/english/mainstreaming (accessed 14 December 2018)."
+                },
+                {
+                    "key": "648_CR6",
+                    "author": "A Cornwall",
+                    "year": "2010",
+                    "unstructured": "Cornwall A, Eade D. Deconstructing development discourse: buzzwords and fuzzwords. Oxford: Oxfam GB; 2010.",
+                    "volume-title": "Deconstructing development discourse: buzzwords and fuzzwords",
+                    "DOI": "10.3362/9781780440095",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "648_CR7",
+                    "author": "IK Crombie",
+                    "year": "2005",
+                    "unstructured": "Crombie IK, Irvine L, Elliott L, et al. Closing the health inequalities gap: an international perspective. Copenhagen: WHO European Office for Investment for Health and Development; 2005.",
+                    "volume-title": "Closing the health inequalities gap: an international perspective"
+                },
+                {
+                    "key": "648_CR8",
+                    "unstructured": "CSDH. Closing the gap in a generation: health equity through action on the social determinants of health. Final Report of the Commission on Social Determinants of Health. Geneva: World Health Organization; 2008."
+                },
+                {
+                    "key": "648_CR9",
+                    "author": "E Dahl",
+                    "year": "2002",
+                    "unstructured": "Dahl E. Health inequalities and health policy: the Norwegian case. Norsk epidemiologi. 2002. https://doi.org/10.5324/nje.v12i1.521.",
+                    "journal-title": "Norsk epidemiologi",
+                    "DOI": "10.5324/nje.v12i1.521",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2",
+                    "key": "648_CR10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "172",
+                    "DOI": "10.1111/1467-8500.12383",
+                    "volume": "78",
+                    "author": "T Delany-Crowe",
+                    "year": "2019",
+                    "unstructured": "Delany-Crowe T, Popay J, Lawless A, et al. The role of trust in joined-up government activities: experiences from health in all policies in South Australia. Aust J Public Admin. 2019;78(2):172\u201390. https://doi.org/10.1111/1467-8500.12383.",
+                    "journal-title": "Aust J Public Admin"
+                },
+                {
+                    "key": "648_CR11",
+                    "unstructured": "Department of Health. Tackling health inequalities: a programme for action. London: Department of Health Publications. 2003. https://webarchive.nationalarchives.gov.uk/20120804220702/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_4008268. Accessed 25 Jan 2019."
+                },
+                {
+                    "issue": "1",
+                    "key": "648_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "80",
+                    "DOI": "10.1186/s12939-019-0984-4",
+                    "volume": "18",
+                    "author": "J Eslava-Schmalbach",
+                    "year": "2019",
+                    "unstructured": "Eslava-Schmalbach J, Garz\u00f3n-Orjuela N, Elias V, et al. Conceptual framework of equity-focused implementation research for health programs (EquIR). Int J Equity Health. 2019;18(1):80. https://doi.org/10.1186/s12939-019-0984-4.",
+                    "journal-title": "Int J Equity Health"
+                },
+                {
+                    "key": "648_CR13",
+                    "unstructured": "European Institute for Gender Equality. What is gender mainstreaming. 2018. https://eige.europa.eu/gender-mainstreaming/what-is-gender-mainstreaming. Accessed 23 July 2018."
+                },
+                {
+                    "key": "648_CR14",
+                    "unstructured": "European Portal for Action on Health Inequalities. Health Inequalities in the EU. n.d. https://www.health-inequalities.eu/about-hi/in-the-eu/. Accessed 25 Jan 2019."
+                },
+                {
+                    "key": "648_CR15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "117",
+                    "DOI": "10.1186/1471-2288-13-117",
+                    "volume": "13",
+                    "author": "NK Gale",
+                    "year": "2013",
+                    "unstructured": "Gale NK, Heath G, Cameron E, et al. Using the framework method for the analysis of qualitative data in multi-disciplinary health research. BMC Med Res Methodol. 2013;13:117. https://doi.org/10.1186/1471-2288-13-117.",
+                    "journal-title": "BMC Med Res Methodol"
+                },
+                {
+                    "key": "648_CR16",
+                    "author": "S Harding",
+                    "first-page": "1",
+                    "year": "1987",
+                    "unstructured": "Harding S. Introduction. Is there a feminist method? In: Harding SG, editor. Feminism and methodology. Bloominghton: Indiana University Press; 1987. p. 1\u201314.",
+                    "volume-title": "Feminism and methodology"
+                },
+                {
+                    "issue": "10171",
+                    "key": "648_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "497",
+                    "DOI": "10.1016/S0140-6736(19)30283-1",
+                    "volume": "393",
+                    "author": "S Hawkes",
+                    "year": "2019",
+                    "unstructured": "Hawkes S, Haseen F, Aounallah-Skhiri H. Measurement and meaning: reporting sex in health research. Lancet. 2019;393(10171):497\u20139. https://doi.org/10.1016/S0140-6736(19)30283-1.",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "648_CR18",
+                    "unstructured": "Hunter DJ, Popay J, Tannahill C, Whitehead M, Elson T. Marmot review working committee 3. cross-cutting sub-group report. Learning lessons from the past: shaping a different future. Institute of Health Equity, London; 2009."
+                },
+                {
+                    "issue": "3",
+                    "key": "648_CR19",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "345",
+                    "DOI": "10.1525/maq.2006.20.3.345",
+                    "volume": "20",
+                    "author": "MC Inhorn",
+                    "year": "2006",
+                    "unstructured": "Inhorn MC. Defining women\u2019s health: a dozen messages from more than 150 ethnographies. Med Anthropol Q. 2006;20(3):345\u201378. https://doi.org/10.1525/maq.2006.20.3.345.",
+                    "journal-title": "Med Anthropol Q"
+                },
+                {
+                    "key": "648_CR20",
+                    "unstructured": "Lancet. Advancing women in science, medicine and global health. The Lancet. 2019."
+                },
+                {
+                    "key": "648_CR21",
+                    "unstructured": "Leach M, Gaventa J, Oswald K. Engaged excellence. IDS Bull. 2017;47(6).",
+                    "DOI": "10.19088/1968-2016.207",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "648_CR22",
+                    "author": "M Marmot",
+                    "year": "2017",
+                    "unstructured": "Marmot M. Inclusion health: addressing the causes of the causes. Lancet. 2017. https://doi.org/10.1016/S0140-6736(17)32848-9.",
+                    "journal-title": "Lancet",
+                    "DOI": "10.1016/S0140-6736(17)32848-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "648_CR23",
+                    "author": "M Marmot",
+                    "year": "2020",
+                    "unstructured": "Marmot M, Allen J, Boyce T, et al. Health equity in England: the marmot review ten years on. London: Institute of Health Equity; 2020.",
+                    "volume-title": "Health equity in England: the marmot review ten years on"
+                },
+                {
+                    "issue": "1",
+                    "key": "648_CR24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "18",
+                    "DOI": "10.1186/1748-5908-8-18",
+                    "volume": "8",
+                    "author": "C May",
+                    "year": "2013",
+                    "unstructured": "May C. Towards a general theory of implementation. Implement Sci. 2013;8(1):18. https://doi.org/10.1186/1748-5908-8-18.",
+                    "journal-title": "Implement Sci"
+                },
+                {
+                    "issue": "3",
+                    "key": "648_CR25",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "535",
+                    "DOI": "10.1177/0038038509103208",
+                    "volume": "43",
+                    "author": "C May",
+                    "year": "2009",
+                    "unstructured": "May C, Finch T. Implementing, embedding, and integrating practices: an outline of normalization process theory. Sociology. 2009;43(3):535\u201354. https://doi.org/10.1177/0038038509103208.",
+                    "journal-title": "Sociology"
+                },
+                {
+                    "key": "648_CR26",
+                    "unstructured": "Miller C, Razavi S. Gender mainstreaming: a study of efforts by the UNDP, the World Bank and the ILO to institutionalize gender issues. UNRISD Occasional Paper. 1995."
+                },
+                {
+                    "key": "648_CR27",
+                    "first-page": "822",
+                    "volume": "2007",
+                    "author": "P Morison",
+                    "year": "2007",
+                    "unstructured": "Morison P, Brown R. Cooperate or coerce?: Intergovernmental approaches to mainstreaming water sensitive urban design. Rainwater Urban Des. 2007;2007:822.",
+                    "journal-title": "Rainwater Urban Des"
+                },
+                {
+                    "issue": "2",
+                    "key": "648_CR28",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "11",
+                    "DOI": "10.1080/13552070512331332283",
+                    "volume": "13",
+                    "author": "C Moser",
+                    "year": "2005",
+                    "unstructured": "Moser C, Moser A. Gender mainstreaming since Beijing: a review of success and limitations in international institutions. Gender Dev. 2005;13(2):11\u201322.",
+                    "journal-title": "Gender Dev"
+                },
+                {
+                    "key": "648_CR29",
+                    "unstructured": "NHS Health Scotland (ed.). Health inequalities: human rights and the right to health. Inequality briefing. 7. 2016; p. 1\u20138."
+                },
+                {
+                    "key": "648_CR30",
+                    "unstructured": "NHS Health Scotland. Health Inequalities Impact Assessment. In: NHS Health Scotland. 2018. https://www.healthscotland.scot/tools-and-resources/health-inequalities-impact-assessment/hiia-case-studies."
+                },
+                {
+                    "key": "648_CR31",
+                    "unstructured": "NIHR. NIHR launches new call for health inequalities research. 2018. https://www.nihr.ac.uk/news/nihr-launches-new-call-for-health-inequalities-research/9106. Accessed 25 Jan 2019."
+                },
+                {
+                    "key": "648_CR32",
+                    "unstructured": "NIHR CLAHRC NWC. NIHR Collaborations for Leadership in Applied Health Research and Care Application Form. Reference: CLAHRC-2013-10040. Liverpool. 2013. https://www.clahrc-nwc.nihr.ac.uk/media/Info%20Hub/CLAHRC%20NIHR%20Application%20Final.pdf."
+                },
+                {
+                    "key": "648_CR33",
+                    "unstructured": "Njenga M, Karanja N, Prain G, et al. Gender mainstreaming in organizational culture and agricultural research processes. Development in practice. Routledge. 2011. https://doi.org/10.1080/09614524.2011.558061. Accessed 10 Aug 2020.",
+                    "DOI": "10.1080/09614524.2011.558061",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "648_CR34",
+                    "first-page": "377",
+                    "volume": "70",
+                    "author": "LG Pedraza-Fari\u00f1a",
+                    "year": "2017",
+                    "unstructured": "Pedraza-Fari\u00f1a LG. The social origins of innovation failures. SMUL Rev. 2017;70:377.",
+                    "journal-title": "SMUL Rev"
+                },
+                {
+                    "key": "648_CR35",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "112530",
+                    "DOI": "10.1016/j.socscimed.2019.112530",
+                    "volume": "239",
+                    "author": "KM Plamondon",
+                    "year": "2019",
+                    "unstructured": "Plamondon KM, Bisung E. The CCGHR Principles for Global Health Research: centering equity in research, knowledge translation, and practice. Soc Sci Med. 2019;239:112530. https://doi.org/10.1016/j.socscimed.2019.112530.",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "648_CR36",
+                    "author": "J Popay",
+                    "year": "2019",
+                    "unstructured": "Popay J, Collins M, Lafortune L. A review of the equity focus in research funded in the first five year of SPHR. Internal report. Lancaster: NIHR School of Public Health; 2019.",
+                    "volume-title": "A review of the equity focus in research funded in the first five year of SPHR. Internal report"
+                },
+                {
+                    "key": "648_CR37",
+                    "unstructured": "Porroche-Escudero A, Popay J. The Health Inequalities Assessment Toolkit (HIAT): supporting integration of equity into applied health research. J Public Health. 2020:fdaa047.",
+                    "DOI": "10.1093/pubmed/fdaa047",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "648_CR38",
+                    "unstructured": "Sen G, Ostlin P and George A. Unequal, unfair, ineffective and inefficient: gender inequity in health\u2014Why it exists and how we can change it, Final report to the WHO Commission on Social Determinants of Health. Women and Gender Equity Knowledge Network. 2007. https://www.who.int/social_determinants/resources/csdh_media/wgekn_final_report_07.pdf."
+                },
+                {
+                    "key": "648_CR39",
+                    "author": "M Strand",
+                    "year": "2009",
+                    "unstructured": "Strand M, Brown C, Torgersen TP, et al. Setting the political agenda to tackle health inequity in Norway. Copenhagen: WHO Regional Office for Europe; 2009.",
+                    "volume-title": "Setting the political agenda to tackle health inequity in Norway"
+                },
+                {
+                    "key": "648_CR40",
+                    "author": "J True",
+                    "first-page": "227",
+                    "year": "2015",
+                    "unstructured": "True J. Mainstreaming gender in international institutions. In: Shepherd LJ, editor. Gender matters in global politics: a feminist introduction to international relations. New York and Oxon: Routledge; 2015. p. 227\u201339.",
+                    "volume-title": "Gender matters in global politics: a feminist introduction to international relations"
+                },
+                {
+                    "key": "648_CR41",
+                    "unstructured": "UN Development Group. Resource book for mainstreaming gender in UN common programming at the country level. 2018."
+                },
+                {
+                    "key": "648_CR42",
+                    "unstructured": "UN Economic and Social Council (ECOSOC). Report of the Economic and Social Council for 1997. New York: United Nations. 1997. https://www.un.org/documents/ecosoc/docs/1997/e1997-66.htm. Accessed 23 July 2018."
+                },
+                {
+                    "key": "648_CR43",
+                    "unstructured": "UN Women. Gender mainstreaming. n.d. https://www.un.org/womenwatch/osagi/gendermainstreaming.htm."
+                },
+                {
+                    "key": "648_CR44",
+                    "unstructured": "UN Women. OSAGI Gender Mainstreaming. n.d. https://www.un.org/womenwatch/osagi/gendermainstreaming.htm. Accessed 23 July 2018b."
+                },
+                {
+                    "key": "648_CR45",
+                    "unstructured": "United Nations Development Programme, Evaluation Office. Gender Equality. Evaluation of Gender Mainstreaming in UNDP. UNDP. 2006. https://web.undp.org/evaluation/documents/eo_gendermainstreaming.pdf. Accessed 14 Dec 2018."
+                },
+                {
+                    "key": "648_CR46",
+                    "unstructured": "United Nations Evaluation Group. Guidance on evaluating institutional Gender Mainstreaming. New York. 2018."
+                },
+                {
+                    "key": "648_CR47",
+                    "unstructured": "Valentine N. WHO consultation on support to countries for action on the social determinants of health to improve health equity. Meeting report. Long version. Geneva: WHO and Department of Health, England. 2008."
+                },
+                {
+                    "issue": "6",
+                    "key": "648_CR48",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "473",
+                    "DOI": "10.1136/jech.2005.037242",
+                    "volume": "61",
+                    "author": "M Whitehead",
+                    "year": "2007",
+                    "unstructured": "Whitehead M. A typology of actions to tackle social inequalities in health. J Epidemiol Community Health. 2007;61(6):473\u20138. https://doi.org/10.1136/jech.2005.037242.",
+                    "journal-title": "J Epidemiol Community Health"
+                },
+                {
+                    "key": "648_CR49",
+                    "unstructured": "Whitehead M, Dahlgren G. Concepts and principles for tackling social inequalities in health. Levelling up (I). Copenhagen: World Health Organization. 2006. https://www.euro.who.int/en/health-topics/health-determinants/social-determinants/publications/2007/concepts-and-principles-for-tackling-social-inequalities-in-health. Accessed 2 Aug 2015."
+                },
+                {
+                    "key": "648_CR50",
+                    "unstructured": "Whitehead M, Doran T. The North-South Health Divide. British Medical Journal Publishing Group. 2011."
+                },
+                {
+                    "key": "648_CR51",
+                    "author": "M Whitehead",
+                    "year": "2014",
+                    "unstructured": "Whitehead M, Bambra C, Barr B, et al. Due North: Report of the inquiry on health equity for the North. Liverpool and Manchester: University of Liverpool and Centre for Local Economic Strategies; 2014.",
+                    "volume-title": "Due North: Report of the inquiry on health equity for the North"
+                },
+                {
+                    "key": "648_CR52",
+                    "unstructured": "WHO. Sixty-seventh meeting of the Regional Director with the WHO Representatives. Report of the meeting WHO-SEARO. SEA-WRM-67, Meeting reports. New Delhi: WHO Regional Office for South-East Asia. https://apps.who.int/iris/handle/10665/206358. Accessed 30 Nov 2018."
+                },
+                {
+                    "key": "648_CR53",
+                    "unstructured": "WHO. Social determinants of health progress report at 68th WHA. WHO-| Mandate by Member States on Social Determinants of health. 2018. https://www.who.int/social_determinants/implementation/en/. Accessed 25 Jan 2019."
+                },
+                {
+                    "issue": "4",
+                    "key": "648_CR54",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "65",
+                    "DOI": "10.1111/j.1759-5436.2004.tb00157.x",
+                    "volume": "35",
+                    "author": "P Woodford-Berger",
+                    "year": "2004",
+                    "unstructured": "Woodford-Berger P. Gender mainstreaming: what is it (about) and should we continue doing it? IDS Bull. 2004;35(4):65\u201372. https://doi.org/10.1111/j.1759-5436.2004.tb00157.x.",
+                    "journal-title": "IDS Bull"
+                }
+            ],
+            "container-title": "Health Research Policy and Systems",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12961-020-00648-z.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s12961-020-00648-z/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12961-020-00648-z.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        3
+                    ]
+                ],
+                "date-time": "2021-03-03T19:16:31Z",
+                "timestamp": 1614798991000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        3
+                    ]
+                ]
+            },
+            "references-count": 54,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "648"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12961-020-00648-z",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1478-4505"
+            ],
+            "subject": [
+                "Health Policy"
+            ],
+            "container-title-short": "Health Res Policy Sys",
+            "assertion": [
+                {
+                    "value": "16 December 2019",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "19 October 2020",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "3 March 2021",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "Ethical approval for primary data collection was obtained from Lancaster University (Public Health programme FHMREC13028 and CLAHRC NWC strategic objectives evaluation FHMREC17023); University of Liverpool (Partners\u2019 Priority Programme evaluation 2236); and University of Central Lancashire (Intern programme evaluation STEMH608). All research participants received information sheets and signed consent forms which made it clear that their participation was voluntary.",
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "All research participants received information sheets and signed consent forms which made it clear that the information and quotes from the interviews would be pooled with other participants\u2019 responses, anonymized and may be published.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "APE, JP, FW, SA, DA, SH, KK, and EKM were researchers in the evaluation presented in this paper. MG and JC hold senior positions in CLAHRC NWC.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "28"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [
+                    [
+                        "Health inequalities",
+                        "Implementation",
+                        "Mainstreaming",
+                        "Research collaboration",
+                        "Social determinants of health",
+                        "United Kingdom"
+                    ]
+                ],
+                "OtherID": [],
+                "PMID": "33658047",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "07",
+                    "Day": "12"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "07",
+                    "Day": "12"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "03",
+                            "Day": "03"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12961-020-00648-z"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1478-4505",
+                        "JournalIssue": {
+                            "Volume": "19",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "Mar",
+                                "Day": "03"
+                            }
+                        },
+                        "Title": "Health research policy and systems",
+                        "ISOAbbreviation": "Health Res Policy Syst"
+                    },
+                    "ArticleTitle": "From fringe to centre-stage: experiences of mainstreaming health equity in a health research collaboration.",
+                    "Pagination": {
+                        "MedlinePgn": "28"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Action to address the structural determinants of health inequalities is prioritized in high-level initiatives such as the United Nations Sustainable Development Goals and many national health strategies. Yet, the focus of much local policy and practice is on behaviour change. Research shows that whilst lifestyle approaches can improve population health, at best they fail to reduce health inequalities because they fail to address upstream structural determinants of behaviour and health outcomes. In health research, most efforts have been directed at three streams of work: understanding causal pathways; evaluating the equity impact of national policy; and developing and evaluating lifestyle/behavioural approaches to health improvement. As a result, there is a dearth of research on effective interventions to reduce health inequalities that can be developed and implemented at a local level.",
+                            "To describe an initiative that aimed to mainstream a focus on health equity in a large-scale research collaboration in the United Kingdom and to assess the impact on organizational culture, research processes and individual research practice.",
+                            "The study used multiple qualitative methods including semi-structured interviews, focus groups and workshops (n\u2009=\u2009131 respondents including Public Advisers, university, National Health Service (NHS), and local and document review.",
+                            "utilizing Extended Normalization Process Theory (ENPT) and gender mainstreaming theory, the evaluation illuminated (i) the processes developed by Collaboration for Leadership in Applied Health Research and Care North West Coast to integrate ways of thinking and acting to tackle the upstream social determinants of health inequities (i.e. to mainstream a health equity focus) and (ii) the factors that promoted or frustrated these efforts.",
+                            "Findings highlight the role of contextual factors and processes aimed at developing and implementing a robust strategy for mainstreaming health equity as building blocks for transformative change in applied health research."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lancaster Environment Centre, Lancaster University, Lancaster, UK. a.porroche-escudero@lancaster.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-2740-5273"
+                            ],
+                            "LastName": "Porroche-Escudero",
+                            "ForeName": "Ana",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Research, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Popay",
+                            "ForeName": "Jennie",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "ARC NWC, Division of Health Research, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ward",
+                            "ForeName": "Fiona",
+                            "Initials": "F"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "ARC NWC, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ahmed",
+                            "ForeName": "Saiqa",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "ARC NWC, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Akeju",
+                            "ForeName": "Dorkas",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "ARC NWC, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cloke",
+                            "ForeName": "Jane",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "ARC NWC, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "ARC NWC, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hassan",
+                            "ForeName": "Shaima",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "ARC NWC, Division of Health Research, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Khan",
+                            "ForeName": "Koser",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Business School, Exeter University, Exeter, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Khedmati-Morasae",
+                            "ForeName": "Esmaeil",
+                            "Initials": "E"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Health Res Policy Syst",
+                    "NlmUniqueID": "101170481",
+                    "ISSNLinking": "1478-4505"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Focus Groups",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Equity",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Policy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Determinants of Health",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "State Medicine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Sustainable Development",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "J Epidemiol Community Health. 2010 Apr;64(4):284-91",
+                                "ArticleIdList": [
+                                    "19692738"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2019 Feb 9;393(10171):497-499",
+                                "ArticleIdList": [
+                                    "30739669"
+                                ]
+                            },
+                            {
+                                "Citation": "J Public Health (Oxf). 2020 Apr 23;:",
+                                "ArticleIdList": [
+                                    "32323722"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2007 Jun;61(6):473-8",
+                                "ArticleIdList": [
+                                    "17496254"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2018 Jan 20;391(10117):186-188",
+                                "ArticleIdList": [
+                                    "29137870"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2011 Feb 15;342:d584",
+                                "ArticleIdList": [
+                                    "21325006"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Equity Health. 2019 May 31;18(1):80",
+                                "ArticleIdList": [
+                                    "31151452"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2017 Jul 26;358:j3310",
+                                "ArticleIdList": [
+                                    "28747304"
+                                ]
+                            },
+                            {
+                                "Citation": "Med Anthropol Q. 2006 Sep;20(3):345-78",
+                                "ArticleIdList": [
+                                    "16937621"
+                                ]
+                            },
+                            {
+                                "Citation": "Implement Sci. 2013 Feb 13;8:18",
+                                "ArticleIdList": [
+                                    "23406398"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2019 Oct;239:112530",
+                                "ArticleIdList": [
+                                    "31539786"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Res Methodol. 2013 Sep 18;13:117",
+                                "ArticleIdList": [
+                                    "24047204"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "12",
+                        "Day": "16"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "10",
+                        "Day": "19"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "3",
+                        "Day": "4",
+                        "Hour": "5",
+                        "Minute": "34"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "3",
+                        "Day": "5",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "7",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "33658047",
+                    "10.1186/s12961-020-00648-z",
+                    "10.1186/s12961-020-00648-z",
+                    "PMC7928171"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33658047)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833658047%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833658047%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101985027"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101985027?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85101985027&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85101985027&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85101985027",
+                        "dc:identifier": "SCOPUS_ID:85101985027",
+                        "eid": "2-s2.0-85101985027",
+                        "dc:title": "From fringe to centre-stage: experiences of mainstreaming health equity in a health research collaboration",
+                        "dc:creator": "Porroche-Escudero A.",
+                        "prism:publicationName": "Health Research Policy and Systems",
+                        "prism:eIssn": "14784505",
+                        "prism:volume": "19",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-12-01",
+                        "prism:coverDisplayDate": "December 2021",
+                        "prism:doi": "10.1186/s12961-020-00648-z",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Lancaster Environment Centre",
+                                "affiliation-city": "Lancaster",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33658047",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "28",
+                        "source-id": "21337",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "HHYF854S.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33658047"
+            }
+        },
+        "title": "From fringe to centre-stage: experiences of mainstreaming health equity in a health research collaboration.",
+        "full_author_list": [
+            {
+                "clean": "Porroche-Escudero A",
+                "family": "Porroche-Escudero",
+                "given": "Ana",
+                "affiliation": {
+                    "name": "Lancaster Environment Centre, Lancaster University, Lancaster, UK. a.porroche-escudero@lancaster.ac.uk."
+                }
+            },
+            {
+                "clean": "Popay J",
+                "family": "Popay",
+                "given": "Jennie",
+                "affiliation": {
+                    "name": "Division of Health Research, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Ward F",
+                "family": "Ward",
+                "given": "Fiona",
+                "affiliation": {
+                    "name": "ARC NWC, Division of Health Research, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Ahmed S",
+                "family": "Ahmed",
+                "given": "Saiqa",
+                "affiliation": {
+                    "name": "ARC NWC, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Akeju D",
+                "family": "Akeju",
+                "given": "Dorkas",
+                "affiliation": {
+                    "name": "ARC NWC, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Cloke J",
+                "family": "Cloke",
+                "given": "Jane",
+                "affiliation": {
+                    "name": "ARC NWC, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "ARC NWC, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Hassan S",
+                "family": "Hassan",
+                "given": "Shaima",
+                "affiliation": {
+                    "name": "ARC NWC, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Khan K",
+                "family": "Khan",
+                "given": "Koser",
+                "affiliation": {
+                    "name": "ARC NWC, Division of Health Research, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Khedmati-Morasae E",
+                "family": "Khedmati-Morasae",
+                "given": "Esmaeil",
+                "affiliation": {
+                    "name": "Business School, Exeter University, Exeter, UK."
+                }
+            }
+        ],
+        "first_author": "Porroche-Escudero A",
+        "zotero_tags": [
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Focus Groups",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Equity",
+                    "major": "Y"
+                },
+                {
+                    "term": "Health Policy",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Social Determinants of Health",
+                    "major": "N"
+                },
+                {
+                    "term": "State Medicine",
+                    "major": "N"
+                },
+                {
+                    "term": "Sustainable Development",
+                    "major": "Y"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "Health inequalities",
+                "Implementation",
+                "Mainstreaming",
+                "Research collaboration",
+                "Social determinants of health",
+                "United Kingdom"
+            ]
+        },
+        "journal": {
+            "journal_name": "Health Res Policy Syst",
+            "volume": "19",
+            "issue": "1"
+        },
+        "abstract": "['Action to address the structural determinants of health inequalities is prioritized in high-level initiatives such as the United Nations Sustainable Development Goals and many national health strategies. Yet, the focus of much local policy and practice is on behaviour change. Research shows that whilst lifestyle approaches can improve population health, at best they fail to reduce health inequalities because they fail to address upstream structural determinants of behaviour and health outcomes. In health research, most efforts have been directed at three streams of work: understanding causal pathways; evaluating the equity impact of national policy; and developing and evaluating lifestyle/behavioural approaches to health improvement. As a result, there is a dearth of research on effective interventions to reduce health inequalities that can be developed and implemented at a local level.', 'To describe an initiative that aimed to mainstream a focus on health equity in a large-scale research collaboration in the United Kingdom and to assess the impact on organizational culture, research processes and individual research practice.', 'The study used multiple qualitative methods including semi-structured interviews, focus groups and workshops (n\\u2009=\\u2009131 respondents including Public Advisers, university, National Health Service (NHS), and local and document review.', 'utilizing Extended Normalization Process Theory (ENPT) and gender mainstreaming theory, the evaluation illuminated (i) the processes developed by Collaboration for Leadership in Applied Health Research and Care North West Coast to integrate ways of thinking and acting to tackle the upstream social determinants of health inequities (i.e. to mainstream a health equity focus) and (ii) the factors that promoted or frustrated these efforts.', 'Findings highlight the role of contextual factors and processes aimed at developing and implementing a robust strategy for mainstreaming health equity as building blocks for transformative change in applied health research.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Lancaster Environment Centre, Lancaster University, Lancaster, UK. a.porroche-escudero@lancaster.ac.uk.",
+            "clean_institute": "University of Lancaster",
+            "country": "United Kingdom",
+            "latitude": "54.047",
+            "longitude": "-2.801"
+        }
+    }
+}

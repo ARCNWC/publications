@@ -1,0 +1,849 @@
+{
+    "IDs": {
+        "zotero": "5J5SFYC2",
+        "DOI": "10.1136/bmjopen-2020-048391",
+        "DOI_filename": "6692efa97f92fe0331bee290332fc0af",
+        "PMID": "33785495",
+        "scopus": "2-s2.0-85103501939",
+        "hash": "ffe031d062f69b1ef6332421850face8"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "5J5SFYC2",
+            "version": 1005,
+            "itemType": "journalArticle",
+            "title": "Multiorgan impairment in low-risk individuals with post-COVID-19 syndrome: a prospective, community-based study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrea",
+                    "lastName": "Dennis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Malgorzata",
+                    "lastName": "Wamil"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Johann",
+                    "lastName": "Alberts"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jude",
+                    "lastName": "Oben"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Daniel J.",
+                    "lastName": "Cuthbertson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dan",
+                    "lastName": "Wootton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michael",
+                    "lastName": "Crooks"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michael",
+                    "lastName": "Brady"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lyth",
+                    "lastName": "Hishmeh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Emily",
+                    "lastName": "Attree"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Melissa",
+                    "lastName": "Heightman"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rajarshi",
+                    "lastName": "Banerjee"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Amitava",
+                    "lastName": "Banerjee"
+                },
+                {
+                    "creatorType": "author",
+                    "name": "COVERSCAN study investigators"
+                }
+            ],
+            "abstractNote": "OBJECTIVE: To assess medium-term organ impairment in symptomatic individuals following recovery from acute SARS-CoV-2 infection.\nDESIGN: Baseline findings from a prospective, observational cohort study.\nSETTING: Community-based individuals from two UK centres between 1 April and 14 September 2020.\nPARTICIPANTS: Individuals \u226518 years with persistent symptoms following recovery from acute SARS-CoV-2 infection and age-matched healthy controls.\nINTERVENTION: Assessment of symptoms by standardised questionnaires (EQ-5D-5L, Dyspnoea-12) and organ-specific metrics by biochemical assessment and quantitative MRI.\nMAIN OUTCOME MEASURES: Severe post-COVID-19 syndrome defined as ongoing respiratory symptoms and/or moderate functional impairment in activities of daily living; single-organ and multiorgan impairment (heart, lungs, kidneys, liver, pancreas, spleen) by consensus definitions at baseline investigation.\nRESULTS: 201 individuals (mean age 45, range 21-71 years, 71% female, 88% white, 32% healthcare workers) completed the baseline assessment (median of 141 days following SARS-CoV-2 infection, IQR 110-162). The study population was at low risk of COVID-19 mortality (obesity 20%, hypertension 7%, type 2 diabetes 2%, heart disease 5%), with only 19% hospitalised with COVID-19. 42% of individuals had 10 or more symptoms and 60% had severe post-COVID-19 syndrome. Fatigue (98%), muscle aches (87%), breathlessness (88%) and headaches (83%) were most frequently reported. Mild organ impairment was present in the heart (26%), lungs (11%), kidneys (4%), liver (28%), pancreas (40%) and spleen (4%), with single-organ and multiorgan impairment in 70% and 29%, respectively. Hospitalisation was associated with older age (p=0.001), non-white ethnicity (p=0.016), increased liver volume (p<0.0001), pancreatic inflammation (p<0.01), and fat accumulation in the liver (p<0.05) and pancreas (p<0.01). Severe post-COVID-19 syndrome was associated with radiological evidence of cardiac damage (myocarditis) (p<0.05).\nCONCLUSIONS: In individuals at low risk of COVID-19 mortality with ongoing symptoms, 70% have impairment in one or more organs 4\u2009months after initial COVID-19 symptoms, with implications for healthcare and public health, which have assumed low risk in young people with no comorbidities.\nTRIAL REGISTRATION NUMBER: NCT04369807; Pre-results.",
+            "publicationTitle": "BMJ open",
+            "volume": "11",
+            "issue": "3",
+            "pages": "e048391",
+            "date": "2021-03-30",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open",
+            "language": "eng",
+            "DOI": "10.1136/bmjopen-2020-048391",
+            "ISSN": "2044-6055",
+            "shortTitle": "Multiorgan impairment in low-risk individuals with post-COVID-19 syndrome",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "PubMed",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID: 33785495",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-27T14:54:59Z",
+            "dateModified": "2021-07-27T14:55:40Z",
+            "pmid": "33785495"
+        },
+        "doi_data": null,
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "OtherAbstract": [],
+                "KeywordList": [
+                    [
+                        "COVID-19",
+                        "epidemiology",
+                        "health policy",
+                        "public health"
+                    ]
+                ],
+                "GeneralNote": [],
+                "OtherID": [],
+                "SpaceFlightMission": [],
+                "PMID": "33785495",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "04",
+                    "Day": "06"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "19"
+                },
+                "Article": {
+                    "Language": [
+                        "eng"
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmjopen-2020-048391"
+                    ],
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "03",
+                            "Day": "30"
+                        }
+                    ],
+                    "Journal": {
+                        "ISSN": "2044-6055",
+                        "JournalIssue": {
+                            "Volume": "11",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "03",
+                                "Day": "30"
+                            }
+                        },
+                        "Title": "BMJ open",
+                        "ISOAbbreviation": "BMJ Open"
+                    },
+                    "ArticleTitle": "Multiorgan impairment in low-risk individuals with post-COVID-19 syndrome: a prospective, community-based study.",
+                    "Pagination": {
+                        "MedlinePgn": "e048391"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To assess medium-term organ impairment in symptomatic individuals following recovery from acute SARS-CoV-2 infection.",
+                            "Baseline findings from a prospective, observational cohort study.",
+                            "Community-based individuals from two UK centres between 1 April and 14 September 2020.",
+                            "Individuals \u226518 years with persistent symptoms following recovery from acute SARS-CoV-2 infection and age-matched healthy controls.",
+                            "Assessment of symptoms by standardised questionnaires (EQ-5D-5L, Dyspnoea-12) and organ-specific metrics by biochemical assessment and quantitative MRI.",
+                            "Severe post-COVID-19 syndrome defined as ongoing respiratory symptoms and/or moderate functional impairment in activities of daily living; single-organ and multiorgan impairment (heart, lungs, kidneys, liver, pancreas, spleen) by consensus definitions at baseline investigation.",
+                            "201 individuals (mean age 45, range 21-71 years, 71% female, 88% white, 32% healthcare workers) completed the baseline assessment (median of 141 days following SARS-CoV-2 infection, IQR 110-162). The study population was at low risk of COVID-19 mortality (obesity 20%, hypertension 7%, type 2 diabetes 2%, heart disease 5%), with only 19% hospitalised with COVID-19. 42% of individuals had 10 or more symptoms and 60% had severe post-COVID-19 syndrome. Fatigue (98%), muscle aches (87%), breathlessness (88%) and headaches (83%) were most frequently reported. Mild organ impairment was present in the heart (26%), lungs (11%), kidneys (4%), liver (28%), pancreas (40%) and spleen (4%), with single-organ and multiorgan impairment in 70% and 29%, respectively. Hospitalisation was associated with older age (p=0.001), non-white ethnicity (p=0.016), increased liver volume (p<0.0001), pancreatic inflammation (p<0.01), and fat accumulation in the liver (p<0.05) and pancreas (p<0.01). Severe post-COVID-19 syndrome was associated with radiological evidence of cardiac damage (myocarditis) (p<0.05).",
+                            "In individuals at low risk of COVID-19 mortality with ongoing symptoms, 70% have impairment in one or more organs 4\u2009months after initial COVID-19 symptoms, with implications for healthcare and public health, which have assumed low risk in young people with no comorbidities.",
+                            "NCT04369807; Pre-results."
+                        ],
+                        "CopyrightInformation": "\u00a9 Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY. Published by BMJ."
+                    },
+                    "AuthorList": [
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Perspectum, Oxford, UK."
+                                }
+                            ],
+                            "LastName": "Dennis",
+                            "ForeName": "Andrea",
+                            "Initials": "A"
+                        },
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Cardiology, Great Western Hospital Foundation NHS Trust, Swindon, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Cardiology, Oxford University Hospitals NHS Foundation Trust, Oxford, UK."
+                                }
+                            ],
+                            "LastName": "Wamil",
+                            "ForeName": "Malgorzata",
+                            "Initials": "M"
+                        },
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Alliance Medical, Warwick, UK."
+                                }
+                            ],
+                            "LastName": "Alberts",
+                            "ForeName": "Johann",
+                            "Initials": "J"
+                        },
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Gastroenterology, Guy's and St Thomas' NHS Foundation Trust, London, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute for Liver and Digestive Health, University College London, London, UK."
+                                }
+                            ],
+                            "LastName": "Oben",
+                            "ForeName": "Jude",
+                            "Initials": "J"
+                        },
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Cardiovascular and Metabolic Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "LastName": "Cuthbertson",
+                            "ForeName": "Daniel J",
+                            "Initials": "DJ"
+                        },
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Infection and Global Health, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Respiratory Research, Liverpool University Hospitals NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "LastName": "Wootton",
+                            "ForeName": "Dan",
+                            "Initials": "D"
+                        },
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Respiratory Medicine, Hull and East Yorkshire Hospitals NHS Trust, Hull, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Clinical and Applied Health Research, University of Hull, Hull, UK."
+                                }
+                            ],
+                            "LastName": "Crooks",
+                            "ForeName": "Michael",
+                            "Initials": "M"
+                        },
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Perspectum, Oxford, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Oncology, University of Oxford, Oxford, UK."
+                                }
+                            ],
+                            "LastName": "Brady",
+                            "ForeName": "Michael",
+                            "Initials": "M"
+                        },
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Long COVID SOS, Oxford, UK."
+                                }
+                            ],
+                            "LastName": "Hishmeh",
+                            "ForeName": "Lyth",
+                            "Initials": "L"
+                        },
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "UKDoctors#Longcovid, London, UK."
+                                }
+                            ],
+                            "LastName": "Attree",
+                            "ForeName": "Emily",
+                            "Initials": "E"
+                        },
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Medicine, University College London Hospitals NHS Foundation Trust, London, UK."
+                                }
+                            ],
+                            "LastName": "Heightman",
+                            "ForeName": "Melissa",
+                            "Initials": "M"
+                        },
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Perspectum, Oxford, UK."
+                                }
+                            ],
+                            "LastName": "Banerjee",
+                            "ForeName": "Rajarshi",
+                            "Initials": "R"
+                        },
+                        {
+                            "Identifier": [
+                                "http://orcid.org/0000-0001-8741-3411"
+                            ],
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Medicine, University College London Hospitals NHS Foundation Trust, London, UK ami.banerjee@ucl.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Health Informatics, University College London, London, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Cardiology, Barts Health NHS Trust, London, UK."
+                                }
+                            ],
+                            "LastName": "Banerjee",
+                            "ForeName": "Amitava",
+                            "Initials": "A"
+                        },
+                        {
+                            "Identifier": [],
+                            "AffiliationInfo": [],
+                            "CollectiveName": "COVERSCAN study investigators"
+                        }
+                    ],
+                    "DataBankList": [
+                        {
+                            "DataBankName": "ClinicalTrials.gov",
+                            "AccessionNumberList": [
+                                "NCT04369807"
+                            ]
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Observational Study",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open",
+                    "NlmUniqueID": "101552874",
+                    "ISSNLinking": "2044-6055"
+                },
+                "SupplMeshList": [
+                    "post-acute COVID-19 syndrome"
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Activities of Daily Living",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "complications",
+                            "epidemiology",
+                            "physiopathology"
+                        ],
+                        "DescriptorName": "COVID-19",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Case-Control Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Community-Based Participatory Research",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "complications"
+                        ],
+                        "DescriptorName": "Diabetes Mellitus, Type 2",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Hospitalization",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Prospective Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "SARS-CoV-2",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Severity of Illness Index",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: AD, RB and MB are employees of Perspectum."
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2021",
+                        "Month": "3",
+                        "Day": "31",
+                        "Hour": "6",
+                        "Minute": "6"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "4",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "4",
+                        "Day": "7",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "33785495",
+                    "bmjopen-2020-048391",
+                    "10.1136/bmjopen-2020-048391"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33785495)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833785495%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833785495%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85103501939"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85103501939?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85103501939&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85103501939&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85103501939",
+                        "dc:identifier": "SCOPUS_ID:85103501939",
+                        "eid": "2-s2.0-85103501939",
+                        "dc:title": "Multiorgan impairment in low-risk individuals with post-COVID-19 syndrome: A prospective, community-based study",
+                        "dc:creator": "Dennis A.",
+                        "prism:publicationName": "BMJ Open",
+                        "prism:eIssn": "20446055",
+                        "prism:volume": "11",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-03-30",
+                        "prism:coverDisplayDate": "30 March 2021",
+                        "prism:doi": "10.1136/bmjopen-2020-048391",
+                        "citedby-count": "14",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Perspectum Ltd",
+                                "affiliation-city": "Oxford",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33785495",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e048391",
+                        "source-id": "19800188003",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "5J5SFYC2.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33785495"
+            }
+        },
+        "title": "Multiorgan impairment in low-risk individuals with post-COVID-19 syndrome: a prospective, community-based study.",
+        "full_author_list": [
+            {
+                "clean": "Dennis A",
+                "family": "Dennis",
+                "given": "Andrea",
+                "affiliation": {
+                    "name": "Perspectum, Oxford, UK."
+                }
+            },
+            {
+                "clean": "Wamil M",
+                "family": "Wamil",
+                "given": "Malgorzata",
+                "affiliation": {
+                    "name": "Department of Cardiology, Great Western Hospital Foundation NHS Trust, Swindon, UK."
+                }
+            },
+            {
+                "clean": "Alberts J",
+                "family": "Alberts",
+                "given": "Johann",
+                "affiliation": {
+                    "name": "Alliance Medical, Warwick, UK."
+                }
+            },
+            {
+                "clean": "Oben J",
+                "family": "Oben",
+                "given": "Jude",
+                "affiliation": {
+                    "name": "Department of Gastroenterology, Guy's and St Thomas' NHS Foundation Trust, London, UK."
+                }
+            },
+            {
+                "clean": "Cuthbertson D",
+                "family": "Cuthbertson",
+                "given": "Daniel J",
+                "affiliation": {
+                    "name": "Institute of Cardiovascular and Metabolic Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wootton D",
+                "family": "Wootton",
+                "given": "Dan",
+                "affiliation": {
+                    "name": "Institute of Infection and Global Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Crooks M",
+                "family": "Crooks",
+                "given": "Michael",
+                "affiliation": {
+                    "name": "Department of Respiratory Medicine, Hull and East Yorkshire Hospitals NHS Trust, Hull, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Brady M",
+                "family": "Brady",
+                "given": "Michael",
+                "affiliation": {
+                    "name": "Perspectum, Oxford, UK."
+                }
+            },
+            {
+                "clean": "Hishmeh L",
+                "family": "Hishmeh",
+                "given": "Lyth",
+                "affiliation": {
+                    "name": "Long COVID SOS, Oxford, UK."
+                }
+            },
+            {
+                "clean": "Attree E",
+                "family": "Attree",
+                "given": "Emily",
+                "affiliation": {
+                    "name": "UKDoctors#Longcovid, London, UK."
+                }
+            },
+            {
+                "clean": "Heightman M",
+                "family": "Heightman",
+                "given": "Melissa",
+                "affiliation": {
+                    "name": "Department of Medicine, University College London Hospitals NHS Foundation Trust, London, UK."
+                }
+            },
+            {
+                "clean": "Banerjee R",
+                "family": "Banerjee",
+                "given": "Rajarshi",
+                "affiliation": {
+                    "name": "Perspectum, Oxford, UK."
+                }
+            },
+            {
+                "clean": "Banerjee A",
+                "family": "Banerjee",
+                "given": "Amitava",
+                "affiliation": {
+                    "name": "Department of Medicine, University College London Hospitals NHS Foundation Trust, London, UK ami.banerjee@ucl.ac.uk."
+                }
+            }
+        ],
+        "first_author": "Dennis A",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Activities of Daily Living",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "COVID-19",
+                    "major": "N"
+                },
+                {
+                    "term": "Case-Control Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Community-Based Participatory Research",
+                    "major": "N"
+                },
+                {
+                    "term": "Diabetes Mellitus, Type 2",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Hospitalization",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Prospective Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "SARS-CoV-2",
+                    "major": "Y"
+                },
+                {
+                    "term": "Severity of Illness Index",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "COVID-19",
+                "epidemiology",
+                "health policy",
+                "public health"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMJ Open",
+            "volume": "11",
+            "issue": "3"
+        },
+        "abstract": "['To assess medium-term organ impairment in symptomatic individuals following recovery from acute SARS-CoV-2 infection.', 'Baseline findings from a prospective, observational cohort study.', 'Community-based individuals from two UK centres between 1 April and 14 September 2020.', 'Individuals \u226518 years with persistent symptoms following recovery from acute SARS-CoV-2 infection and age-matched healthy controls.', 'Assessment of symptoms by standardised questionnaires (EQ-5D-5L, Dyspnoea-12) and organ-specific metrics by biochemical assessment and quantitative MRI.', 'Severe post-COVID-19 syndrome defined as ongoing respiratory symptoms and/or moderate functional impairment in activities of daily living; single-organ and multiorgan impairment (heart, lungs, kidneys, liver, pancreas, spleen) by consensus definitions at baseline investigation.', '201 individuals (mean age 45, range 21-71 years, 71% female, 88% white, 32% healthcare workers) completed the baseline assessment (median of 141 days following SARS-CoV-2 infection, IQR 110-162). The study population was at low risk of COVID-19 mortality (obesity 20%, hypertension 7%, type 2 diabetes 2%, heart disease 5%), with only 19% hospitalised with COVID-19. 42% of individuals had 10 or more symptoms and 60% had severe post-COVID-19 syndrome. Fatigue (98%), muscle aches (87%), breathlessness (88%) and headaches (83%) were most frequently reported. Mild organ impairment was present in the heart (26%), lungs (11%), kidneys (4%), liver (28%), pancreas (40%) and spleen (4%), with single-organ and multiorgan impairment in 70% and 29%, respectively. Hospitalisation was associated with older age (p=0.001), non-white ethnicity (p=0.016), increased liver volume (p<0.0001), pancreatic inflammation (p<0.01), and fat accumulation in the liver (p<0.05) and pancreas (p<0.01). Severe post-COVID-19 syndrome was associated with radiological evidence of cardiac damage (myocarditis) (p<0.05).', 'In individuals at low risk of COVID-19 mortality with ongoing symptoms, 70% have impairment in one or more organs 4\\u2009months after initial COVID-19 symptoms, with implications for healthcare and public health, which have assumed low risk in young people with no comorbidities.', 'NCT04369807; Pre-results.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "14"
+            }
+        },
+        "location": {
+            "candidate_institute": "Perspectum, Oxford, UK."
+        }
+    }
+}

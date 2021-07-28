@@ -1,0 +1,1181 @@
+{
+    "IDs": {
+        "zotero": "Z5ADBTG2",
+        "DOI": "10.1111/hsc.13049",
+        "DOI_filename": "6f4a6b61945c45ca4a8e18a04817680a",
+        "PMID": "32483867",
+        "scopus": "2-s2.0-85085685380",
+        "hash": "d196a5c64d6d4f9f9d971c4f9c5e7c8d"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "Z5ADBTG2",
+            "version": 999,
+            "itemType": "journalArticle",
+            "title": "Supporting access to activities to enhance well\u2010being and reduce social isolation in people living with motor neurone disease",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Suzanne",
+                    "lastName": "Simpson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sandra",
+                    "lastName": "Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Moira",
+                    "lastName": "Furlong"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Janet",
+                    "lastName": "Ireland"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Health & Social Care in the Community",
+            "volume": "28",
+            "issue": "6",
+            "pages": "2282-2289",
+            "date": "11/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Health Soc Care Community",
+            "language": "en",
+            "DOI": "10.1111/hsc.13049",
+            "ISSN": "0966-0410, 1365-2524",
+            "shortTitle": "",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1111/hsc.13049",
+            "accessDate": "2021-07-23T16:46:09Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32483867",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:19Z",
+            "dateModified": "2021-07-27T12:10:17Z",
+            "pmid": "32483867"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        15
+                    ]
+                ],
+                "date-time": "2021-01-15T07:36:25Z",
+                "timestamp": 1610696185309
+            },
+            "reference-count": 46,
+            "publisher": "Wiley",
+            "issue": "6",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                6,
+                                1
+                            ]
+                        ],
+                        "date-time": "2020-06-01T00:00:00Z",
+                        "timestamp": 1590969600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                },
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                6,
+                                1
+                            ]
+                        ],
+                        "date-time": "2020-06-01T00:00:00Z",
+                        "timestamp": 1590969600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "onlinelibrary.wiley.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        11
+                    ]
+                ]
+            },
+            "DOI": "10.1111/hsc.13049",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        2
+                    ]
+                ],
+                "date-time": "2020-06-02T06:10:50Z",
+                "timestamp": 1591078250000
+            },
+            "page": "2282-2289",
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Supporting access to activities to enhance well\u2010being and reduce social isolation in people living with motor neurone disease",
+            "prefix": "10.1111",
+            "volume": "28",
+            "author": [
+                {
+                    "given": "Suzanne",
+                    "family": "Simpson",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "The Walton Centre NHS Foundation Trust Liverpool UK"
+                        },
+                        {
+                            "name": "Institute of Population Health Sciences University of Liverpool Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sandra",
+                    "family": "Smith",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "NIHR ARC NWC Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Moira",
+                    "family": "Furlong",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "NIHR ARC NWC Liverpool UK"
+                        },
+                        {
+                            "name": "MND Association Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Janet",
+                    "family": "Ireland",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "NIHR ARC NWC Liverpool UK"
+                        },
+                        {
+                            "name": "The Brain Charity Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Population Health Sciences University of Liverpool Liverpool UK"
+                        },
+                        {
+                            "name": "NIHR ARC NWC Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        6
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "e_1_2_8_2_1",
+                    "author": "All\u2010Party Parliamentary Group on Arts, Health and Wellbeing",
+                    "first-page": "2nd ed.",
+                    "year": "2017",
+                    "volume-title": "Creative health: The arts for health and wellbeing"
+                },
+                {
+                    "key": "e_1_2_8_3_1",
+                    "DOI": "10.1177/1179573519859360",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_4_1",
+                    "DOI": "10.1017/S1478951516000341",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_5_1",
+                    "first-page": "e013384",
+                    "article-title": "Social prescribing: Less rhetoric and more reality. A systematic review of the evidence",
+                    "volume": "7",
+                    "author": "Bickerdike L.",
+                    "year": "2017",
+                    "journal-title": "British Medical Journal Open"
+                },
+                {
+                    "key": "e_1_2_8_6_1",
+                    "DOI": "10.3399/bjgp09X421085",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_7_1",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_8_1",
+                    "DOI": "10.1016/S0022-510X(99)00210-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_9_1",
+                    "DOI": "10.1177/1757913917740391",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_10_1",
+                    "DOI": "10.3233/NRE-141148",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_11_1",
+                    "author": "Evans S. C.",
+                    "first-page": "1",
+                    "year": "2017",
+                    "article-title": "\u201cNow he sings\u201d. The my musical memories reminiscence programme: Personalised interactive reminiscence sessions for people living with dementia",
+                    "journal-title": "Dementia"
+                },
+                {
+                    "key": "e_1_2_8_12_1",
+                    "DOI": "10.1177/1471301214553614",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_13_1",
+                    "author": "Giebel C.",
+                    "volume-title": "Enabling middle\u2010aged and older adults accessing community services to reduce social isolation: Community Connectors"
+                },
+                {
+                    "key": "e_1_2_8_14_1",
+                    "DOI": "10.1007/s11136-019-02193-x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_15_1",
+                    "DOI": "10.1111/jocn.12388",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_16_1",
+                    "author": "Government Office for Science",
+                    "year": "2008",
+                    "volume-title": "Foresight mental capital and wellbeing project: Final project report"
+                },
+                {
+                    "key": "e_1_2_8_17_1",
+                    "DOI": "10.1177/1471301216643847",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_18_1",
+                    "DOI": "10.1017/S1478951517000700",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_19_1",
+                    "DOI": "10.1111/sms.12218",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_20_1",
+                    "author": "Junge T.",
+                    "first-page": "1",
+                    "year": "2018",
+                    "article-title": "The effect of long\u2010term, group\u2010based physical, cognitive and social activities on physical performance in elderly, community\u2010dwelling people with mild to moderate dementia",
+                    "journal-title": "Dementia"
+                },
+                {
+                    "key": "e_1_2_8_21_1",
+                    "DOI": "10.1016/j.socscimed.2010.06.043",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_22_1",
+                    "DOI": "10.1016/j.ctim.2018.07.005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_23_1",
+                    "author": "National Health Service England",
+                    "year": "2019",
+                    "volume-title": "The NHS long term plan"
+                },
+                {
+                    "key": "e_1_2_8_24_1",
+                    "DOI": "10.12968/ijtr.2011.18.8.429",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_25_1",
+                    "DOI": "10.1016/j.ctim.2016.01.007",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_26_1",
+                    "author": "NIHR INVOLVE",
+                    "year": "2015",
+                    "volume-title": "Public involvement in research: Values and principles framework"
+                },
+                {
+                    "key": "e_1_2_8_27_1",
+                    "DOI": "10.3109/09638288.2011.605511",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_28_1",
+                    "DOI": "10.1080/13607863.2013.801065",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "86",
+                    "key": "e_1_2_8_29_1",
+                    "article-title": "Facilitators and barriers of implementing and delivering social prescribing services: A systematic review",
+                    "volume": "18",
+                    "author": "Pescheny J. V.",
+                    "year": "2018",
+                    "journal-title": "BMC Health Services Research"
+                },
+                {
+                    "key": "e_1_2_8_30_1",
+                    "first-page": "1",
+                    "article-title": "The impact of social prescribing services on service users: A systematic review of the evidence",
+                    "volume": "078",
+                    "author": "Pescheny J. V.",
+                    "year": "2019",
+                    "journal-title": "European Journal of Public Health"
+                },
+                {
+                    "key": "e_1_2_8_31_1",
+                    "author": "Polley M. J.",
+                    "year": "2017",
+                    "volume-title": "Making sense of social prescribing"
+                },
+                {
+                    "key": "e_1_2_8_32_1",
+                    "author": "Royal Society of Public Health",
+                    "year": "2019",
+                    "volume-title": "Driving forward social prescribing: A framework for Allied Health Professionals"
+                },
+                {
+                    "key": "e_1_2_8_33_1",
+                    "DOI": "10.1080/21678421.2018.1508477",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_34_1",
+                    "DOI": "10.2147/JPRLS.S125387",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_35_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "74",
+                    "DOI": "10.4103/0973-6131.146070",
+                    "article-title": "A randomized controlled pilot study of the therapeutic effects of yoga in people with parkinsons disease",
+                    "volume": "8",
+                    "author": "Sharma N. K.",
+                    "year": "2015",
+                    "journal-title": "International Journal of Yoga"
+                },
+                {
+                    "key": "e_1_2_8_36_1",
+                    "DOI": "10.1136/jnnp-2018-320165",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_37_1",
+                    "DOI": "10.3399/bjgp18X696617",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_38_1",
+                    "DOI": "10.1111/hsc.12477",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_39_1",
+                    "author": "Sport England",
+                    "year": "2016",
+                    "volume-title": "Inclusive sport projects: Key learning from the national evaluation"
+                },
+                {
+                    "key": "e_1_2_8_40_1",
+                    "author": "Taylor R. R.",
+                    "first-page": "3",
+                    "year": "2017",
+                    "volume-title": "Kielhofner's model of human occupation: Theory and application"
+                },
+                {
+                    "key": "e_1_2_8_41_1",
+                    "author": "The Kings Fund",
+                    "year": "2017",
+                    "volume-title": "What is social prescribing?"
+                },
+                {
+                    "key": "e_1_2_8_42_1",
+                    "author": "The University of York Centre for Reviews and Dissemination",
+                    "year": "2014",
+                    "volume-title": "Evidence to inform the commissioning of social prescribing"
+                },
+                {
+                    "key": "e_1_2_8_43_1",
+                    "first-page": "CD003477",
+                    "article-title": "Music\u2010based therapeutic interventions for people with dementia",
+                    "volume": "5",
+                    "author": "Steen J. T.",
+                    "year": "2018",
+                    "journal-title": "Cochrane Database of Systematic Reviews"
+                },
+                {
+                    "key": "e_1_2_8_44_1",
+                    "DOI": "10.1046/j.1365-2524.2001.00320.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_45_1",
+                    "author": "Victor C.",
+                    "year": "2018",
+                    "volume-title": "An overview of reviews: The effectiveness of interventions to address loneliness at all stages of the life\u2010course"
+                },
+                {
+                    "key": "e_1_2_8_46_1",
+                    "DOI": "10.1017/S1041610217002162",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_47_1",
+                    "DOI": "10.1080/21678421.2019.1615951",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Health & Social Care in the Community",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fhsc.13049",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/hsc.13049",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/hsc.13049",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/hsc.13049",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        15
+                    ]
+                ],
+                "date-time": "2021-01-15T06:37:32Z",
+                "timestamp": 1610692652000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        6
+                    ]
+                ]
+            },
+            "references-count": 46,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            11
+                        ]
+                    ]
+                },
+                "issue": "6"
+            },
+            "alternative-id": [
+                "10.1111/hsc.13049"
+            ],
+            "URL": "http://dx.doi.org/10.1111/hsc.13049",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0966-0410",
+                "1365-2524"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health",
+                "Health Policy",
+                "Social Sciences (miscellaneous)",
+                "Sociology and Political Science"
+            ],
+            "container-title-short": "Health Soc Care Community",
+            "assertion": [
+                {
+                    "value": "2020-01-02",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2020-05-07",
+                    "order": 1,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2020-06-01",
+                    "order": 2,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "implementation",
+                        "motor neurone disease",
+                        "quality of life",
+                        "social prescribing"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32483867",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "01"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "06",
+                            "Day": "01"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1111/hsc.13049"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1365-2524",
+                        "JournalIssue": {
+                            "Volume": "28",
+                            "Issue": "6",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "11"
+                            }
+                        },
+                        "Title": "Health & social care in the community",
+                        "ISOAbbreviation": "Health Soc Care Community"
+                    },
+                    "ArticleTitle": "Supporting access to activities to enhance well-being and reduce social isolation in people living with motor neurone disease.",
+                    "Pagination": {
+                        "MedlinePgn": "2282-2289"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "People living with Motor Neurone Disease (plwMND) have emphasised the importance of psychological support and well-being in helping them manage their condition. Social prescribing is a formal process of referring patients with largely socioeconomic and psychosocial issues to a link worker to co-design a plan to improve their health and well-being. Intervention involves supporting engagement in meaningful activities based within the individual's local community. This pilot project aimed to explore the application of social prescribing with plwMND.",
+                            "A cohort of plwMND were supported by an occupational therapist and link worker to identify and access community-based activities. Qualitative interviews were completed post-intervention with the plwMND and the link workers. Findings were analysed using thematic analysis.",
+                            "A total of nine plwMND took part in this pilot service, and five plwMND and four link workers were interviewed. PlwMND valued participation and wanted to engage in community-based activities. Those with mild symptomatology were able to access activities and reported a positive impact on their well-being. Those with more complex needs, particularly reduced mobility, experienced significant barriers to participation. Barriers included transport, equipment provision, lack of company to support participation and lack of confidence using mobility aids in a community environment. Link workers valued joint working with an occupational therapist.",
+                            "Social prescribing aims to address the health inequalities of those living with long-term conditions, although currently it likely excludes plwMND. Future work needs to quantitatively evaluate the effects of the service on the well-being of plwMND."
+                        ],
+                        "CopyrightInformation": "\u00a9 2020 The Authors. Health and Social Care in the Community published by John Wiley & Sons Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Walton Centre NHS Foundation Trust, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Simpson",
+                            "ForeName": "Suzanne",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Smith",
+                            "ForeName": "Sandra",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "MND Association, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Furlong",
+                            "ForeName": "Moira",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Brain Charity, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ireland",
+                            "ForeName": "Janet",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Health Soc Care Community",
+                    "NlmUniqueID": "9306359",
+                    "ISSNLinking": "0966-0410"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "All-Party Parliamentary Group on Arts, Health and Wellbeing. (2017). Creative health: The arts for health and wellbeing (2nd ed.). Retrieved from http://www.artshealthandwellbeing.org.uk/appginquiry/Publications/Creative_Health_Inquiry_Report_2017_-_Second_Edition.pdf"
+                            },
+                            {
+                                "Citation": "Ando, H., Cousins, R., & Young, C. A. (2019). Exploring and addressing \u2018Concerns\u2019 for significant others to extend the understanding of quality of life with amyotrophic lateral sclerosis: A qualitative study. Journal of Central Nervous System Disease, 11, 1-10. https://doi.org/10.1177/1179573519859360"
+                            },
+                            {
+                                "Citation": "Aoun, S. M., Deas, K., Kristjanson, L. J., & Kissane, D. W. (2017). Identifying and addressing the support needs of family caregivers of people with motor neurone disease using the Carer Support Needs Assessment Tool. Palliative & Supportive Care, 15(1), 32-43. https://doi.org/10.1017/S1478951516000341"
+                            },
+                            {
+                                "Citation": "Bickerdike, L., Booth, A., Wilson, P. M., Farley, K., & Wright, K. (2017). Social prescribing: Less rhetoric and more reality. A systematic review of the evidence. British Medical Journal Open, 7, e013384. https://doi.org/10.1136/bmjopen-2016-013384"
+                            },
+                            {
+                                "Citation": "Brandling, J., & House, W. (2009). Social prescribing in general practice: Adding meaning to medicine. The British Journal of General Practice, 59(563), 454-456. https://doi.org/10.3399/bjgp09X421085"
+                            },
+                            {
+                                "Citation": "Braun, V., & Clarke, C. (2006). Using thematic analysis in psychology. Qualitative Research in Psychology, 3(2), 77-101. https://doi.org/10.1191/1478088706qp063oa"
+                            },
+                            {
+                                "Citation": "Cedarbaum, J. M., Stambler, N., Malta, E., Fuller, C., Hilt, D., Thurmond, B., & Nakanishi, A. (1999). The ALSFRS-R: A revised ALS functional rating scale that incorporates assessments of respiratory function. Journal of the Neurological Sciences, 168, 13-21. https://doi.org/10.1016/S0022-510X(99)00210-5"
+                            },
+                            {
+                                "Citation": "Daykin, N., Mansfield, L., Meads, C., Julier, G., Tomlinson, A., Payne, A., \u2026 Victor, C. (2018). What works for wellbeing? A systematic review of wellbeing outcomes for music and singing in adults. Perspectives in Public Health, 138(1), 39-46. Retrieved from https://research.brighton.ac.uk/en/publications/70d325ca-5318-42a4-af26-7a6474f137f5"
+                            },
+                            {
+                                "Citation": "Eidenberger, M., & Nowotny, S. (2014). Inspiratory muscle training in patients with Amyotrophic Lateral Sclerosis: A systematic review. NeuroRehabilitation, 35(3), 349-361. https://doi.org/10.3233/NRE-141148"
+                            },
+                            {
+                                "Citation": "Evans, S. C., Garabedian, C., & Bray, J. (2017). \u201cNow he sings\u201d. The my musical memories reminiscence programme: Personalised interactive reminiscence sessions for people living with dementia. Dementia, 1-18."
+                            },
+                            {
+                                "Citation": "Giebel, C. M., Challis, D., & Montaldi, D. (2016). A revised interview for deterioration in daily living activities in dementia reveals the relationship between social activities and well-being. Dementia, 15(5), 1068-1081. https://doi.org/10.1177/1471301214553614"
+                            },
+                            {
+                                "Citation": "Giebel, C., Hassan, S., Harvey, G., Harper, L., Devitt, C., Simmill-Binnings, C. (under review). Enabling middle-aged and older adults accessing community services to reduce social isolation: Community Connectors. Health and Social Care in the Community, under review."
+                            },
+                            {
+                                "Citation": "Giebel, C., Medley, G., Smith, S., Thornton, M., Furlong, M., Ennis, M., & Young, C. (2019). Communicating psychosocial well-being in motor neurone disease to staff: Results from a World Caf\u00e9 approach. Quality of Life Research, 28(9), 2579-2584. https://doi.org/10.1007/s11136-019-02193-x"
+                            },
+                            {
+                                "Citation": "Gonzalez, M. T., & Kirkevold, M. (2014). Benefits of sensory garden and horticultural activities in dementia care: A modified scoping review. Journal of Clinical Nursing, 23(19-20), 2698-2715. https://doi.org/10.1111/jocn.12388"
+                            },
+                            {
+                                "Citation": "Government Office for Science. (2008). Foresight mental capital and wellbeing project: Final project report. London, UK: Government Office for Science. Retrieved from https://www.gov.uk/government/collections/mental-capital-and-wellbeing"
+                            },
+                            {
+                                "Citation": "Hall, J., Mitchell, G., Webber, C., & Johnson, K. (2018). Effect of horticultural therapy on wellbeing among dementia day care programme participants: A mixed-methods study (Innovative Practice). Dementia, 17(5), 611-620. https://doi.org/10.1177/1471301216643847"
+                            },
+                            {
+                                "Citation": "Harris, M., Thomas, G., Thomas, M., Cafarella, P., Stocks, A., Greig, J., & Mcevoy, R. D. (2018). Supporting wellbeing in motor neurone disease for patients, carers, social networks, and health professionals: A scoping review and synthesis. Palliative and Supportive Care, 16(2), 228-237. https://doi.org/10.1017/S1478951517000700."
+                            },
+                            {
+                                "Citation": "Jaarsma, E. A., Dijkstra, P. U., Geertzen, J. H. B., & Dekker, R. (2014). Barriers to and facilitators of sports participation for people with physical disabilities: A systematic review. Scandinavian Journal of Medicine and Science in Sport, 24, 871-881. https://doi.org/10.1111/sms.12218"
+                            },
+                            {
+                                "Citation": "Junge, T., Knudsen, H. K., & Kristensen, H. K. (2018). The effect of long-term, group-based physical, cognitive and social activities on physical performance in elderly, community-dwelling people with mild to moderate dementia. Dementia, 1-15. https://doi.org/10.1177/1471301218806376"
+                            },
+                            {
+                                "Citation": "Locock, L., & Brown, J. B. (2010). All in the same boat? Patient and carer attitudes to peer support and social comparison in motor neurone disease (MND). Social Science & Medicine, 71(8), 1498-1505. https://doi.org/10.1016/j.socscimed.2010.06.043"
+                            },
+                            {
+                                "Citation": "Michels, K., Dubaz, O., Hornthal, E., & Bega, D. (2018). Dance therapy as a psychotherapeutic movement intervention in parkinson's disease. Complimentary Therapies in Medicine, 40(2018), 248-252. https://doi.org/10.1016/j.ctim.2018.07.005"
+                            },
+                            {
+                                "Citation": "National Health Service England. (2019). The NHS long term plan. London, UK: National Health Service."
+                            },
+                            {
+                                "Citation": "Ng, L., Talman, P., & Khan, F. (2011). Neuropsychological sequelae in motor neurone disease: Outcomes of a peer support programme. International Journal of Therapy and Rehabilitation, 18(8), 429-437. https://doi.org/10.12968/ijtr.2011.18.8.429"
+                            },
+                            {
+                                "Citation": "Ni, M., Mooney, K., & Signorile, J. (2016). Controlled pilot study of the effects of power yoga in Parkinson's disease. Complementary Therapies in Medicine, 6, 126-131. https://doi.org/10.1016/j.ctim.2016.01.007"
+                            },
+                            {
+                                "Citation": "NIHR INVOLVE. (2015). Public involvement in research: Values and principles framework. Eastleigh, UK: NIHR INVOLVE."
+                            },
+                            {
+                                "Citation": "O'Brien, M. R., Whitehead, B., Jack, B. A., & Mitchell, J. D. (2012). The need for support services for family carers of people with motor neurone disease (MND): Views of current and former family caregivers a qualitative study. Disability & Rehabilitation, 34, 247-256. https://doi.org/10.3109/09638288.2011.605511"
+                            },
+                            {
+                                "Citation": "Olsson, A., Lampic, C., Skovdahl, K., & Engstr\u00f6m, M. (2013). Persons with early-stage dementia reflect on being outdoors: A repeated interview study. Aging and Mental Health, 17(7), 793-800. https://doi.org/10.1080/13607863.2013.801065"
+                            },
+                            {
+                                "Citation": "Pescheny, J. V., Pappas, Y., & Randhawa, G. (2018). Facilitators and barriers of implementing and delivering social prescribing services: A systematic review. BMC Health Services Research, 18(86). https://doi.org/10.1186/s12913-018-2893-4"
+                            },
+                            {
+                                "Citation": "Pescheny, J. V., Randhawa, G., & Pappas, Y. (2019). The impact of social prescribing services on service users: A systematic review of the evidence. European Journal of Public Health, ckz078, 1-9. https://doi.org/10.1093/eurpub/ckz078"
+                            },
+                            {
+                                "Citation": "Polley, M. J., Fleming, J., Anfilogoff, T., & Carpenter, A. (2017). Making sense of social prescribing. London, UK: University of Westminster."
+                            },
+                            {
+                                "Citation": "Royal Society of Public Health. (2019). Driving forward social prescribing: A framework for Allied Health Professionals. London, UK: Royal Society of Public Health."
+                            },
+                            {
+                                "Citation": "Schl\u00fcter, D. K., Tennant, A., Mills, R., Diggle, P. J., & Young, C. A. (2018). Risk factors for social withdrawal in amyotrophic lateral sclerosis/motor neurone disease. Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, 19(7-8), 591-598. https://doi.org/10.1080/21678421.2018.1508477"
+                            },
+                            {
+                                "Citation": "Shanahan, J., Morris, M. E., Bhriain, O. N., Volpe, D., & Clifford, A. M. (2017). Dancing and Parkinson's disease: Updates on this creative approach to therapy. Journal of Parkinsonism and Restless Legs Syndrome, 7, 43-53."
+                            },
+                            {
+                                "Citation": "Sharma, N. K., Robbins, K., Wagner, K., & Colgrove, Y. M. (2015). A randomized controlled pilot study of the therapeutic effects of yoga in people with parkinsons disease. International Journal of Yoga, 8(Jan-Jun), 74-79. https://doi.org/10.4103/09736131.146070"
+                            },
+                            {
+                                "Citation": "Simpson, R., Simpson, S., Ramparsad, N., Lawrence, M., Booth, J., & Mercer, S. W. (2019). Mindfulness-based interventions for mental wellbeing among people with multiple sclerosis: A systematic review and meta-analysis of randomised controlled trials. Journal of Neurology, Neurosurgery and Psychiatry, 90, 1051-1058. https://doi.org/10.1136/jnnp-2018-320165"
+                            },
+                            {
+                                "Citation": "Skivington, K., Smith, M., Chng, N. R., Mackenzie, M., Wyke, S., & Mercer, S. W. (2018). Delivering a primary care-based social prescribing initiative: A qualitative study of the benefits and challenges. British Journal of General Practice, 68(672), 487-494. https://doi.org/10.3399/bjgp18X696617"
+                            },
+                            {
+                                "Citation": "Smith, R., Drennan, V., Mackenzie, A., & Greenwood, N. (2018). Volunteers peer support and befriending for carers of people living with dementia: An exploration of volunteers' experience. Health and Social Care in the Community, 26(2), 158-166."
+                            },
+                            {
+                                "Citation": "Sport England. (2016). Inclusive sport projects: Key learning from the national evaluation. Retrieved from https://www.sportengland.org/research/resources/"
+                            },
+                            {
+                                "Citation": "Taylor, R. R., & Kielhofner, G. (2017). Introduction to the model of human occupation. In R. R. Taylor (Ed.), Kielhofner's model of human occupation: Theory and application (pp. 3-10). Philadelphia, PA: Wolters Kluwer."
+                            },
+                            {
+                                "Citation": "The Kings Fund. (2017). What is social prescribing? Retrieved from https://www.kingsfund.org.uk/publications/social-prescribing"
+                            },
+                            {
+                                "Citation": "The University of York Centre for Reviews and Dissemination. (2014). Evidence to inform the commissioning of social prescribing. Retrieved from http://www.york.ac.uk/media/crd/Ev%20briefing_social_prescribing.pdf"
+                            },
+                            {
+                                "Citation": "van der Steen, J. T., Smaling, H. J. A., van der Wouden, J. C., Bruinsma, M. S., Scholten, R. J. P. M., & Vink, A. C. (2018). Music-based therapeutic interventions for people with dementia. Cochrane Database of Systematic Reviews, 5, CD003477. https://doi.org/10.1002/14651858.CD003477.pub4"
+                            },
+                            {
+                                "Citation": "Van Teijlingen, E. R., Friend, E., & Kamal, A. D. (2001). Service use and needs of people with motor neurone disease and their carers in Scotland. Health and Social Care in the Community, 9(6), 397-403. https://doi.org/10.1046/j.1365-2524.2001.00320.x"
+                            },
+                            {
+                                "Citation": "Victor, C., Mansfield, L., Kay, T., Daykin, N., Lane, J., Grigsby Duffy, L., \u2026 Meads, C. (2018). An overview of reviews: The effectiveness of interventions to address loneliness at all stages of the life-course. Retrieved from https://whatworkswellbeing.org/wp/wpcontent/uploads/woocommerce_uploads/2018/10/Full-report-Tackling-loneliness-Oct-2018.pdf"
+                            },
+                            {
+                                "Citation": "Windle, G., Joling, K. J., Howson-Griffiths, T., Woods, B., Jones, C. H., van de Ven, P., \u2026 Parkinson, C. (2018). The impact of a visual arts program on quality of life, communication, and wellbeing of people living with dementia: A mixed-methods longitudinal investigation. International Psychogeriatrics, 30(3), 409-423. https://doi.org/10.1017/S1041610217002162"
+                            },
+                            {
+                                "Citation": "Young, C. A., Ealing, J., McDermott, C., Williams, T., Al-Chalabi, A., Majeed, T., \u2026 Tennant, A. (2019). The relationships between symptoms, disability, perceived health and quality of life in amyotrophic lateral sclerosis/motor neuron disease. Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, 20(5-6), 317-327. https://doi.org/10.1080/21678421.2019.1615951"
+                            }
+                        ],
+                        "Title": "REFERENCES"
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "01",
+                        "Day": "02"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "05",
+                        "Day": "05"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "05",
+                        "Day": "07"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "32483867",
+                    "10.1111/hsc.13049"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32483867)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832483867%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832483867%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085685380"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085685380?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085685380&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085685380&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085685380",
+                        "dc:identifier": "SCOPUS_ID:85085685380",
+                        "eid": "2-s2.0-85085685380",
+                        "dc:title": "Supporting access to activities to enhance well-being and reduce social isolation in people living with motor neurone disease",
+                        "dc:creator": "Simpson S.",
+                        "prism:publicationName": "Health and Social Care in the Community",
+                        "prism:issn": "09660410",
+                        "prism:eIssn": "13652524",
+                        "prism:volume": "28",
+                        "prism:issueIdentifier": "6",
+                        "prism:pageRange": "2282-2289",
+                        "prism:coverDate": "2020-11-01",
+                        "prism:coverDisplayDate": "1 November 2020",
+                        "prism:doi": "10.1111/hsc.13049",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "The Walton Centre NHS Foundation Trust",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32483867",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "20848",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherhybridgold"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Hybrid Gold"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "Z5ADBTG2.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32483867"
+            }
+        },
+        "title": "Supporting access to activities to enhance well-being and reduce social isolation in people living with motor neurone disease.",
+        "full_author_list": [
+            {
+                "clean": "Simpson S",
+                "family": "Simpson",
+                "given": "Suzanne",
+                "affiliation": {
+                    "name": "The Walton Centre NHS Foundation Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Smith S",
+                "family": "Smith",
+                "given": "Sandra",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Furlong M",
+                "family": "Furlong",
+                "given": "Moira",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Ireland J",
+                "family": "Ireland",
+                "given": "Janet",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Simpson S",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "implementation",
+                "motor neurone disease",
+                "quality of life",
+                "social prescribing"
+            ]
+        },
+        "journal": {
+            "journal_name": "Health Soc Care Community",
+            "volume": "28",
+            "issue": "6"
+        },
+        "abstract": "[\"People living with Motor Neurone Disease (plwMND) have emphasised the importance of psychological support and well-being in helping them manage their condition. Social prescribing is a formal process of referring patients with largely socioeconomic and psychosocial issues to a link worker to co-design a plan to improve their health and well-being. Intervention involves supporting engagement in meaningful activities based within the individual's local community. This pilot project aimed to explore the application of social prescribing with plwMND.\", 'A cohort of plwMND were supported by an occupational therapist and link worker to identify and access community-based activities. Qualitative interviews were completed post-intervention with the plwMND and the link workers. Findings were analysed using thematic analysis.', 'A total of nine plwMND took part in this pilot service, and five plwMND and four link workers were interviewed. PlwMND valued participation and wanted to engage in community-based activities. Those with mild symptomatology were able to access activities and reported a positive impact on their well-being. Those with more complex needs, particularly reduced mobility, experienced significant barriers to participation. Barriers included transport, equipment provision, lack of company to support participation and lack of confidence using mobility aids in a community environment. Link workers valued joint working with an occupational therapist.', 'Social prescribing aims to address the health inequalities of those living with long-term conditions, although currently it likely excludes plwMND. Future work needs to quantitatively evaluate the effects of the service on the well-being of plwMND.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "The Walton Centre NHS Foundation Trust, Liverpool, UK.",
+            "clean_institute": "The Walton Centre NHS Foundation Trust",
+            "country": "United Kingdom",
+            "latitude": "53.466619496275",
+            "longitude": "-2.9309126985088"
+        }
+    }
+}

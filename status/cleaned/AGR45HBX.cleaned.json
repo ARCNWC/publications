@@ -1,0 +1,1155 @@
+{
+    "IDs": {
+        "zotero": "AGR45HBX",
+        "DOI": "10.1111/hex.13070",
+        "DOI_filename": "893c62b3f71b6f196e253079faa5c9fb",
+        "PMID": "32430935",
+        "scopus": "2-s2.0-85084980572",
+        "hash": "f843fefc19b91b14f2282221372cb529"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "AGR45HBX",
+            "version": 992,
+            "itemType": "journalArticle",
+            "title": "Mainstreaming public involvement in a complex research collaboration: A theory\u2010informed evaluation",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Fiona",
+                    "lastName": "Ward"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennie",
+                    "lastName": "Popay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ana",
+                    "lastName": "Porroche\u2010Escudero"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dorcas",
+                    "lastName": "Akeju"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Saiqa",
+                    "lastName": "Ahmed"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jane",
+                    "lastName": "Cloke"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Koser",
+                    "lastName": "Khan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Shaima",
+                    "lastName": "Hassan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Esmaeil",
+                    "lastName": "Khedmati\u2010Morasae"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Health Expectations",
+            "volume": "23",
+            "issue": "4",
+            "pages": "910-918",
+            "date": "08/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Health Expect",
+            "language": "en",
+            "DOI": "10.1111/hex.13070",
+            "ISSN": "1369-6513, 1369-7625",
+            "shortTitle": "Mainstreaming public involvement in a complex research collaboration",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1111/hex.13070",
+            "accessDate": "2021-07-23T16:46:09Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32430935",
+            "tags": [
+                {
+                    "tag": "IPH"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:18Z",
+            "dateModified": "2021-07-27T12:03:20Z",
+            "pmid": "32430935"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        21
+                    ]
+                ],
+                "date-time": "2020-10-21T03:11:14Z",
+                "timestamp": 1603249874749
+            },
+            "reference-count": 30,
+            "publisher": "Wiley",
+            "issue": "4",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                5,
+                                19
+                            ]
+                        ],
+                        "date-time": "2020-05-19T00:00:00Z",
+                        "timestamp": 1589846400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                },
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                5,
+                                19
+                            ]
+                        ],
+                        "date-time": "2020-05-19T00:00:00Z",
+                        "timestamp": 1589846400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "onlinelibrary.wiley.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        8
+                    ]
+                ]
+            },
+            "DOI": "10.1111/hex.13070",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        20
+                    ]
+                ],
+                "date-time": "2020-05-20T06:14:12Z",
+                "timestamp": 1589955252000
+            },
+            "page": "910-918",
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Mainstreaming public involvement in a complex research collaboration: A theory\u2010informed evaluation",
+            "prefix": "10.1111",
+            "volume": "23",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-6426-2665",
+                    "authenticated-orcid": false,
+                    "given": "Fiona",
+                    "family": "Ward",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Division of Health Research Faculty of Health and Medicine Lancaster University Lancaster UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-9234-908X",
+                    "authenticated-orcid": false,
+                    "given": "Jennie",
+                    "family": "Popay",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Division of Health Research Faculty of Health and Medicine Lancaster University Lancaster UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-2740-5273",
+                    "authenticated-orcid": false,
+                    "given": "Ana",
+                    "family": "Porroche\u2010Escudero",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Division of Health Research Faculty of Health and Medicine Lancaster University Lancaster UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Dorcas",
+                    "family": "Akeju",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "CLAHRC North West Coast University of Liverpool Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Saiqa",
+                    "family": "Ahmed",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "CLAHRC North West Coast University of Liverpool Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-6332-9186",
+                    "authenticated-orcid": false,
+                    "given": "Jane",
+                    "family": "Cloke",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "CLAHRC North West Coast University of Liverpool Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0003-0473-6552",
+                    "authenticated-orcid": false,
+                    "given": "Koser",
+                    "family": "Khan",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Division of Health Research Faculty of Health and Medicine Lancaster University Lancaster UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-7840-3342",
+                    "authenticated-orcid": false,
+                    "given": "Shaima",
+                    "family": "Hassan",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Services Research Institute of Psychology, Health and Society University of Liverpool Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0003-2172-9653",
+                    "authenticated-orcid": false,
+                    "given": "Esmaeil",
+                    "family": "Khedmati\u2010Morasae",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Research Fellow in Policy and Complex Systems University of Exeter Exeter UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        19
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "e_1_2_10_2_1",
+                    "DOI": "10.1111/hex.12158",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_3_1",
+                    "DOI": "10.1136/bmjopen-2017-017124",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_4_1",
+                    "DOI": "10.1177/1355819617750688",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_5_1",
+                    "DOI": "10.1186/s40900-018-0100-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_6_1",
+                    "DOI": "10.3310/hsdr02360",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_7_1",
+                    "DOI": "10.1186/s40900-016-0015-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_8_1",
+                    "DOI": "10.3310/hsdr03390",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_9_1",
+                    "DOI": "10.1371/journal.pone.0215953",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_10_1",
+                    "DOI": "10.1080/14719037.2014.881535",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_11_1",
+                    "DOI": "10.1017/S1463423609990405",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_12_1",
+                    "DOI": "10.1111/hex.12684",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_13_1",
+                    "DOI": "10.1016/S0140-6736(13)62494-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_14_1",
+                    "DOI": "10.1016/j.socscimed.2007.01.013",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_15_1",
+                    "DOI": "10.1016/S0277-9536(03)00164-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_16_1",
+                    "DOI": "10.1002/casp.1092",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_17_1",
+                    "DOI": "10.1080/13552070512331332283",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_18_1",
+                    "DOI": "10.1177/1363459312438563",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_19_1",
+                    "DOI": "10.3310/hsdr03440",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_20_1",
+                    "author": "Ariss S",
+                    "volume-title": "NIHR CLAHRC for South Yorkshire internal evaluation report \u2013 executive summary"
+                },
+                {
+                    "key": "e_1_2_10_21_1",
+                    "DOI": "10.1186/s13012-018-0805-y",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_22_1",
+                    "DOI": "10.5688/aj7408141",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_23_1",
+                    "DOI": "10.1186/1471-2288-13-117",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_24_1",
+                    "unstructured": "Cambridge Dictionary.https://dictionary.cambridge.org/dictionary/english/. Accessed November 9 2018."
+                },
+                {
+                    "key": "e_1_2_10_25_1",
+                    "DOI": "10.1111/hex.12486",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_26_1",
+                    "DOI": "10.1177/1355819615612510",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_27_1",
+                    "DOI": "10.1177/0038038509103208",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_10_28_1",
+                    "author": "Pawson R",
+                    "year": "1997",
+                    "volume-title": "Realistic Evaluation"
+                },
+                {
+                    "key": "e_1_2_10_29_1",
+                    "unstructured": "CLAHRC North West Coast.Strategic vision.2014.https://www.clahrc\u2010nwc.nihr.ac.uk/media/Info%20Hub/CLAHRC%20NIHR%20Application%20Final.pdf. Accessed November 12 2018."
+                },
+                {
+                    "issue": "3",
+                    "key": "e_1_2_10_30_1",
+                    "first-page": "437",
+                    "article-title": "Rethinking standpoint epistemology: What is\" strong objectivity?\"",
+                    "volume": "36",
+                    "author": "Harding S",
+                    "year": "1992",
+                    "journal-title": "Centennial Rev"
+                },
+                {
+                    "key": "e_1_2_10_31_1",
+                    "DOI": "10.15171/ijhpm.2018.108",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Health Expectations",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fhex.13070",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/hex.13070",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/hex.13070",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/hex.13070",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        21
+                    ]
+                ],
+                "date-time": "2020-10-21T02:35:59Z",
+                "timestamp": 1603247759000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        19
+                    ]
+                ]
+            },
+            "references-count": 30,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            8
+                        ]
+                    ]
+                },
+                "issue": "4"
+            },
+            "alternative-id": [
+                "10.1111/hex.13070"
+            ],
+            "URL": "http://dx.doi.org/10.1111/hex.13070",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1369-6513",
+                "1369-7625"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health"
+            ],
+            "container-title-short": "Health Expect",
+            "assertion": [
+                {
+                    "value": "2019-07-25",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2020-04-21",
+                    "order": 1,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2020-05-19",
+                    "order": 2,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Public Adviser",
+                        "community involvement",
+                        "evaluation",
+                        "mainstreaming",
+                        "public involvement",
+                        "theoretical framework"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32430935",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "04",
+                    "Day": "07"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "05",
+                            "Day": "19"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1111/hex.13070"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1369-7625",
+                        "JournalIssue": {
+                            "Volume": "23",
+                            "Issue": "4",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "08"
+                            }
+                        },
+                        "Title": "Health expectations : an international journal of public participation in health care and health policy",
+                        "ISOAbbreviation": "Health Expect"
+                    },
+                    "ArticleTitle": "Mainstreaming public involvement in a complex research collaboration: A theory-informed evaluation.",
+                    "Pagination": {
+                        "MedlinePgn": "910-918"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "There is an extensive literature on public involvement (PI) in research, but this has focused primarily on experiences for researchers and public contributors and factors enabling or restricting successful involvement in specific projects. There has been less consideration of a 'whole system' approach to embedding PI across an organization from governance structures through to research projects.",
+                            "To investigate how a combination of two theoretical frameworks, one focused on mainstreaming and the other conceptualizing quality, can illuminate the embedding of positive and influential PI throughout a research organization.",
+                            "The study used data from the evaluation of a large UK research collaboration. Primary data were collected from 131 respondents (including Public Advisers, university, NHS and local government staff) via individual and group interviews/workshops. Secondary sources included monitoring data and internal documents.",
+                            "CLAHRC-NWC made real progress in mainstreaming PI. An organizational vision and infrastructure to embed PI at all levels were created, and the number and range of opportunities increased; PI roles became more clearly defined and increasingly public contributors felt able to influence decisions. However, the aspiration to mainstream PI throughout the collaboration was not fully achieved: a lack of staff 'buy-in' meant that in some areas, it was not experienced as positively or was absent.",
+                            "The two theoretical frameworks brought a novel perspective, facilitating the investigation of the quality of PI in structures and processes across the whole organization. We propose that combining these frameworks can assist the evaluation of PI research."
+                        ],
+                        "CopyrightInformation": "\u00a9 2020 The Authors Health Expectations published by John Wiley & Sons Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0001-6426-2665"
+                            ],
+                            "LastName": "Ward",
+                            "ForeName": "Fiona",
+                            "Initials": "F"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0001-9234-908X"
+                            ],
+                            "LastName": "Popay",
+                            "ForeName": "Jennie",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-2740-5273"
+                            ],
+                            "LastName": "Porroche-Escudero",
+                            "ForeName": "Ana",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "CLAHRC North West Coast, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Akeju",
+                            "ForeName": "Dorcas",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "CLAHRC North West Coast, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ahmed",
+                            "ForeName": "Saiqa",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "CLAHRC North West Coast, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0001-6332-9186"
+                            ],
+                            "LastName": "Cloke",
+                            "ForeName": "Jane",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0003-0473-6552"
+                            ],
+                            "LastName": "Khan",
+                            "ForeName": "Koser",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0001-7840-3342"
+                            ],
+                            "LastName": "Hassan",
+                            "ForeName": "Shaima",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Research Fellow in Policy and Complex Systems, University of Exeter, Exeter, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0003-2172-9653"
+                            ],
+                            "LastName": "Khedmati-Morasae",
+                            "ForeName": "Esmaeil",
+                            "Initials": "E"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Health Expect",
+                    "NlmUniqueID": "9815926",
+                    "ISSNLinking": "1369-6513"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Health Expect. 2020 Aug;23(4):910-918",
+                                "ArticleIdList": [
+                                    "32430935"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2015 Oct;18(5):661-75",
+                                "ArticleIdList": [
+                                    "24325553"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Res Methodol. 2013 Sep 18;13:117",
+                                "ArticleIdList": [
+                                    "24047204"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2007 May;64(10):2115-28",
+                                "ArticleIdList": [
+                                    "17368680"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2019 May 14;14(5):e0215953",
+                                "ArticleIdList": [
+                                    "31086394"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2018 Jul 30;8(7):e017124",
+                                "ArticleIdList": [
+                                    "30061427"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Health Policy Manag. 2018 Nov 11;8(2):124-127",
+                                "ArticleIdList": [
+                                    "30980625"
+                                ]
+                            },
+                            {
+                                "Citation": "Res Involv Engagem. 2018 May 24;4:16",
+                                "ArticleIdList": [
+                                    "29850029"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Pharm Educ. 2010 Oct 11;74(8):141",
+                                "ArticleIdList": [
+                                    "21179252"
+                                ]
+                            },
+                            {
+                                "Citation": "Res Involv Engagem. 2016 Jan 14;2:1",
+                                "ArticleIdList": [
+                                    "29062502"
+                                ]
+                            },
+                            {
+                                "Citation": "Health (London). 2012 Sep;16(5):531-47",
+                                "ArticleIdList": [
+                                    "22535648"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2017 Oct;20(5):826-835",
+                                "ArticleIdList": [
+                                    "28664563"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Serv Res Policy. 2016 Jul;21(3):209-11",
+                                "ArticleIdList": [
+                                    "26510440"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Serv Res Policy. 2018 Apr;23(2):98-106",
+                                "ArticleIdList": [
+                                    "29653504"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2004 Jan;58(2):321-30",
+                                "ArticleIdList": [
+                                    "14604618"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2018 Oct;21(5):899-908",
+                                "ArticleIdList": [
+                                    "29654644"
+                                ]
+                            },
+                            {
+                                "Citation": "Implement Sci. 2018 Aug 15;13(1):111",
+                                "ArticleIdList": [
+                                    "30111339"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "07",
+                        "Day": "25"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "03",
+                        "Day": "18"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "04",
+                        "Day": "21"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "5",
+                        "Day": "21",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "5",
+                        "Day": "21",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "5",
+                        "Day": "21",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "32430935",
+                    "10.1111/hex.13070",
+                    "PMC7495077"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32430935)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832430935%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832430935%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084980572"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084980572?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85084980572&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85084980572&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85084980572",
+                        "dc:identifier": "SCOPUS_ID:85084980572",
+                        "eid": "2-s2.0-85084980572",
+                        "dc:title": "Mainstreaming public involvement in a complex research collaboration: A theory-informed evaluation",
+                        "dc:creator": "Ward F.",
+                        "prism:publicationName": "Health Expectations",
+                        "prism:issn": "13696513",
+                        "prism:eIssn": "13697625",
+                        "prism:volume": "23",
+                        "prism:issueIdentifier": "4",
+                        "prism:pageRange": "910-918",
+                        "prism:coverDate": "2020-08-01",
+                        "prism:coverDisplayDate": "1 August 2020",
+                        "prism:doi": "10.1111/hex.13070",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "The Division of Health Research, Lancaster University",
+                                "affiliation-city": "Lancaster",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32430935",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "20885",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "AGR45HBX.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32430935"
+            }
+        },
+        "title": "Mainstreaming public involvement in a complex research collaboration: A theory-informed evaluation.",
+        "full_author_list": [
+            {
+                "clean": "Ward F",
+                "family": "Ward",
+                "given": "Fiona",
+                "affiliation": {
+                    "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Popay J",
+                "family": "Popay",
+                "given": "Jennie",
+                "affiliation": {
+                    "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Porroche-Escudero A",
+                "family": "Porroche-Escudero",
+                "given": "Ana",
+                "affiliation": {
+                    "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Akeju D",
+                "family": "Akeju",
+                "given": "Dorcas",
+                "affiliation": {
+                    "name": "CLAHRC North West Coast, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Ahmed S",
+                "family": "Ahmed",
+                "given": "Saiqa",
+                "affiliation": {
+                    "name": "CLAHRC North West Coast, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Cloke J",
+                "family": "Cloke",
+                "given": "Jane",
+                "affiliation": {
+                    "name": "CLAHRC North West Coast, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Khan K",
+                "family": "Khan",
+                "given": "Koser",
+                "affiliation": {
+                    "name": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Hassan S",
+                "family": "Hassan",
+                "given": "Shaima",
+                "affiliation": {
+                    "name": "Department of Health Services Research, Institute of Psychology, Health and Society, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Khedmati-Morasae E",
+                "family": "Khedmati-Morasae",
+                "given": "Esmaeil",
+                "affiliation": {
+                    "name": "Research Fellow in Policy and Complex Systems, University of Exeter, Exeter, UK."
+                }
+            }
+        ],
+        "first_author": "Ward F",
+        "zotero_tags": [
+            {
+                "tag": "IPH"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "Public Adviser",
+                "community involvement",
+                "evaluation",
+                "mainstreaming",
+                "public involvement",
+                "theoretical framework"
+            ]
+        },
+        "journal": {
+            "journal_name": "Health Expect",
+            "volume": "23",
+            "issue": "4"
+        },
+        "abstract": "[\"There is an extensive literature on public involvement (PI) in research, but this has focused primarily on experiences for researchers and public contributors and factors enabling or restricting successful involvement in specific projects. There has been less consideration of a 'whole system' approach to embedding PI across an organization from governance structures through to research projects.\", 'To investigate how a combination of two theoretical frameworks, one focused on mainstreaming and the other conceptualizing quality, can illuminate the embedding of positive and influential PI throughout a research organization.', 'The study used data from the evaluation of a large UK research collaboration. Primary data were collected from 131 respondents (including Public Advisers, university, NHS and local government staff) via individual and group interviews/workshops. Secondary sources included monitoring data and internal documents.', \"CLAHRC-NWC made real progress in mainstreaming PI. An organizational vision and infrastructure to embed PI at all levels were created, and the number and range of opportunities increased; PI roles became more clearly defined and increasingly public contributors felt able to influence decisions. However, the aspiration to mainstream PI throughout the collaboration was not fully achieved: a lack of staff 'buy-in' meant that in some areas, it was not experienced as positively or was absent.\", 'The two theoretical frameworks brought a novel perspective, facilitating the investigation of the quality of PI in structures and processes across the whole organization. We propose that combining these frameworks can assist the evaluation of PI research.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "Division of Health Research, Faculty of Health and Medicine, Lancaster University, Lancaster, UK.",
+            "clean_institute": "University of Lancaster",
+            "country": "United Kingdom",
+            "latitude": "54.047",
+            "longitude": "-2.801"
+        }
+    }
+}

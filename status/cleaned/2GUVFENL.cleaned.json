@@ -1,0 +1,1490 @@
+{
+    "IDs": {
+        "zotero": "2GUVFENL",
+        "DOI": "10.1186/s13049-020-00823-9",
+        "DOI_filename": "900034bfe0f1b7ecb22844d969bb6523",
+        "PMID": "33407699",
+        "scopus": "2-s2.0-85098869089",
+        "hash": "9d8534433160c1e9ebefb2653a0f3d24"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "2GUVFENL",
+            "version": 994,
+            "itemType": "journalArticle",
+            "title": "Predictors of recognition of out of hospital cardiac arrest by emergency medical services call handlers in England: a mixed methods diagnostic accuracy study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Caroline L.",
+                    "lastName": "Watkins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stephanie P.",
+                    "lastName": "Jones"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Margaret A.",
+                    "lastName": "Hurley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Valerio",
+                    "lastName": "Benedetto"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher I.",
+                    "lastName": "Price"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher J.",
+                    "lastName": "Sutton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tom",
+                    "lastName": "Quinn"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Munirah",
+                    "lastName": "Bangee"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Brigit",
+                    "lastName": "Chesworth"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Colette",
+                    "lastName": "Miller"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dawn",
+                    "lastName": "Doran"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Aloysius Niroshan",
+                    "lastName": "Siriwardena"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Josephine M. E.",
+                    "lastName": "Gibson"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              The aim of this study was to identify key indicator symptoms and patient factors associated with correct out of hospital cardiac arrest (OHCA) dispatch allocation. In previous studies, from 3% to 62% of OHCAs are not recognised by Emergency Medical Service call handlers, resulting in delayed arrival at scene.\n            \n            \n              Methods\n              Retrospective, mixed methods study including all suspected or confirmed OHCA patients transferred to one acute hospital from its associated regional Emergency Medical Service in England from 1/7/2013 to 30/6/2014. Emergency Medical Service and hospital data, including voice recordings of EMS calls, were analysed to identify predictors of recognition of OHCA by call handlers. Logistic regression was used to explore the role of the most frequently occurring (key) indicator symptoms and characteristics in predicting a correct dispatch for patients with OHCA.\n            \n            \n              Results\n              \n                A total of 39,136 dispatches were made which resulted in transfer to the hospital within the study period, including 184 patients with OHCA. The use of the term \u2018Unconscious\u2019 plus one or more of symptoms \u2018Not breathing/Ineffective breathing/Noisy breathing\u2019 occurred in 79.8% of all OHCAs, but only 72.8% of OHCAs were correctly dispatched as such. \u2018Not breathing\u2019 was associated with recognition of OHCA by call handlers (Odds Ratio (OR) 3.76). The presence of key indicator symptoms \u2018Breathing\u2019 (OR 0.29), \u2018Reduced or fluctuating level of consciousness\u2019 (OR 0.24), abnormal pulse/heart rate (OR 0.26) and the characteristic \u2018Female patient\u2019 (OR 0.40) were associated with lack of recognition of OHCA by call handlers (\n                p\n                -values <\u20090.05).\n              \n            \n            \n              Conclusions\n              There is a small proportion of calls in which cardiac arrest indicators are described but the call is not dispatched as such. Stricter adherence to dispatch protocols may improve call handlers\u2019 OHCA recognition. The existing dispatch protocol would not be improved by the addition of further terms as this would be at the expense of dispatch specificity.",
+            "publicationTitle": "Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine",
+            "volume": "29",
+            "issue": "1",
+            "pages": "7",
+            "date": "12/2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Scand J Trauma Resusc Emerg Med",
+            "language": "en",
+            "DOI": "10.1186/s13049-020-00823-9",
+            "ISSN": "1757-7241",
+            "shortTitle": "Predictors of recognition of out of hospital cardiac arrest by emergency medical services call handlers in England",
+            "url": "https://sjtrem.biomedcentral.com/articles/10.1186/s13049-020-00823-9",
+            "accessDate": "2021-07-23T16:46:15Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33407699",
+            "tags": [
+                {
+                    "tag": "IMPACT"
+                },
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:35Z",
+            "dateModified": "2021-07-27T12:06:45Z",
+            "pmid": "33407699"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        6
+                    ]
+                ],
+                "date-time": "2021-01-06T19:16:13Z",
+                "timestamp": 1609960573384
+            },
+            "reference-count": 34,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                1,
+                                6
+                            ]
+                        ],
+                        "date-time": "2021-01-06T00:00:00Z",
+                        "timestamp": 1609891200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                1,
+                                6
+                            ]
+                        ],
+                        "date-time": "2021-01-06T00:00:00Z",
+                        "timestamp": 1609891200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "U.K. Department of Health Policy Research Programme",
+                    "award": [
+                        "PR-ST-1014-00011"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>The aim of this study was to identify key indicator symptoms and patient factors associated with correct out of hospital cardiac arrest (OHCA) dispatch allocation. In previous studies, from 3% to 62% of OHCAs are not recognised by Emergency Medical Service call handlers, resulting in delayed arrival at scene.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>Retrospective, mixed methods study including all suspected or confirmed OHCA patients transferred to one acute hospital from its associated regional Emergency Medical Service in England from 1/7/2013 to 30/6/2014. Emergency Medical Service and hospital data, including voice recordings of EMS calls, were analysed to identify predictors of recognition of OHCA by call handlers. Logistic regression was used to explore the role of the most frequently occurring (key) indicator symptoms and characteristics in predicting a correct dispatch for patients with OHCA.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>A total of 39,136 dispatches were made which resulted in transfer to the hospital within the study period, including 184 patients with OHCA. The use of the term \u2018Unconscious\u2019 plus one or more of symptoms \u2018Not breathing/Ineffective breathing/Noisy breathing\u2019 occurred in 79.8% of all OHCAs, but only 72.8% of OHCAs were correctly dispatched as such. \u2018Not breathing\u2019 was associated with recognition of OHCA by call handlers (Odds Ratio (OR) 3.76). The presence of key indicator symptoms \u2018Breathing\u2019 (OR 0.29), \u2018Reduced or fluctuating level of consciousness\u2019 (OR 0.24), abnormal pulse/heart rate (OR 0.26) and the characteristic \u2018Female patient\u2019 (OR 0.40) were associated with lack of recognition of OHCA by call handlers (<jats:italic>p</jats:italic>-values &lt;\u20090.05).</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>There is a small proportion of calls in which cardiac arrest indicators are described but the call is not dispatched as such. Stricter adherence to dispatch protocols may improve call handlers\u2019 OHCA recognition. The existing dispatch protocol would not be improved by the addition of further terms as this would be at the expense of dispatch specificity.</jats:p>\n              </jats:sec>",
+            "DOI": "10.1186/s13049-020-00823-9",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        6
+                    ]
+                ],
+                "date-time": "2021-01-06T17:13:16Z",
+                "timestamp": 1609953196000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Predictors of recognition of out of hospital cardiac arrest by emergency medical services call handlers in England: a mixed methods diagnostic accuracy study",
+            "prefix": "10.1186",
+            "volume": "29",
+            "author": [
+                {
+                    "given": "Caroline L.",
+                    "family": "Watkins",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Stephanie P.",
+                    "family": "Jones",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Margaret A.",
+                    "family": "Hurley",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Valerio",
+                    "family": "Benedetto",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Christopher I.",
+                    "family": "Price",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Christopher J.",
+                    "family": "Sutton",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Tom",
+                    "family": "Quinn",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Munirah",
+                    "family": "Bangee",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Brigit",
+                    "family": "Chesworth",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Colette",
+                    "family": "Miller",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Dawn",
+                    "family": "Doran",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Aloysius Niroshan",
+                    "family": "Siriwardena",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-3051-1237",
+                    "authenticated-orcid": false,
+                    "given": "Josephine M. E.",
+                    "family": "Gibson",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        6
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "823_CR1",
+                    "unstructured": "Mozaffarian D, Benjamin EJ, Go AS, et al. American Heart Association statistical update heart disease and stroke statistics\u20142015 update: a report from the American Heart Association. Circulation. 2015;131:e29\u2013322."
+                },
+                {
+                    "key": "823_CR2",
+                    "unstructured": "De Vreede-Swagemakers J, Gorgels AP, Dubois-Arbouw WI, et al. Out-of-hospital cardiac arrest in the 1990's: a population-based study in the Maastricht area on incidence, characteristics and survival. J Am Coll Cardiol. 1997;30(6):1500\u20135.",
+                    "DOI": "10.1016/S0735-1097(97)00355-0",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "823_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1204",
+                    "DOI": "10.1016/S0195-668X(03)00191-X",
+                    "volume": "24",
+                    "author": "AP Gorgels",
+                    "year": "2003",
+                    "unstructured": "Gorgels AP, Gijsbers C, de Vreede-Swagemakers J, et al. Out-of-hospital cardiac arrest\u2013the relevance of heart failure. The Maastricht circulatory arrest registry. Eur Heart J. 2003;24:1204\u20139.",
+                    "journal-title": "Eur Heart J"
+                },
+                {
+                    "issue": "3",
+                    "key": "823_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "235",
+                    "DOI": "10.1016/S0300-9572(01)00464-6",
+                    "volume": "52",
+                    "author": "J Engdahl",
+                    "year": "2002",
+                    "unstructured": "Engdahl J, Holmberg M, Karlson BW, et al. The epidemiology of out-of-hospital sudden cardiac arrest. Resuscitation. 2002;52(3):235\u201345.",
+                    "journal-title": "Resuscitation"
+                },
+                {
+                    "key": "823_CR5",
+                    "unstructured": "Wnent J, Masterson S, Gr\u00e4sner JT, et al. EuReCa ONE \u221227 nations, ONE, Europe, ONE registry: a prospective observational analysis over one month in 27 resuscitation registries in Europe \u2013 the EuReCa ONE study protocol. Scand J Trauma, Resusc Emerg Med. 2015;23:3\u20138.",
+                    "DOI": "10.1186/s13049-015-0093-3",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "823_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "A7",
+                    "DOI": "10.1016/j.resuscitation.2015.03.011",
+                    "volume": "91",
+                    "author": "DC Cone",
+                    "year": "2015",
+                    "unstructured": "Cone DC, Middleton PM. Are out-of-hospital cardiac arrest survival rates improving? Resuscitation. 2015;91:A7\u20138 https://doi.org/10.1016/j.resuscitation.2015.03.011.",
+                    "journal-title": "Resuscitation"
+                },
+                {
+                    "key": "823_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1479",
+                    "DOI": "10.1016/j.resuscitation.2010.08.006",
+                    "volume": "81",
+                    "author": "J Berdowski",
+                    "year": "2010",
+                    "unstructured": "Berdowski J, Berg RA, Tijssen JG, Koster RW. Global incidences of out-of-hospital cardiac arrest and survival rates: systematic review of 67 prospective studies. Resuscitation. 2010;81:1479\u201387.",
+                    "journal-title": "Resuscitation"
+                },
+                {
+                    "key": "823_CR8",
+                    "unstructured": "Sasson C, Rogers MAM, Dahl J, Kellermann AL. Predictors of survival from out-of-hospital cardiac arrest. Circulation. 2010;3:63\u201381 https://doi.org/10.1161/CIRCOUTCOMES.109.889576.",
+                    "DOI": "10.1161/CIRCOUTCOMES.109.889576",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "12",
+                    "key": "823_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1483",
+                    "DOI": "10.1016/j.resuscitation.2011.05.020",
+                    "volume": "82",
+                    "author": "C Vaillancourt",
+                    "year": "2011",
+                    "unstructured": "Vaillancourt C, Charette ML, Bohm K, et al. In out-of hospital cardiac arrest patients, does the description of any specific symptoms to the emergency medical dispatcher improve the accuracy of the diagnosis of cardiac arrest: a systematic review of the literature. Resuscitation. 2011;82(12):1483\u20139.",
+                    "journal-title": "Resuscitation"
+                },
+                {
+                    "key": "823_CR10",
+                    "unstructured": "Perkins GD, Walker G, Christensen K, et al. Teaching recognition of agonal breathing improves accuracy of diagnosing cardiac arrest. Resuscitation. 2006;70(3):432\u20137. https://doi.org/10.1016/j.resuscitation.2006.01.015.",
+                    "DOI": "10.1016/j.resuscitation.2006.01.015",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "5",
+                    "key": "823_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "256",
+                    "DOI": "10.1097/MEJ.0b013e32823a3cd1",
+                    "volume": "14",
+                    "author": "K Bohm",
+                    "year": "2007",
+                    "unstructured": "Bohm K, Rosenqvist M, Hollenberg J, et al. Dispatcher-assisted telephone-guided cardiopulmonary resuscitation: an underused lifesaving system. Eur J Emerg Med. 2007;14(5):256\u20139.",
+                    "journal-title": "Eur J Emerg Med"
+                },
+                {
+                    "issue": "1",
+                    "key": "823_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "25",
+                    "DOI": "10.1016/S0300-9572(02)00278-2",
+                    "volume": "56",
+                    "author": "A Bang",
+                    "year": "2003",
+                    "unstructured": "Bang A, Herlitz J, Martinell S. Interaction between emergency medical dispatcher and caller in suspected out-of-hospital cardiac arrest calls with focus on agonal breathing. A review of 100 tape recordings of true cardiac arrest cases. Resuscitation. 2003;56(1):25\u201334.",
+                    "journal-title": "Resuscitation"
+                },
+                {
+                    "issue": "4",
+                    "key": "823_CR13",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "314",
+                    "DOI": "10.1136/emermed-2013-203112",
+                    "volume": "32",
+                    "author": "H Fukushima",
+                    "year": "2013",
+                    "unstructured": "Fukushima H, Imanishi M, Iwami T, et al. Abnormal breathing of sudden cardiac arrest victims described by laypersons and its association with emergency medical service dispatcher-assisted cardiopulmonary resuscitation instruction. Emerg Med J. 2013;32(4):314\u20137.",
+                    "journal-title": "Emerg Med J"
+                },
+                {
+                    "key": "823_CR14",
+                    "author": "NHS England Urgent and Emergency Care Review Team",
+                    "year": "2014",
+                    "unstructured": "NHS England Urgent and Emergency Care Review Team. Transforming urgent and emergency care services in England - Update on the Urgent and Emergency Care Review. Leeds: NHS England; 2014.",
+                    "volume-title": "Transforming urgent and emergency care services in England - Update on the Urgent and Emergency Care Review"
+                },
+                {
+                    "issue": "1",
+                    "key": "823_CR15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "3",
+                    "DOI": "10.1136/emermed-2011-200758",
+                    "volume": "29",
+                    "author": "GD Perkins",
+                    "year": "2012",
+                    "unstructured": "Perkins GD, Cooke MW. Variability in cardiac arrest survival: the NHS ambulance service quality indicators. Emerg Med J. 2012;29(1):3\u20134.",
+                    "journal-title": "Emerg Med J"
+                },
+                {
+                    "issue": "12",
+                    "key": "823_CR16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1508",
+                    "DOI": "10.1016/j.resuscitation.2011.06.016",
+                    "volume": "82",
+                    "author": "TW Lindner",
+                    "year": "2011",
+                    "unstructured": "Lindner TW, S\u00f8reide E, Nilsen OB, et al. Good outcome in every fourth resuscitation attempt is achievable\u2014an Utstein template report from the Stavanger region. Resuscitation. 2011;82(12):1508\u201313.",
+                    "journal-title": "Resuscitation"
+                },
+                {
+                    "issue": "3",
+                    "key": "823_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "349",
+                    "DOI": "10.1136/hrt.2006.109785",
+                    "volume": "94",
+                    "author": "KJ Cairns",
+                    "year": "2008",
+                    "unstructured": "Cairns KJ, Hamilton AJ, Marshall AH, et al. The obstacles to maximising the impact of public access defibrillation: an assessment of the dispatch mechanism for out-of-hospital cardiac arrest. Heart. 2008;94(3):349\u201353.",
+                    "journal-title": "Heart"
+                },
+                {
+                    "key": "823_CR18",
+                    "author": "British Heart Foundation",
+                    "year": "2017",
+                    "unstructured": "British Heart Foundation. Resuscitation to recovery. A National Framework to improve care of people with out-of-hospital cardiac arrest (OHCA) in England. London: British Heart Foundation; 2017.",
+                    "volume-title": "Resuscitation to recovery. A National Framework to improve care of people with out-of-hospital cardiac arrest (OHCA) in England"
+                },
+                {
+                    "issue": "9972",
+                    "key": "823_CR19",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "947",
+                    "DOI": "10.1016/S0140-6736(14)61886-9",
+                    "volume": "385",
+                    "author": "GD Perkins",
+                    "year": "2015",
+                    "unstructured": "Perkins GD, Lall R, Quinn T, et al. PARAMEDIC trial investigators. Mechanical versus manual chest compression for out-of-hospital cardiac arrest (PARAMEDIC): a pragmatic, cluster randomised controlled trial. Lancet. 2015;385(9972):947\u201355.",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "823_CR20",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "110",
+                    "DOI": "10.1016/j.resuscitation.2016.09.014",
+                    "volume": "109",
+                    "author": "S Rajagopala",
+                    "year": "2016",
+                    "unstructured": "Rajagopala S, Kayea CR, Lall R, Deakin CD, Gatesa S, Pocock H, Quinn T, Reesf N, Smytha M, Perkins GD. Characteristics of patients who are not resuscitated in out of hospital cardiac arrests and opportunities to improve community response to cardiac arrest. Resuscitation. 2016;109:110\u20135.",
+                    "journal-title": "Resuscitation"
+                },
+                {
+                    "key": "823_CR21",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "133",
+                    "DOI": "10.1016/j.resuscitation.2016.10.030",
+                    "volume": "110",
+                    "author": "C Hawkes",
+                    "year": "2017",
+                    "unstructured": "Hawkes C, Booth S, Ji C, Brace-McDonnell SJ, Whittington A, Mapstone J, Cooke MW, Deakin CD, Gale CP, Fothergill R, Nolan JP, Rees N, Soar J, Siriwardena AN, Brown TP, Perkins GD. Epidemiology and outcomes from out-of-hospital cardiac arrests in England. Resuscitation. 2017;110:133\u201340 https://doi.org/10.1016/j.resuscitation.2016.10.030.",
+                    "journal-title": "Resuscitation"
+                },
+                {
+                    "key": "823_CR22",
+                    "unstructured": "NHS England. Ambulance Quality Indicators. https://www.england.nhs.uk/statistics/statistical-work-areas/ambulance-quality-indicators/ambulance-quality-indicators-data-2017-18/.\u00a0Accessed 17 Dec 2020."
+                },
+                {
+                    "key": "823_CR23",
+                    "unstructured": "Perkins GD, Jacobs IG, Nadkarni VM, Travers AH, Nolan JP for the Utstein collaborators. Cardiac Arrest and Cardiopulmonary Resuscitation Outcome Reports: Update of the Utstein Resuscitation Registry Templates for Out-of-Hospital Cardiac Arrest November 11, 2014 DOI:https://doi.org/10.1016/j.resuscitation.2014.11.002.",
+                    "DOI": "10.1016/j.resuscitation.2014.11.002",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "823_CR24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "h5527",
+                    "DOI": "10.1136/bmj.h5527",
+                    "volume": "351",
+                    "author": "PM Bossuyt",
+                    "year": "2015",
+                    "unstructured": "Bossuyt PM, Reitsma JB, Bruns DE, Gatsonis CA, Glasziou PP, Irwig L, LijmerJG Moher D, Rennie D, de Vet HCW, Kressel HY, Rifai N, Golub RM, Altman DG, Hooft L, Korevaar DA, Cohen JF. For the STARD Group. STARD 2015: An Updated List of Essential Items for Reporting Diagnostic Accuracy Studies. BMJ. 2015;351:h5527. 26511519.",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "9",
+                    "key": "823_CR25",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "955",
+                    "DOI": "10.1197/S1069-6563(03)00314-2",
+                    "volume": "10",
+                    "author": "AG Garza",
+                    "year": "2003",
+                    "unstructured": "Garza AG, Gratton MC, Chen JJ, Carlson B. The accuracy of predicting cardiac arrest by emergency medical services dispatchers: the calling party effect. Acad Emerg Med. 2003;10(9):955\u201360.",
+                    "journal-title": "Acad Emerg Med"
+                },
+                {
+                    "issue": "10",
+                    "key": "823_CR26",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1277",
+                    "DOI": "10.1016/j.resuscitation.2010.08.009",
+                    "volume": "81",
+                    "author": "RW Koster",
+                    "year": "2010",
+                    "unstructured": "Koster RW, Baubin MA, Bossaert LL, Caballero A, Cassan P, Castr\u00e9n M, Granja C, Handley AJ, Monsieurs KG, Perkins GD, Raffay V, Sandroni C. European Resuscitation Council Guidelines for Resuscitation 2010 Section 2. Adult basic life support and use of automated external defibrillators. Resuscitation. 2010;81(10):1277\u201392.",
+                    "journal-title": "Resuscitation"
+                },
+                {
+                    "key": "823_CR27",
+                    "unstructured": "Perkins GD, Handley AJ, Koster RW, Castr\u00e9ne M, Smyth MA, Olasveengeng T, Monsieurs KG, Raffay V, Gr\u00e4sner JT, Wenzell V, Ristagno G, Soar J, On behalf of the Adult basic life support and automated external defibrillation section. European Resuscitation Council Guidelines for Resuscitation 2015 Section 2. Adult basic life support and automated external defibrillation. Resuscitation 2015. 95 (2015) 81\u201399."
+                },
+                {
+                    "key": "823_CR28",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "414",
+                    "DOI": "10.1136/emermed-2012-201195",
+                    "volume": "30",
+                    "author": "JME Gibson",
+                    "year": "2013",
+                    "unstructured": "Gibson JME, Bullock M, Ford GA, Jones SP, Leathley MJ, McAdam JJ, Quinn T, Watkins CL, on behalf of the ESCORTT group. \u2018Is he awake?\u2019: Dialogues between callers and call handlers about consciousness during emergency calls for suspected acute stroke. Emerg Med J. 2013;30:414\u20138.",
+                    "journal-title": "Emerg Med J"
+                },
+                {
+                    "issue": "15",
+                    "key": "823_CR29",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "2096",
+                    "DOI": "10.1161/CIRCULATIONAHA.108.768325",
+                    "volume": "119",
+                    "author": "J Berdowski",
+                    "year": "2009",
+                    "unstructured": "Berdowski J, Beekhuis F, Zwinderman AH, et al. Importance of the first link: description and recognition of an out-of-hospital cardiac arrest in an emergency call. Circulation. 2009;119(15):2096\u2013102.",
+                    "journal-title": "Circulation"
+                },
+                {
+                    "key": "823_CR30",
+                    "unstructured": "Blom MT, Oving I, Berdowski J, van Valkengoed IGM, Bardai A, Tan HL. Women have lower chances than men to be resuscitated and survive out-of-hospital cardiac arrest. Eur Heart J. 2019:ehz29 https://doi.org/10.1093/eurheartj/ehz297.",
+                    "DOI": "10.1093/eurheartj/ehz297",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "823_CR31",
+                    "unstructured": "Hardeland C, Sk\u00e5re C, Kramer-Johansen J, Birkenes TS, Myklebust H, Hansen AE, Sunde K, Olasveengen TM. Targeted simulation and education to improve cardiac arrest recognition and telephone assisted CPR in an emergency medical communication Centre. Resuscitation. 2017;114:21\u201326. doi: https://doi.org/10.1016/j.resuscitation.2017.02.013. Epub 2017 Feb 21. PMID: 28236428.",
+                    "DOI": "10.1016/j.resuscitation.2017.02.013",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "823_CR32",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "6",
+                    "DOI": "10.1016/j.resuscitation.2016.02.006",
+                    "volume": "102",
+                    "author": "G Oman",
+                    "year": "2016",
+                    "unstructured": "Oman G, Bury G. Use of telephone CPR advice in Ireland: uptake by callers and delays in the assessment process. Resuscitation. 2016 May;102:6\u201310. https://doi.org/10.1016/j.resuscitation.2016.02.006.",
+                    "journal-title": "Resuscitation."
+                },
+                {
+                    "key": "823_CR33",
+                    "unstructured": "Blomberg SN, Folke F, Ersb\u00f8ll AK, Christensen HC, Torp-Pedersen C, Sayre MR, Counts CR, Lippert FK. Machine learning as a supportive tool to recognize cardiac arrest in emergency calls. Resuscitation. 2019 May;138:322\u2013329. doi: https://doi.org/10.1016/j.resuscitation.2019.01.015. Epub 2019 Jan 18.",
+                    "DOI": "10.1016/j.resuscitation.2019.01.015",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "823_CR34",
+                    "unstructured": "OHCAO Project Team. Out-of-Hospital Cardiac Arrest Outcomes Registry Epidemiology Report, 2019. https://warwick.ac.uk/fac/sci/med/research/ctu/trials/ohcao/publications/epidemiologyreports/ohcao_epidemiology_report_2018_published.pdf Accessed 08/10/2020."
+                }
+            ],
+            "container-title": "Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s13049-020-00823-9.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s13049-020-00823-9/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s13049-020-00823-9.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        6
+                    ]
+                ],
+                "date-time": "2021-01-06T18:38:15Z",
+                "timestamp": 1609958295000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        6
+                    ]
+                ]
+            },
+            "references-count": 34,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "823"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s13049-020-00823-9",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1757-7241"
+            ],
+            "subject": [
+                "Critical Care and Intensive Care Medicine",
+                "Emergency Medicine"
+            ],
+            "container-title-short": "Scand J Trauma Resusc Emerg Med",
+            "assertion": [
+                {
+                    "value": "22 May 2020",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "13 December 2020",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "6 January 2021",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "Ethical and research governance considerations: Permission was granted by the Confidentiality Advisory Group (CAG) for the use of non-anonymised voice files of calls from the EMS (15/CAG/0107). It was agreed by the CAG that the data could be used without gaining individual consents. Favourable ethical opinion was also gained from the National Research Ethics Committee North West (15/NW/0544). Data storage and handling were conducted according to the standard operating procedures of the Lancashire Clinical Trials Unit.",
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "Not applicable.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "TQ reports research funding from NIHR for cardiac arrest research.CW, VB\u00a0and CM are part funded by the National Institute for Health Research Applied Research Collaboration North West Coast (NIHR ARC NWC).",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "7"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Diagnostic accuracy",
+                        "Emergency medical dispatch",
+                        "Out-of-hospital cardiac arrest",
+                        "Symptom recognition"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "33407699",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "01",
+                    "Day": "11"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "01",
+                            "Day": "06"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s13049-020-00823-9"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1757-7241",
+                        "JournalIssue": {
+                            "Volume": "29",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "Jan",
+                                "Day": "06"
+                            }
+                        },
+                        "Title": "Scandinavian journal of trauma, resuscitation and emergency medicine",
+                        "ISOAbbreviation": "Scand J Trauma Resusc Emerg Med"
+                    },
+                    "ArticleTitle": "Predictors of recognition of out of hospital cardiac arrest by emergency medical services call handlers in England: a mixed methods diagnostic accuracy study.",
+                    "Pagination": {
+                        "MedlinePgn": "7"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The aim of this study was to identify key indicator symptoms and patient factors associated with correct out of hospital cardiac arrest (OHCA) dispatch allocation. In previous studies, from 3% to 62% of OHCAs are not recognised by Emergency Medical Service call handlers, resulting in delayed arrival at scene.",
+                            "Retrospective, mixed methods study including all suspected or confirmed OHCA patients transferred to one acute hospital from its associated regional Emergency Medical Service in England from 1/7/2013 to 30/6/2014. Emergency Medical Service and hospital data, including voice recordings of EMS calls, were analysed to identify predictors of recognition of OHCA by call handlers. Logistic regression was used to explore the role of the most frequently occurring (key) indicator symptoms and characteristics in predicting a correct dispatch for patients with OHCA.",
+                            "A total of 39,136 dispatches were made which resulted in transfer to the hospital within the study period, including 184 patients with OHCA. The use of the term 'Unconscious' plus one or more of symptoms 'Not breathing/Ineffective breathing/Noisy breathing' occurred in 79.8% of all OHCAs, but only 72.8% of OHCAs were correctly dispatched as such. 'Not breathing' was associated with recognition of OHCA by call handlers (Odds Ratio (OR) 3.76). The presence of key indicator symptoms 'Breathing' (OR 0.29), 'Reduced or fluctuating level of consciousness' (OR 0.24), abnormal pulse/heart rate (OR 0.26) and the characteristic 'Female patient' (OR 0.40) were associated with lack of recognition of OHCA by call handlers (p-values <\u20090.05).",
+                            "There is a small proportion of calls in which cardiac arrest indicators are described but the call is not dispatched as such. Stricter adherence to dispatch protocols may improve call handlers' OHCA recognition. The existing dispatch protocol would not be improved by the addition of further terms as this would be at the expense of dispatch specificity."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Watkins",
+                            "ForeName": "Caroline L",
+                            "Initials": "CL"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Jones",
+                            "ForeName": "Stephanie P",
+                            "Initials": "SP"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hurley",
+                            "ForeName": "Margaret A",
+                            "Initials": "MA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Benedetto",
+                            "ForeName": "Valerio",
+                            "Initials": "V"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Newcastle University, Newcastle, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Price",
+                            "ForeName": "Christopher I",
+                            "Initials": "CI"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The University of Manchester, Manchester, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Sutton",
+                            "ForeName": "Christopher J",
+                            "Initials": "CJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Kingston University London and St George's, University of London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Quinn",
+                            "ForeName": "Tom",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bangee",
+                            "ForeName": "Munirah",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Chesworth",
+                            "ForeName": "Brigit",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Miller",
+                            "ForeName": "Colette",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Doran",
+                            "ForeName": "Dawn",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Lincoln, Lincoln, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Siriwardena",
+                            "ForeName": "Aloysius Niroshan",
+                            "Initials": "AN"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK. Jgibson4@uclan.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-3051-1237"
+                            ],
+                            "LastName": "Gibson",
+                            "ForeName": "Josephine M E",
+                            "Initials": "JME"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "PR-ST-1014-00011",
+                            "Agency": "U.K. Department of Health Policy Research Programme",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Scand J Trauma Resusc Emerg Med",
+                    "NlmUniqueID": "101477511",
+                    "ISSNLinking": "1757-7241"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Resuscitation. 2017 Jan;110:133-140",
+                                "ArticleIdList": [
+                                    "27865775"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2017 May;114:21-26",
+                                "ArticleIdList": [
+                                    "28236428"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2010 Nov;81(11):1479-87",
+                                "ArticleIdList": [
+                                    "20828914"
+                                ]
+                            },
+                            {
+                                "Citation": "Circulation. 2009 Apr 21;119(15):2096-102",
+                                "ArticleIdList": [
+                                    "19349324"
+                                ]
+                            },
+                            {
+                                "Citation": "Heart. 2008 Mar;94(3):349-53",
+                                "ArticleIdList": [
+                                    "17540690"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2015 Oct;95:81-99",
+                                "ArticleIdList": [
+                                    "26477420"
+                                ]
+                            },
+                            {
+                                "Citation": "Emerg Med J. 2013 May;30(5):414-8",
+                                "ArticleIdList": [
+                                    "22729146"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Heart J. 2003 Jul;24(13):1204-9",
+                                "ArticleIdList": [
+                                    "12831814"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2015 Oct 28;351:h5527",
+                                "ArticleIdList": [
+                                    "26511519"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2010 Oct;81(10):1277-92",
+                                "ArticleIdList": [
+                                    "20956051"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2011 Dec;82(12):1483-9",
+                                "ArticleIdList": [
+                                    "21704442"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Heart J. 2019 Dec 14;40(47):3824-3834",
+                                "ArticleIdList": [
+                                    "31112998"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2016 Dec;109:110-115",
+                                "ArticleIdList": [
+                                    "27886777"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2015 Nov;96:328-40",
+                                "ArticleIdList": [
+                                    "25438254"
+                                ]
+                            },
+                            {
+                                "Citation": "Circ Cardiovasc Qual Outcomes. 2010 Jan;3(1):63-81",
+                                "ArticleIdList": [
+                                    "20123673"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2003 Jan;56(1):25-34",
+                                "ArticleIdList": [
+                                    "12505735"
+                                ]
+                            },
+                            {
+                                "Citation": "Scand J Trauma Resusc Emerg Med. 2015 Jan 24;23:7",
+                                "ArticleIdList": [
+                                    "25927980"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Coll Cardiol. 1997 Nov 15;30(6):1500-5",
+                                "ArticleIdList": [
+                                    "9362408"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2015 Jun;91:A7-8",
+                                "ArticleIdList": [
+                                    "25796993"
+                                ]
+                            },
+                            {
+                                "Citation": "Emerg Med J. 2015 Apr;32(4):314-7",
+                                "ArticleIdList": [
+                                    "24401986"
+                                ]
+                            },
+                            {
+                                "Citation": "Acad Emerg Med. 2003 Sep;10(9):955-60",
+                                "ArticleIdList": [
+                                    "12957979"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2019 May;138:322-329",
+                                "ArticleIdList": [
+                                    "30664917"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2016 May;102:6-10",
+                                "ArticleIdList": [
+                                    "26898413"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2002 Mar;52(3):235-45",
+                                "ArticleIdList": [
+                                    "11886728"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2006 Sep;70(3):432-7",
+                                "ArticleIdList": [
+                                    "16831503"
+                                ]
+                            },
+                            {
+                                "Citation": "Circulation. 2015 Jan 27;131(4):e29-322",
+                                "ArticleIdList": [
+                                    "25520374"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Emerg Med. 2007 Oct;14(5):256-9",
+                                "ArticleIdList": [
+                                    "17823559"
+                                ]
+                            },
+                            {
+                                "Citation": "Emerg Med J. 2012 Jan;29(1):3-5",
+                                "ArticleIdList": [
+                                    "22045608"
+                                ]
+                            },
+                            {
+                                "Citation": "Resuscitation. 2011 Dec;82(12):1508-13",
+                                "ArticleIdList": [
+                                    "21752524"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2015 Mar 14;385(9972):947-55",
+                                "ArticleIdList": [
+                                    "25467566"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "05",
+                        "Day": "22"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "13"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "1",
+                        "Day": "7",
+                        "Hour": "5",
+                        "Minute": "49"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "1",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "1",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "33407699",
+                    "10.1186/s13049-020-00823-9",
+                    "10.1186/s13049-020-00823-9",
+                    "PMC7789721"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33407699)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833407699%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833407699%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098869089"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098869089?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85098869089&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85098869089&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85098869089",
+                        "dc:identifier": "SCOPUS_ID:85098869089",
+                        "eid": "2-s2.0-85098869089",
+                        "dc:title": "Predictors of recognition of out of hospital cardiac arrest by emergency medical services call handlers in England: a mixed methods diagnostic accuracy study",
+                        "dc:creator": "Watkins C.L.",
+                        "prism:publicationName": "Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine",
+                        "prism:eIssn": "17577241",
+                        "prism:volume": "29",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-12-01",
+                        "prism:coverDisplayDate": "December 2021",
+                        "prism:doi": "10.1186/s13049-020-00823-9",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33407699",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "7",
+                        "source-id": "19700166521",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "2GUVFENL.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33407699"
+            }
+        },
+        "title": "Predictors of recognition of out of hospital cardiac arrest by emergency medical services call handlers in England: a mixed methods diagnostic accuracy study.",
+        "full_author_list": [
+            {
+                "clean": "Watkins C",
+                "family": "Watkins",
+                "given": "Caroline L",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "Jones S",
+                "family": "Jones",
+                "given": "Stephanie P",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "Hurley M",
+                "family": "Hurley",
+                "given": "Margaret A",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "Benedetto V",
+                "family": "Benedetto",
+                "given": "Valerio",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "Price C",
+                "family": "Price",
+                "given": "Christopher I",
+                "affiliation": {
+                    "name": "Newcastle University, Newcastle, UK."
+                }
+            },
+            {
+                "clean": "Sutton C",
+                "family": "Sutton",
+                "given": "Christopher J",
+                "affiliation": {
+                    "name": "The University of Manchester, Manchester, UK."
+                }
+            },
+            {
+                "clean": "Quinn T",
+                "family": "Quinn",
+                "given": "Tom",
+                "affiliation": {
+                    "name": "Kingston University London and St George's, University of London, London, UK."
+                }
+            },
+            {
+                "clean": "Bangee M",
+                "family": "Bangee",
+                "given": "Munirah",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "Chesworth B",
+                "family": "Chesworth",
+                "given": "Brigit",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "Miller C",
+                "family": "Miller",
+                "given": "Colette",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "Doran D",
+                "family": "Doran",
+                "given": "Dawn",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK."
+                }
+            },
+            {
+                "clean": "Siriwardena A",
+                "family": "Siriwardena",
+                "given": "Aloysius Niroshan",
+                "affiliation": {
+                    "name": "University of Lincoln, Lincoln, UK."
+                }
+            },
+            {
+                "clean": "Gibson J",
+                "family": "Gibson",
+                "given": "Josephine M E",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK. Jgibson4@uclan.ac.uk."
+                }
+            }
+        ],
+        "first_author": "Watkins C",
+        "zotero_tags": [
+            {
+                "tag": "IMPACT"
+            },
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "Diagnostic accuracy",
+                "Emergency medical dispatch",
+                "Out-of-hospital cardiac arrest",
+                "Symptom recognition"
+            ]
+        },
+        "journal": {
+            "journal_name": "Scand J Trauma Resusc Emerg Med",
+            "volume": "29",
+            "issue": "1"
+        },
+        "abstract": "['The aim of this study was to identify key indicator symptoms and patient factors associated with correct out of hospital cardiac arrest (OHCA) dispatch allocation. In previous studies, from 3% to 62% of OHCAs are not recognised by Emergency Medical Service call handlers, resulting in delayed arrival at scene.', 'Retrospective, mixed methods study including all suspected or confirmed OHCA patients transferred to one acute hospital from its associated regional Emergency Medical Service in England from 1/7/2013 to 30/6/2014. Emergency Medical Service and hospital data, including voice recordings of EMS calls, were analysed to identify predictors of recognition of OHCA by call handlers. Logistic regression was used to explore the role of the most frequently occurring (key) indicator symptoms and characteristics in predicting a correct dispatch for patients with OHCA.', \"A total of 39,136 dispatches were made which resulted in transfer to the hospital within the study period, including 184 patients with OHCA. The use of the term 'Unconscious' plus one or more of symptoms 'Not breathing/Ineffective breathing/Noisy breathing' occurred in 79.8% of all OHCAs, but only 72.8% of OHCAs were correctly dispatched as such. 'Not breathing' was associated with recognition of OHCA by call handlers (Odds Ratio (OR) 3.76). The presence of key indicator symptoms 'Breathing' (OR 0.29), 'Reduced or fluctuating level of consciousness' (OR 0.24), abnormal pulse/heart rate (OR 0.26) and the characteristic 'Female patient' (OR 0.40) were associated with lack of recognition of OHCA by call handlers (p-values <\\u20090.05).\", \"There is a small proportion of calls in which cardiac arrest indicators are described but the call is not dispatched as such. Stricter adherence to dispatch protocols may improve call handlers' OHCA recognition. The existing dispatch protocol would not be improved by the addition of further terms as this would be at the expense of dispatch specificity.\"]",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "School of Nursing, University of Central Lancashire, Brook Building, Preston, PR1 2HE, UK.",
+            "clean_institute": "University of Central Lancashire",
+            "country": "United Kingdom",
+            "latitude": "53.759444444444",
+            "longitude": "-2.6980555555556"
+        }
+    }
+}

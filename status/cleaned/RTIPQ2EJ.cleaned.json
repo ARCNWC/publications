@@ -1,0 +1,1430 @@
+{
+    "IDs": {
+        "zotero": "RTIPQ2EJ",
+        "DOI": "10.1186/s12884-020-2811-8",
+        "DOI_filename": "4d1f89f8d71cc0808895e8cbbb3f2eb5",
+        "PMID": "32070299",
+        "scopus": "2-s2.0-85079609597",
+        "hash": "0ee9c8cffa02b36bf17f677f35d0ee85"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "RTIPQ2EJ",
+            "version": 993,
+            "itemType": "journalArticle",
+            "title": "Muslim women\u2019s experiences of maternity services in the UK: qualitative systematic review and thematic synthesis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Tasneema",
+                    "lastName": "Firdous"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Zoe",
+                    "lastName": "Darwin"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Shaima M.",
+                    "lastName": "Hassan"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              This review aimed to identify and synthesise evidence of Muslim women\u2019s experiences of maternity services in the UK. A systematic review and thematic synthesis of qualitative evidence, unrestricted by type of publication was conducted. Muslim women who had accessed maternity services in the UK, regardless of obstetric or medical history were included.\n            \n            \n              Method\n              Databases were searched from 2001 to 2019 and screened for inclusion using pre-determined criteria. The Critical Appraisal Skills Programme Qualitative Research Checklist was used to assess study quality and findings were synthesised using thematic synthesis, as described by Thomas and Harden.\n            \n            \n              Results\n              \n                Six studies were included. The following five themes were identified:\n                Islamic practices and Individualised care; Talk, Teach and Translate; Injustice, Inequity and Intolerance; If Allah wills\n                ; and,\n                \u2018It\u2019s not all that bad\u2019\n                . Synthesis highlighted the significance of Islam in shaping many of the women\u2019s decision-making relating to antenatal screening and medication, which was contrasted with healthcare professionals\u2019 limited awareness of the importance of Islam for motherhood. The majority of women experienced poor maternity care which at times indicated stereotypical and discriminatory behaviour.\n              \n            \n            \n              Conclusions\n              Education for healthcare professionals is warranted, to enhance the quality and cultural competency in providing appropriate care that acknowledges and meets Muslim women\u2019s needs.",
+            "publicationTitle": "BMC Pregnancy and Childbirth",
+            "volume": "20",
+            "issue": "1",
+            "pages": "115",
+            "date": "12/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Pregnancy Childbirth",
+            "language": "en",
+            "DOI": "10.1186/s12884-020-2811-8",
+            "ISSN": "1471-2393",
+            "shortTitle": "Muslim women\u2019s experiences of maternity services in the UK",
+            "url": "https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-020-2811-8",
+            "accessDate": "2021-07-23T16:46:13Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32070299",
+            "tags": [
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:28Z",
+            "dateModified": "2021-07-27T12:04:46Z",
+            "pmid": "32070299"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        20
+                    ]
+                ],
+                "date-time": "2021-02-20T08:15:09Z",
+                "timestamp": 1613808909412
+            },
+            "reference-count": 51,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                2,
+                                18
+                            ]
+                        ],
+                        "date-time": "2020-02-18T00:00:00Z",
+                        "timestamp": 1581984000000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                2,
+                                18
+                            ]
+                        ],
+                        "date-time": "2020-02-18T00:00:00Z",
+                        "timestamp": 1581984000000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>This review aimed to identify and synthesise evidence of Muslim women\u2019s experiences of maternity services in the UK. A systematic review and thematic synthesis of qualitative evidence, unrestricted by type of publication was conducted. Muslim women who had accessed maternity services in the UK, regardless of obstetric or medical history were included.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Method</jats:title>\n                <jats:p>Databases were searched from 2001 to 2019 and screened for inclusion using pre-determined criteria. The Critical Appraisal Skills Programme Qualitative Research Checklist was used to assess study quality and findings were synthesised using thematic synthesis, as described by Thomas and Harden.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>Six studies were included. The following five themes were identified: <jats:italic>Islamic practices and Individualised care; Talk, Teach and Translate; Injustice, Inequity and Intolerance; If Allah wills</jats:italic>; and, <jats:italic>\u2018It\u2019s not all that bad\u2019</jats:italic>. Synthesis highlighted the significance of Islam in shaping many of the women\u2019s decision-making relating to antenatal screening and medication, which was contrasted with healthcare professionals\u2019 limited awareness of the importance of Islam for motherhood. The majority of women experienced poor maternity care which at times indicated stereotypical and discriminatory behaviour.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>Education for healthcare professionals is warranted, to enhance the quality and cultural competency in providing appropriate care that acknowledges and meets Muslim women\u2019s needs.</jats:p>\n              </jats:sec>",
+            "DOI": "10.1186/s12884-020-2811-8",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        18
+                    ]
+                ],
+                "date-time": "2020-02-18T18:03:01Z",
+                "timestamp": 1582048981000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Muslim women\u2019s experiences of maternity services in the UK: qualitative systematic review and thematic synthesis",
+            "prefix": "10.1186",
+            "volume": "20",
+            "author": [
+                {
+                    "given": "Tasneema",
+                    "family": "Firdous",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Zoe",
+                    "family": "Darwin",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-7840-3342",
+                    "authenticated-orcid": false,
+                    "given": "Shaima M.",
+                    "family": "Hassan",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        18
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "3",
+                    "key": "2811_CR1",
+                    "first-page": "165",
+                    "volume": "3",
+                    "author": "LR Robab",
+                    "year": "2015",
+                    "unstructured": "Robab LR, et al. Socio-cultural believes values and traditions regarding Women\u2019s preferred mode of birth in the north of Iran. Int J Community Nurs Midwifery. 2015;3(3):165\u201376.",
+                    "journal-title": "Int J Community Nurs Midwifery"
+                },
+                {
+                    "issue": "8",
+                    "key": "2811_CR2",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "673",
+                    "DOI": "10.1093/pch/12.8.673",
+                    "volume": "12",
+                    "author": "PC Larson",
+                    "year": "2007",
+                    "unstructured": "Larson PC. Poverty during pregnancy; its effects on child health outcomes. Paediatr Child Health. 2007;12(8):673\u20137.",
+                    "journal-title": "Paediatr Child Health"
+                },
+                {
+                    "key": "2811_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "473",
+                    "DOI": "10.1007/s10943-010-9323-1",
+                    "volume": "40",
+                    "author": "LM Gaydos",
+                    "year": "2010",
+                    "unstructured": "Gaydos LM, et al. An emerging field in religion and reproductive health. J Relig Health. 2010;40:473\u201384.",
+                    "journal-title": "J Relig Health"
+                },
+                {
+                    "key": "2811_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "151",
+                    "DOI": "10.1177/0898010106293593",
+                    "volume": "25",
+                    "author": "DE Jesse",
+                    "year": "2007",
+                    "unstructured": "Jesse DE, et al. The effect of faith or spirituality in pregnancy. J Holist Nurs. 2007;25:151\u20138.",
+                    "journal-title": "J Holist Nurs"
+                },
+                {
+                    "key": "2811_CR5",
+                    "author": "GH Rassool",
+                    "year": "2014",
+                    "unstructured": "Rassool GH. Cultural competence in caring for Muslim patients. Basingstoke: Palgrave Macmillan; 2014.",
+                    "volume-title": "Cultural competence in caring for Muslim patients",
+                    "DOI": "10.1007/978-1-137-35841-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "14",
+                    "key": "2811_CR6",
+                    "first-page": "12",
+                    "volume": "111",
+                    "author": "GH Rassool",
+                    "year": "2015",
+                    "unstructured": "Rassool GH. Cultural competence in nursing Muslim patients. Nurs Times. 2015;111(14):12\u20135.",
+                    "journal-title": "Nurs Times"
+                },
+                {
+                    "key": "2811_CR7",
+                    "author": "Office for National Statistics (ONS)",
+                    "year": "2012",
+                    "unstructured": "Office for National Statistics (ONS). 2012. Religion in England and Wales 2011. Available from: https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/religion/articles/religioninenglandandwales2011/2012-12-11. [Online]. [Accessed 9th March 2018]",
+                    "volume-title": "Religion in England and Wales 2011"
+                },
+                {
+                    "key": "2811_CR8",
+                    "author": "Muslim Council of Britain MCB",
+                    "year": "2015",
+                    "unstructured": "Muslim Council of Britain MCB. British Muslim Number: a demographic, socio-economic and health profile of Muslim in Britain drawing on the 2011 census. 2015.",
+                    "volume-title": "British Muslim Number: a demographic, socio-economic and health profile of Muslim in Britain drawing on the 2011 census"
+                },
+                {
+                    "issue": "1",
+                    "key": "2811_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "73",
+                    "DOI": "10.1089/jwh.2010.2197",
+                    "volume": "20",
+                    "author": "M Hasnain",
+                    "year": "2011",
+                    "unstructured": "Hasnain M, et al. Patient- centred care for Muslim women; provider and patient perspectives. J Women's Health. 2011;20(1):73\u201383.",
+                    "journal-title": "J Women's Health"
+                },
+                {
+                    "key": "2811_CR10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "101",
+                    "DOI": "10.1007/s10995-007-0213-4",
+                    "volume": "12",
+                    "author": "DL Gustafson",
+                    "year": "2008",
+                    "unstructured": "Gustafson DL, Reitmanova S. \u201cThey Can\u2019t Understand It\u201d: Maternity Health and Care Needs of Immigrant Muslim Women in St. John\u2019s, Newfoundland. Matern Child Health J. 2008;12:101\u201311.",
+                    "journal-title": "Matern Child Health J"
+                },
+                {
+                    "issue": "1",
+                    "key": "2811_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "25",
+                    "DOI": "10.1054/midw.2002.0296",
+                    "volume": "18",
+                    "author": "V Tsianakas",
+                    "year": "2002",
+                    "unstructured": "Tsianakas V, Liamputtong P. What women from an Islamic background in Australia say about care in pregnancy and prenatal testing? Midwifery. 2002;18(1):25\u201334.",
+                    "journal-title": "Midwifery"
+                },
+                {
+                    "key": "2811_CR12",
+                    "author": "L Pollock",
+                    "year": "2005",
+                    "unstructured": "Pollock, L. Experiences of Maternity Services: Muslim Women\u2019s Perspectives. 2005. Available from: https://www.maternityaction.org.uk/wp-content/uploads/2013/09/muslimwomensexperiencesofmaternityservices.pdf, [Online]. [Accessed 9th March 2018]",
+                    "volume-title": "Experiences of Maternity Services: Muslim Women\u2019s Perspectives"
+                },
+                {
+                    "key": "#cr-split#-2811_CR13.1",
+                    "unstructured": "Lewis G. Saving Mothers' Lives: reviewing maternal deaths to make motherhood safer - 2003-2005. The Seventh Report of Confidential Enquiries into Maternal Deaths in the United Kingdom. The Confidential Enquiry into Maternal and Child Health (CEMACH) London. CEMACH. 2007"
+                },
+                {
+                    "key": "#cr-split#-2811_CR13.2",
+                    "unstructured": "Available from: http://www.publichealth.hscni.net/sites/default/files/Saving%20Mothers%27%20Lives%202003-05%20.pdf, [Online]. [Accessed 9th March 2018]."
+                },
+                {
+                    "key": "2811_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "S64",
+                    "DOI": "10.1016/j.ajog.2005.01.075",
+                    "volume": "192",
+                    "author": "ET Patrick",
+                    "year": "2005",
+                    "unstructured": "Patrick ET, Bryan Y. Research strategies for optimizing pregnancy outcomes in minority populations. Am J Obstet Gynaecol. 2005;192:S64\u201370.",
+                    "journal-title": "Am J Obstet Gynaecol"
+                },
+                {
+                    "issue": "196",
+                    "key": "2811_CR15",
+                    "first-page": "1",
+                    "volume": "13",
+                    "author": "J Henderson",
+                    "year": "2013",
+                    "unstructured": "Henderson J, et al. Experiencing maternity care: the care received and perceptions of women from different ethnic groups. BMC Pregnancy Childbirth. 2013;13(196):1\u201314.",
+                    "journal-title": "BMC Pregnancy Childbirth"
+                },
+                {
+                    "key": "2811_CR16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "39",
+                    "DOI": "10.1016/j.bpobgyn.2015.09.003",
+                    "volume": "32",
+                    "author": "S Puthussery",
+                    "year": "2016",
+                    "unstructured": "Puthussery S. Perinatal outcomes among migrant mothers in the United Kingdom: is it a matter of biology, behaviour, policy, social determinants or access to health care? Best Pract Res Clin Obstet Gynaecol. 2016;32:39\u201349.",
+                    "journal-title": "Best Pract Res Clin Obstet Gynaecol"
+                },
+                {
+                    "key": "2811_CR17",
+                    "author": "Knight",
+                    "year": "2018",
+                    "unstructured": "Knight et al. MBRACE- UK, Saving Lives, Improving Mothers\u2019 Care. 2018. Available from: https://www.npeu.ox.ac.uk/downloads/files/mbrrace-uk/reports/MBRRACE-UK%20Maternal%20Report%202018%20-%20Web%20Version.pdf, [Online]. [Accessed 3rd April 2019]",
+                    "volume-title": "MBRACE- UK, Saving Lives, Improving Mothers\u2019 Care"
+                },
+                {
+                    "key": "2811_CR18",
+                    "author": "The Marmot Review",
+                    "year": "2012",
+                    "unstructured": "The Marmot Review. 2012. Fair Society, Healthy Lives. Strategic Review of Health Inequalities in England post-2010. Available from: http://www.parliament.uk/documents/fair-society-healthy-lives-full-report.pdf, [Online]. [Accessed 9th March 2018]",
+                    "volume-title": "Fair Society, Healthy Lives. Strategic Review of Health Inequalities in England post-2010"
+                },
+                {
+                    "issue": "2",
+                    "key": "2811_CR19",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "181",
+                    "DOI": "10.1016/j.midw.2007.02.002",
+                    "volume": "25",
+                    "author": "L Straus",
+                    "year": "2009",
+                    "unstructured": "Straus L, et al. Somali women\u2019s experience of childbirth in the UK: perspectives from Somali health workers. Midwifery. 2009;25(2):181\u20136.",
+                    "journal-title": "Midwifery"
+                },
+                {
+                    "issue": "4",
+                    "key": "2811_CR20",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "124",
+                    "DOI": "10.1111/j.1369-7625.2012.00770.x",
+                    "volume": "16",
+                    "author": "A McFadden",
+                    "year": "2013",
+                    "unstructured": "McFadden A, et al. Does cultural context make a difference to women\u2019s experiences of maternity care? A qualitative study comparing the perspectives of breast-feeding women of Bangladeshi origin and health practitioners. Health Expect. 2013;16(4):124\u201335.",
+                    "journal-title": "Health Expect"
+                },
+                {
+                    "key": "2811_CR21",
+                    "first-page": "74",
+                    "volume": "334",
+                    "author": "A Sheikh",
+                    "year": "2007",
+                    "unstructured": "Sheikh A. Should Muslims have a faith-based health service? Br J Midwifery. 2007;334:74.",
+                    "journal-title": "Br J Midwifery"
+                },
+                {
+                    "key": "2811_CR22",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "181",
+                    "DOI": "10.1186/1471-2288-12-181",
+                    "volume": "12",
+                    "author": "A Tong",
+                    "year": "2012",
+                    "unstructured": "Tong A, et al. Enhancing transparency in reporting the synthesis of qualitative research: ENTREQ. BMC Med Res Methodol. 2012;12:181.",
+                    "journal-title": "BMC Med Res Methodol"
+                },
+                {
+                    "key": "2811_CR23",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "59",
+                    "DOI": "10.1186/1471-2288-9-59",
+                    "volume": "9",
+                    "author": "E Barnett-Page",
+                    "year": "2009",
+                    "unstructured": "Barnett-Page E, Thomas J. Methods for the synthesis of qualitative research: a critical review. BMC Med Res Methodol. 2009;9:59. https://doi.org/10.1186/1471-2288-9-59 https://bmcmedresmethodol.biomedcentral.com/track/pdf/10.1186/1471-2288-9-59.",
+                    "journal-title": "BMC Med Res Methodol"
+                },
+                {
+                    "issue": "45",
+                    "key": "2811_CR24",
+                    "first-page": "1",
+                    "volume": "8",
+                    "author": "J Thomas",
+                    "year": "2008",
+                    "unstructured": "Thomas J, Harden A. Methods for thematic synthesis of qualitative research in systematic reviews. BMC Med Res Methodol. 2008;8(45):1\u201310.",
+                    "journal-title": "BMC Med Res Methodol"
+                },
+                {
+                    "key": "2811_CR25",
+                    "unstructured": "Ali N, Burchett H. Experiences of maternity services: Muslim women's perspectives. Maternity Alliance. 2004; Available from: https://www.maternityaction.org.uk/wp-content/uploads/2013/09/muslimwomensexperiencesofmaternityservices.pdf. [Online]. [Accessed 10th March 2018]."
+                },
+                {
+                    "key": "2811_CR26",
+                    "unstructured": "Hassan SM. A qualitative study exploring British Muslim women\u2019s experiences of motherhood while engaging with NHS maternity services: Doctoral Thesis, Liverpool John Moores University; 2017. Available from http://researchonline.ljmu.ac.uk/7412/7/2017ShaimaHassanPhD.pdf, [Online]. [Accessed 10th March 2018]"
+                },
+                {
+                    "key": "2811_CR27",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "146",
+                    "DOI": "10.1186/s12884-019-2302-y",
+                    "volume": "19",
+                    "author": "MS Hassan",
+                    "year": "2019",
+                    "unstructured": "Hassan MS, Leavey C, Rooney JS. Exploring English speaking Muslim women\u2019s first-time maternity experiences: a qualitative longitudinal interview study. BMC Pregnancy Childbirth J. 2019;19:146. https://doi.org/10.1186/s12884-019-2302-y.",
+                    "journal-title": "BMC Pregnancy Childbirth J"
+                },
+                {
+                    "issue": "8",
+                    "key": "2811_CR28",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "571",
+                    "DOI": "10.12968/bjom.2013.21.8.571",
+                    "volume": "21",
+                    "author": "E Alshawish",
+                    "year": "2013",
+                    "unstructured": "Alshawish E, Wibberley C, Marsden J, Yeowell G. Investigating access to and use of maternity health-care services in the UK by Palestinian women. Br J Midwifery. 2013;21(8):571\u20137.",
+                    "journal-title": "Br J Midwifery"
+                },
+                {
+                    "key": "2811_CR29",
+                    "author": "N Ellis",
+                    "first-page": "237",
+                    "year": "2000",
+                    "unstructured": "Ellis, N. \u2018Birth Experiences of South Asian Muslim Women: Marginalised Choice within the Maternity Services.\u2019 2000, Chapter 11, pp. 237-255; In: Kirkham, M. (ed). Informed choice in maternity care. Basingstoke, Palgrave Macmillan.",
+                    "volume-title": "Informed choice in maternity care"
+                },
+                {
+                    "key": "2811_CR30",
+                    "unstructured": "Bawadi H. Migrant Arab Muslim Women\u2019s experiences of childbirth in the UK: Doctoral Thesis, De Montfort University; 2009. Available from: https://www.dora.dmu.ac.uk/bitstream/handle/2086/3039/Thesis.pdf?sequence=1&isAllowed=y, [Online]. [Accessed 10th March 2018]"
+                },
+                {
+                    "key": "2811_CR31",
+                    "unstructured": "Bharj KK. Pakistani Muslim women birthing in northern England: exploration of experiences and context: Doctoral Thesis, Sheffield Hallam University; 2007. Available from: http://shura.shu.ac.uk/20627/1/10701274.pdf. [Online]. [Accessed 10th August 2018]"
+                },
+                {
+                    "key": "2811_CR32",
+                    "author": "Critical Appraisal Skills Programme (CASP)",
+                    "year": "2018",
+                    "unstructured": "Critical Appraisal Skills Programme (CASP). 2018. CASP (Qualitative Research) Checklist. Available from: https://casp-uk.net/wp-content/uploads/2018/01/CASP-Qualitative-Checklist.pdf, [Online]. [Accessed 6th June 2018]",
+                    "volume-title": "CASP (Qualitative Research) Checklist"
+                },
+                {
+                    "issue": "3",
+                    "key": "2811_CR33",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "297",
+                    "DOI": "10.1016/j.midw.2013.04.001",
+                    "volume": "30",
+                    "author": "JK Gitsels-van der Wal",
+                    "year": "2014",
+                    "unstructured": "Gitsels-van der Wal JK, et al. The role of religion in decision-making on antenatal screening of congenital anomalies: a qualitative study amongst Muslim Turkish origin immigrants. Midwifery. 2014;30(3):297\u2013302.",
+                    "journal-title": "Midwifery"
+                },
+                {
+                    "key": "2811_CR34",
+                    "author": "B Births",
+                    "year": "2017",
+                    "unstructured": "Better Births. National Maternity Review, improving outcomes of maternity services in England; A five year forward view for maternity care. 2017. Available from: https://www.england.nhs.uk/wp-content/uploads/2016/02/national-maternity-review-report.pdf, [Online]. [Accessed 29th April 2019]",
+                    "volume-title": "National Maternity Review, improving outcomes of maternity services in England; A five year forward view for maternity care"
+                },
+                {
+                    "issue": "4",
+                    "key": "2811_CR35",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "435",
+                    "DOI": "10.1111/tmi.12069",
+                    "volume": "18",
+                    "author": "M Magoma",
+                    "year": "2013",
+                    "unstructured": "Magoma M, et al. The effectiveness of birth plans in increasing use of skilled care at delivery and postnatal care in rural Tanzania: a cluster randomised trial. Tropical Med Int Health. 2013;18(4):435\u201343.",
+                    "journal-title": "Tropical Med Int Health"
+                },
+                {
+                    "issue": "1",
+                    "key": "2811_CR36",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "123",
+                    "DOI": "10.1111/j.1466-7657.2008.00681.x",
+                    "volume": "56",
+                    "author": "M Rassin",
+                    "year": "2009",
+                    "unstructured": "Rassin M, et al. Cultural differences in child delivery: comparisons between Jewish and Arab women in Israel. Int Nurs Rev. 2009;56(1):123\u201330.",
+                    "journal-title": "Int Nurs Rev"
+                },
+                {
+                    "issue": "1",
+                    "key": "2811_CR37",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "94",
+                    "DOI": "10.1080/23294515.2014.993101",
+                    "volume": "6",
+                    "author": "H Haider",
+                    "year": "2015",
+                    "unstructured": "Haider H. Non-invasive prenatal testing: implications for Muslim communities. AJOB Empirical Bioethics. 2015;6(1):94\u2013105.",
+                    "journal-title": "AJOB Empirical Bioethics"
+                },
+                {
+                    "key": "2811_CR38",
+                    "unstructured": "Hammad A, et al. Guide to Arab culture: Health care delivery to the Arab American community. ACCESS Community Health and Research Centre, USA. 1999. https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/666/2013/04/14102318/Guide-to-Arab-Culture-Health-care-delivery-to-the-Arab-American-Community.pdf."
+                },
+                {
+                    "issue": "5",
+                    "key": "2811_CR39",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "188",
+                    "DOI": "10.1258/jrsm.2010.090460",
+                    "volume": "103",
+                    "author": "VS Raleigh",
+                    "year": "2010",
+                    "unstructured": "Raleigh VS, et al. Ethnic and social inequalities in women\u2019s experience of maternity care in England: results of a national survey. J R Soc Med. 2010;103(5):188\u201398.",
+                    "journal-title": "J R Soc Med"
+                },
+                {
+                    "key": "2811_CR40",
+                    "author": "Royal College of Midwives (RCM)",
+                    "year": "2014",
+                    "unstructured": "Royal College of Midwives (RCM). High Quality Midwifery Care. 2014. Available from: https://www.rcm.org.uk/sites/default/files/High%20Quality%20Midwifery%20Care%20Final.pdf, [Online]. [Accessed 13th June 2018]",
+                    "volume-title": "High Quality Midwifery Care"
+                },
+                {
+                    "key": "2811_CR41",
+                    "unstructured": "Mari P. Women centred care? An exploration of professional care in midwifery practice: Doctoral Thesis, University of Huddersfield; 2009. Available from: http://eprints.hud.ac.uk/id/eprint/5764/1/PhD_THESIS_MARCH_2009.pdf, [Online]. [Accessed 13th June 2018]"
+                },
+                {
+                    "key": "2811_CR42",
+                    "author": "N Sainath",
+                    "year": "2011",
+                    "unstructured": "Sainath, N. Twisted Translation: Using Friends and Family Members As Medical Interpreters. 2011. Available from: https://www.clinicalcorrelations.org/?p=4109, [Online]. [Accessed 13th June 2018]",
+                    "volume-title": "Twisted Translation: Using Friends and Family Members As Medical Interpreters"
+                },
+                {
+                    "issue": "3",
+                    "key": "2811_CR43",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "315",
+                    "DOI": "10.1016/j.pec.2007.03.005",
+                    "volume": "67",
+                    "author": "MS Mast",
+                    "year": "2007",
+                    "unstructured": "Mast MS. On the importance of nonverbal communication in the physician-patient interaction. Patient Educ Couns. 2007;67(3):315\u20138.",
+                    "journal-title": "Patient Educ Couns"
+                },
+                {
+                    "issue": "2",
+                    "key": "2811_CR44",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "157",
+                    "DOI": "10.1111/1467-9566.ep11346882",
+                    "volume": "15",
+                    "author": "I Bowler",
+                    "year": "1993",
+                    "unstructured": "Bowler I. \u2018They\u2019re not the same as us\u2019: midwives\u2019 stereotypes of south Asian descent maternity patients. Sociol Health Illn. 1993;15(2):157\u201378.",
+                    "journal-title": "Sociol Health Illn"
+                },
+                {
+                    "key": "2811_CR45",
+                    "author": "Runnymede",
+                    "year": "2017",
+                    "unstructured": "Runnymede. Islamophobia; Still a challenge for us all; A 20th anniversary report. 2017. Available from: https://www.runnymedetrust.org/uploads/Islamophobia%20Report%202018%20FINAL.pdf, [Online]. [Accessed 29th April 2019]",
+                    "volume-title": "Islamophobia; Still a challenge for us all; A 20th anniversary report"
+                },
+                {
+                    "issue": "2",
+                    "key": "2811_CR46",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "16",
+                    "DOI": "10.1624/105812410X495514",
+                    "volume": "19",
+                    "author": "C Callister",
+                    "year": "2010",
+                    "unstructured": "Callister C. L and Khalaf, I. spirituality in childbearing women. J Perinat Educ. 2010;19(2):16\u201324.",
+                    "journal-title": "J Perinat Educ"
+                },
+                {
+                    "key": "2811_CR47",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "587",
+                    "DOI": "10.1080/07399330290107359",
+                    "volume": "23",
+                    "author": "DE Jesse",
+                    "year": "2002",
+                    "unstructured": "Jesse DE, Alligood MR. Holistic obstetrical problem evaluation (HOPE): testing a theory to predict birth outcomes in a group of women from Appalachia. Healthc Women Int. 2002;23:587\u201399.",
+                    "journal-title": "Healthc Women Int"
+                },
+                {
+                    "issue": "12",
+                    "key": "2811_CR48",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "761",
+                    "DOI": "10.12968/bjom.2017.25.12.761",
+                    "volume": "25",
+                    "author": "A Zaidi",
+                    "year": "2017",
+                    "unstructured": "Zaidi A. Perinatal mental health and Islam. Br J Midwifery. 2017;25(12):761\u20134.",
+                    "journal-title": "Br J Midwifery"
+                },
+                {
+                    "issue": "10",
+                    "key": "2811_CR49",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e1001895",
+                    "DOI": "10.1371/journal.pmed.1001895",
+                    "volume": "12",
+                    "author": "S Lewin",
+                    "year": "2015",
+                    "unstructured": "Lewin S, Glenton C, Munthe-Kaas H, Carlsen B, Colvin CJ, G\u00fclmezoglu M, et al. Using qualitative evidence in decision making for health and social interventions: an approach to assess confidence in findings from qualitative evidence syntheses (GRADE-CERQual). PLoS Med. 2015;12(10):e1001895. https://doi.org/10.1371/journal.pmed.1001895.",
+                    "journal-title": "PLoS Med"
+                },
+                {
+                    "key": "2811_CR50",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1177/1609406918768014",
+                    "volume": "17",
+                    "author": "D Soilemezi",
+                    "year": "2018",
+                    "unstructured": "Soilemezi D, Linceviciute S. Synthesizing qualitative research: reflections and lessons learnt by two new reviewers. Int J Qual Methods. 2018;17:1\u201314. https://doi.org/10.1177/1609406918768014.",
+                    "journal-title": "Int J Qual Methods"
+                }
+            ],
+            "container-title": "BMC Pregnancy and Childbirth",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12884-020-2811-8.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s12884-020-2811-8/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12884-020-2811-8.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        20
+                    ]
+                ],
+                "date-time": "2021-02-20T07:30:50Z",
+                "timestamp": 1613806250000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        18
+                    ]
+                ]
+            },
+            "references-count": 51,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "2811"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12884-020-2811-8",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1471-2393"
+            ],
+            "subject": [
+                "Obstetrics and Gynaecology"
+            ],
+            "container-title-short": "BMC Pregnancy Childbirth",
+            "assertion": [
+                {
+                    "value": "4 December 2019",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "13 February 2020",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "18 February 2020",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "Not applicable.",
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "Not applicable.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "The authors declare that they have no competing interests.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "115"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Cultural competency",
+                        "Maternity care",
+                        "Muslim women",
+                        "Religion",
+                        "Systematic review"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32070299",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "11",
+                    "Day": "30"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "11",
+                    "Day": "30"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "02",
+                            "Day": "18"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12884-020-2811-8"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1471-2393",
+                        "JournalIssue": {
+                            "Volume": "20",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Feb",
+                                "Day": "18"
+                            }
+                        },
+                        "Title": "BMC pregnancy and childbirth",
+                        "ISOAbbreviation": "BMC Pregnancy Childbirth"
+                    },
+                    "ArticleTitle": "Muslim women's experiences of maternity services in the UK: qualitative systematic review and thematic synthesis.",
+                    "Pagination": {
+                        "MedlinePgn": "115"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "This review aimed to identify and synthesise evidence of Muslim women's experiences of maternity services in the UK. A systematic review and thematic synthesis of qualitative evidence, unrestricted by type of publication was conducted. Muslim women who had accessed maternity services in the UK, regardless of obstetric or medical history were included.",
+                            "Databases were searched from 2001 to 2019 and screened for inclusion using pre-determined criteria. The Critical Appraisal Skills Programme Qualitative Research Checklist was used to assess study quality and findings were synthesised using thematic synthesis, as described by Thomas and Harden.",
+                            "Six studies were included. The following five themes were identified: Islamic practices and Individualised care; Talk, Teach and Translate; Injustice, Inequity and Intolerance; If Allah wills; and, 'It's not all that bad'. Synthesis highlighted the significance of Islam in shaping many of the women's decision-making relating to antenatal screening and medication, which was contrasted with healthcare professionals' limited awareness of the importance of Islam for motherhood. The majority of women experienced poor maternity care which at times indicated stereotypical and discriminatory behaviour.",
+                            "Education for healthcare professionals is warranted, to enhance the quality and cultural competency in providing appropriate care that acknowledges and meets Muslim women's needs."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Healthcare, University of Leeds, Leeds, LS2 9JT, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Leeds Teaching Hospitals NHS Trust, Leeds, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Firdous",
+                            "ForeName": "Tasneema",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Healthcare, University of Leeds, Leeds, LS2 9JT, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Darwin",
+                            "ForeName": "Zoe",
+                            "Initials": "Z"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK. s.m.hassan@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0001-7840-3342"
+                            ],
+                            "LastName": "Hassan",
+                            "ForeName": "Shaima M",
+                            "Initials": "SM"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Pregnancy Childbirth",
+                    "NlmUniqueID": "100967799",
+                    "ISSNLinking": "1471-2393"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Communication",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "ethnology"
+                        ],
+                        "DescriptorName": "Culturally Competent Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Decision Making",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "ethnology"
+                        ],
+                        "DescriptorName": "Healthcare Disparities",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Islam",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "standards"
+                        ],
+                        "DescriptorName": "Maternal Health Services",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pregnancy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Qualitative Research",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Spirituality",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Stereotyping",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "BMC Pregnancy Childbirth. 2013 Oct 22;13:196",
+                                "ArticleIdList": [
+                                    "24148317"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Res Methodol. 2012 Nov 27;12:181",
+                                "ArticleIdList": [
+                                    "23185978"
+                                ]
+                            },
+                            {
+                                "Citation": "Midwifery. 2009 Apr;25(2):181-6",
+                                "ArticleIdList": [
+                                    "17600598"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Care Women Int. 2002 Sep-Nov;23(6-7):587-99",
+                                "ArticleIdList": [
+                                    "12418981"
+                                ]
+                            },
+                            {
+                                "Citation": "Midwifery. 2002 Mar;18(1):25-34",
+                                "ArticleIdList": [
+                                    "11945050"
+                                ]
+                            },
+                            {
+                                "Citation": "J Womens Health (Larchmt). 2011 Jan;20(1):73-83",
+                                "ArticleIdList": [
+                                    "21190484"
+                                ]
+                            },
+                            {
+                                "Citation": "J Perinat Educ. 2010 Spring;19(2):16-24",
+                                "ArticleIdList": [
+                                    "20498751"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient Educ Couns. 2007 Aug;67(3):315-8",
+                                "ArticleIdList": [
+                                    "17478072"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Community Based Nurs Midwifery. 2015 Jul;3(3):165-76",
+                                "ArticleIdList": [
+                                    "26171405"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2013 Dec;16(4):e124-35",
+                                "ArticleIdList": [
+                                    "22429489"
+                                ]
+                            },
+                            {
+                                "Citation": "J R Soc Med. 2010 May;103(5):188-98",
+                                "ArticleIdList": [
+                                    "20436027"
+                                ]
+                            },
+                            {
+                                "Citation": "Int Nurs Rev. 2009 Mar;56(1):123-30",
+                                "ArticleIdList": [
+                                    "19239526"
+                                ]
+                            },
+                            {
+                                "Citation": "Nurs Times. 2015 Apr 1-7;111(14):12-5",
+                                "ArticleIdList": [
+                                    "26182584"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Res Methodol. 2008 Jul 10;8:45",
+                                "ArticleIdList": [
+                                    "18616818"
+                                ]
+                            },
+                            {
+                                "Citation": "Paediatr Child Health. 2007 Oct;12(8):673-7",
+                                "ArticleIdList": [
+                                    "19030445"
+                                ]
+                            },
+                            {
+                                "Citation": "Matern Child Health J. 2008 Jan;12(1):101-11",
+                                "ArticleIdList": [
+                                    "17592762"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS Med. 2015 Oct 27;12(10):e1001895",
+                                "ArticleIdList": [
+                                    "26506244"
+                                ]
+                            },
+                            {
+                                "Citation": "J Relig Health. 2010 Dec;49(4):473-84",
+                                "ArticleIdList": [
+                                    "20094795"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Pregnancy Childbirth. 2019 May 6;19(1):156",
+                                "ArticleIdList": [
+                                    "31060520"
+                                ]
+                            },
+                            {
+                                "Citation": "J Holist Nurs. 2007 Sep;25(3):151-8; discussion 159",
+                                "ArticleIdList": [
+                                    "17724382"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Res Methodol. 2009 Aug 11;9:59",
+                                "ArticleIdList": [
+                                    "19671152"
+                                ]
+                            },
+                            {
+                                "Citation": "Best Pract Res Clin Obstet Gynaecol. 2016 Apr;32:39-49",
+                                "ArticleIdList": [
+                                    "26527304"
+                                ]
+                            },
+                            {
+                                "Citation": "Trop Med Int Health. 2013 Apr;18(4):435-43",
+                                "ArticleIdList": [
+                                    "23383733"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Obstet Gynecol. 2005 May;192(5 Suppl):S64-70",
+                                "ArticleIdList": [
+                                    "15891714"
+                                ]
+                            },
+                            {
+                                "Citation": "Midwifery. 2014 Mar;30(3):297-302",
+                                "ArticleIdList": [
+                                    "23726134"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "12",
+                        "Day": "04"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "02",
+                        "Day": "13"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "2",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "2",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "32070299",
+                    "10.1186/s12884-020-2811-8",
+                    "10.1186/s12884-020-2811-8",
+                    "PMC7029511"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32070299)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832070299%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832070299%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079609597"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079609597?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079609597&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079609597&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079609597",
+                        "dc:identifier": "SCOPUS_ID:85079609597",
+                        "eid": "2-s2.0-85079609597",
+                        "dc:title": "Muslim women's experiences of maternity services in the UK: Qualitative systematic review and thematic synthesis",
+                        "dc:creator": "Firdous T.",
+                        "prism:publicationName": "BMC Pregnancy and Childbirth",
+                        "prism:eIssn": "14712393",
+                        "prism:volume": "20",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-02-18",
+                        "prism:coverDisplayDate": "18 February 2020",
+                        "prism:doi": "10.1186/s12884-020-2811-8",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Leeds Teaching Hospitals NHS Trust",
+                                "affiliation-city": "Leeds",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Leeds",
+                                "affiliation-city": "Leeds",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32070299",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "115",
+                        "source-id": "12550",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "RTIPQ2EJ.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32070299"
+            }
+        },
+        "title": "Muslim women's experiences of maternity services in the UK: qualitative systematic review and thematic synthesis.",
+        "full_author_list": [
+            {
+                "clean": "Firdous T",
+                "family": "Firdous",
+                "given": "Tasneema",
+                "affiliation": {
+                    "name": "School of Healthcare, University of Leeds, Leeds, LS2 9JT, UK."
+                }
+            },
+            {
+                "clean": "Darwin Z",
+                "family": "Darwin",
+                "given": "Zoe",
+                "affiliation": {
+                    "name": "School of Healthcare, University of Leeds, Leeds, LS2 9JT, UK."
+                }
+            },
+            {
+                "clean": "Hassan S",
+                "family": "Hassan",
+                "given": "Shaima M",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK. s.m.hassan@liverpool.ac.uk."
+                }
+            }
+        ],
+        "first_author": "Firdous T",
+        "zotero_tags": [
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Communication",
+                    "major": "N"
+                },
+                {
+                    "term": "Culturally Competent Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Decision Making",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Healthcare Disparities",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Islam",
+                    "major": "N"
+                },
+                {
+                    "term": "Maternal Health Services",
+                    "major": "N"
+                },
+                {
+                    "term": "Pregnancy",
+                    "major": "N"
+                },
+                {
+                    "term": "Qualitative Research",
+                    "major": "N"
+                },
+                {
+                    "term": "Spirituality",
+                    "major": "N"
+                },
+                {
+                    "term": "Stereotyping",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "Cultural competency",
+                "Maternity care",
+                "Muslim women",
+                "Religion",
+                "Systematic review"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMC Pregnancy Childbirth",
+            "volume": "20",
+            "issue": "1"
+        },
+        "abstract": "[\"This review aimed to identify and synthesise evidence of Muslim women's experiences of maternity services in the UK. A systematic review and thematic synthesis of qualitative evidence, unrestricted by type of publication was conducted. Muslim women who had accessed maternity services in the UK, regardless of obstetric or medical history were included.\", 'Databases were searched from 2001 to 2019 and screened for inclusion using pre-determined criteria. The Critical Appraisal Skills Programme Qualitative Research Checklist was used to assess study quality and findings were synthesised using thematic synthesis, as described by Thomas and Harden.', \"Six studies were included. The following five themes were identified: Islamic practices and Individualised care; Talk, Teach and Translate; Injustice, Inequity and Intolerance; If Allah wills; and, 'It's not all that bad'. Synthesis highlighted the significance of Islam in shaping many of the women's decision-making relating to antenatal screening and medication, which was contrasted with healthcare professionals' limited awareness of the importance of Islam for motherhood. The majority of women experienced poor maternity care which at times indicated stereotypical and discriminatory behaviour.\", \"Education for healthcare professionals is warranted, to enhance the quality and cultural competency in providing appropriate care that acknowledges and meets Muslim women's needs.\"]",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "School of Healthcare, University of Leeds, Leeds, LS2 9JT, UK.",
+            "clean_institute": "University of Leeds",
+            "country": "United Kingdom",
+            "latitude": "53.807222222222",
+            "longitude": "-1.5516666666667"
+        }
+    }
+}

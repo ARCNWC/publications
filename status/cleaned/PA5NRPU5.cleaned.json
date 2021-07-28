@@ -1,0 +1,1819 @@
+{
+    "IDs": {
+        "zotero": "PA5NRPU5",
+        "DOI": "10.1371/journal.pmed.1003497",
+        "DOI_filename": "8eda2b8558bc871de6c9523abf392748",
+        "PMID": "33577558",
+        "scopus": "2-s2.0-85101425610",
+        "hash": "28a50a644a79cc9da4e7396584454097"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "PA5NRPU5",
+            "version": 981,
+            "itemType": "journalArticle",
+            "title": "Association of socioeconomic deprivation with asthma care, outcomes, and deaths in Wales: A 5-year national linked primary and secondary care cohort study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Mohammad A.",
+                    "lastName": "Alsallakh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah E.",
+                    "lastName": "Rodgers"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ronan A.",
+                    "lastName": "Lyons"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Aziz",
+                    "lastName": "Sheikh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Gwyneth A.",
+                    "lastName": "Davies"
+                },
+                {
+                    "creatorType": "editor",
+                    "firstName": "David",
+                    "lastName": "Peiris"
+                }
+            ],
+            "abstractNote": "Background\n              Socioeconomic deprivation is known to be associated with worse outcomes in asthma, but there is a lack of population-based evidence of its impact across all stages of patient care. We investigated the association of socioeconomic deprivation with asthma-related care and outcomes across primary and secondary care and with asthma-related death in Wales.\n            \n            \n              Methods and findings\n              \n                We constructed a national cohort, identified from 76% (2.4 million) of the Welsh population, of continuously treated asthma patients between 2013 and 2017 using anonymised, person-level, linked, routinely collected primary and secondary care data in the Secure Anonymised Information Linkage (SAIL) Databank. We investigated the association between asthma-related health service utilisation, prescribing, and deaths with the 2011 Welsh Index of Multiple Deprivation (WIMD) and its domains. We studied 106,926 patients (534,630 person-years), 56.3% were female, with mean age of 47.5 years (SD = 20.3). Compared to the least deprived patients, the most deprived patients had slightly fewer total asthma-related primary care consultations per patient (incidence rate ratio [IRR] = 0.98, 95% CI 0.97\u20130.99,\n                p\n                -value < 0.001), slightly fewer routine asthma reviews (IRR = 0.98, 0.97\u20130.99,\n                p\n                -value < 0.001), lower controller-to-total asthma medication ratios (AMRs; 0.50 versus 0.56,\n                p\n                -value < 0.001), more asthma-related accident and emergency (A&E) attendances (IRR = 1.27, 1.10\u20131.46,\n                p\n                -value = 0.001), more asthma emergency admissions (IRR = 1.56, 1.39\u20131.76,\n                p\n                -value < 0.001), longer asthma-related hospital stay (IRR = 1.64, 1.39\u20131.94,\n                p\n                -value < 0.001), and were at higher risk of asthma-related death (risk ratio of deaths with any mention of asthma 1.56, 1.18\u20132.07,\n                p\n                -value = 0.002). Study limitations include the deprivation index being area based and the potential for residual confounders and mediators.\n              \n            \n            \n              Conclusions\n              In this study, we observed that the most deprived asthma patients in Wales had different prescribing patterns, more A&E attendances, more emergency hospital admissions, and substantially higher risk of death. Interventions specifically designed to improve treatment and outcomes for these disadvantaged groups are urgently needed.",
+            "publicationTitle": "PLOS Medicine",
+            "volume": "18",
+            "issue": "2",
+            "pages": "e1003497",
+            "date": "2021-2-12",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "PLoS Med",
+            "language": "en",
+            "DOI": "10.1371/journal.pmed.1003497",
+            "ISSN": "1549-1676",
+            "shortTitle": "Association of socioeconomic deprivation with asthma care, outcomes, and deaths in Wales",
+            "url": "https://dx.plos.org/10.1371/journal.pmed.1003497",
+            "accessDate": "2021-07-23T16:46:18Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33577558",
+            "tags": [
+                {
+                    "tag": "CHI"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:44Z",
+            "dateModified": "2021-07-27T11:51:16Z",
+            "pmid": "33577558"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        12
+                    ]
+                ],
+                "date-time": "2021-02-12T22:01:32Z",
+                "timestamp": 1613167292352
+            },
+            "reference-count": 75,
+            "publisher": "Public Library of Science (PLoS)",
+            "issue": "2",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                2,
+                                12
+                            ]
+                        ],
+                        "date-time": "2021-02-12T00:00:00Z",
+                        "timestamp": 1613088000000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/100012068",
+                    "name": "Health and Care Research Wales",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                },
+                {
+                    "DOI": "10.13039/100015368",
+                    "name": "Swansea Bay University Health Board",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "www.plosmedicine.org"
+                ],
+                "crossmark-restriction": false
+            },
+            "abstract": "<jats:sec id=\"sec001\">\n<jats:title>Background</jats:title>\n<jats:p>Socioeconomic deprivation is known to be associated with worse outcomes in asthma, but there is a lack of population-based evidence of its impact across all stages of patient care. We investigated the association of socioeconomic deprivation with asthma-related care and outcomes across primary and secondary care and with asthma-related death in Wales.</jats:p>\n</jats:sec>\n<jats:sec id=\"sec002\">\n<jats:title>Methods and findings</jats:title>\n<jats:p>We constructed a national cohort, identified from 76% (2.4 million) of the Welsh population, of continuously treated asthma patients between 2013 and 2017 using anonymised, person-level, linked, routinely collected primary and secondary care data in the Secure Anonymised Information Linkage (SAIL) Databank. We investigated the association between asthma-related health service utilisation, prescribing, and deaths with the 2011 Welsh Index of Multiple Deprivation (WIMD) and its domains. We studied 106,926 patients (534,630 person-years), 56.3% were female, with mean age of 47.5 years (SD = 20.3). Compared to the least deprived patients, the most deprived patients had slightly fewer total asthma-related primary care consultations per patient (incidence rate ratio [IRR] = 0.98, 95% CI 0.97\u20130.99, <jats:italic>p</jats:italic>-value &lt; 0.001), slightly fewer routine asthma reviews (IRR = 0.98, 0.97\u20130.99, <jats:italic>p</jats:italic>-value &lt; 0.001), lower controller-to-total asthma medication ratios (AMRs; 0.50 versus 0.56, <jats:italic>p</jats:italic>-value &lt; 0.001), more asthma-related accident and emergency (A&amp;E) attendances (IRR = 1.27, 1.10\u20131.46, <jats:italic>p</jats:italic>-value = 0.001), more asthma emergency admissions (IRR = 1.56, 1.39\u20131.76, <jats:italic>p</jats:italic>-value &lt; 0.001), longer asthma-related hospital stay (IRR = 1.64, 1.39\u20131.94, <jats:italic>p</jats:italic>-value &lt; 0.001), and were at higher risk of asthma-related death (risk ratio of deaths with any mention of asthma 1.56, 1.18\u20132.07, <jats:italic>p</jats:italic>-value = 0.002). Study limitations include the deprivation index being area based and the potential for residual confounders and mediators.</jats:p>\n</jats:sec>\n<jats:sec id=\"sec003\">\n<jats:title>Conclusions</jats:title>\n<jats:p>In this study, we observed that the most deprived asthma patients in Wales had different prescribing patterns, more A&amp;E attendances, more emergency hospital admissions, and substantially higher risk of death. Interventions specifically designed to improve treatment and outcomes for these disadvantaged groups are urgently needed.</jats:p>\n</jats:sec>",
+            "DOI": "10.1371/journal.pmed.1003497",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        12
+                    ]
+                ],
+                "date-time": "2021-02-12T21:11:33Z",
+                "timestamp": 1613164293000
+            },
+            "page": "e1003497",
+            "update-policy": "http://dx.doi.org/10.1371/journal.pmed.corrections_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Association of socioeconomic deprivation with asthma care, outcomes, and deaths in Wales: A 5-year national linked primary and secondary care cohort study",
+            "prefix": "10.1371",
+            "volume": "18",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-8333-7279",
+                    "authenticated-orcid": true,
+                    "given": "Mohammad A.",
+                    "family": "Alsallakh",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-4483-0845",
+                    "authenticated-orcid": true,
+                    "given": "Sarah E.",
+                    "family": "Rodgers",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-5225-000X",
+                    "authenticated-orcid": true,
+                    "given": "Ronan A.",
+                    "family": "Lyons",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-7022-3056",
+                    "authenticated-orcid": true,
+                    "given": "Aziz",
+                    "family": "Sheikh",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Gwyneth A.",
+                    "family": "Davies",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "340",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        12
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "1",
+                    "key": "pmed.1003497.ref001",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "113",
+                    "DOI": "10.1186/s12916-016-0657-8",
+                    "article-title": "The epidemiology, healthcare and societal burden and costs of asthma in the UK and its member nations: analyses of standalone and linked national databases",
+                    "volume": "14",
+                    "author": "M Mukherjee",
+                    "year": "2016",
+                    "journal-title": "BMC Med"
+                },
+                {
+                    "key": "pmed.1003497.ref002",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1033",
+                    "DOI": "10.1164/rccm.201202-0350ED",
+                    "article-title": "Health disparities in asthma",
+                    "volume": "185",
+                    "author": "E Forno",
+                    "year": "2012",
+                    "journal-title": "Am J Respir Crit Care Med"
+                },
+                {
+                    "issue": "8",
+                    "key": "pmed.1003497.ref003",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "706",
+                    "DOI": "10.1136/thoraxjnl-2017-210714",
+                    "article-title": "Persistent variations in national asthma mortality, hospital admissions and prevalence by socioeconomic status and region in England",
+                    "volume": "73",
+                    "author": "RP Gupta",
+                    "year": "2018",
+                    "journal-title": "Thorax"
+                },
+                {
+                    "issue": "2",
+                    "key": "pmed.1003497.ref004",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "364",
+                    "DOI": "10.1183/09031936.00114514",
+                    "article-title": "A systematic review of socioeconomic position in relation to asthma and allergic diseases",
+                    "volume": "46",
+                    "author": "E Uphoff",
+                    "year": "2014",
+                    "journal-title": "Eur Respir J"
+                },
+                {
+                    "issue": "1",
+                    "key": "pmed.1003497.ref005",
+                    "doi-asserted-by": "crossref",
+                    "DOI": "10.1186/1465-9921-6-120",
+                    "article-title": "Ethnic variations in incidence of asthma episodes in England & Wales: national study of 502, 482 patients in primary care",
+                    "volume": "6",
+                    "author": "G Netuveli",
+                    "year": "2005",
+                    "journal-title": "Respir Res"
+                },
+                {
+                    "issue": "1",
+                    "key": "pmed.1003497.ref006",
+                    "article-title": "Asthma prescribing, ethnicity and risk of hospital admission: an analysis of 35, 864 linked primary and secondary care records in East London",
+                    "volume": "26",
+                    "author": "SA Hull",
+                    "year": "2016",
+                    "journal-title": "NPJ Prim Care Respir Med"
+                },
+                {
+                    "issue": "2",
+                    "key": "pmed.1003497.ref007",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "154",
+                    "DOI": "10.1097/ACI.0b013e3283292207",
+                    "article-title": "Asthma and ethnic minorities: socioeconomic status and beyond",
+                    "volume": "9",
+                    "author": "E Forno",
+                    "year": "2009",
+                    "journal-title": "Curr Opin Allergy Clin Immunol"
+                },
+                {
+                    "issue": "3",
+                    "key": "pmed.1003497.ref008",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "540",
+                    "DOI": "10.2105/AJPH.2008.150771",
+                    "article-title": "Association between socioeconomic status and the development of asthma: analyses of income trajectories",
+                    "volume": "100",
+                    "author": "AL Kozyrskyj",
+                    "year": "2010",
+                    "journal-title": "Am J Public Health"
+                },
+                {
+                    "issue": "2",
+                    "key": "pmed.1003497.ref009",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "754",
+                    "DOI": "10.1016/j.jaci.2017.04.036",
+                    "article-title": "Income is an independent risk factor for worse asthma outcomes",
+                    "volume": "141",
+                    "author": "JC Cardet",
+                    "year": "2018",
+                    "journal-title": "J Allergy Clin Immunol"
+                },
+                {
+                    "issue": "2",
+                    "key": "pmed.1003497.ref010",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "50",
+                    "DOI": "10.1177/2150129710368850",
+                    "article-title": "The effects of health literacy on asthma self-management",
+                    "volume": "1",
+                    "author": "AL Thai",
+                    "year": "2010",
+                    "journal-title": "J Asthma Allergy Educ"
+                },
+                {
+                    "issue": "8",
+                    "key": "pmed.1003497.ref011",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "813",
+                    "DOI": "10.1111/j.1525-1497.2006.00528.x",
+                    "article-title": "Impact of health literacy on longitudinal asthma outcomes",
+                    "volume": "21",
+                    "author": "CA Mancuso",
+                    "year": "2006",
+                    "journal-title": "J Gen Intern Med"
+                },
+                {
+                    "issue": "2",
+                    "key": "pmed.1003497.ref012",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "321",
+                    "DOI": "10.1016/j.jaci.2013.02.014",
+                    "article-title": "The association of health literacy with adherence and outcomes in moderate-severe asthma",
+                    "volume": "132",
+                    "author": "AJ Apter",
+                    "year": "2013",
+                    "journal-title": "J Allergy Clin Immunol"
+                },
+                {
+                    "issue": "3",
+                    "key": "pmed.1003497.ref013",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1371/journal.pone.0174050",
+                    "article-title": "Effect of outdoor air pollution on asthma exacerbations in children and adults: Systematic review and multilevel meta-analysis",
+                    "volume": "12",
+                    "author": "P Orellano",
+                    "year": "2017",
+                    "journal-title": "PLoS ONE"
+                },
+                {
+                    "issue": "3",
+                    "key": "pmed.1003497.ref014",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "594",
+                    "DOI": "10.1183/09031936.00031112",
+                    "article-title": "Chronic burden of near-roadway traffic pollution in 10 European cities (APHEKOM network)",
+                    "volume": "42",
+                    "author": "L Perez",
+                    "year": "2013",
+                    "journal-title": "Eur Respir J"
+                },
+                {
+                    "issue": "3",
+                    "key": "pmed.1003497.ref015",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "245",
+                    "DOI": "10.1111/all.12561",
+                    "article-title": "The influence of childhood traffic-related air pollution exposure on asthma, allergy and sensitization: a systematic review and a meta-analysis of birth cohort studies",
+                    "volume": "70",
+                    "author": "G Bowatte",
+                    "year": "2014",
+                    "journal-title": "Allergy"
+                },
+                {
+                    "issue": "6",
+                    "key": "pmed.1003497.ref016",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "887",
+                    "DOI": "10.1111/j.1440-1843.2012.02195.x",
+                    "article-title": "Does outdoor air pollution induce new cases of asthma? Biological plausibility and evidence: a review",
+                    "volume": "17",
+                    "author": "AM Gowers",
+                    "year": "2012",
+                    "journal-title": "Respirology"
+                },
+                {
+                    "issue": "3",
+                    "key": "pmed.1003497.ref017",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "218",
+                    "DOI": "10.1136/thx.52.3.218",
+                    "article-title": "Health service accessibility and deaths from asthma in 401 local authority districts in England and Wales, 1988\u201392",
+                    "volume": "52",
+                    "author": "AP Jones",
+                    "year": "1997",
+                    "journal-title": "Thorax"
+                },
+                {
+                    "issue": "10",
+                    "key": "pmed.1003497.ref018",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "603",
+                    "DOI": "10.1016/S0954-6111(97)90006-8",
+                    "article-title": "Social deprivation and asthma",
+                    "volume": "91",
+                    "author": "M Burr",
+                    "year": "1997",
+                    "journal-title": "Respir Med"
+                },
+                {
+                    "issue": "3",
+                    "key": "pmed.1003497.ref019",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "785",
+                    "DOI": "10.1183/09031936.00043311",
+                    "article-title": "Influence of social deprivation and air pollutants on serious asthma",
+                    "volume": "40",
+                    "author": "SE Roberts",
+                    "year": "2012",
+                    "journal-title": "Eur Respir J"
+                },
+                {
+                    "issue": "1",
+                    "key": "pmed.1003497.ref020",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "157",
+                    "DOI": "10.1186/1472-6963-9-157",
+                    "article-title": "The SAIL Databank: building a national architecture for e-health research and evaluation",
+                    "volume": "9",
+                    "author": "DV Ford",
+                    "year": "2009",
+                    "journal-title": "BMC Health Serv Res"
+                },
+                {
+                    "key": "pmed.1003497.ref021",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "3",
+                    "DOI": "10.1186/1472-6947-9-3",
+                    "article-title": "The SAIL databank: linking multiple health and social care datasets",
+                    "volume": "9",
+                    "author": "RA Lyons",
+                    "year": "2009",
+                    "journal-title": "BMC Med Inform Decis Mak"
+                },
+                {
+                    "key": "pmed.1003497.ref022",
+                    "author": "Welsh Assembly Government",
+                    "year": "2011",
+                    "article-title": "The Welsh Index of Multiple Deprivation (WIMD Technical Report)",
+                    "journal-title": "Cardiff"
+                },
+                {
+                    "key": "pmed.1003497.ref023",
+                    "unstructured": "Office for National Statistics. Census geography: An overview of the various geographies used in the production of statistics collected via the UK census. [cited 2020 Feb 19]. Available from: https://www.ons.gov.uk/methodology/geography/ukgeographies/censusgeography."
+                },
+                {
+                    "key": "pmed.1003497.ref024",
+                    "author": "British Thoracic Society and Scottish Intercollegiate Guidelines Network",
+                    "year": "2019",
+                    "article-title": "British guideline on the management of asthma: A national clinical guideline"
+                },
+                {
+                    "key": "pmed.1003497.ref025",
+                    "author": "M Pearson",
+                    "year": "1999"
+                },
+                {
+                    "key": "pmed.1003497.ref026",
+                    "unstructured": "NHS Wales Data Dictionary. Admission Method. Data Standards Team, NHS Wales Informatics Service. [cited 21 Mar 2020]. Available from: http://www.datadictionary.wales.nhs.uk/index.html#!WordDocuments/admissionmethod.htm."
+                },
+                {
+                    "issue": "1",
+                    "key": "pmed.1003497.ref027",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "43",
+                    "DOI": "10.1378/chest.130.1.43",
+                    "article-title": "The controller-to-total asthma medication ratio is associated with patient-centered as well as utilization outcomes",
+                    "volume": "130",
+                    "author": "M Schatz",
+                    "year": "2006",
+                    "journal-title": "Chest"
+                },
+                {
+                    "key": "pmed.1003497.ref028",
+                    "author": "WN Venables",
+                    "year": "2002",
+                    "edition": "4",
+                    "volume-title": "Modern applied statistics with S",
+                    "DOI": "10.1007/978-0-387-21706-2",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "3",
+                    "key": "pmed.1003497.ref029",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "296",
+                    "DOI": "10.1080/00031305.2016.1173590",
+                    "article-title": "Visualizing count data regressions using rootograms",
+                    "volume": "70",
+                    "author": "C Kleiber",
+                    "year": "2016",
+                    "journal-title": "Am Stat"
+                },
+                {
+                    "key": "pmed.1003497.ref030",
+                    "author": "S Wood",
+                    "year": "2020",
+                    "article-title": "mgcv: Mixed GAM computation vehicle with automatic smoothness estimation"
+                },
+                {
+                    "key": "pmed.1003497.ref031",
+                    "author": "GL Simpson",
+                    "year": "2020",
+                    "article-title": "gratia: Graceful \u2018ggplot\u2019-based graphics and other functions for GAMs fitted using \u2018mgcv\u2019",
+                    "journal-title": "R package version 041"
+                },
+                {
+                    "issue": "4",
+                    "key": "pmed.1003497.ref032",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "344",
+                    "DOI": "10.1016/j.jclinepi.2007.11.008",
+                    "article-title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies",
+                    "volume": "61",
+                    "author": "E von Elm",
+                    "year": "2008",
+                    "journal-title": "J Clin Epidemiol"
+                },
+                {
+                    "issue": "10",
+                    "key": "pmed.1003497.ref033",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e1001885",
+                    "DOI": "10.1371/journal.pmed.1001885",
+                    "article-title": "The REporting of studies Conducted using Observational Routinely-collected health Data (RECORD) Statement",
+                    "volume": "12",
+                    "author": "EI Benchimol",
+                    "year": "2015",
+                    "journal-title": "PLoS Med"
+                },
+                {
+                    "key": "pmed.1003497.ref034",
+                    "author": "MA Al Sallakh",
+                    "year": "2020",
+                    "article-title": "Computer code for \u201cAssociation of socioeconomic deprivation with asthma care, outcomes, and deaths in Wales: a five-year national linked primary and secondary care cohort study"
+                },
+                {
+                    "key": "pmed.1003497.ref035",
+                    "unstructured": "Al Sallakh MA. Creating and utilising the Wales Asthma Observatory to support health policy, health service planning and clinical research. PhD thesis. Swansea University, 2018."
+                },
+                {
+                    "key": "pmed.1003497.ref036",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S19",
+                    "DOI": "10.1016/S0140-6736(17)32954-9",
+                    "article-title": "Socioeconomic deprivation and inequalities in asthma care in Wales",
+                    "volume": "390",
+                    "author": "MA Al Sallakh",
+                    "year": "2017",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "4",
+                    "key": "pmed.1003497.ref037",
+                    "first-page": "411",
+                    "article-title": "Acute asthma during pregnancy",
+                    "volume": "51",
+                    "author": "BS Stenius-Aarniala",
+                    "year": "1996"
+                },
+                {
+                    "key": "pmed.1003497.ref038",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1046",
+                    "DOI": "10.1097/01.AOG.0000185281.21716.02",
+                    "article-title": "Severe asthma exacerbations during pregnancy",
+                    "volume": "106",
+                    "author": "VE Murphy",
+                    "year": "2005",
+                    "journal-title": "Obstet Gynecol"
+                },
+                {
+                    "issue": "5",
+                    "key": "pmed.1003497.ref039",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1082",
+                    "DOI": "10.1183/09031936.00195111",
+                    "article-title": "Effects of asthma severity, exacerbations and oral corticosteroids on perinatal outcomes",
+                    "volume": "41",
+                    "author": "JA Namazy",
+                    "year": "2013",
+                    "journal-title": "Eur Respir J"
+                },
+                {
+                    "issue": "1",
+                    "key": "pmed.1003497.ref040",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "23",
+                    "DOI": "10.1016/j.amepre.2015.12.012",
+                    "article-title": "Asthma-related school absenteeism, morbidity, and modifiable factors",
+                    "volume": "51",
+                    "author": "J Hsu",
+                    "year": "2016",
+                    "journal-title": "Am J Prev Med"
+                },
+                {
+                    "issue": "4",
+                    "key": "pmed.1003497.ref041",
+                    "first-page": "377",
+                    "article-title": "Consequences of asthma on job absenteeism and job retention.",
+                    "volume": "40",
+                    "author": "CL Hansen",
+                    "year": "2012",
+                    "journal-title": "Scand J Soc Med"
+                },
+                {
+                    "key": "pmed.1003497.ref042",
+                    "author": "MA Al Sallakh",
+                    "volume": "49",
+                    "year": "2017",
+                    "article-title": "Defining asthma and assessing asthma outcomes using electronic health record data: a systematic scoping review",
+                    "journal-title": "Eur Respir J",
+                    "DOI": "10.1183/13993003.00204-2017",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "10",
+                    "key": "pmed.1003497.ref043",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1109",
+                    "DOI": "10.1111/acem.12476",
+                    "article-title": "Is low health literacy associated with increased emergency department utilization and recidivism?",
+                    "volume": "21",
+                    "author": "RT Griffey",
+                    "year": "2014",
+                    "journal-title": "Acad Emerg Med"
+                },
+                {
+                    "key": "pmed.1003497.ref044",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "217",
+                    "DOI": "10.1016/S0965-2302(99)80054-X",
+                    "article-title": "Reasons why patients bypass their GP to visit a hospital emergency department",
+                    "volume": "7",
+                    "author": "C Rieffe",
+                    "year": "1999",
+                    "journal-title": "Accid Emerg Nurs"
+                },
+                {
+                    "key": "pmed.1003497.ref045",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "g7648",
+                    "DOI": "10.1136/bmj.g7648",
+                    "article-title": "GP funding formula masks major inequalities for practices in deprived areas",
+                    "volume": "349",
+                    "author": "K Boomla",
+                    "year": "2014",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "pmed.1003497.ref046",
+                    "author": "B Baird",
+                    "year": "2016",
+                    "article-title": "Understanding pressures in general practice",
+                    "journal-title": "The King\u2019s Fund"
+                },
+                {
+                    "issue": "1",
+                    "key": "pmed.1003497.ref047",
+                    "doi-asserted-by": "crossref",
+                    "DOI": "10.1186/1465-9921-10-125",
+                    "article-title": "Individual-level socioeconomic status is associated with worse asthma morbidity in patients with asthma",
+                    "volume": "10",
+                    "author": "SL Bacon",
+                    "year": "2009",
+                    "journal-title": "Respir Res"
+                },
+                {
+                    "issue": "5",
+                    "key": "pmed.1003497.ref048",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "872",
+                    "DOI": "10.1111/jgs.12797",
+                    "article-title": "Self-management behaviors in older adults with asthma: associations with health literacy",
+                    "volume": "62",
+                    "author": "AD Federman",
+                    "year": "2014",
+                    "journal-title": "J Am Geriatr Soc"
+                },
+                {
+                    "issue": "8",
+                    "key": "pmed.1003497.ref049",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e003320",
+                    "DOI": "10.1136/bmjopen-2013-003320",
+                    "article-title": "Do men consult less than women? An analysis of routinely collected UK general practice data",
+                    "volume": "3",
+                    "author": "Y Wang",
+                    "year": "2013",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "issue": "3",
+                    "key": "pmed.1003497.ref050",
+                    "first-page": "287",
+                    "article-title": "Effect of gender on hospital admissions for asthma and prevalence of self-reported asthma: a prospective study based on a sample of the general population",
+                    "volume": "52",
+                    "author": "E Prescott",
+                    "year": "1997",
+                    "journal-title": "Copenhagen City Heart Study Group. Thorax"
+                },
+                {
+                    "issue": "11",
+                    "key": "pmed.1003497.ref051",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1237",
+                    "DOI": "10.1001/archinte.159.11.1237",
+                    "article-title": "Sex differences among adults presenting to the emergency department with acute asthma",
+                    "volume": "159",
+                    "author": "AK Singh",
+                    "year": "1999",
+                    "journal-title": "Arch Intern Med"
+                },
+                {
+                    "issue": "6",
+                    "key": "pmed.1003497.ref052",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "553",
+                    "DOI": "10.1016/S1081-1206(10)61533-5",
+                    "article-title": "The relationship of sex to asthma prevalence, health care utilization, and medications in a large managed care organization",
+                    "volume": "91",
+                    "author": "M Schatz",
+                    "year": "2003",
+                    "journal-title": "Ann Allergy Asthma Immunol"
+                },
+                {
+                    "issue": "6",
+                    "key": "pmed.1003497.ref053",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1145",
+                    "DOI": "10.1183/09031936.06.00145105",
+                    "article-title": "TENOR risk score predicts healthcare in adults with severe or difficult-to-treat asthma",
+                    "volume": "28",
+                    "author": "MK Miller",
+                    "year": "2006",
+                    "journal-title": "Eur Respir J"
+                },
+                {
+                    "issue": "1",
+                    "key": "pmed.1003497.ref054",
+                    "first-page": "50",
+                    "article-title": "Sex differences in the presentation and course of asthma hospitalizations",
+                    "volume": "129",
+                    "author": "M Schatz",
+                    "year": "2006"
+                },
+                {
+                    "issue": "6",
+                    "key": "pmed.1003497.ref055",
+                    "article-title": "Asthma is different in women",
+                    "volume": "15",
+                    "author": "JG Zein",
+                    "year": "2015",
+                    "journal-title": "Curr Allergy Asthma Rep"
+                },
+                {
+                    "issue": "7",
+                    "key": "pmed.1003497.ref056",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "625",
+                    "DOI": "10.1136/thoraxjnl-2011-201249",
+                    "article-title": "Gender differences in prevalence, diagnosis and incidence of allergic and non-allergic asthma: a population-based cohort",
+                    "volume": "67",
+                    "author": "B Leynaert",
+                    "year": "2012",
+                    "journal-title": "Thorax"
+                },
+                {
+                    "issue": "1",
+                    "key": "pmed.1003497.ref057",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "107",
+                    "DOI": "10.1016/j.iac.2004.09.005",
+                    "article-title": "Patient-identified barriers to asthma treatment adherence: responses to interviews, focus groups, and questionnaires",
+                    "volume": "25",
+                    "author": "BG Bender",
+                    "year": "2005",
+                    "journal-title": "Immunol Allergy Clin N Am"
+                },
+                {
+                    "issue": "15",
+                    "key": "pmed.1003497.ref058",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1072",
+                    "DOI": "10.1056/NEJM199110103251505",
+                    "article-title": "Effects of Medicaid drug-payment limits on admission to hospitals and nursing homes",
+                    "volume": "325",
+                    "author": "SB Soumerai",
+                    "year": "1991",
+                    "journal-title": "N Engl J Med"
+                },
+                {
+                    "issue": "8",
+                    "key": "pmed.1003497.ref059",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1210",
+                    "DOI": "10.1513/AnnalsATS.201404-138OC",
+                    "article-title": "Asthma deaths in a large provincial health system. A 10-year population-based study",
+                    "volume": "11",
+                    "author": "T To",
+                    "year": "2014",
+                    "journal-title": "Ann Am Thorac Soc"
+                },
+                {
+                    "issue": "10120",
+                    "key": "pmed.1003497.ref060",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "572",
+                    "DOI": "10.1016/S0140-6736(17)32520-5",
+                    "article-title": "Temporal trends and patterns in heart failure incidence: a population-based study of 4 million individuals",
+                    "volume": "391",
+                    "author": "N Conrad",
+                    "year": "2018",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "pmed.1003497.ref061",
+                    "author": "FE Harrell",
+                    "journal-title": "Regression Modeling Strategies. 2020"
+                },
+                {
+                    "issue": "10",
+                    "key": "pmed.1003497.ref062",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2087",
+                    "DOI": "10.1183/09031936.96.09102087",
+                    "article-title": "The relationship between asthma admission rates, routes of admission, and socioeconomic deprivation",
+                    "volume": "9",
+                    "author": "JP Watson",
+                    "year": "1996",
+                    "journal-title": "Eur Respir J"
+                },
+                {
+                    "issue": "5",
+                    "key": "pmed.1003497.ref063",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "892",
+                    "DOI": "10.1183/09031936.02.00238402",
+                    "article-title": "Socioeconomic deprivation and asthma prevalence and severity in young adolescents",
+                    "volume": "19",
+                    "author": "M Poyser",
+                    "year": "2002",
+                    "journal-title": "Eur Respir J"
+                },
+                {
+                    "issue": "2",
+                    "key": "pmed.1003497.ref064",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "388",
+                    "DOI": "10.1093/ije/25.2.388",
+                    "article-title": "Severity of childhood asthma by socioeconomic status",
+                    "volume": "25",
+                    "author": "A Mielck",
+                    "year": "1996",
+                    "journal-title": "Int J Epidemiol"
+                },
+                {
+                    "issue": "6",
+                    "key": "pmed.1003497.ref065",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "940",
+                    "DOI": "10.1111/resp.12556",
+                    "article-title": "Comparison of in-hospital mortality in patients with COPD, asthma and asthma-COPD overlap exacerbations",
+                    "volume": "20",
+                    "author": "Y Yamauchi",
+                    "year": "2015",
+                    "journal-title": "Respirology"
+                },
+                {
+                    "issue": "5",
+                    "key": "pmed.1003497.ref066",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1602008",
+                    "DOI": "10.1183/13993003.02008-2016",
+                    "article-title": "Defining asthma\u2013COPD overlap syndrome: a population-based study",
+                    "volume": "49",
+                    "author": "TN Bonten",
+                    "year": "2017",
+                    "journal-title": "Eur Respir J"
+                },
+                {
+                    "issue": "1",
+                    "key": "pmed.1003497.ref067",
+                    "doi-asserted-by": "crossref",
+                    "DOI": "10.1186/s12890-017-0571-7",
+                    "article-title": "Burden of asthma and COPD overlap (ACO) in Taiwan: a nationwide population-based study",
+                    "volume": "18",
+                    "author": "S Shantakumar",
+                    "year": "2018",
+                    "journal-title": "BMC Pulm Med"
+                },
+                {
+                    "key": "pmed.1003497.ref068",
+                    "author": "R Dolman",
+                    "year": "2007",
+                    "article-title": "Smoking in Wales: current facts",
+                    "journal-title": "Wales Centre for Health"
+                },
+                {
+                    "key": "pmed.1003497.ref069",
+                    "author": "Statistics for Wales",
+                    "year": "2017",
+                    "volume-title": "National Survey for Wales 2016\u201317: Population Health\u2013Lifestyle."
+                },
+                {
+                    "issue": "5",
+                    "key": "pmed.1003497.ref070",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "396",
+                    "DOI": "10.1016/j.anai.2015.08.005",
+                    "article-title": "Effects of secondhand smoke exposure on asthma morbidity and health care utilization in children: a systematic review and meta-analysis",
+                    "volume": "115",
+                    "author": "Z Wang",
+                    "year": "2015",
+                    "journal-title": "Ann Allergy Asthma Immunol"
+                },
+                {
+                    "issue": "5",
+                    "key": "pmed.1003497.ref071",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e0177151",
+                    "DOI": "10.1371/journal.pone.0177151",
+                    "article-title": "Socio-economic status over the life course and obesity: Systematic review and meta-analysis",
+                    "volume": "12",
+                    "author": "S Newton",
+                    "year": "2017",
+                    "journal-title": "PLoS ONE"
+                },
+                {
+                    "issue": "2",
+                    "key": "pmed.1003497.ref072",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "98",
+                    "DOI": "10.1093/aje/kwf182",
+                    "article-title": "Socioeconomic inequalities in depression: a meta-analysis",
+                    "volume": "157",
+                    "author": "V Lorant",
+                    "year": "2003",
+                    "journal-title": "Am J Epidemiol"
+                },
+                {
+                    "issue": "1",
+                    "key": "pmed.1003497.ref073",
+                    "doi-asserted-by": "crossref",
+                    "DOI": "10.1038/s41533-018-0080-z",
+                    "article-title": "The use of electronic alerts in primary care computer systems to identify the excessive prescription of short-acting beta2-agonists for people with asthma: a systematic review",
+                    "volume": "28",
+                    "author": "S McKibben",
+                    "year": "2018",
+                    "journal-title": "NPJ Prim Care Respir Med"
+                },
+                {
+                    "issue": "2",
+                    "key": "pmed.1003497.ref074",
+                    "doi-asserted-by": "crossref",
+                    "DOI": "10.1007/s11882-020-0899-6",
+                    "article-title": "Structural and social determinants of health in asthma in developed economies: a scoping review of literature published between 2014 and 2019",
+                    "volume": "20",
+                    "author": "K Sullivan",
+                    "year": "2020",
+                    "journal-title": "Curr Allergy Asthma Rep"
+                },
+                {
+                    "key": "pmed.1003497.ref075",
+                    "year": "2020",
+                    "volume-title": "Health equity in England: the Marmot review 10 years on"
+                }
+            ],
+            "container-title": "PLOS Medicine",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://dx.plos.org/10.1371/journal.pmed.1003497",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        12
+                    ]
+                ],
+                "date-time": "2021-02-12T21:12:28Z",
+                "timestamp": 1613164348000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "given": "David",
+                    "family": "Peiris",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        12
+                    ]
+                ]
+            },
+            "references-count": 75,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2021,
+                            2,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "URL": "http://dx.doi.org/10.1371/journal.pmed.1003497",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1549-1676"
+            ],
+            "subject": [
+                "General Medicine"
+            ],
+            "container-title-short": "PLoS Med"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "33577558",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "17"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "02",
+                            "Day": "12"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1371/journal.pmed.1003497"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1549-1676",
+                        "JournalIssue": {
+                            "Volume": "18",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "Feb"
+                            }
+                        },
+                        "Title": "PLoS medicine",
+                        "ISOAbbreviation": "PLoS Med"
+                    },
+                    "ArticleTitle": "Association of socioeconomic deprivation with asthma care, outcomes, and deaths in Wales: A 5-year national linked primary and secondary care cohort study.",
+                    "Pagination": {
+                        "MedlinePgn": "e1003497"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Socioeconomic deprivation is known to be associated with worse outcomes in asthma, but there is a lack of population-based evidence of its impact across all stages of patient care. We investigated the association of socioeconomic deprivation with asthma-related care and outcomes across primary and secondary care and with asthma-related death in Wales.",
+                            "We constructed a national cohort, identified from 76% (2.4 million) of the Welsh population, of continuously treated asthma patients between 2013 and 2017 using anonymised, person-level, linked, routinely collected primary and secondary care data in the Secure Anonymised Information Linkage (SAIL) Databank. We investigated the association between asthma-related health service utilisation, prescribing, and deaths with the 2011 Welsh Index of Multiple Deprivation (WIMD) and its domains. We studied 106,926 patients (534,630 person-years), 56.3% were female, with mean age of 47.5 years (SD = 20.3). Compared to the least deprived patients, the most deprived patients had slightly fewer total asthma-related primary care consultations per patient (incidence rate ratio [IRR] = 0.98, 95% CI 0.97-0.99, p-value < 0.001), slightly fewer routine asthma reviews (IRR = 0.98, 0.97-0.99, p-value < 0.001), lower controller-to-total asthma medication ratios (AMRs; 0.50 versus 0.56, p-value < 0.001), more asthma-related accident and emergency (A&E) attendances (IRR = 1.27, 1.10-1.46, p-value = 0.001), more asthma emergency admissions (IRR = 1.56, 1.39-1.76, p-value < 0.001), longer asthma-related hospital stay (IRR = 1.64, 1.39-1.94, p-value < 0.001), and were at higher risk of asthma-related death (risk ratio of deaths with any mention of asthma 1.56, 1.18-2.07, p-value = 0.002). Study limitations include the deprivation index being area based and the potential for residual confounders and mediators.",
+                            "In this study, we observed that the most deprived asthma patients in Wales had different prescribing patterns, more A&E attendances, more emergency hospital admissions, and substantially higher risk of death. Interventions specifically designed to improve treatment and outcomes for these disadvantaged groups are urgently needed."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea University Medical School, Swansea, United Kingdom."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Health Data Research UK, Swansea and Edinburgh, United Kingdom."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Asthma UK Centre for Applied Research, Edinburgh, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0002-8333-7279"
+                            ],
+                            "LastName": "Alsallakh",
+                            "ForeName": "Mohammad A",
+                            "Initials": "MA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0002-4483-0845"
+                            ],
+                            "LastName": "Rodgers",
+                            "ForeName": "Sarah E",
+                            "Initials": "SE"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea University Medical School, Swansea, United Kingdom."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Health Data Research UK, Swansea and Edinburgh, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0001-5225-000X"
+                            ],
+                            "LastName": "Lyons",
+                            "ForeName": "Ronan A",
+                            "Initials": "RA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Health Data Research UK, Swansea and Edinburgh, United Kingdom."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Asthma UK Centre for Applied Research, Edinburgh, United Kingdom."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Usher Institute, The University of Edinburgh, Edinburgh, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0001-7022-3056"
+                            ],
+                            "LastName": "Sheikh",
+                            "ForeName": "Aziz",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea University Medical School, Swansea, United Kingdom."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Asthma UK Centre for Applied Research, Edinburgh, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Davies",
+                            "ForeName": "Gwyneth A",
+                            "Initials": "GA"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "MC_PC_19004",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "PLoS Med",
+                    "NlmUniqueID": "101231360",
+                    "ISSNLinking": "1549-1277"
+                },
+                "CoiStatement": "I have read the journal's policy and the authors of this manuscript have the following competing interests: RAL is supported by Health Data Research UK (HDR-9006), which is funded by the UK Medical Research Council, Engineering and Physical Sciences Research Council, Economic and Social Research Council, National Institute for Health Research (England), Chief Scientist Office of the Scottish Government Health and Social Care Directorates, Health and Social Care Research and Development Division (Welsh Government), Public Health Agency (Northern Ireland), British Heart Foundation and Wellcome. AS is an Academic Editor on PLOS Medicine's editorial board and declares support from the Asthma UK Centre for Applied Research."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Scand J Public Health. 2012 Jun;40(4):377-84",
+                                "ArticleIdList": [
+                                    "22786923"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2013 Aug 19;3(8):e003320",
+                                "ArticleIdList": [
+                                    "23959757"
+                                ]
+                            },
+                            {
+                                "Citation": "Respir Res. 2009 Dec 17;10:125",
+                                "ArticleIdList": [
+                                    "20017907"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2009 Sep 04;9:157",
+                                "ArticleIdList": [
+                                    "19732426"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Am Thorac Soc. 2014 Oct;11(8):1210-7",
+                                "ArticleIdList": [
+                                    "25166217"
+                                ]
+                            },
+                            {
+                                "Citation": "Curr Opin Allergy Clin Immunol. 2009 Apr;9(2):154-60",
+                                "ArticleIdList": [
+                                    "19326508"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Respir J. 2013 Sep;42(3):594-605",
+                                "ArticleIdList": [
+                                    "23520318"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Prev Med. 2016 Jul;51(1):23-32",
+                                "ArticleIdList": [
+                                    "26873793"
+                                ]
+                            },
+                            {
+                                "Citation": "Acad Emerg Med. 2014 Oct;21(10):1109-15",
+                                "ArticleIdList": [
+                                    "25308133"
+                                ]
+                            },
+                            {
+                                "Citation": "Thorax. 1997 Mar;52(3):287-9",
+                                "ArticleIdList": [
+                                    "9093349"
+                                ]
+                            },
+                            {
+                                "Citation": "Chest. 2006 Jul;130(1):43-50",
+                                "ArticleIdList": [
+                                    "16840381"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Pulm Med. 2018 Jan 25;18(1):16",
+                                "ArticleIdList": [
+                                    "29368608"
+                                ]
+                            },
+                            {
+                                "Citation": "Curr Allergy Asthma Rep. 2015 Jun;15(6):28",
+                                "ArticleIdList": [
+                                    "26141573"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Respir J. 2012 Sep;40(3):785-8",
+                                "ArticleIdList": [
+                                    "22941547"
+                                ]
+                            },
+                            {
+                                "Citation": "Respirology. 2015 Aug;20(6):940-6",
+                                "ArticleIdList": [
+                                    "25998444"
+                                ]
+                            },
+                            {
+                                "Citation": "Chest. 2006 Jan;129(1):50-5",
+                                "ArticleIdList": [
+                                    "16424412"
+                                ]
+                            },
+                            {
+                                "Citation": "Thorax. 2012 Jul;67(7):625-31",
+                                "ArticleIdList": [
+                                    "22334535"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Epidemiol. 2003 Jan 15;157(2):98-112",
+                                "ArticleIdList": [
+                                    "12522017"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Respir J. 2002 May;19(5):892-8",
+                                "ArticleIdList": [
+                                    "12030730"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Public Health. 2010 Mar;100(3):540-6",
+                                "ArticleIdList": [
+                                    "19696386"
+                                ]
+                            },
+                            {
+                                "Citation": "Immunol Allergy Clin North Am. 2005 Feb;25(1):107-30",
+                                "ArticleIdList": [
+                                    "15579367"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Respir J. 2017 Jun 15;49(6):",
+                                "ArticleIdList": [
+                                    "28619959"
+                                ]
+                            },
+                            {
+                                "Citation": "NPJ Prim Care Respir Med. 2016 Aug 18;26:16049",
+                                "ArticleIdList": [
+                                    "27537194"
+                                ]
+                            },
+                            {
+                                "Citation": "Respir Med. 1997 Nov;91(10):603-8",
+                                "ArticleIdList": [
+                                    "9488893"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Respir J. 2006 Dec;28(6):1145-55",
+                                "ArticleIdList": [
+                                    "16870656"
+                                ]
+                            },
+                            {
+                                "Citation": "NPJ Prim Care Respir Med. 2018 Apr 16;28(1):14",
+                                "ArticleIdList": [
+                                    "29662064"
+                                ]
+                            },
+                            {
+                                "Citation": "Thorax. 1996 Apr;51(4):411-4",
+                                "ArticleIdList": [
+                                    "8733495"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Respir J. 2013 May;41(5):1082-90",
+                                "ArticleIdList": [
+                                    "22903964"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Inform Decis Mak. 2009 Jan 16;9:3",
+                                "ArticleIdList": [
+                                    "19149883"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 1991 Oct 10;325(15):1072-7",
+                                "ArticleIdList": [
+                                    "1891009"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2017 Mar 20;12(3):e0174050",
+                                "ArticleIdList": [
+                                    "28319180"
+                                ]
+                            },
+                            {
+                                "Citation": "Respirology. 2012 Aug;17(6):887-98",
+                                "ArticleIdList": [
+                                    "22672711"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS Med. 2015 Oct 06;12(10):e1001885",
+                                "ArticleIdList": [
+                                    "26440803"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Allergy Asthma Immunol. 2003 Dec;91(6):553-8",
+                                "ArticleIdList": [
+                                    "14700439"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Respir Crit Care Med. 2012 May 15;185(10):1033-5",
+                                "ArticleIdList": [
+                                    "22589306"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Respir J. 2017 May 1;49(5):",
+                                "ArticleIdList": [
+                                    "28461292"
+                                ]
+                            },
+                            {
+                                "Citation": "Obstet Gynecol. 2005 Nov;106(5 Pt 1):1046-54",
+                                "ArticleIdList": [
+                                    "16260524"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Intern Med. 1999 Jun 14;159(11):1237-43",
+                                "ArticleIdList": [
+                                    "10371232"
+                                ]
+                            },
+                            {
+                                "Citation": "Thorax. 2018 Aug;73(8):706-712",
+                                "ArticleIdList": [
+                                    "30006496"
+                                ]
+                            },
+                            {
+                                "Citation": "J Allergy Clin Immunol. 2018 Feb;141(2):754-760.e3",
+                                "ArticleIdList": [
+                                    "28535964"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2014 Dec 16;349:g7648",
+                                "ArticleIdList": [
+                                    "25515783"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2008 Apr;61(4):344-9",
+                                "ArticleIdList": [
+                                    "18313558"
+                                ]
+                            },
+                            {
+                                "Citation": "J Gen Intern Med. 2006 Aug;21(8):813-7",
+                                "ArticleIdList": [
+                                    "16881939"
+                                ]
+                            },
+                            {
+                                "Citation": "Thorax. 1997 Mar;52(3):218-22",
+                                "ArticleIdList": [
+                                    "9093335"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2017 May 16;12(5):e0177151",
+                                "ArticleIdList": [
+                                    "28510579"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Epidemiol. 1996 Apr;25(2):388-93",
+                                "ArticleIdList": [
+                                    "9119565"
+                                ]
+                            },
+                            {
+                                "Citation": "J Allergy Clin Immunol. 2013 Aug;132(2):321-7",
+                                "ArticleIdList": [
+                                    "23591273"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med. 2016 Aug 29;14(1):113",
+                                "ArticleIdList": [
+                                    "27568881"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Allergy Asthma Immunol. 2015 Nov;115(5):396-401.e2",
+                                "ArticleIdList": [
+                                    "26411971"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS Med. 2021 Feb 12;18(2):e1003497",
+                                "ArticleIdList": [
+                                    "33577558"
+                                ]
+                            },
+                            {
+                                "Citation": "Respir Res. 2005 Oct 21;6:120",
+                                "ArticleIdList": [
+                                    "16242029"
+                                ]
+                            },
+                            {
+                                "Citation": "Allergy. 2015 Mar;70(3):245-56",
+                                "ArticleIdList": [
+                                    "25495759"
+                                ]
+                            },
+                            {
+                                "Citation": "Accid Emerg Nurs. 1999 Oct;7(4):217-25",
+                                "ArticleIdList": [
+                                    "10808762"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2018 Feb 10;391(10120):572-580",
+                                "ArticleIdList": [
+                                    "29174292"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Respir J. 2015 Aug;46(2):364-74",
+                                "ArticleIdList": [
+                                    "25537562"
+                                ]
+                            },
+                            {
+                                "Citation": "Curr Allergy Asthma Rep. 2020 Feb 6;20(2):5",
+                                "ArticleIdList": [
+                                    "32030507"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Respir J. 1996 Oct;9(10):2087-93",
+                                "ArticleIdList": [
+                                    "8902471"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Geriatr Soc. 2014 May;62(5):872-9",
+                                "ArticleIdList": [
+                                    "24779482"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "04",
+                        "Day": "29"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "01",
+                        "Day": "15"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "2",
+                        "Day": "12",
+                        "Hour": "17",
+                        "Minute": "13"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "2",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "2",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "33577558",
+                    "10.1371/journal.pmed.1003497",
+                    "PMEDICINE-D-20-01743",
+                    "PMC7880491"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33577558)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833577558%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833577558%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101425610"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101425610?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85101425610&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85101425610&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85101425610",
+                        "dc:identifier": "SCOPUS_ID:85101425610",
+                        "eid": "2-s2.0-85101425610",
+                        "dc:title": "Association of socioeconomic deprivation with asthma care, outcomes, and deaths in Wales: A 5-year national linked primary and secondary care cohort study",
+                        "dc:creator": "Alsallakh M.A.",
+                        "prism:publicationName": "PLoS Medicine",
+                        "prism:issn": "15491277",
+                        "prism:eIssn": "15491676",
+                        "prism:volume": "18",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-02-01",
+                        "prism:coverDisplayDate": "February 2021",
+                        "prism:doi": "10.1371/JOURNAL.PMED.1003497",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Swansea University Medical School",
+                                "affiliation-city": "Swansea",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "Asthma UK",
+                                "affiliation-city": "London",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "Health Data Research UK Scotland",
+                                "affiliation-city": "Edinburgh",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33577558",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e1003497",
+                        "source-id": "144840",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "PA5NRPU5.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33577558"
+            }
+        },
+        "title": "Association of socioeconomic deprivation with asthma care, outcomes, and deaths in Wales: A 5-year national linked primary and secondary care cohort study.",
+        "full_author_list": [
+            {
+                "clean": "Alsallakh M",
+                "family": "Alsallakh",
+                "given": "Mohammad A",
+                "affiliation": {
+                    "name": "Swansea University Medical School, Swansea, United Kingdom."
+                }
+            },
+            {
+                "clean": "Rodgers S",
+                "family": "Rodgers",
+                "given": "Sarah E",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, United Kingdom."
+                }
+            },
+            {
+                "clean": "Lyons R",
+                "family": "Lyons",
+                "given": "Ronan A",
+                "affiliation": {
+                    "name": "Swansea University Medical School, Swansea, United Kingdom."
+                }
+            },
+            {
+                "clean": "Sheikh A",
+                "family": "Sheikh",
+                "given": "Aziz",
+                "affiliation": {
+                    "name": "Health Data Research UK, Swansea and Edinburgh, United Kingdom."
+                }
+            },
+            {
+                "clean": "Davies G",
+                "family": "Davies",
+                "given": "Gwyneth A",
+                "affiliation": {
+                    "name": "Swansea University Medical School, Swansea, United Kingdom."
+                }
+            }
+        ],
+        "first_author": "Alsallakh M",
+        "zotero_tags": [
+            {
+                "tag": "CHI"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "PLoS Med",
+            "volume": "18",
+            "issue": "2"
+        },
+        "abstract": "['Socioeconomic deprivation is known to be associated with worse outcomes in asthma, but there is a lack of population-based evidence of its impact across all stages of patient care. We investigated the association of socioeconomic deprivation with asthma-related care and outcomes across primary and secondary care and with asthma-related death in Wales.', 'We constructed a national cohort, identified from 76% (2.4 million) of the Welsh population, of continuously treated asthma patients between 2013 and 2017 using anonymised, person-level, linked, routinely collected primary and secondary care data in the Secure Anonymised Information Linkage (SAIL) Databank. We investigated the association between asthma-related health service utilisation, prescribing, and deaths with the 2011 Welsh Index of Multiple Deprivation (WIMD) and its domains. We studied 106,926 patients (534,630 person-years), 56.3% were female, with mean age of 47.5 years (SD = 20.3). Compared to the least deprived patients, the most deprived patients had slightly fewer total asthma-related primary care consultations per patient (incidence rate ratio [IRR] = 0.98, 95% CI 0.97-0.99, p-value < 0.001), slightly fewer routine asthma reviews (IRR = 0.98, 0.97-0.99, p-value < 0.001), lower controller-to-total asthma medication ratios (AMRs; 0.50 versus 0.56, p-value < 0.001), more asthma-related accident and emergency (A&E) attendances (IRR = 1.27, 1.10-1.46, p-value = 0.001), more asthma emergency admissions (IRR = 1.56, 1.39-1.76, p-value < 0.001), longer asthma-related hospital stay (IRR = 1.64, 1.39-1.94, p-value < 0.001), and were at higher risk of asthma-related death (risk ratio of deaths with any mention of asthma 1.56, 1.18-2.07, p-value = 0.002). Study limitations include the deprivation index being area based and the potential for residual confounders and mediators.', 'In this study, we observed that the most deprived asthma patients in Wales had different prescribing patterns, more A&E attendances, more emergency hospital admissions, and substantially higher risk of death. Interventions specifically designed to improve treatment and outcomes for these disadvantaged groups are urgently needed.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Swansea University Medical School, Swansea, United Kingdom.",
+            "clean_institute": "Swansea University",
+            "country": "United Kingdom",
+            "latitude": "51.609722222222",
+            "longitude": "-3.9805555555556"
+        }
+    }
+}

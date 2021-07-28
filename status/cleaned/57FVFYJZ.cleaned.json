@@ -1,0 +1,1868 @@
+{
+    "IDs": {
+        "zotero": "57FVFYJZ",
+        "DOI": "10.1186/s12939-021-01418-1",
+        "DOI_filename": "83e3fa29d3d7da078ade6536cd96e21c",
+        "PMID": "33706774",
+        "scopus": "2-s2.0-85102415601",
+        "hash": "8784312d4819b4f409c0c2b703402b4f"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "57FVFYJZ",
+            "version": 975,
+            "itemType": "journalArticle",
+            "title": "\u201cA piece of paper is not the same as having someone to talk to\u201d: accessing post-diagnostic dementia care before and since COVID-19 and associated inequalities",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kerry",
+                    "lastName": "Hanna"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hilary",
+                    "lastName": "Tetlow"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kym",
+                    "lastName": "Ward"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Justine",
+                    "lastName": "Shenton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jacqueline",
+                    "lastName": "Cannon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah",
+                    "lastName": "Butchard"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Aravind",
+                    "lastName": "Komuravelli"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anna",
+                    "lastName": "Gaughan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ruth",
+                    "lastName": "Eley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Carol",
+                    "lastName": "Rogers"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Manoj",
+                    "lastName": "Rajagopal"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stan",
+                    "lastName": "Limbert"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Steve",
+                    "lastName": "Callaghan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rosie",
+                    "lastName": "Whittington"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lisa",
+                    "lastName": "Shaw"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              Social support services such as day care centres are important in post-diagnostic dementia care to enable people living with dementia stay at home for longer. Little research has addressed potential inequalities in access, with no research on variations before and since COVID-19. The aim of this study was to explore inequalities in social support service usage before and since the pandemic.\n            \n            \n              Methods\n              Unpaid carers and people living with dementia were interviewed over the phone about their experiences of accessing social support services before and since the COVID-19 pandemic. Transcripts were analysed for key themes using inductive and deductive thematic analysis.\n            \n            \n              Results\n              Fifty participants (42 unpaid carers; eight people living with dementia) were interviewed, and five themes identified: (1) Service issues; (2) Access issues; (3) Relying on own initiative; (4) New inequalities due to COVID-19; and (5) Missing out on the benefits of support services. Participants reported transport, finances, and location as factors reducing their ability to access support service pre-COVID, with inequalities remaining and at times exacerbated since. Carers and people living with dementia also reported struggling with accessing basic necessities during COVID, including food and medicines.\n            \n            \n              Conclusions\n              Considering the benefits of accessing support services, resourced procedures and facilities are needed to maintain access to support services with more accessible remote support provision, enabling people from all backgrounds to access the care they need.",
+            "publicationTitle": "International Journal for Equity in Health",
+            "volume": "20",
+            "issue": "1",
+            "pages": "76",
+            "date": "12/2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Int J Equity Health",
+            "language": "en",
+            "DOI": "10.1186/s12939-021-01418-1",
+            "ISSN": "1475-9276",
+            "shortTitle": "\u201cA piece of paper is not the same as having someone to talk to\u201d",
+            "url": "https://equityhealthj.biomedcentral.com/articles/10.1186/s12939-021-01418-1",
+            "accessDate": "2021-07-23T16:46:15Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33706774",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:33Z",
+            "dateModified": "2021-07-27T11:46:36Z",
+            "pmid": "33706774"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        9
+                    ]
+                ],
+                "date-time": "2021-06-09T08:48:43Z",
+                "timestamp": 1623228523656
+            },
+            "reference-count": 40,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                3,
+                                11
+                            ]
+                        ],
+                        "date-time": "2021-03-11T00:00:00Z",
+                        "timestamp": 1615420800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                3,
+                                11
+                            ]
+                        ],
+                        "date-time": "2021-03-11T00:00:00Z",
+                        "timestamp": 1615420800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000836",
+                    "name": "University of Liverpool",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                },
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Social support services such as day care centres are important in post-diagnostic dementia care to enable people living with dementia stay at home for longer. Little research has addressed potential inequalities in access, with no research on variations before and since COVID-19. The aim of this study was to explore inequalities in social support service usage before and since the pandemic.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>Unpaid carers and people living with dementia were interviewed over the phone about their experiences of accessing social support services before and since the COVID-19 pandemic. Transcripts were analysed for key themes using inductive and deductive thematic analysis.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>Fifty participants (42 unpaid carers; eight people living with dementia) were interviewed, and five themes identified: (1) Service issues; (2) Access issues; (3) Relying on own initiative; (4) New inequalities due to COVID-19; and (5) Missing out on the benefits of support services. Participants reported transport, finances, and location as factors reducing their ability to access support service pre-COVID, with inequalities remaining and at times exacerbated since. Carers and people living with dementia also reported struggling with accessing basic necessities during COVID, including food and medicines.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>Considering the benefits of accessing support services, resourced procedures and facilities are needed to maintain access to support services with more accessible remote support provision, enabling people from all backgrounds to access the care they need.</jats:p>\n              </jats:sec>",
+            "DOI": "10.1186/s12939-021-01418-1",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        11
+                    ]
+                ],
+                "date-time": "2021-03-11T15:06:05Z",
+                "timestamp": 1615475165000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "\u201cA piece of paper is not the same as having someone to talk to\u201d: accessing post-diagnostic dementia care before and since COVID-19 and associated inequalities",
+            "prefix": "10.1186",
+            "volume": "20",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Kerry",
+                    "family": "Hanna",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Hilary",
+                    "family": "Tetlow",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Kym",
+                    "family": "Ward",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Justine",
+                    "family": "Shenton",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jacqueline",
+                    "family": "Cannon",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Sarah",
+                    "family": "Butchard",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Aravind",
+                    "family": "Komuravelli",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Anna",
+                    "family": "Gaughan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ruth",
+                    "family": "Eley",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Carol",
+                    "family": "Rogers",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Manoj",
+                    "family": "Rajagopal",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Stan",
+                    "family": "Limbert",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Steve",
+                    "family": "Callaghan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Rosie",
+                    "family": "Whittington",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Lisa",
+                    "family": "Shaw",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        11
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "1418_CR1",
+                    "author": "Alzheimer\u2019s Disease International (ADI)",
+                    "year": "2020",
+                    "unstructured": "Alzheimer\u2019s Disease International (ADI). From Plan to Impact III: Maintaining dementia as a priority in unprecedented times. London, England: ADI; 2020.",
+                    "volume-title": "From Plan to Impact III: Maintaining dementia as a priority in unprecedented times"
+                },
+                {
+                    "key": "1418_CR2",
+                    "author": "World Health Organization (WHO)",
+                    "year": "2012",
+                    "unstructured": "World Health Organization (WHO). Dementia: a public health priority. Geneva, Switzerland: WHO; 2012.",
+                    "volume-title": "Dementia: a public health priority"
+                },
+                {
+                    "issue": "6",
+                    "key": "1418_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "617",
+                    "DOI": "10.1177/1533317513494449",
+                    "volume": "28",
+                    "author": "N Greenwood",
+                    "year": "2013",
+                    "unstructured": "Greenwood N, Habibi R, Mackenzie A, et al. Peer support for carers: a qualitative investigation of the experiences of carers and peer volunteers. Am J Alzheimers Dis Other Dement. 2013;28(6):617\u201326.",
+                    "journal-title": "Am J Alzheimers Dis Other Dement"
+                },
+                {
+                    "key": "1418_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "158",
+                    "DOI": "10.1186/s12877-020-01529-4",
+                    "volume": "20",
+                    "author": "K Orellana",
+                    "year": "2020",
+                    "unstructured": "Orellana K, Manthorpe J, Tinker A. Day centres for older people \u2013 attender characteristics, access routes and outcome of regular attendance: findings of exploratory mixed methods case study research. BMC Geriatr. 2020;20:158.",
+                    "journal-title": "BMC Geriatr"
+                },
+                {
+                    "issue": "4",
+                    "key": "1418_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1393",
+                    "DOI": "10.1177/1471301217712796",
+                    "volume": "18",
+                    "author": "AMN Rokstad",
+                    "year": "2019",
+                    "unstructured": "Rokstad AMN, McCabe L, Robertson JM, Strandenaes MG, Tretteteig S, Vatne S. Day care for people with dementia: a qualitative study comparing experiences from Norway and Scotland. Dementia. 2019;18(4):1393\u2013409.",
+                    "journal-title": "Dementia"
+                },
+                {
+                    "issue": "1",
+                    "key": "1418_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "12",
+                    "DOI": "10.1002/gps.2484",
+                    "volume": "26",
+                    "author": "N Mukadam",
+                    "year": "2011",
+                    "unstructured": "Mukadam N, Cooper C, Livingston G. A systematic review of ethnicity and pathways to care in dementia. Int J Geriatr Psychiatry. 2011;26(1):12\u201320.",
+                    "journal-title": "Int J Geriatr Psychiatry"
+                },
+                {
+                    "issue": "6",
+                    "key": "1418_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1371/journal.pone.0199551",
+                    "volume": "13",
+                    "author": "K Korhonen",
+                    "year": "2018",
+                    "unstructured": "Korhonen K, Einio E, Leinonen T, Tarkiainen L, Martikainen P. Time-varying effects of socio-demographic and economic factors on the use of institutional long-term care before dementia-related death: a Finnish register-based study. PLoS One. 2018;13(6):1\u201316.",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "issue": "2",
+                    "key": "1418_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "505",
+                    "DOI": "10.3233/JAD-160124",
+                    "volume": "54",
+                    "author": "L Stevnsborg",
+                    "year": "2016",
+                    "unstructured": "Stevnsborg L, Jensen-Dahm C, Nielsen TR, Gasse C, Waldemar G. Inequalities in access to treatment and Care for Patients with dementia and immigrant background: a Danish Nationwide study. J Alzheimers Dis. 2016;54(2):505\u201314.",
+                    "journal-title": "J Alzheimers Dis"
+                },
+                {
+                    "issue": "12",
+                    "key": "1418_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1736",
+                    "DOI": "10.1002/gps.4998",
+                    "volume": "33",
+                    "author": "YT Wu",
+                    "year": "2018",
+                    "unstructured": "Wu YT, Clare L, Jones IR, et al. Inequalities in living well with dementia\u2014the impact of deprivation on well-being, quality of life and life satisfaction: results from the improving the experience of dementia and enhancing active life study. Int J Geriatr Psychiatry. 2018;33(12):1736\u201342.",
+                    "journal-title": "Int J Geriatr Psychiatry"
+                },
+                {
+                    "key": "1418_CR10",
+                    "unstructured": "Giebel C, Cations M, Draper B, Komuravelli A. Ethnic disparities in the uptake of anti-dementia medication in young and late-onset dementia. Int Psychogeriatr. 2020. https://doi.org/10.1017/S1041610220000794.",
+                    "DOI": "10.1017/S1041610220000794",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "1418_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "61",
+                    "DOI": "10.2147/CLEP.S222126",
+                    "volume": "12",
+                    "author": "ME Jones",
+                    "year": "2020",
+                    "unstructured": "Jones ME, Petersen I, Walters K, et al. Difference in psychotropic drug prescribing between ethnic groups of people with dementia in the United Kingdom. Clin Epidemiol. 2020;12:61\u201371.",
+                    "journal-title": "Clin Epidemiol"
+                },
+                {
+                    "issue": "1",
+                    "key": "1418_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "148",
+                    "DOI": "10.1093/ageing/afv154",
+                    "volume": "45",
+                    "author": "C Cooper",
+                    "year": "2016",
+                    "unstructured": "Cooper C, Lodwick R, Walters K, et al. Observational cohort study: deprivation and access to anti-dementia drugs in the UK. Age Ageing. 2016;45(1):148\u201354.",
+                    "journal-title": "Age Ageing"
+                },
+                {
+                    "issue": "7",
+                    "key": "1418_CR13",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1129",
+                    "DOI": "10.1016/S0277-9536(01)00255-6",
+                    "volume": "55",
+                    "author": "DG Morgan",
+                    "year": "2002",
+                    "unstructured": "Morgan DG, Semchuck KM, Stewart NJ, D\u2019Arcy C. Rural families caring for a relative with dementia: barriers to use of formal services. Soc Sci Med. 2002;55(7):1129\u201342.",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "1418_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "476",
+                    "DOI": "10.1186/s12913-020-05341-z",
+                    "volume": "20",
+                    "author": "T Pierse",
+                    "year": "2020",
+                    "unstructured": "Pierse T, Keogh F, O\u2019Shea E, Cullinan J. Geographic availability and accessibility of day care services for people with dementia in Ireland. BMC Health Serv Res. 2020;20:476. https://doi.org/10.1186/s12913-020-05341-z.",
+                    "journal-title": "BMC Health Serv Res"
+                },
+                {
+                    "key": "1418_CR15",
+                    "unstructured": "Cations M, Withall A, Horsfall R, et al. Why aren\u2019t people with young onset dementia and their supporters using formal services? Results from the INSPIRED study. PLoS One. 2017. https://doi.org/10.1371/journal.pone.0180935.",
+                    "DOI": "10.1371/journal.pone.0180935",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2",
+                    "key": "1418_CR16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "177",
+                    "DOI": "10.1097/WAD.0b013e3181c72b5d",
+                    "volume": "24",
+                    "author": "JE Galvin",
+                    "year": "2010",
+                    "unstructured": "Galvin JE, Duda JE, Kaufer DI, Lippa CF, Taylor A, Zarit SH. Lewy body dementia: caregiver burden and unmet needs. Alzheimers Dis Assoc Disord. 2010;24(2):177\u201381.",
+                    "journal-title": "Alzheimers Dis Assoc Disord"
+                },
+                {
+                    "issue": "3",
+                    "key": "1418_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "495",
+                    "DOI": "10.1017/S1041610215001362",
+                    "volume": "28",
+                    "author": "A Killen",
+                    "year": "2016",
+                    "unstructured": "Killen A, Flynn D, de Brun A, O\u2019Brien N, et al. Support and information needs following a diagnosis of dementia with Lewy bodies. Int Psychogeriatr. 2016;28(3):495\u2013501.",
+                    "journal-title": "Int Psychogeriatr"
+                },
+                {
+                    "key": "1418_CR18",
+                    "unstructured": "Giebel C, Cannon J, Hanna K, et al. Impact of COVID-19 related social support service closures on people with dementia and unpaid carers: a qualitative study. Aging Ment Health. 2020a. https://doi.org/10.1080/13607863.2020.1822292.",
+                    "DOI": "10.1080/13607863.2020.1822292",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2",
+                    "key": "1418_CR19",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "75",
+                    "DOI": "10.1080/01621420802022548",
+                    "volume": "27",
+                    "author": "DA Forbes",
+                    "year": "2008",
+                    "unstructured": "Forbes DA, Markle-Reid M, Hawranik P, et al. Availability and acceptability of Canadian home and community-based services: perspectives of family caregivers of persons with dementia. Home Health Care Serv Q. 2008;27(2):75\u201399.",
+                    "journal-title": "Home Health Care Serv Q"
+                },
+                {
+                    "issue": "1",
+                    "key": "1418_CR20",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1080/01621420802700952",
+                    "volume": "28",
+                    "author": "L Jansen",
+                    "year": "2009",
+                    "unstructured": "Jansen L, Forbes DA, Markle-Reid M, et al. Formal care providers\u2019 perceptions of home- and community-based services: informing dementia care quality. Home Health Care Serv Q. 2009;28(1):1\u201323.",
+                    "journal-title": "Home Health Care Serv Q"
+                },
+                {
+                    "key": "1418_CR21",
+                    "unstructured": "Verbeek H, Geritsen DL, Backhaus R, et al. Allowing visitors back in the nursing home during the COVID-19 crisis \u2013 a Dutch national study into first experiences and impact on well-being. JAMDA. 2020. https://doi.org/10.1016/j.jamda.2020.06.020.",
+                    "DOI": "10.1016/j.jamda.2020.06.020",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "9",
+                    "key": "1418_CR22",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "572",
+                    "DOI": "10.1177/1357633X19873793",
+                    "volume": "25",
+                    "author": "A Banbury",
+                    "year": "2019",
+                    "unstructured": "Banbury A, Parkinson L, Gordon S, et al. Implementing a peer-support programme by group videoconferencing for isolated carers of people with dementia. J Telemed Telecare. 2019;25(9):572\u20137.",
+                    "journal-title": "J Telemed Telecare"
+                },
+                {
+                    "key": "1418_CR23",
+                    "unstructured": "Wright L, Steptoe A, Fancourt D. Are we all in this together? Longitudinal assessment of cumulative adversities by socioeconomic position in the first 3 weeks of lockdown in the UK. J Epidemiol Community Health. 2020. https://doi.org/10.1136/jech-2020-214475.",
+                    "DOI": "10.1136/jech-2020-214475",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "1418_CR24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "333",
+                    "DOI": "10.1186/s12877-020-01719-0",
+                    "volume": "20",
+                    "author": "C Giebel",
+                    "year": "2020",
+                    "unstructured": "Giebel C, Hanna K, Cannon J, et al. Decision-making for receiving paid home care for dementia in the time of COVID-19: a qualitative study. BMC Geriatr. 2020b;20:333. https://doi.org/10.1186/s12877-020-01719-0.",
+                    "journal-title": "BMC Geriatr"
+                },
+                {
+                    "key": "1418_CR25",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "949",
+                    "DOI": "10.2147/CLEP.S152647",
+                    "volume": "10",
+                    "author": "TM Pham",
+                    "year": "2018",
+                    "unstructured": "Pham TM, Petersen I, Walters K, et al. Trends in dementia diagnosis rates in UK ethnic groups: analysis of UK primary care data. Clin Epidemiol. 2018;10:949\u201360.",
+                    "journal-title": "Clin Epidemiol"
+                },
+                {
+                    "key": "1418_CR26",
+                    "unstructured": "Watson J, Giebel C, Green M, Darlington-Pollock F, Akpan A. Use of routine and cohort data globally in exploring dementia care pathways and inequalities: a systematic review. Int J Geriatr Psychiatry. 2020. https://doi.org/10.1002/gps.5419.",
+                    "DOI": "10.1002/gps.5419",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "1418_CR27",
+                    "unstructured": "Roche M, Higgs P, Aworinde J, Cooper C. A review of qualitative research of perception and experiences of dementia among adults from black, African, and Caribbean background: what and whom are we researching? The Gerontologist. 2020. https://doi.org/10.1093/geront/gnaa004.",
+                    "DOI": "10.1093/geront/gnaa004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "1418_CR28",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "518",
+                    "DOI": "10.1186/s12913-017-2456-0",
+                    "volume": "17",
+                    "author": "A Broda",
+                    "year": "2017",
+                    "unstructured": "Broda A, Bieber A, Meyer G, et al. Perspectives of policy and political decision makers on access to formal dementia care: expert interviews in eight European countries. BMC Health Serv Res. 2017;17:518.",
+                    "journal-title": "BMC Health Serv Res"
+                },
+                {
+                    "key": "1418_CR29",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "511",
+                    "DOI": "10.1007/s11910-012-0300-9",
+                    "volume": "12",
+                    "author": "GE Maestre",
+                    "year": "2012",
+                    "unstructured": "Maestre GE. Assessing dementia in resource-poor regions. Curr Neurol Neurosci Rep. 2012;12:511\u20139.",
+                    "journal-title": "Curr Neurol Neurosci Rep"
+                },
+                {
+                    "key": "1418_CR30",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "21",
+                    "DOI": "10.1007/s10198-013-0546-4",
+                    "volume": "16",
+                    "author": "M Devaux",
+                    "year": "2015",
+                    "unstructured": "Devaux M. Income-related inequalities and inequities in health care services utilisation in 18 selected OECD countries. Eur J Health Econ. 2015;16:21\u201333.",
+                    "journal-title": "Eur J Health Econ"
+                },
+                {
+                    "key": "1418_CR31",
+                    "unstructured": "OECD (2019). Under pressure: the squeezed middle class, OECD Publishing, Paris https://doi.org/https://doi.org/10.1787/689afed1-en.",
+                    "DOI": "10.1787/689afed1-en",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "8",
+                    "key": "1418_CR32",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "978",
+                    "DOI": "10.1080/13607863.2011.596805",
+                    "volume": "15",
+                    "author": "A Connolly",
+                    "year": "2011",
+                    "unstructured": "Connolly A, Gaehl E, Martin H, Morris J, Purandare N. Underdiagnosis of dementia in primary care: variations in the observed prevalence and comparisons to the expected prevalence. Aging Ment Health. 2011;15(8):978\u201384.",
+                    "journal-title": "Aging Ment Health"
+                },
+                {
+                    "key": "1418_CR33",
+                    "author": "NICE",
+                    "year": "2018",
+                    "unstructured": "NICE. Dementia: assessment, management and support for people living with dementia and their carers. London, England: NICE; 2018.",
+                    "volume-title": "Dementia: assessment, management and support for people living with dementia and their carers"
+                },
+                {
+                    "issue": "7",
+                    "key": "1418_CR34",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "669",
+                    "DOI": "10.1080/13607863.2015.1052776",
+                    "volume": "20",
+                    "author": "L Maio",
+                    "year": "2016",
+                    "unstructured": "Maio L, Botsford J, Iliffe S. Family carers\u2019 experiences of the admiral nursing service: a quantitative analysis of carer feedback. Aging Ment Health. 2016;20(7):669\u201375.",
+                    "journal-title": "Aging Ment Health"
+                },
+                {
+                    "issue": "5",
+                    "key": "1418_CR35",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "588",
+                    "DOI": "10.1177/1471301212437780",
+                    "volume": "12",
+                    "author": "C Quinn",
+                    "year": "2013",
+                    "unstructured": "Quinn C, Clare L, McGuinness T, et al. Negotiating the balance: the triadic relationship between spousal caregivers, people with dementia and admiral nurses. Dementia. 2013;12(5):588\u2013605.",
+                    "journal-title": "Dementia"
+                },
+                {
+                    "key": "1418_CR36",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e012337",
+                    "DOI": "10.1136/bmjopen-2016-012337",
+                    "volume": "6",
+                    "author": "A Memon",
+                    "year": "2016",
+                    "unstructured": "Memon A, Taylor K, Mohebati LM, et al. Perceived barriers to accessing mental health services among black and minority ethnic (BME) communities: a qualitative study in Southeast England. BMJ Open. 2016;6:e012337.",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "key": "1418_CR37",
+                    "unstructured": "Nielsen TR, Nielsen DS, Waldemar G. Barriers in access to dementia care in minority ethnic groups in Denmark: a qualitative study. Aging Ment Health. 2020. https://doi.org/10.1080/13607863.2020.1787336.",
+                    "DOI": "10.1080/13607863.2020.1787336",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "1418_CR38",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "88",
+                    "DOI": "10.12688/wellcomeopenres.15922.2",
+                    "volume": "5",
+                    "author": "RW Aldridge",
+                    "year": "2020",
+                    "unstructured": "Aldridge RW, Lewer D, Katikireddi SV, et al. Black, Asian and minority ethnic groups in England are at increased risk of death from COVID-10: indirect standardisation of NHS mortality data. Wellcome Open Res. 2020;5:88.",
+                    "journal-title": "Wellcome Open Res"
+                },
+                {
+                    "issue": "2",
+                    "key": "1418_CR39",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "264",
+                    "DOI": "10.1093/ageing/afz154",
+                    "volume": "49",
+                    "author": "R Wittenberg",
+                    "year": "2020",
+                    "unstructured": "Wittenberg R, Hu B, Jagger C, et al. Projections of care for older people with dementia in England: 2015 to 2040. Age Ageing. 2020;49(2):264\u20139.",
+                    "journal-title": "Age Ageing"
+                },
+                {
+                    "key": "1418_CR40",
+                    "unstructured": "Varatharaj A, Thomas N, Ellul MA, et al. Neurological and neuropsychiatric complications of COVID-19 in 153 patients: a UK-wide surveillance study. Lancet Psychiatry. 2020. https://doi.org/10.1016/S2215-0366(20)30287-X.",
+                    "DOI": "10.1016/S2215-0366(20)30287-X",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "International Journal for Equity in Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12939-021-01418-1.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s12939-021-01418-1/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12939-021-01418-1.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        11
+                    ]
+                ],
+                "date-time": "2021-03-11T15:09:07Z",
+                "timestamp": 1615475347000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        11
+                    ]
+                ]
+            },
+            "references-count": 40,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "1418"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12939-021-01418-1",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1475-9276"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health",
+                "Health Policy"
+            ],
+            "container-title-short": "Int J Equity Health",
+            "assertion": [
+                {
+                    "value": "15 December 2020",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "3 March 2021",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "11 March 2021",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Declarations"
+                    }
+                },
+                {
+                    "value": "Ethical approval was obtained prior to study begin from the University of Liverpool [Ref: 7626].",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "Not applicable.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "None.",
+                    "order": 4,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "76"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [],
+                "OtherID": [],
+                "PMID": "33706774",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "04",
+                    "Day": "05"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "04",
+                    "Day": "05"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "03",
+                            "Day": "11"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12939-021-01418-1"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1475-9276",
+                        "JournalIssue": {
+                            "Volume": "20",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "03",
+                                "Day": "11"
+                            }
+                        },
+                        "Title": "International journal for equity in health",
+                        "ISOAbbreviation": "Int J Equity Health"
+                    },
+                    "ArticleTitle": "\"A piece of paper is not the same as having someone to talk to\": accessing post-diagnostic dementia care before and since COVID-19 and associated inequalities.",
+                    "Pagination": {
+                        "MedlinePgn": "76"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Social support services such as day care centres are important in post-diagnostic dementia care to enable people living with dementia stay at home for longer. Little research has addressed potential inequalities in access, with no research on variations before and since COVID-19. The aim of this study was to explore inequalities in social support service usage before and since the pandemic.",
+                            "Unpaid carers and people living with dementia were interviewed over the phone about their experiences of accessing social support services before and since the COVID-19 pandemic. Transcripts were analysed for key themes using inductive and deductive thematic analysis.",
+                            "Fifty participants (42 unpaid carers; eight people living with dementia) were interviewed, and five themes identified: (1) Service issues; (2) Access issues; (3) Relying on own initiative; (4) New inequalities due to COVID-19; and (5) Missing out on the benefits of support services. Participants reported transport, finances, and location as factors reducing their ability to access support service pre-COVID, with inequalities remaining and at times exacerbated since. Carers and people living with dementia also reported struggling with accessing basic necessities during COVID, including food and medicines.",
+                            "Considering the benefits of accessing support services, resourced procedures and facilities are needed to maintain access to support services with more accessible remote support provision, enabling people from all backgrounds to access the care they need."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK. clarissa.giebel@liverpool.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK. clarissa.giebel@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hanna",
+                            "ForeName": "Kerry",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "SURF Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Tetlow",
+                            "ForeName": "Hilary",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Brain Charity, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ward",
+                            "ForeName": "Kym",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Sefton Older People's Forum, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shenton",
+                            "ForeName": "Justine",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Wigan Dementia Action Alliance, Wigan, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lewy Body Society, Wigan, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cannon",
+                            "ForeName": "Jacqueline",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Mersey Care NHS Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Butchard",
+                            "ForeName": "Sarah",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "North West Boroughs NHS Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Komuravelli",
+                            "ForeName": "Aravind",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Together in Dementia Everyday (TIDE), Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gaughan",
+                            "ForeName": "Anna",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Dementia Action Alliance, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Eley",
+                            "ForeName": "Ruth",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "House of Memories, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rogers",
+                            "ForeName": "Carol",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lancashire & South Cumbria NHS Trust, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rajagopal",
+                            "ForeName": "Manoj",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Limbert",
+                            "ForeName": "Stan",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "EQE Health, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Callaghan",
+                            "ForeName": "Steve",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Me2U Daycare, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Whittington",
+                            "ForeName": "Rosie",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Modern Languages and Cultures, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shaw",
+                            "ForeName": "Lisa",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Int J Equity Health",
+                    "NlmUniqueID": "101147692",
+                    "ISSNLinking": "1475-9276"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "COVID-19",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Caregivers",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Dementia",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "economics",
+                            "standards"
+                        ],
+                        "DescriptorName": "Health Services Accessibility",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Healthcare Disparities",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "SARS-CoV-2",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Work",
+                        "MajorTopicYN": "Y"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "BMC Health Serv Res. 2020 May 27;20(1):476",
+                                "ArticleIdList": [
+                                    "32460778"
+                                ]
+                            },
+                            {
+                                "Citation": "Aging Ment Health. 2016 Jul;20(7):669-75",
+                                "ArticleIdList": [
+                                    "26062969"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Epidemiol. 2018 Aug 08;10:949-960",
+                                "ArticleIdList": [
+                                    "30123007"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2002 Oct;55(7):1129-42",
+                                "ArticleIdList": [
+                                    "12365526"
+                                ]
+                            },
+                            {
+                                "Citation": "Int Psychogeriatr. 2020 Jun 02;:1-10",
+                                "ArticleIdList": [
+                                    "32484120"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2018 Jun 21;13(6):e0199551",
+                                "ArticleIdList": [
+                                    "29928067"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Epidemiol. 2020 Jan 20;12:61-71",
+                                "ArticleIdList": [
+                                    "32021472"
+                                ]
+                            },
+                            {
+                                "Citation": "Wellcome Open Res. 2020 May 6;5:88",
+                                "ArticleIdList": [
+                                    "32613083"
+                                ]
+                            },
+                            {
+                                "Citation": "Home Health Care Serv Q. 2008;27(2):75-99",
+                                "ArticleIdList": [
+                                    "18928206"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2020 Feb 27;49(2):264-269",
+                                "ArticleIdList": [
+                                    "31808792"
+                                ]
+                            },
+                            {
+                                "Citation": "Alzheimer Dis Assoc Disord. 2010 Apr-Jun;24(2):177-81",
+                                "ArticleIdList": [
+                                    "20505434"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Geriatr Psychiatry. 2011 Jan;26(1):12-20",
+                                "ArticleIdList": [
+                                    "21157846"
+                                ]
+                            },
+                            {
+                                "Citation": "Dementia (London). 2019 May;18(4):1393-1409",
+                                "ArticleIdList": [
+                                    "28587483"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2016 Nov 16;6(11):e012337",
+                                "ArticleIdList": [
+                                    "27852712"
+                                ]
+                            },
+                            {
+                                "Citation": "J Telemed Telecare. 2019 Oct;25(9):572-577",
+                                "ArticleIdList": [
+                                    "31631761"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Alzheimers Dis Other Demen. 2013 Sep;28(6):617-26",
+                                "ArticleIdList": [
+                                    "23813790"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Geriatr Psychiatry. 2018 Dec;33(12):1736-1742",
+                                "ArticleIdList": [
+                                    "30246354"
+                                ]
+                            },
+                            {
+                                "Citation": "Aging Ment Health. 2011 Nov;15(8):978-84",
+                                "ArticleIdList": [
+                                    "21777080"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Med Dir Assoc. 2020 Jul;21(7):900-904",
+                                "ArticleIdList": [
+                                    "32674816"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2016 Jan;45(1):148-54",
+                                "ArticleIdList": [
+                                    "26582758"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Geriatr. 2020 Sep 9;20(1):333",
+                                "ArticleIdList": [
+                                    "32900360"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Geriatr. 2020 May 4;20(1):158",
+                                "ArticleIdList": [
+                                    "32366223"
+                                ]
+                            },
+                            {
+                                "Citation": "J Alzheimers Dis. 2016 Sep 6;54(2):505-14",
+                                "ArticleIdList": [
+                                    "27567820"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Psychiatry. 2020 Oct;7(10):875-882",
+                                "ArticleIdList": [
+                                    "32593341"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2017 Aug 3;17(1):518",
+                                "ArticleIdList": [
+                                    "28774307"
+                                ]
+                            },
+                            {
+                                "Citation": "Gerontologist. 2020 Feb 20;:",
+                                "ArticleIdList": [
+                                    "32077938"
+                                ]
+                            },
+                            {
+                                "Citation": "Aging Ment Health. 2020 Sep 21;:1-8",
+                                "ArticleIdList": [
+                                    "32954794"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Health Econ. 2015 Jan;16(1):21-33",
+                                "ArticleIdList": [
+                                    "24337894"
+                                ]
+                            },
+                            {
+                                "Citation": "Curr Neurol Neurosci Rep. 2012 Oct;12(5):511-9",
+                                "ArticleIdList": [
+                                    "22864986"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2017 Jul 19;12(7):e0180935",
+                                "ArticleIdList": [
+                                    "28723931"
+                                ]
+                            },
+                            {
+                                "Citation": "Int Psychogeriatr. 2016 Mar;28(3):495-501",
+                                "ArticleIdList": [
+                                    "26328546"
+                                ]
+                            },
+                            {
+                                "Citation": "Dementia (London). 2013 Sep;12(5):588-605",
+                                "ArticleIdList": [
+                                    "24337331"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2020 Sep;74(9):683-688",
+                                "ArticleIdList": [
+                                    "32503892"
+                                ]
+                            },
+                            {
+                                "Citation": "Home Health Care Serv Q. 2009;28(1):1-23",
+                                "ArticleIdList": [
+                                    "19266368"
+                                ]
+                            },
+                            {
+                                "Citation": "Aging Ment Health. 2020 Jul 3;:1-9",
+                                "ArticleIdList": [
+                                    "32619352"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "15"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "03",
+                        "Day": "03"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "3",
+                        "Day": "12",
+                        "Hour": "5",
+                        "Minute": "49"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "3",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "4",
+                        "Day": "7",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "33706774",
+                    "10.1186/s12939-021-01418-1",
+                    "10.1186/s12939-021-01418-1",
+                    "PMC7948657"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33706774)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833706774%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833706774%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102415601"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102415601?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102415601&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102415601&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102415601",
+                        "dc:identifier": "SCOPUS_ID:85102415601",
+                        "eid": "2-s2.0-85102415601",
+                        "dc:title": "\u201cA piece of paper is not the same as having someone to talk to\u201d: accessing post-diagnostic dementia care before and since COVID-19 and associated inequalities",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "International Journal for Equity in Health",
+                        "prism:eIssn": "14759276",
+                        "prism:volume": "20",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-12-01",
+                        "prism:coverDisplayDate": "December 2021",
+                        "prism:doi": "10.1186/s12939-021-01418-1",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR ARC NWC",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33706774",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "76",
+                        "source-id": "21461",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "57FVFYJZ.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33706774"
+            }
+        },
+        "title": "\"A piece of paper is not the same as having someone to talk to\": accessing post-diagnostic dementia care before and since COVID-19 and associated inequalities.",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK. clarissa.giebel@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Hanna K",
+                "family": "Hanna",
+                "given": "Kerry",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Tetlow H",
+                "family": "Tetlow",
+                "given": "Hilary",
+                "affiliation": {
+                    "name": "SURF Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Ward K",
+                "family": "Ward",
+                "given": "Kym",
+                "affiliation": {
+                    "name": "The Brain Charity, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Shenton J",
+                "family": "Shenton",
+                "given": "Justine",
+                "affiliation": {
+                    "name": "Sefton Older People's Forum, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Cannon J",
+                "family": "Cannon",
+                "given": "Jacqueline",
+                "affiliation": {
+                    "name": "Wigan Dementia Action Alliance, Wigan, UK."
+                }
+            },
+            {
+                "clean": "Butchard S",
+                "family": "Butchard",
+                "given": "Sarah",
+                "affiliation": {
+                    "name": "Mersey Care NHS Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Komuravelli A",
+                "family": "Komuravelli",
+                "given": "Aravind",
+                "affiliation": {
+                    "name": "North West Boroughs NHS Trust, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gaughan A",
+                "family": "Gaughan",
+                "given": "Anna",
+                "affiliation": {
+                    "name": "Together in Dementia Everyday (TIDE), Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Eley R",
+                "family": "Eley",
+                "given": "Ruth",
+                "affiliation": {
+                    "name": "Liverpool Dementia Action Alliance, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Rogers C",
+                "family": "Rogers",
+                "given": "Carol",
+                "affiliation": {
+                    "name": "House of Memories, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Rajagopal M",
+                "family": "Rajagopal",
+                "given": "Manoj",
+                "affiliation": {
+                    "name": "Lancashire & South Cumbria NHS Trust, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Limbert S",
+                "family": "Limbert",
+                "given": "Stan",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Callaghan S",
+                "family": "Callaghan",
+                "given": "Steve",
+                "affiliation": {
+                    "name": "EQE Health, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Whittington R",
+                "family": "Whittington",
+                "given": "Rosie",
+                "affiliation": {
+                    "name": "Me2U Daycare, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Shaw L",
+                "family": "Shaw",
+                "given": "Lisa",
+                "affiliation": {
+                    "name": "Department of Modern Languages and Cultures, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "COVID-19",
+                    "major": "N"
+                },
+                {
+                    "term": "Caregivers",
+                    "major": "N"
+                },
+                {
+                    "term": "Dementia",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Services Accessibility",
+                    "major": "N"
+                },
+                {
+                    "term": "Healthcare Disparities",
+                    "major": "Y"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "SARS-CoV-2",
+                    "major": "N"
+                },
+                {
+                    "term": "Social Work",
+                    "major": "Y"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Int J Equity Health",
+            "volume": "20",
+            "issue": "1"
+        },
+        "abstract": "['Social support services such as day care centres are important in post-diagnostic dementia care to enable people living with dementia stay at home for longer. Little research has addressed potential inequalities in access, with no research on variations before and since COVID-19. The aim of this study was to explore inequalities in social support service usage before and since the pandemic.', 'Unpaid carers and people living with dementia were interviewed over the phone about their experiences of accessing social support services before and since the COVID-19 pandemic. Transcripts were analysed for key themes using inductive and deductive thematic analysis.', 'Fifty participants (42 unpaid carers; eight people living with dementia) were interviewed, and five themes identified: (1) Service issues; (2) Access issues; (3) Relying on own initiative; (4) New inequalities due to COVID-19; and (5) Missing out on the benefits of support services. Participants reported transport, finances, and location as factors reducing their ability to access support service pre-COVID, with inequalities remaining and at times exacerbated since. Carers and people living with dementia also reported struggling with accessing basic necessities during COVID, including food and medicines.', 'Considering the benefits of accessing support services, resourced procedures and facilities are needed to maintain access to support services with more accessible remote support provision, enabling people from all backgrounds to access the care they need.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK. clarissa.giebel@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

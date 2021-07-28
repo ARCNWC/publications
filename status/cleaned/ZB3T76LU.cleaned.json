@@ -1,0 +1,1019 @@
+{
+    "IDs": {
+        "zotero": "ZB3T76LU",
+        "DOI": "10.1111/hsc.13228",
+        "DOI_filename": "5ebd685dac9a6fc3e1f0adb60e8ca866",
+        "PMID": "33295046",
+        "scopus": "2-s2.0-85097289258",
+        "hash": "2b497e2504dd1ee9f63892fc724f2ad5"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "ZB3T76LU",
+            "version": 982,
+            "itemType": "journalArticle",
+            "title": "Enabling middle\u2010aged and older adults accessing community services to reduce social isolation: Community Connectors",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Shaima",
+                    "lastName": "Hassan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Gina",
+                    "lastName": "Harvey"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Conal",
+                    "lastName": "Devitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lesley",
+                    "lastName": "Harper"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Cheryl",
+                    "lastName": "Simmill\u2010Binning"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Health & Social Care in the Community",
+            "volume": "",
+            "issue": "",
+            "pages": "hsc.13228",
+            "date": "2020-12-08",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Health Soc Care Community",
+            "language": "en",
+            "DOI": "10.1111/hsc.13228",
+            "ISSN": "0966-0410, 1365-2524",
+            "shortTitle": "Enabling middle\u2010aged and older adults accessing community services to reduce social isolation",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1111/hsc.13228",
+            "accessDate": "2021-07-23T16:46:07Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33295046",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:12Z",
+            "dateModified": "2021-07-27T11:54:47Z",
+            "pmid": "33295046"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        10
+                    ]
+                ],
+                "date-time": "2020-12-10T04:19:37Z",
+                "timestamp": 1607573977309
+            },
+            "reference-count": 30,
+            "publisher": "Wiley",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                12,
+                                8
+                            ]
+                        ],
+                        "date-time": "2020-12-08T00:00:00Z",
+                        "timestamp": 1607385600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                },
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                12,
+                                8
+                            ]
+                        ],
+                        "date-time": "2020-12-08T00:00:00Z",
+                        "timestamp": 1607385600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "onlinelibrary.wiley.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1111/hsc.13228",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        10
+                    ]
+                ],
+                "date-time": "2020-12-10T03:42:07Z",
+                "timestamp": 1607571727000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Enabling middle\u2010aged and older adults accessing community services to reduce social isolation: Community Connectors",
+            "prefix": "10.1111",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of Primary Care &amp; Mental Health University of Liverpool Liverpool UK"
+                        },
+                        {
+                            "name": "NIHR ARC NWC Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Shaima",
+                    "family": "Hassan",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Primary Care &amp; Mental Health University of Liverpool Liverpool UK"
+                        },
+                        {
+                            "name": "NIHR ARC NWC Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Gina",
+                    "family": "Harvey",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Community ConnectorsSefton Council for Voluntary Service Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Conal",
+                    "family": "Devitt",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Community ConnectorsSefton Council for Voluntary Service Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Lesley",
+                    "family": "Harper",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Primary Care &amp; Mental Health University of Liverpool Liverpool UK"
+                        },
+                        {
+                            "name": "NIHR ARC NWC Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Cheryl",
+                    "family": "Simmill\u2010Binning",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "NIHR ARC NWC Liverpool UK"
+                        },
+                        {
+                            "name": "Health Innovation Campus Team Lancaster University Lancaster UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        8
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "e_1_2_8_2_1",
+                    "author": "Alzheimer's Society",
+                    "year": "2014",
+                    "volume-title": "Dementia UK: An update"
+                },
+                {
+                    "key": "e_1_2_8_3_1",
+                    "DOI": "10.1093/gerona/glv133",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_4_1",
+                    "DOI": "10.1093/gerona/57.7.M428",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_5_1",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_6_1",
+                    "DOI": "10.1017/S1041610215001532",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_7_1",
+                    "DOI": "10.1186/s12877-015-0155-4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_8_1",
+                    "author": "Department for Communities and Local Government",
+                    "year": "2015",
+                    "volume-title": "The English indices of deprivation 2015: Technical report"
+                },
+                {
+                    "key": "e_1_2_8_9_1",
+                    "DOI": "10.1186/1471-2458-11-647",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_10_1",
+                    "DOI": "10.1002/gps.4495",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_11_1",
+                    "DOI": "10.1177/1471301214553614",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_12_1",
+                    "DOI": "10.1017/S1041610218000820",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_13_1",
+                    "DOI": "10.1002/gps.5434",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_14_1",
+                    "DOI": "10.1177/0898264316682908",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_15_1",
+                    "DOI": "10.1071/AH080468",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_16_1",
+                    "DOI": "10.1037/a0017805",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_17_1",
+                    "DOI": "10.1177/1745691614568352",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_18_1",
+                    "DOI": "10.1093/geronb/gbt029",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_19_1",
+                    "author": "National Health Service",
+                    "year": "2019",
+                    "volume-title": "The NHS Long Term Plan 2019"
+                },
+                {
+                    "key": "e_1_2_8_20_1",
+                    "DOI": "10.1186/s12877-018-0897-x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_21_1",
+                    "author": "Office for National Statistics",
+                    "year": "2018",
+                    "volume-title": "Overview of the UK population: November 2018"
+                },
+                {
+                    "key": "e_1_2_8_22_1",
+                    "DOI": "10.1001/archinternmed.2012.1993",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_23_1",
+                    "DOI": "10.1093/gerona/glp011",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_24_1",
+                    "author": "Sefton Council",
+                    "year": "2015",
+                    "volume-title": "Sefton: People & place introductory profile"
+                },
+                {
+                    "key": "e_1_2_8_25_1",
+                    "DOI": "10.1037/hea0000437",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_26_1",
+                    "DOI": "10.1177/1757913917737563",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_27_1",
+                    "DOI": "10.2188/jea.JE20150253",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_28_1",
+                    "DOI": "10.1017/S0144686X0300134X",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_29_1",
+                    "DOI": "10.1017/S0144686X04003332",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_30_1",
+                    "DOI": "10.1016/S1474-4422(18)30371-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_8_31_1",
+                    "DOI": "10.1177/0733464814537701",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Health & Social Care in the Community",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/hsc.13228",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/hsc.13228",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/hsc.13228",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        10
+                    ]
+                ],
+                "date-time": "2020-12-10T03:42:09Z",
+                "timestamp": 1607571729000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        8
+                    ]
+                ]
+            },
+            "references-count": 30,
+            "alternative-id": [
+                "10.1111/hsc.13228"
+            ],
+            "URL": "http://dx.doi.org/10.1111/hsc.13228",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0966-0410",
+                "1365-2524"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health",
+                "Health Policy",
+                "Social Sciences (miscellaneous)",
+                "Sociology and Political Science"
+            ],
+            "container-title-short": "Health Soc Care Community",
+            "assertion": [
+                {
+                    "value": "2020-03-06",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2020-10-20",
+                    "order": 1,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2020-12-08",
+                    "order": 2,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ],
+            "article-number": "hsc.13228"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "health inequalities",
+                        "loneliness",
+                        "older adults",
+                        "public involvement",
+                        "social connectedness",
+                        "social isolation"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "33295046",
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "12",
+                    "Day": "09"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "12",
+                            "Day": "08"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1111/hsc.13228"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1365-2524",
+                        "JournalIssue": {
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Dec",
+                                "Day": "08"
+                            }
+                        },
+                        "Title": "Health & social care in the community",
+                        "ISOAbbreviation": "Health Soc Care Community"
+                    },
+                    "ArticleTitle": "Enabling middle-aged and older adults accessing community services to reduce social isolation: Community Connectors.",
+                    "Abstract": {
+                        "AbstractText": [
+                            "A large number of older adults (65+ years) live on their own, and can experience high levels of loneliness. However, accessing activities to engage with their community can be difficult either due to their age and associated comorbidities, such as frailty, or due to financial reasons, for lacking the funds to access transport to activities. The aim of this study was to evaluate an existing service in the North West of England, Community Connectors, which enables people aged 18 and above to access social activities within their community in order to reduce loneliness and social isolation. This study only included middle-aged and older adults. A total of 13 semi-structured interviews were performed after people had taken part in the 14-week Community Connectors programme. Data were coded by two research team members by using thematic analysis. Members of the public were involved in the design of this study, and in the dissemination. Between June 2017 to September 2018, 234 older adults and 53 middle-aged adults were referred to Community Connectors. Four themes emerged from the interviews: falling out of society; easy self-referral; structured supportive services; and reconnecting with community. Services often depend on individuals making the first step to access, however, without easy or facilitated access people can becoming isolated. Participants reported on how Community Connectors provided easy and open access that enabled better response to individual needs. The structured support provided individuals with confidence in engaging with community activities and enhanced individuals' social networks. Community Connectors enables middle-aged and older adults to engage with social activities in their community, and thus helps participants to feel less lonely and more socially connected. Future work needs to quantitatively measure the impacts of the service on loneliness, depression, and social connectedness in order to fully understand their impact."
+                        ],
+                        "CopyrightInformation": "\u00a9 2020 The Authors. Health and Social Care in the Community published by John Wiley & Sons Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hassan",
+                            "ForeName": "Shaima",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Community Connectors, Sefton Council for Voluntary Service, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harvey",
+                            "ForeName": "Gina",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Community Connectors, Sefton Council for Voluntary Service, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Devitt",
+                            "ForeName": "Conal",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harper",
+                            "ForeName": "Lesley",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Health Innovation Campus Team, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Simmill-Binning",
+                            "ForeName": "Cheryl",
+                            "Initials": "C"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "Agency": "National Institute for Health Research",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Health Soc Care Community",
+                    "NlmUniqueID": "9306359",
+                    "ISSNLinking": "0966-0410"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Alzheimer's Society. (2014). Dementia UK: An update. London, England: Alzheimer's Society."
+                            },
+                            {
+                                "Citation": "Bandeen-Roche, K., Seplaki, C. L., Huang, J., Buta, B., Kalyani, R. R., Varadhan, R., Xue, Q. L., Walston, J. D., & Kasper, J. D. (2015). Frailty in older adults: A nationally representative profile in the United States. Journals of Gerontology Series A, 70(11), 1427-1434."
+                            },
+                            {
+                                "Citation": "Banks, M. R., & Banks, W. A. (2002). The effects of animal-assisted therapy on loneliness in an elderly population in long-term care facilities. Journals of Gerontology. Series A, Biological Sciences and Medical Sciences, 57, M428-M432. https://doi.org/10.1093/gerona/57.7.M428"
+                            },
+                            {
+                                "Citation": "Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research in Psychology, 3, 77-101."
+                            },
+                            {
+                                "Citation": "Cohen-Mansfield, J., Hazan, H., Lerman, Y., & Shalom, V. (2016). Correlates and predictors of loneliness in older adults: A review of quantitative results informed by qualitative insights. International Psychogeriatrics, 28(4), 557-576."
+                            },
+                            {
+                                "Citation": "de Labra, C., Guimaraes-Pinheiro, C., Maseda, A., Lorenzo, T., & Millan-Calenti, J. C. (2015). Effects of physical exercise interventions in frail older adults: A systematic review of randomized controlled trials. BMC Geriatrics, 15, 154. https://doi.org/10.1186/s12877-015-0155-4"
+                            },
+                            {
+                                "Citation": "Department for Communities and Local Government. (2015). The English indices of deprivation 2015: Technical report. Department for Communities and Local Government."
+                            },
+                            {
+                                "Citation": "Dickens, A. P., Richards, S. H., Greaves, C. J., & Campbell, J. L. (2011). Interventions targeting social isolation in older people: A systematic review. BMC Public Health, 11, 647."
+                            },
+                            {
+                                "Citation": "Donovan, N. J., Wu, Q., Rentz, D. M., Sperling, R. A., Marshall, G. A., & Glymour, M. M. (2016). Loneliness, depression and cognitive function in older U.S. adults. International Journal of Geriatric Psychiatry, 32(5), 564-573."
+                            },
+                            {
+                                "Citation": "Giebel, C. M., Challis, D. J., & Montaldi, D. (2016). A revised interview for deteriorations in daily living activities in dementia reveals the relationship between social activities and well-being. Dementia, 15(5), 1068-1081."
+                            },
+                            {
+                                "Citation": "Giebel, C. M., Flanagan, E., & Sutcliffe, C. (2018). Predictors of finance management in dementia: Managing bills and taxes matters. International Psychogeriatrics, 31(2), 277-286. https://doi.org/10.1017/S1041610218000820"
+                            },
+                            {
+                                "Citation": "Giebel, C., Lord, K., Cooper, C., Shenton, J., Cannon, J., Pulford, D., Shaw, L., Gaughan, A., Tetlow, H., Butchard, S., Limbert, S., Callaghan, S., Whittington, R., Rogers, C., Komuravelli, A., Rajagopal, M., Eley, R., Watkins, C., Downs, M., \u2026 Gabbay, M. (2020). A UK survey of COVID-19 related social support closures and their effects on older people, people with dementia, and carers. International Journal of Geriatric Psychiatry, in press. https://doi.org/10.1002/gps.5434"
+                            },
+                            {
+                                "Citation": "Gonyea, J. G., Curley, A., Melekis, K., Levine, N., & Lee, Y. (2018). Loneliness and depression among older adults in urban subsidized housing. Journal of Aging and Health, 30(3), 458-474. https://doi.org/10.1177/0898264316682908"
+                            },
+                            {
+                                "Citation": "Grenade, L., & Boldy, D. (2008). Social isolation and loneliness among older people: Issues and future challenges in community and residential settings. Australian Health Review, 32, 468-478. https://doi.org/10.1071/AH080468"
+                            },
+                            {
+                                "Citation": "Hawkley, L. C., Thisted, R. A., Masi, C. M., & Cacioppo, J. T. (2010). Loneliness predicts increased blood pressure: Five-year cross-lagged analyses in middle-aged and older adults. Psychology and Aging, 25(1), 132-141."
+                            },
+                            {
+                                "Citation": "Holt-Lunstad, J., Smith, T. B., Baker, M., Harris, T., & Stephenson, D. (2015). Loneliness and social isolation as risk factors for mortality: A meta-analytic review. Perspectives on Psychological Science, 10(2), 227-237."
+                            },
+                            {
+                                "Citation": "Huxholdt, O., Miche, M., & Schuez, B. (2014). Benefits of having friends in older ages: Differential effects of informal social activities on well-being in middle-aged and older adults. Journal of Gerontology Series B, 69(3), 366-375."
+                            },
+                            {
+                                "Citation": "National Health Service. (2019). The NHS Long Term Plan 2019. London, England."
+                            },
+                            {
+                                "Citation": "O\u2019Rourke, H. M., Collins, L., & Sidani, S. (2018). Interventions to address social connectedness and loneliness for older adults: A scoping review. BMC Geriatrics, 18, 214."
+                            },
+                            {
+                                "Citation": "Office for National Statistics. (2018). Overview of the UK population: November 2018. Office for National Statistics."
+                            },
+                            {
+                                "Citation": "Perissinotto, C. M., Stijacic Cenzer, I., & Covinsky, K. (2012). Loneliness in older persons: A predictor of functional decline and death. Archives of Internal Medicine, 172(14), 1078-1083."
+                            },
+                            {
+                                "Citation": "Pitkala, K. H., Routasalo, P., Kautiainen, H., & Tilvis, R. S. (2009). Effects of psychosocial group rehabilitation on health, use of health care services, and mortality of older persons suffering from loneliness: A randomized, controlled trial. The Journals of Gerontology Series A: Biological Sciences and Medical Sciences, 64A, 792-800. https://doi.org/10.1093/gerona/glp011"
+                            },
+                            {
+                                "Citation": "Sefton Council. (2015). Sefton: People & place introductory profile. Sefton Council. https://www.sefton.gov.uk/media/1310411/sefton_people_place_profile.pdf"
+                            },
+                            {
+                                "Citation": "Shankar, A., McMunn, A., Demakakos, P., Hamer, M., & Steptoe, A. (2017). Social isolation and loneliness: Prospective associations with functional status in older adults. Health Psychology, 36(2), 179-187."
+                            },
+                            {
+                                "Citation": "Thomson, L. J., Lockyer, B., Camic, P. M., Chatterjee, H. J.. (2018). Effects of a museum-based social prescription intervention on quantitative measures of psychological wellbeing in older adults. Perspectives in Public Health, 138(1), 28-38."
+                            },
+                            {
+                                "Citation": "Tomioka, K., Kurumatani, N., & Hosoi, H. (2016). Association between social participation and instrumental activities of daily living among community-dwelling older adults. Journal of Epidemiology, 26(10), 553-561."
+                            },
+                            {
+                                "Citation": "Van Groenou, M. I. B., & van Tilburg, T. (2003). Network size and support in old age: Differentials by socio-economic status in childhood and adulthood. Ageing & Society, 23(5), 625-645."
+                            },
+                            {
+                                "Citation": "Victor, C. R., Scambler, S. J., Bowling, A., & Bond, J. (2005). The prevalence of, and risk factors for, loneliness in later life: A survey of older people in Great Britain. Ageing & Society, 25, 357-375. https://doi.org/10.1017/S0144686X04003332"
+                            },
+                            {
+                                "Citation": "Wallace, L. M. K., Theou, O., Godin, J., Andrew, M. K., Bennett, D. A., & Rockwood, K. (2019). Investigation of frailty as a moderator of the relationship between neuropathology and dementia in Alzheimer\u2019s disease: A cross-sectional analysis of data from the Rush Memory and Aging Project. The Lancet Neurology, 18(2), 177-184. https://doi.org/10.1016/S1474-4422(18)30371-5"
+                            },
+                            {
+                                "Citation": "Winstead, V., Yost, E. A., Cotten, S. R., Berkowsky, R. W., & Anderson, W. A. (2014). The impact of activity interventions on the well-being of older adults in continuing care communities. Journal of Applied Gerontology, 33, 888-911. https://doi.org/10.1177/0733464814537701"
+                            }
+                        ],
+                        "Title": "REFERENCES"
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "03",
+                        "Day": "06"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "09",
+                        "Day": "19"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "10",
+                        "Day": "20"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "18"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "10",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "10",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "aheadofprint",
+                "ArticleIdList": [
+                    "33295046",
+                    "10.1111/hsc.13228"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1111/hsc.13228)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1111%2Fhsc.13228%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1111%2Fhsc.13228%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097289258"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097289258?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097289258&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097289258&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097289258",
+                        "dc:identifier": "SCOPUS_ID:85097289258",
+                        "eid": "2-s2.0-85097289258",
+                        "dc:title": "Enabling middle-aged and older adults accessing community services to reduce social isolation: Community Connectors",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "Health and Social Care in the Community",
+                        "prism:issn": "09660410",
+                        "prism:eIssn": "13652524",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-01-01",
+                        "prism:coverDisplayDate": "2020",
+                        "prism:doi": "10.1111/hsc.13228",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR ARC NWC",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "20848",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherhybridgold"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Hybrid Gold"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "ZB3T76LU.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33295046"
+            }
+        },
+        "title": "Enabling middle-aged and older adults accessing community services to reduce social isolation: Community Connectors.",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Hassan S",
+                "family": "Hassan",
+                "given": "Shaima",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Harvey G",
+                "family": "Harvey",
+                "given": "Gina",
+                "affiliation": {
+                    "name": "Community Connectors, Sefton Council for Voluntary Service, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Devitt C",
+                "family": "Devitt",
+                "given": "Conal",
+                "affiliation": {
+                    "name": "Community Connectors, Sefton Council for Voluntary Service, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Harper L",
+                "family": "Harper",
+                "given": "Lesley",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Simmill-Binning C",
+                "family": "Simmill-Binning",
+                "given": "Cheryl",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "health inequalities",
+                "loneliness",
+                "older adults",
+                "public involvement",
+                "social connectedness",
+                "social isolation"
+            ]
+        },
+        "journal": {
+            "journal_name": "Health Soc Care Community",
+            "volume": "",
+            "issue": ""
+        },
+        "abstract": "[\"A large number of older adults (65+ years) live on their own, and can experience high levels of loneliness. However, accessing activities to engage with their community can be difficult either due to their age and associated comorbidities, such as frailty, or due to financial reasons, for lacking the funds to access transport to activities. The aim of this study was to evaluate an existing service in the North West of England, Community Connectors, which enables people aged 18 and above to access social activities within their community in order to reduce loneliness and social isolation. This study only included middle-aged and older adults. A total of 13 semi-structured interviews were performed after people had taken part in the 14-week Community Connectors programme. Data were coded by two research team members by using thematic analysis. Members of the public were involved in the design of this study, and in the dissemination. Between June 2017 to September 2018, 234 older adults and 53 middle-aged adults were referred to Community Connectors. Four themes emerged from the interviews: falling out of society; easy self-referral; structured supportive services; and reconnecting with community. Services often depend on individuals making the first step to access, however, without easy or facilitated access people can becoming isolated. Participants reported on how Community Connectors provided easy and open access that enabled better response to individual needs. The structured support provided individuals with confidence in engaging with community activities and enhanced individuals' social networks. Community Connectors enables middle-aged and older adults to engage with social activities in their community, and thus helps participants to feel less lonely and more socially connected. Future work needs to quantitatively measure the impacts of the service on loneliness, depression, and social connectedness in order to fully understand their impact.\"]",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

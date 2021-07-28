@@ -1,0 +1,1105 @@
+{
+    "IDs": {
+        "zotero": "HPJYAFPH",
+        "DOI": "10.1016/S2468-2667(20)30026-8",
+        "DOI_filename": "4349ff61eac1956a6e0c5dd7b0117646",
+        "PMID": "32113519",
+        "scopus": "2-s2.0-85079882481",
+        "hash": "15a8bb8d093df79ac01804a1576ed6a9"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "HPJYAFPH",
+            "version": 982,
+            "itemType": "journalArticle",
+            "title": "Effects on mental health of a UK welfare reform, Universal Credit: a longitudinal controlled study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Sophie",
+                    "lastName": "Wickham"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lee",
+                    "lastName": "Bentley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tanith",
+                    "lastName": "Rose"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Margaret",
+                    "lastName": "Whitehead"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "David",
+                    "lastName": "Taylor-Robinson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Barr"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "The Lancet Public Health",
+            "volume": "5",
+            "issue": "3",
+            "pages": "e157-e164",
+            "date": "03/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "The Lancet Public Health",
+            "language": "en",
+            "DOI": "10.1016/S2468-2667(20)30026-8",
+            "ISSN": "24682667",
+            "shortTitle": "Effects on mental health of a UK welfare reform, Universal Credit",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S2468266720300268",
+            "accessDate": "2021-07-23T16:46:07Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32113519",
+            "tags": [
+                {
+                    "tag": "IPH"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:12Z",
+            "dateModified": "2021-07-27T11:54:27Z",
+            "pmid": "32113519"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        5
+                    ]
+                ],
+                "date-time": "2021-04-05T15:44:29Z",
+                "timestamp": 1617637469863
+            },
+            "reference-count": 20,
+            "publisher": "Elsevier BV",
+            "issue": "3",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                3,
+                                1
+                            ]
+                        ],
+                        "date-time": "2020-03-01T00:00:00Z",
+                        "timestamp": 1583020800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                1,
+                                30
+                            ]
+                        ],
+                        "date-time": "2020-01-30T00:00:00Z",
+                        "timestamp": 1580342400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "thelancet.com",
+                    "elsevier.com",
+                    "sciencedirect.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        3
+                    ]
+                ]
+            },
+            "DOI": "10.1016/s2468-2667(20)30026-8",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        27
+                    ]
+                ],
+                "date-time": "2020-02-27T23:31:05Z",
+                "timestamp": 1582846265000
+            },
+            "page": "e157-e164",
+            "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 18,
+            "title": "Effects on mental health of a UK welfare reform, Universal Credit: a longitudinal controlled study",
+            "prefix": "10.1016",
+            "volume": "5",
+            "author": [
+                {
+                    "given": "Sophie",
+                    "family": "Wickham",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Lee",
+                    "family": "Bentley",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Tanith",
+                    "family": "Rose",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Margaret",
+                    "family": "Whitehead",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "David",
+                    "family": "Taylor-Robinson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ben",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "reference": [
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "339",
+                    "DOI": "10.1136/jech-2015-206209",
+                    "article-title": "\u2018First, do no harm\u2019: are disability assessments associated with adverse trends in mental health? A longitudinal ecological study",
+                    "volume": "70",
+                    "author": "Barr",
+                    "year": "2016",
+                    "journal-title": "J Epidemiol Community Health"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "324",
+                    "DOI": "10.1016/j.socscimed.2015.11.009",
+                    "article-title": "Trends in mental health inequalities in England during a period of recession, austerity and welfare reform 2004 to 2013",
+                    "volume": "147",
+                    "author": "Barr",
+                    "year": "2015",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib3",
+                    "author": "Arie",
+                    "volume": "5131",
+                    "year": "2018",
+                    "article-title": "Doctors' concerns over Universal Credit are mounting",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib6",
+                    "year": "2018",
+                    "series-title": "Rolling out Universal Credit"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "11",
+                    "DOI": "10.1332/175982714X13875306538881",
+                    "article-title": "Universal Credit: the story so far\u2026",
+                    "volume": "22",
+                    "author": "Sainsbury",
+                    "year": "2014",
+                    "journal-title": "J Poverty Soc Justice"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib9",
+                    "author": "Jitendra",
+                    "year": "2018",
+                    "series-title": "Left behind. Is universal credit truly universal?"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib11",
+                    "author": "Wright"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib12",
+                    "author": "Cheetham",
+                    "volume": "9",
+                    "year": "2019",
+                    "article-title": "Impact of Universal Credit in North East England: a qualitative study of claimants and support staff",
+                    "journal-title": "BMJ Open",
+                    "DOI": "10.1136/bmjopen-2019-029611",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "179",
+                    "DOI": "10.1080/17437199.2018.1426484",
+                    "article-title": "The structure of the General Health Questionnaire (GHQ-12): two meta-analytic factor analyses",
+                    "volume": "12",
+                    "author": "Gnambs",
+                    "year": "2018",
+                    "journal-title": "Health Psychol Rev"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "139",
+                    "DOI": "10.1017/S0033291700021644",
+                    "article-title": "A scaled version of the General Health Questionnaire",
+                    "volume": "9",
+                    "author": "Goldberg",
+                    "year": "1979",
+                    "journal-title": "Psychol Med"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "191",
+                    "DOI": "10.1017/S0033291796004242",
+                    "article-title": "The validity of two versions of the GHQ in the WHO study of mental illness in general health care",
+                    "volume": "27",
+                    "author": "Goldberg",
+                    "year": "1997",
+                    "journal-title": "Psychol Med"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "564",
+                    "DOI": "10.1016/j.jval.2013.01.006",
+                    "article-title": "The mental component of the Short-Form 12 Health Survey (SF-12) as a measure of depressive disorders in the general population: results with three alternative scoring methods",
+                    "volume": "16",
+                    "author": "Vilagut",
+                    "year": "2013",
+                    "journal-title": "Value Health"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "85",
+                    "DOI": "10.1016/j.econlet.2011.11.025",
+                    "article-title": "The treatment effect, the cross difference, and the interaction term in nonlinear \u201cdifference-in-differences\u201d models",
+                    "volume": "115",
+                    "author": "Puhani",
+                    "year": "2012",
+                    "journal-title": "Econ Lett"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1182",
+                    "DOI": "10.1136/jech-2011-200375",
+                    "article-title": "Using natural experiments to evaluate population health interventions: new Medical Research Council guidance",
+                    "volume": "66",
+                    "author": "Craig",
+                    "year": "2012",
+                    "journal-title": "J Epidemiol Community Health"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib21",
+                    "first-page": "665",
+                    "article-title": "The effectiveness of case-finding for mental health problems in primary care",
+                    "volume": "55",
+                    "author": "Bushnell",
+                    "year": "2005",
+                    "journal-title": "Br J Gen Pract"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "452",
+                    "DOI": "10.1136/jech-2015-206333",
+                    "article-title": "Fit-for-work or fit-for-unemployment? Does the reassessment of disability benefit claimants using a tougher work capability assessment help people into work?",
+                    "volume": "70",
+                    "author": "Barr",
+                    "year": "2016",
+                    "journal-title": "J Epidemiol Community Health"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "18",
+                    "DOI": "10.1093/eurpub/ckx167",
+                    "article-title": "Austerity and health: the impact in the UK and Europe",
+                    "volume": "27",
+                    "author": "Stuckler",
+                    "year": "2017",
+                    "journal-title": "Eur J Public Health"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "109",
+                    "DOI": "10.1177/0141076816632215",
+                    "article-title": "Austerity and old-age mortality in England: a longitudinal cross-local area analysis, 2007-2013",
+                    "volume": "109",
+                    "author": "Loopstra",
+                    "year": "2016",
+                    "journal-title": "J R Soc Med"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e333",
+                    "DOI": "10.1016/S2468-2667(18)30109-9",
+                    "article-title": "Effects of restrictions to Income Support on health of lone mothers in the UK: a natural experiment study",
+                    "volume": "3",
+                    "author": "Katikireddi",
+                    "year": "2018",
+                    "journal-title": "Lancet Public Health"
+                },
+                {
+                    "key": "10.1016/S2468-2667(20)30026-8_bib27",
+                    "author": "Wood"
+                }
+            ],
+            "container-title": "The Lancet Public Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S2468266720300268?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S2468266720300268?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        9
+                    ]
+                ],
+                "date-time": "2020-03-09T20:49:05Z",
+                "timestamp": 1583786945000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        3
+                    ]
+                ]
+            },
+            "references-count": 20,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            3
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "alternative-id": [
+                "S2468266720300268"
+            ],
+            "URL": "http://dx.doi.org/10.1016/S2468-2667(20)30026-8",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2468-2667"
+            ],
+            "container-title-short": "The Lancet Public Health",
+            "assertion": [
+                {
+                    "value": "Elsevier",
+                    "name": "publisher",
+                    "label": "This article is maintained by"
+                },
+                {
+                    "value": "Effects on mental health of a UK welfare reform, Universal Credit: a longitudinal controlled study",
+                    "name": "articletitle",
+                    "label": "Article Title"
+                },
+                {
+                    "value": "The Lancet Public Health",
+                    "name": "journaltitle",
+                    "label": "Journal Title"
+                },
+                {
+                    "value": "https://doi.org/10.1016/S2468-2667(20)30026-8",
+                    "name": "articlelink",
+                    "label": "CrossRef DOI link to publisher maintained version"
+                },
+                {
+                    "value": "https://doi.org/10.1016/S2468-2667(20)30036-0",
+                    "name": "associatedlink",
+                    "label": "CrossRef DOI link to the associated document"
+                },
+                {
+                    "value": "article",
+                    "name": "content_type",
+                    "label": "Content Type"
+                },
+                {
+                    "value": "\u00a9 2020 The Author(s). Published by Elsevier Ltd.",
+                    "name": "copyright",
+                    "label": "Copyright"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32113519",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "08",
+                    "Day": "10"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "08",
+                    "Day": "10"
+                },
+                "Article": {
+                    "ArticleDate": [],
+                    "ELocationID": [
+                        "S2468-2667(20)30026-8",
+                        "10.1016/S2468-2667(20)30026-8"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "2468-2667",
+                        "JournalIssue": {
+                            "Volume": "5",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "03"
+                            }
+                        },
+                        "Title": "The Lancet. Public health",
+                        "ISOAbbreviation": "Lancet Public Health"
+                    },
+                    "ArticleTitle": "Effects on mental health of a UK welfare reform, Universal Credit: a longitudinal controlled study.",
+                    "Pagination": {
+                        "MedlinePgn": "e157-e164"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Universal Credit, a welfare benefit reform in the UK, began to replace six existing benefit schemes in April, 2013, starting with the income-based Job Seekers Allowance. We aimed to determine the effects on mental health of the introduction of Universal Credit.",
+                            "In this longitudinal controlled study, we linked 197\u2008111 observations from 52\u2008187 individuals of working age (16-64 years) in England, Wales, and Scotland who participated in the Understanding Society UK Longitudinal Household Panel Study between 2009 and 2018 with administrative data on the month when Universal Credit was introduced into the area in which each respondent lived. We included participants who had data on employment status, local authority area of residence, psychological distress, and confounding variables. We excluded individuals from Northern Ireland and people out of work with a disability. We used difference-in-differences analysis of this nationally representative, longitudinal, household survey and separated respondents into two groups: unemployed people who were eligible for Universal Credit (intervention group) and people who were not unemployed and therefore would not have generally been eligible for Universal Credit (comparison group). Using the phased roll-out of Universal Credit, we compared the change in psychological distress (self-reported via General Health Questionnaire-12) between the intervention group and the comparison group over time as the reform was introduced in the area in which each respondent lived. We defined clinically significant psychological distress as a score of greater than 3 on the General Health Questionnaire-12. We tested whether there were differential effects across subgroups (age, sex, and education).",
+                            "The prevalence of psychological distress increased in the intervention group by 6\u00b757 percentage points (95% CI 1\u00b769-11\u00b742) after the introduction of Universal Credit relative to the comparison group, after accounting for potential confounders. We estimate that between April 29, 2013, and Dec 31, 2018, an additional 63\u2008674 (95% CI 10\u2008042-117\u2008307) unemployed people will have experienced levels of psychological distress that are clinically significant due to the introduction of Universal Credit; 21\u2008760 of these individuals might reach the diagnostic threshold for depression.",
+                            "Our findings suggest that the introduction of Universal Credit led to an increase in psychological distress, a measure of mental health difficulties, among those affected by the policy. Future changes to government welfare systems should be evaluated not only on a fiscal basis but on their potential to affect health and wellbeing.",
+                            "Wellcome Trust, UK National Institute for Health Research, and Medical Research Council."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2020 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All rights reserved."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK. Electronic address: slw@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wickham",
+                            "ForeName": "Sophie",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bentley",
+                            "ForeName": "Lee",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rose",
+                            "ForeName": "Tanith",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Whitehead",
+                            "ForeName": "Margaret",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK; Section of Epidemiology, Department of Public Health, University of Copenhagen, Copenhagen, Denmark."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Taylor-Robinson",
+                            "ForeName": "David",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "Ben",
+                            "Initials": "B"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Lancet Public Health",
+                    "NlmUniqueID": "101699003"
+                },
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Lancet Public Health. 2020 Mar;5(3):e127",
+                        "PMID": "32113514"
+                    },
+                    {
+                        "RefSource": "Lancet Public Health. 2020 Mar;5(3):e131-e132",
+                        "PMID": "32113516"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Longitudinal Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Mental Health",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Psychological Distress",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Welfare",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Eur J Public Health. 2017 Oct 1;27(suppl_4):18-21",
+                                "ArticleIdList": [
+                                    "29028245"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2012 Dec;66(12):1182-6",
+                                "ArticleIdList": [
+                                    "22577181"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2015 Dec;147:324-31",
+                                "ArticleIdList": [
+                                    "26623942"
+                                ]
+                            },
+                            {
+                                "Citation": "J R Soc Med. 2016 Mar;109(3):109-16",
+                                "ArticleIdList": [
+                                    "26980412"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Gen Pract. 2005 Sep;55(518):665-9",
+                                "ArticleIdList": [
+                                    "16176732"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2019 Jul 4;9(7):e029611",
+                                "ArticleIdList": [
+                                    "31272984"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 1997 Jan;27(1):191-7",
+                                "ArticleIdList": [
+                                    "9122299"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2016 Apr;70(4):339-45",
+                                "ArticleIdList": [
+                                    "26573235"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Psychol Rev. 2018 Jun;12(2):179-194",
+                                "ArticleIdList": [
+                                    "29325498"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Public Health. 2018 Jul;3(7):e333-e340",
+                                "ArticleIdList": [
+                                    "29976327"
+                                ]
+                            },
+                            {
+                                "Citation": "Value Health. 2013 Jun;16(4):564-73",
+                                "ArticleIdList": [
+                                    "23796290"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 1979 Feb;9(1):139-45",
+                                "ArticleIdList": [
+                                    "424481"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2016 May;70(5):452-8",
+                                "ArticleIdList": [
+                                    "26646692"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "09",
+                        "Day": "24"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "01",
+                        "Day": "29"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "01",
+                        "Day": "29"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "3",
+                        "Day": "2",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "3",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "8",
+                        "Day": "11",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "32113519",
+                    "S2468-2667(20)30026-8",
+                    "10.1016/S2468-2667(20)30026-8",
+                    "PMC7208537"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32113519)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832113519%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832113519%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079882481"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079882481?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079882481&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079882481&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2468266720300268"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079882481",
+                        "dc:identifier": "SCOPUS_ID:85079882481",
+                        "eid": "2-s2.0-85079882481",
+                        "dc:title": "Effects on mental health of a UK welfare reform, Universal Credit: a longitudinal controlled study",
+                        "dc:creator": "Wickham S.",
+                        "prism:publicationName": "The Lancet Public Health",
+                        "prism:eIssn": "24682667",
+                        "prism:volume": "5",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": "e157-e164",
+                        "prism:coverDate": "2020-03-01",
+                        "prism:coverDisplayDate": "March 2020",
+                        "prism:doi": "10.1016/S2468-2667(20)30026-8",
+                        "pii": "S2468266720300268",
+                        "citedby-count": "19",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32113519",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "21100804406",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "HPJYAFPH.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32113519"
+            }
+        },
+        "title": "Effects on mental health of a UK welfare reform, Universal Credit: a longitudinal controlled study.",
+        "full_author_list": [
+            {
+                "clean": "Wickham S",
+                "family": "Wickham",
+                "given": "Sophie",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK. Electronic address: slw@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Bentley L",
+                "family": "Bentley",
+                "given": "Lee",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Rose T",
+                "family": "Rose",
+                "given": "Tanith",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Whitehead M",
+                "family": "Whitehead",
+                "given": "Margaret",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Taylor-Robinson D",
+                "family": "Taylor-Robinson",
+                "given": "David",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK; Section of Epidemiology, Department of Public Health, University of Copenhagen, Copenhagen, Denmark."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Ben",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Wickham S",
+        "zotero_tags": [
+            {
+                "tag": "IPH"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Longitudinal Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Mental Health",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Psychological Distress",
+                    "major": "Y"
+                },
+                {
+                    "term": "Social Welfare",
+                    "major": "Y"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Lancet Public Health",
+            "volume": "5",
+            "issue": "3"
+        },
+        "abstract": "['Universal Credit, a welfare benefit reform in the UK, began to replace six existing benefit schemes in April, 2013, starting with the income-based Job Seekers Allowance. We aimed to determine the effects on mental health of the introduction of Universal Credit.', 'In this longitudinal controlled study, we linked 197\\u2008111 observations from 52\\u2008187 individuals of working age (16-64 years) in England, Wales, and Scotland who participated in the Understanding Society UK Longitudinal Household Panel Study between 2009 and 2018 with administrative data on the month when Universal Credit was introduced into the area in which each respondent lived. We included participants who had data on employment status, local authority area of residence, psychological distress, and confounding variables. We excluded individuals from Northern Ireland and people out of work with a disability. We used difference-in-differences analysis of this nationally representative, longitudinal, household survey and separated respondents into two groups: unemployed people who were eligible for Universal Credit (intervention group) and people who were not unemployed and therefore would not have generally been eligible for Universal Credit (comparison group). Using the phased roll-out of Universal Credit, we compared the change in psychological distress (self-reported via General Health Questionnaire-12) between the intervention group and the comparison group over time as the reform was introduced in the area in which each respondent lived. We defined clinically significant psychological distress as a score of greater than 3 on the General Health Questionnaire-12. We tested whether there were differential effects across subgroups (age, sex, and education).', 'The prevalence of psychological distress increased in the intervention group by 6\u00b757 percentage points (95% CI 1\u00b769-11\u00b742) after the introduction of Universal Credit relative to the comparison group, after accounting for potential confounders. We estimate that between April 29, 2013, and Dec 31, 2018, an additional 63\\u2008674 (95% CI 10\\u2008042-117\\u2008307) unemployed people will have experienced levels of psychological distress that are clinically significant due to the introduction of Universal Credit; 21\\u2008760 of these individuals might reach the diagnostic threshold for depression.', 'Our findings suggest that the introduction of Universal Credit led to an increase in psychological distress, a measure of mental health difficulties, among those affected by the policy. Future changes to government welfare systems should be evaluated not only on a fiscal basis but on their potential to affect health and wellbeing.', 'Wellcome Trust, UK National Institute for Health Research, and Medical Research Council.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "19"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK. Electronic address: slw@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

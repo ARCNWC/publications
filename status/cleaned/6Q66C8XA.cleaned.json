@@ -1,0 +1,1342 @@
+{
+    "IDs": {
+        "zotero": "6Q66C8XA",
+        "DOI": "10.1136/bmjgast-2020-000403",
+        "DOI_filename": "d397e339f46a64dc1a983c876f26e62b",
+        "PMID": "32444424",
+        "scopus": "2-s2.0-85085481362",
+        "hash": "40e6c1c41cc3fb24d8de7ff7d69ab5f6"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "6Q66C8XA",
+            "version": 998,
+            "itemType": "journalArticle",
+            "title": "Refinement and validation of the IDIOM score for predicting the risk of gastrointestinal cancer in iron deficiency anaemia",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Orouba",
+                    "lastName": "Almilaji"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Carla",
+                    "lastName": "Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sue",
+                    "lastName": "Surgenor"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Clegg"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Elizabeth",
+                    "lastName": "Williams"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Peter",
+                    "lastName": "Thomas"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jonathon",
+                    "lastName": "Snook"
+                }
+            ],
+            "abstractNote": "Objective\n              To refine and validate a model for predicting the risk of gastrointestinal (GI) cancer in iron deficiency anaemia (IDA) and to develop an app to facilitate use in clinical practice.\n            \n            \n              Design\n              Three elements: (1) analysis of a dataset of 2390 cases of IDA to validate the predictive value of age, sex, blood haemoglobin concentration (Hb), mean cell volume (MCV) and iron studies on the probability of underlying GI cancer; (2) a pilot study of the benefit of adding faecal immunochemical testing (FIT) into the model; and (3) development of an app based on the model.\n            \n            \n              Results\n              Age, sex and Hb were all strong, independent predictors of the risk of GI cancer, with ORs (95%\u2009CI) of 1.05 per year (1.03 to 1.07, p<0.00001), 2.86 for men (2.03 to 4.06, p<0.00001) and 1.03 for each g/L reduction in Hb (1.01 to 1.04, p<0.0001) respectively. An association with MCV was also revealed, with an OR of 1.03 for each fl reduction (1.01 to 1.05, p<0.02). The model was confirmed to be robust by an internal validation exercise. In the pilot study of high-risk cases, FIT was also predictive of GI cancer (OR 6.6, 95%\u2009CI 1.6 to 51.8), but the sensitivity was low at 23.5% (95% CI 6.8% to 49.9%). An app based on the model was developed.\n            \n            \n              Conclusion\n              This predictive model may help rationalise the use of investigational resources in IDA, by fast-tracking high-risk cases and, with appropriate safeguards, avoiding invasive investigation altogether in those at ultra-low predicted risk.",
+            "publicationTitle": "BMJ Open Gastroenterology",
+            "volume": "7",
+            "issue": "1",
+            "pages": "e000403",
+            "date": "05/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open Gastroenterol",
+            "language": "en",
+            "DOI": "10.1136/bmjgast-2020-000403",
+            "ISSN": "2054-4774",
+            "shortTitle": "",
+            "url": "https://bmjopengastro.bmj.com/lookup/doi/10.1136/bmjgast-2020-000403",
+            "accessDate": "2021-07-23T16:46:10Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32444424",
+            "tags": [
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:20Z",
+            "dateModified": "2021-07-27T12:09:00Z",
+            "pmid": "32444424"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        22
+                    ]
+                ],
+                "date-time": "2021-06-22T11:09:43Z",
+                "timestamp": 1624360183624
+            },
+            "reference-count": 36,
+            "publisher": "BMJ",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by-nc/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                5,
+                                21
+                            ]
+                        ],
+                        "date-time": "2020-05-21T00:00:00Z",
+                        "timestamp": 1590019200000
+                    },
+                    "delay-in-days": 20,
+                    "content-version": "unspecified"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/100008473",
+                    "name": "Bournemouth University",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                },
+                {
+                    "name": "National Institute for Health Research Applied Health Research Collaboration",
+                    "award": []
+                },
+                {
+                    "name": "Poole Hospital Gastroenterology Research Fund",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        5
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Objective</jats:title><jats:p>To refine and validate a model for predicting the risk of gastrointestinal (GI) cancer in iron deficiency anaemia (IDA) and to develop an app to facilitate use in clinical practice.</jats:p></jats:sec><jats:sec><jats:title>Design</jats:title><jats:p>Three elements: (1) analysis of a dataset of 2390 cases of IDA to validate the predictive value of age, sex, blood haemoglobin concentration (Hb), mean cell volume (MCV) and iron studies on the probability of underlying GI cancer; (2) a pilot study of the benefit of adding faecal immunochemical testing (FIT) into the model; and (3) development of an app based on the model.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Age, sex and Hb were all strong, independent predictors of the risk of GI cancer, with ORs (95%\u2009CI) of 1.05 per year (1.03 to 1.07, p&lt;0.00001), 2.86 for men (2.03 to 4.06, p&lt;0.00001) and 1.03 for each g/L reduction in Hb (1.01 to 1.04, p&lt;0.0001) respectively. An association with MCV was also revealed, with an OR of 1.03 for each fl reduction (1.01 to 1.05, p&lt;0.02). The model was confirmed to be robust by an internal validation exercise. In the pilot study of high-risk cases, FIT was also predictive of GI cancer (OR 6.6, 95%\u2009CI 1.6 to 51.8), but the sensitivity was low at 23.5% (95% CI 6.8% to 49.9%). An app based on the model was developed.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>This predictive model may help rationalise the use of investigational resources in IDA, by fast-tracking high-risk cases and, with appropriate safeguards, avoiding invasive investigation altogether in those at ultra-low predicted risk.</jats:p></jats:sec>",
+            "DOI": "10.1136/bmjgast-2020-000403",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        22
+                    ]
+                ],
+                "date-time": "2020-05-22T09:34:31Z",
+                "timestamp": 1590140071000
+            },
+            "page": "e000403",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 3,
+            "title": "Refinement and validation of the IDIOM score for predicting the risk of gastrointestinal cancer in iron deficiency anaemia",
+            "prefix": "10.1136",
+            "volume": "7",
+            "author": [
+                {
+                    "given": "Orouba",
+                    "family": "Almilaji",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Carla",
+                    "family": "Smith",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Sue",
+                    "family": "Surgenor",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Andrew",
+                    "family": "Clegg",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Elizabeth",
+                    "family": "Williams",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Peter",
+                    "family": "Thomas",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-3172-2722",
+                    "authenticated-orcid": false,
+                    "given": "Jonathon",
+                    "family": "Snook",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        21
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020052202342539000_7.1.e000403.1",
+                    "DOI": "10.1056/NEJMra1401038",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.2",
+                    "unstructured": "Stone H , Almilaji O , John C . The dedicated iron deficiency anaemia clinic \u2013 a fifteen-year experience."
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.3",
+                    "first-page": "53",
+                    "article-title": "Gastrointestinal tract evaluation in patients with iron deficiency anemia",
+                    "volume": "10",
+                    "author": "Rockey",
+                    "year": "1999",
+                    "journal-title": "Semin Gastrointest Dis"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.4",
+                    "DOI": "10.1097/MEG.0b013e32834f3140",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.5",
+                    "DOI": "10.1007/s10620-009-1108-6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "588",
+                    "DOI": "10.1111/j.1463-1318.2005.00880.x",
+                    "article-title": "Iron deficiency anaemia--useful diagnostic tool for right sided colon cancers?",
+                    "volume": "7",
+                    "author": "Rai",
+                    "year": "2005",
+                    "journal-title": "Colorectal Dis"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.7",
+                    "DOI": "10.1136/flgastro-2013-100385",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.8",
+                    "DOI": "10.1136/gut.2010.228874",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.9",
+                    "DOI": "10.1097/00042737-200511000-00008",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.10",
+                    "DOI": "10.1136/flgastro-2013-100386",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.11",
+                    "unstructured": "Agresti A . Categorical data analysis. New Jersey: John Wiley & Sons Inc, 2002.",
+                    "DOI": "10.1002/0471249688",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.12",
+                    "DOI": "10.1016/j.patrec.2008.08.010",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.13",
+                    "DOI": "10.1080/10659360600787700",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.14",
+                    "unstructured": "Afonja T . Accuracy paradox. Towards Data Science, 2017."
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.15",
+                    "unstructured": "Tharwat A . Classification assessment methods. Applied Computing and Informatics 2018;12.doi:10.1016/j.aci.2018.08.003",
+                    "DOI": "10.1016/j.aci.2018.08.003",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.16",
+                    "author": "Kubat",
+                    "volume": "1224",
+                    "first-page": "146",
+                    "year": "1997",
+                    "volume-title": "ECML 1997"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.17",
+                    "first-page": "1",
+                    "article-title": "Recognition of multiple imbalanced cancer types based on DNA microarray data using ensemble classifiers",
+                    "volume": "2013",
+                    "author": "Yu",
+                    "year": "2013",
+                    "journal-title": "Biomed Res Int"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.18",
+                    "DOI": "10.1093/bib/bbs006",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.19",
+                    "unstructured": "Fern\u00e1ndez A , Garc\u00eda S , Galar M , et al . Learning from imbalanced data sets. 1st Edn. Switzerland:Springer, 2018.",
+                    "DOI": "10.1007/978-3-319-98074-4_1",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.20",
+                    "unstructured": "Alpha Laboratories UK . hema-screen specific fit, 2018. Available: https://www.alphalabs.co.uk/media/productfile/file/h/e/hemascreen-specific-2012.pdf [Accessed 15 Dec 2019]."
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.21",
+                    "DOI": "10.1016/S0016-5107(04)00348-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.22",
+                    "DOI": "10.1038/sj.bjc.6604165",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.23",
+                    "unstructured": "Cancer Research UK . Cancer Incidence Statistics, 2008 - 2010. Available: http://www.cancerresearchuk.org/cancer-info/cancerstats/incidence/uk-cancer-incidence-statistics [Accessed 15 Dec 2019]."
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "309",
+                    "DOI": "10.1093/ageing/afz199",
+                    "article-title": "New horizons in iron deficiency anaemia in older adults",
+                    "volume": "49",
+                    "author": "Burton",
+                    "year": "2020",
+                    "journal-title": "Age Ageing"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.25",
+                    "DOI": "10.3399/bjgp09X472971",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.26",
+                    "DOI": "10.1136/gut.34.10.1427",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.27",
+                    "author": "Lee",
+                    "volume": "115",
+                    "year": "2020",
+                    "article-title": "Use of fecal occult blood testing as a diagnostic tool for clinical indications: a systematic review and meta-analysis",
+                    "journal-title": "Am J Gastroenterol",
+                    "DOI": "10.14309/ajg.0000000000000495",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.28",
+                    "DOI": "10.1136/bmjgast-2019-000293",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "395",
+                    "DOI": "10.1002/bjs5.50131",
+                    "article-title": "Service evaluation of faecal immunochemical testing and anaemia for risk stratification in the 2-week-wait pathway for colorectal cancer",
+                    "volume": "3",
+                    "author": "Chapman",
+                    "year": "2019",
+                    "journal-title": "BJS Open"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "177",
+                    "DOI": "10.2147/RMHP.S109116",
+                    "article-title": "The NHS bowel cancer screening program: current perspectives on strategies for improvement",
+                    "volume": "10",
+                    "author": "Koo",
+                    "year": "2017",
+                    "journal-title": "Risk Manag Healthc Policy"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.31",
+                    "DOI": "10.1002/cncr.22230",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1494",
+                    "DOI": "10.1053/j.gastro.2019.08.023",
+                    "article-title": "Effect of sex, age, and positivity threshold on fecal immunochemical test accuracy: a systematic review and meta-analysis",
+                    "volume": "157",
+                    "author": "Selby",
+                    "year": "2019",
+                    "journal-title": "Gastroenterology"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.33",
+                    "DOI": "10.1007/s003840000255",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1022",
+                    "DOI": "10.1016/j.dld.2011.08.002",
+                    "article-title": "Is faecal-immunochemical test useful in patients with iron deficiency anaemia and without overt bleeding?",
+                    "volume": "43",
+                    "author": "Cilona",
+                    "year": "2011",
+                    "journal-title": "Dig Liver Dis"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2125",
+                    "DOI": "10.1056/NEJMoa1909159",
+                    "article-title": "Diagnosis of pulmonary embolism with D-dimer adjusted to clinical probability",
+                    "volume": "381",
+                    "author": "Kearon",
+                    "year": "2019",
+                    "journal-title": "N Engl J Med"
+                },
+                {
+                    "key": "2020052202342539000_7.1.e000403.36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2685",
+                    "DOI": "10.1007/s10620-016-4169-3",
+                    "article-title": "Does low threshold value use improve proximal neoplasia detection by fecal immunochemical test?",
+                    "volume": "61",
+                    "author": "Kim",
+                    "year": "2016",
+                    "journal-title": "Dig Dis Sci"
+                }
+            ],
+            "container-title": "BMJ Open Gastroenterology",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjgast-2020-000403",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        26
+                    ]
+                ],
+                "date-time": "2020-09-26T01:10:53Z",
+                "timestamp": 1601082653000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        5
+                    ]
+                ]
+            },
+            "references-count": 36,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2020,
+                            5,
+                            21
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            5
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "10.1136/bmjgast-2020-000403"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmjgast-2020-000403",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2054-4774"
+            ],
+            "container-title-short": "BMJ Open Gastroenterol"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [
+                    [
+                        "endoscopy",
+                        "gastrointestinal neoplasia",
+                        "iron deficiency"
+                    ]
+                ],
+                "OtherID": [],
+                "PMID": "32444424",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "07",
+                    "Day": "19"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "07",
+                    "Day": "19"
+                },
+                "Article": {
+                    "ArticleDate": [],
+                    "ELocationID": [
+                        "e000403",
+                        "10.1136/bmjgast-2020-000403"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "2054-4774",
+                        "JournalIssue": {
+                            "Volume": "7",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "05"
+                            }
+                        },
+                        "Title": "BMJ open gastroenterology",
+                        "ISOAbbreviation": "BMJ Open Gastroenterol"
+                    },
+                    "ArticleTitle": "Refinement and validation of the IDIOM score for predicting the risk of gastrointestinal cancer in iron deficiency anaemia.",
+                    "Abstract": {
+                        "AbstractText": [
+                            "To refine and validate a model for predicting the risk of gastrointestinal (GI) cancer in iron deficiency anaemia (IDA) and to develop an app to facilitate use in clinical practice.",
+                            "Three elements: (1) analysis of a dataset of 2390 cases of IDA to validate the predictive value of age, sex, blood haemoglobin concentration (Hb), mean cell volume (MCV) and iron studies on the probability of underlying GI cancer; (2) a pilot study of the benefit of adding faecal immunochemical testing (FIT) into the model; and (3) development of an app based on the model.",
+                            "Age, sex and Hb were all strong, independent predictors of the risk of GI cancer, with ORs (95%\u2009CI) of 1.05 per year (1.03 to 1.07, p<0.00001), 2.86 for men (2.03 to 4.06, p<0.00001) and 1.03 for each g/L reduction in Hb (1.01 to 1.04, p<0.0001) respectively. An association with MCV was also revealed, with an OR of 1.03 for each fl reduction (1.01 to 1.05, p<0.02). The model was confirmed to be robust by an internal validation exercise. In the pilot study of high-risk cases, FIT was also predictive of GI cancer (OR 6.6, 95%\u2009CI 1.6 to 51.8), but the sensitivity was low at 23.5% (95% CI 6.8% to 49.9%). An app based on the model was developed.",
+                            "This predictive model may help rationalise the use of investigational resources in IDA, by fast-tracking high-risk cases and, with appropriate safeguards, avoiding invasive investigation altogether in those at ultra-low predicted risk."
+                        ],
+                        "CopyrightInformation": "\u00a9 Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Gastroenterology, Poole Hospital NHS Foundation Trust, Poole, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Clinical Research Unit, Bournemouth University, Bournemouth, Dorset, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Almilaji",
+                            "ForeName": "Orouba",
+                            "Initials": "O"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Gastroenterology, Poole Hospital NHS Foundation Trust, Poole, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Smith",
+                            "ForeName": "Carla",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Gastroenterology, Poole Hospital NHS Foundation Trust, Poole, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Surgenor",
+                            "ForeName": "Sue",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Health Technology Assessment Group, University of Central Lancashire, Preston, Lancashire, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Clegg",
+                            "ForeName": "Andrew",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Gastroenterology, Poole Hospital NHS Foundation Trust, Poole, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Williams",
+                            "ForeName": "Elizabeth",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Clinical Research Unit, Bournemouth University, Bournemouth, Dorset, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Thomas",
+                            "ForeName": "Peter",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Gastroenterology, Poole Hospital NHS Foundation Trust, Poole, UK jonathon.snook@gmail.com."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-3172-2722"
+                            ],
+                            "LastName": "Snook",
+                            "ForeName": "Jonathon",
+                            "Initials": "J"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Comparative Study",
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open Gastroenterol",
+                    "NlmUniqueID": "101660690",
+                    "ISSNLinking": "2054-4774"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Hemoglobins"
+                    },
+                    {
+                        "RegistryNumber": "E1UOL152H7",
+                        "NameOfSubstance": "Iron"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "blood",
+                            "complications",
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Anemia, Iron-Deficiency",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Databases, Factual",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "physiology"
+                        ],
+                        "DescriptorName": "Erythrocyte Indices",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "chemistry"
+                        ],
+                        "DescriptorName": "Feces",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnosis",
+                            "etiology"
+                        ],
+                        "DescriptorName": "Gastrointestinal Neoplasms",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "analysis"
+                        ],
+                        "DescriptorName": "Hemoglobins",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Incidence",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "blood"
+                        ],
+                        "DescriptorName": "Iron",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Occult Blood",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pilot Projects",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Predictive Value of Tests",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Risk Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Sensitivity and Specificity",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Software",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: SS and EW have received honoraria for speaking at educational meetings sponsored by Pharmacosmos."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Am J Gastroenterol. 2020 May;115(5):662-670",
+                                "ArticleIdList": [
+                                    "31972617"
+                                ]
+                            },
+                            {
+                                "Citation": "Gut. 1993 Oct;34(10):1427-8",
+                                "ArticleIdList": [
+                                    "8244114"
+                                ]
+                            },
+                            {
+                                "Citation": "Gastrointest Endosc. 2004 Jun;59(7):766-71",
+                                "ArticleIdList": [
+                                    "15173787"
+                                ]
+                            },
+                            {
+                                "Citation": "Brief Bioinform. 2013 Jan;14(1):13-26",
+                                "ArticleIdList": [
+                                    "22408190"
+                                ]
+                            },
+                            {
+                                "Citation": "BJS Open. 2019 Jan 28;3(3):395-402",
+                                "ArticleIdList": [
+                                    "31183456"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open Gastroenterol. 2019 May 4;6(1):e000293",
+                                "ArticleIdList": [
+                                    "31275586"
+                                ]
+                            },
+                            {
+                                "Citation": "SAR QSAR Environ Res. 2006 Jun;17(3):337-52",
+                                "ArticleIdList": [
+                                    "16815772"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Gastroenterol Hepatol. 2012 Feb;24(2):109-16",
+                                "ArticleIdList": [
+                                    "22157204"
+                                ]
+                            },
+                            {
+                                "Citation": "Risk Manag Healthc Policy. 2017 Dec 04;10:177-187",
+                                "ArticleIdList": [
+                                    "29270036"
+                                ]
+                            },
+                            {
+                                "Citation": "Gut. 2011 Oct;60(10):1309-16",
+                                "ArticleIdList": [
+                                    "21561874"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2015 May 7;372(19):1832-43",
+                                "ArticleIdList": [
+                                    "25946282"
+                                ]
+                            },
+                            {
+                                "Citation": "Colorectal Dis. 2005 Nov;7(6):588-90",
+                                "ArticleIdList": [
+                                    "16232240"
+                                ]
+                            },
+                            {
+                                "Citation": "Dig Dis Sci. 2016 Sep;61(9):2685-93",
+                                "ArticleIdList": [
+                                    "27107865"
+                                ]
+                            },
+                            {
+                                "Citation": "Gastroenterology. 2019 Dec;157(6):1494-1505",
+                                "ArticleIdList": [
+                                    "31472152"
+                                ]
+                            },
+                            {
+                                "Citation": "Frontline Gastroenterol. 2014 Jul;5(3):219-223",
+                                "ArticleIdList": [
+                                    "28839773"
+                                ]
+                            },
+                            {
+                                "Citation": "Biomed Res Int. 2013;2013:239628",
+                                "ArticleIdList": [
+                                    "24078908"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2020 Apr 27;49(3):309-318",
+                                "ArticleIdList": [
+                                    "32103233"
+                                ]
+                            },
+                            {
+                                "Citation": "Cancer. 2006 Nov 1;107(9):2152-9",
+                                "ArticleIdList": [
+                                    "16998938"
+                                ]
+                            },
+                            {
+                                "Citation": "Frontline Gastroenterol. 2014 Oct;5(4):237-242",
+                                "ArticleIdList": [
+                                    "28839779"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Colorectal Dis. 2000 Nov;15(5-6):271-4",
+                                "ArticleIdList": [
+                                    "11151429"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Cancer. 2008 Jan 29;98(2):323-7",
+                                "ArticleIdList": [
+                                    "18219289"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2019 Nov 28;381(22):2125-2134",
+                                "ArticleIdList": [
+                                    "31774957"
+                                ]
+                            },
+                            {
+                                "Citation": "Dig Liver Dis. 2011 Dec;43(12):1022-4",
+                                "ArticleIdList": [
+                                    "21900058"
+                                ]
+                            },
+                            {
+                                "Citation": "Dig Dis Sci. 2010 Mar;55(3):548-59",
+                                "ArticleIdList": [
+                                    "20108038"
+                                ]
+                            },
+                            {
+                                "Citation": "Semin Gastrointest Dis. 1999 Apr;10(2):53-64",
+                                "ArticleIdList": [
+                                    "10361896"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Gen Pract. 2009 Nov;59(568):872-4; discussion 874",
+                                "ArticleIdList": [
+                                    "19861036"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Gastroenterol Hepatol. 2005 Nov;17(11):1197-203",
+                                "ArticleIdList": [
+                                    "16215432"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "03",
+                        "Day": "15"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "03",
+                        "Day": "30"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "04",
+                        "Day": "08"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "5",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "5",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "7",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "32444424",
+                    "bmjgast-2020-000403",
+                    "10.1136/bmjgast-2020-000403",
+                    "PMC7247388"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1136/bmjgast-2020-000403)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1136%2Fbmjgast-2020-000403%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1136%2Fbmjgast-2020-000403%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085481362"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085481362?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085481362&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085481362&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085481362",
+                        "dc:identifier": "SCOPUS_ID:85085481362",
+                        "eid": "2-s2.0-85085481362",
+                        "dc:title": "Refinement and validation of the IDIOM score for predicting the risk of gastrointestinal cancer in iron deficiency anaemia",
+                        "dc:creator": "Almilaji O.",
+                        "prism:publicationName": "BMJ Open Gastroenterology",
+                        "prism:eIssn": "20544774",
+                        "prism:volume": "7",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-05-21",
+                        "prism:coverDisplayDate": "21 May 2020",
+                        "prism:doi": "10.1136/bmjgast-2020-000403",
+                        "citedby-count": "3",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Bournemouth University",
+                                "affiliation-city": "Bournemouth",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "Poole Hospital NHS Foundation Trust",
+                                "affiliation-city": "Poole",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e000403",
+                        "source-id": "21100854130",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "6Q66C8XA.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32444424"
+            }
+        },
+        "title": "Refinement and validation of the IDIOM score for predicting the risk of gastrointestinal cancer in iron deficiency anaemia.",
+        "full_author_list": [
+            {
+                "clean": "Almilaji O",
+                "family": "Almilaji",
+                "given": "Orouba",
+                "affiliation": {
+                    "name": "Department of Gastroenterology, Poole Hospital NHS Foundation Trust, Poole, UK."
+                }
+            },
+            {
+                "clean": "Smith C",
+                "family": "Smith",
+                "given": "Carla",
+                "affiliation": {
+                    "name": "Department of Gastroenterology, Poole Hospital NHS Foundation Trust, Poole, UK."
+                }
+            },
+            {
+                "clean": "Surgenor S",
+                "family": "Surgenor",
+                "given": "Sue",
+                "affiliation": {
+                    "name": "Department of Gastroenterology, Poole Hospital NHS Foundation Trust, Poole, UK."
+                }
+            },
+            {
+                "clean": "Clegg A",
+                "family": "Clegg",
+                "given": "Andrew",
+                "affiliation": {
+                    "name": "Health Technology Assessment Group, University of Central Lancashire, Preston, Lancashire, UK."
+                }
+            },
+            {
+                "clean": "Williams E",
+                "family": "Williams",
+                "given": "Elizabeth",
+                "affiliation": {
+                    "name": "Department of Gastroenterology, Poole Hospital NHS Foundation Trust, Poole, UK."
+                }
+            },
+            {
+                "clean": "Thomas P",
+                "family": "Thomas",
+                "given": "Peter",
+                "affiliation": {
+                    "name": "Clinical Research Unit, Bournemouth University, Bournemouth, Dorset, UK."
+                }
+            },
+            {
+                "clean": "Snook J",
+                "family": "Snook",
+                "given": "Jonathon",
+                "affiliation": {
+                    "name": "Department of Gastroenterology, Poole Hospital NHS Foundation Trust, Poole, UK jonathon.snook@gmail.com."
+                }
+            }
+        ],
+        "first_author": "Almilaji O",
+        "zotero_tags": [
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Anemia, Iron-Deficiency",
+                    "major": "N"
+                },
+                {
+                    "term": "Databases, Factual",
+                    "major": "N"
+                },
+                {
+                    "term": "Erythrocyte Indices",
+                    "major": "N"
+                },
+                {
+                    "term": "Feces",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Gastrointestinal Neoplasms",
+                    "major": "N"
+                },
+                {
+                    "term": "Hemoglobins",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Incidence",
+                    "major": "N"
+                },
+                {
+                    "term": "Iron",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Occult Blood",
+                    "major": "N"
+                },
+                {
+                    "term": "Pilot Projects",
+                    "major": "N"
+                },
+                {
+                    "term": "Predictive Value of Tests",
+                    "major": "N"
+                },
+                {
+                    "term": "Risk Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Sensitivity and Specificity",
+                    "major": "N"
+                },
+                {
+                    "term": "Software",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "endoscopy",
+                "gastrointestinal neoplasia",
+                "iron deficiency"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMJ Open Gastroenterol",
+            "volume": "7",
+            "issue": "1"
+        },
+        "abstract": "['To refine and validate a model for predicting the risk of gastrointestinal (GI) cancer in iron deficiency anaemia (IDA) and to develop an app to facilitate use in clinical practice.', 'Three elements: (1) analysis of a dataset of 2390 cases of IDA to validate the predictive value of age, sex, blood haemoglobin concentration (Hb), mean cell volume (MCV) and iron studies on the probability of underlying GI cancer; (2) a pilot study of the benefit of adding faecal immunochemical testing (FIT) into the model; and (3) development of an app based on the model.', 'Age, sex and Hb were all strong, independent predictors of the risk of GI cancer, with ORs (95%\\u2009CI) of 1.05 per year (1.03 to 1.07, p<0.00001), 2.86 for men (2.03 to 4.06, p<0.00001) and 1.03 for each g/L reduction in Hb (1.01 to 1.04, p<0.0001) respectively. An association with MCV was also revealed, with an OR of 1.03 for each fl reduction (1.01 to 1.05, p<0.02). The model was confirmed to be robust by an internal validation exercise. In the pilot study of high-risk cases, FIT was also predictive of GI cancer (OR 6.6, 95%\\u2009CI 1.6 to 51.8), but the sensitivity was low at 23.5% (95% CI 6.8% to 49.9%). An app based on the model was developed.', 'This predictive model may help rationalise the use of investigational resources in IDA, by fast-tracking high-risk cases and, with appropriate safeguards, avoiding invasive investigation altogether in those at ultra-low predicted risk.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "3"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Gastroenterology, Poole Hospital NHS Foundation Trust, Poole, UK."
+        }
+    }
+}

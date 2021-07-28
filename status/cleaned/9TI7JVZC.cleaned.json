@@ -1,0 +1,1472 @@
+{
+    "IDs": {
+        "zotero": "9TI7JVZC",
+        "DOI": "10.1186/s12889-020-08820-4",
+        "DOI_filename": "28c761a4cdf33530be5e5bdb1312bb8f",
+        "PMID": "32393305",
+        "scopus": "2-s2.0-85084574628",
+        "hash": "57d4d6ea18c618791f81d32e8a8f9fc1"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "9TI7JVZC",
+            "version": 983,
+            "itemType": "journalArticle",
+            "title": "Do people living in disadvantaged circumstances receive different mental health treatments than those from less disadvantaged backgrounds?",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rhiannon",
+                    "lastName": "Corcoran"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Goodall"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Niall",
+                    "lastName": "Campbell"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Konstantinos",
+                    "lastName": "Daras"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Barr"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tim",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Cecil",
+                    "lastName": "Kullu"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              Socio-economic status (SES) has been linked to treatment outcomes for mental health problems, whilst little to no literature has explored the effects of SES on access to both medication and psychological therapy. The aim of this study was to explore whether access to mental health treatments differed by SES.\n            \n            \n              Methods\n              The North West Coast Household Health Survey (HHS) collected data from residents aged 18+ from across 20 disadvantaged and 8 less disadvantaged neighbourhoods in 2015, and from 20 disadvantaged neighbourhoods in 2018. Logistic regression was used to explore the effects of SES on access to treatment (medication, psychological therapy) for people who had experienced mental health problems in the past 12 months.\n            \n            \n              Results\n              Of 6860 participants, 2932 reported experiencing mental health problems in the past 12 months. People from more disadvantaged backgrounds experienced greater rates of anxiety and depression. Anti-depressant and anti-psychotic medication treatment was significantly more common in residents with lower SES, as well as counselling. Regression analysis showed that residents from more disadvantaged neighbourhoods who reported mental distress were more likely to receive medication.\n            \n            \n              Conclusions\n              This appears to be the first study showing higher levels of treatment with medication and psychological therapy in people from disadvantaged backgrounds. Future research needs to address the underlying factors associated with increased mental health treatment uptake in people from lower socio-economic backgrounds.",
+            "publicationTitle": "BMC Public Health",
+            "volume": "20",
+            "issue": "1",
+            "pages": "651",
+            "date": "12/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Public Health",
+            "language": "en",
+            "DOI": "10.1186/s12889-020-08820-4",
+            "ISSN": "1471-2458",
+            "shortTitle": "",
+            "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-08820-4",
+            "accessDate": "2021-07-23T16:46:13Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32393305",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:27Z",
+            "dateModified": "2021-07-27T11:53:51Z",
+            "pmid": "32393305"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        10
+                    ]
+                ],
+                "date-time": "2021-05-10T23:40:28Z",
+                "timestamp": 1620690028639
+            },
+            "reference-count": 28,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                5,
+                                11
+                            ]
+                        ],
+                        "date-time": "2020-05-11T00:00:00Z",
+                        "timestamp": 1589155200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                5,
+                                11
+                            ]
+                        ],
+                        "date-time": "2020-05-11T00:00:00Z",
+                        "timestamp": 1589155200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "NIHR ARC NWC"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n<jats:title>Background</jats:title>\n<jats:p>Socio-economic status (SES) has been linked to treatment outcomes for mental health problems, whilst little to no literature has explored the effects of SES on access to both medication and psychological therapy. The aim of this study was to explore whether access to mental health treatments differed by SES.</jats:p>\n</jats:sec><jats:sec>\n<jats:title>Methods</jats:title>\n<jats:p>The North West Coast Household Health Survey (HHS) collected data from residents aged 18+ from across 20 disadvantaged and 8 less disadvantaged neighbourhoods in 2015, and from 20 disadvantaged neighbourhoods in 2018. Logistic regression was used to explore the effects of SES on access to treatment (medication, psychological therapy) for people who had experienced mental health problems in the past 12 months.</jats:p>\n</jats:sec><jats:sec>\n<jats:title>Results</jats:title>\n<jats:p>Of 6860 participants, 2932 reported experiencing mental health problems in the past 12 months. People from more disadvantaged backgrounds experienced greater rates of anxiety and depression. Anti-depressant and anti-psychotic medication treatment was significantly more common in residents with lower SES, as well as counselling. Regression analysis showed that residents from more disadvantaged neighbourhoods who reported mental distress were more likely to receive medication.</jats:p>\n</jats:sec><jats:sec>\n<jats:title>Conclusions</jats:title>\n<jats:p>This appears to be the first study showing higher levels of treatment with medication and psychological therapy in people from disadvantaged backgrounds. Future research needs to address the underlying factors associated with increased mental health treatment uptake in people from lower socio-economic backgrounds.</jats:p>\n</jats:sec>",
+            "DOI": "10.1186/s12889-020-08820-4",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        11
+                    ]
+                ],
+                "date-time": "2020-05-11T14:04:10Z",
+                "timestamp": 1589205850000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Do people living in disadvantaged circumstances receive different mental health treatments than those from less disadvantaged backgrounds?",
+            "prefix": "10.1186",
+            "volume": "20",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Rhiannon",
+                    "family": "Corcoran",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Goodall",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Niall",
+                    "family": "Campbell",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Konstantinos",
+                    "family": "Daras",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ben",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Tim",
+                    "family": "Wilson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Cecil",
+                    "family": "Kullu",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        11
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "8820_CR1",
+                    "author": "C Baker",
+                    "year": "2018",
+                    "unstructured": "Baker C. Mental health statistics for England: prevalence, services and funding. House of Commons Library; 2018.",
+                    "volume-title": "Mental health statistics for England: prevalence, services and funding. House of Commons Library"
+                },
+                {
+                    "issue": "9",
+                    "key": "8820_CR2",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1560",
+                    "DOI": "10.1017/S0033291717003336",
+                    "volume": "48",
+                    "author": "S Evans-Lacko",
+                    "year": "2018",
+                    "unstructured": "Evans-Lacko S, Aguilar-Gaxiola S, Al-Hamzawi A, et al. Socio-economic variations in the mental health treatment gap for people with anxiety, mood, and substance use disorders: results from the WHO world mental health (WMH) survey. Psychol Med. 2018;48(9):1560\u201371.",
+                    "journal-title": "Psychol Med"
+                },
+                {
+                    "issue": "1",
+                    "key": "8820_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "148",
+                    "DOI": "10.1093/ageing/afv154",
+                    "volume": "45",
+                    "author": "C Cooper",
+                    "year": "2016",
+                    "unstructured": "Cooper C, Lodwick R, Walters K, Raine R, Manthorpe J, Iliffe S, Petersen I. Observational cohort study: deprivation and access to anti-dementia drugs in the UK. Age Ageing. 2016;45(1):148\u201354.",
+                    "journal-title": "Age Ageing"
+                },
+                {
+                    "issue": "2",
+                    "key": "8820_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "158",
+                    "DOI": "10.1037/a0038858",
+                    "volume": "12",
+                    "author": "ME Delphin-Rittmon",
+                    "year": "2015",
+                    "unstructured": "Delphin-Rittmon ME, Flanagan EH, Andres-Hyman R, Ortiz J, Amer MM, Davidson L. Racial-ethnic differences in access, diagnosis, and outcomes in public-sector inpatient mental health treatment. Psychol Serv. 2015;12(2):158\u201366.",
+                    "journal-title": "Psychol Serv"
+                },
+                {
+                    "key": "8820_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "358",
+                    "DOI": "10.1016/j.jad.2017.12.102",
+                    "volume": "229",
+                    "author": "JI Halonen",
+                    "year": "2018",
+                    "unstructured": "Halonen JI, Koskinen A, Kouvonen A, et al. Distinctive use of newer and older antidepressants in major geographical areas: a nationally representative register-based study. J Affect Disord. 2018;229:358\u201363.",
+                    "journal-title": "J Affect Disord"
+                },
+                {
+                    "key": "8820_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e012337",
+                    "DOI": "10.1136/bmjopen-2016-012337",
+                    "volume": "6",
+                    "author": "A Memon",
+                    "year": "2016",
+                    "unstructured": "Memon A, Taylor K, Mohebati LM, et al. Perceived barriers to accessing mental health services among black and minority (BME) communities: a qualitative study in Southeast England. BMJ Open. 2016;6:e012337. https://doi.org/10.1136/bmjopen-2016-012337.",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "key": "8820_CR7",
+                    "author": "Office for National Statistics (ONS)",
+                    "year": "2017",
+                    "unstructured": "Office for National Statistics (ONS). The English Indices of Deprivation 2015. Deprivation for communities and local government, London: 2017.",
+                    "volume-title": "The English Indices of Deprivation 2015. Deprivation for communities and local government, London"
+                },
+                {
+                    "issue": "1",
+                    "key": "8820_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "87",
+                    "DOI": "10.1017/S2045796011000722",
+                    "volume": "21",
+                    "author": "T Von Soest",
+                    "year": "2012",
+                    "unstructured": "Von Soest T, Bramness JG, Pedersen W, et al. The relationship between socio-economic status and antidepressant prescription: a longitudinal survey and register study of young adults. Epidemiol Psychiatric Sci. 2012;21(1):87\u201395.",
+                    "journal-title": "Epidemiol Psychiatric Sci"
+                },
+                {
+                    "key": "8820_CR9",
+                    "unstructured": "Giebel C, McIntyre JC, Daras K, et al. What are the social predictors of accident and emergency attendance in disadvantaged neighbourhoods? Results from a cross-sectional household health survey in the north west of England. BMJ Open. 2019. https://doi.org/10.1136/bmjopen-2018-022820.",
+                    "DOI": "10.1136/bmjopen-2018-022820",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "8820_CR10",
+                    "unstructured": "Saini P, McIntyre JC, Corcoran R, et al. Social and mental health predictors of emergency department and general practitioner usage. Brit J General Pract. 2019; in press."
+                },
+                {
+                    "issue": "3",
+                    "key": "8820_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "195",
+                    "DOI": "10.1192/bjp.bp.112.112482",
+                    "volume": "202",
+                    "author": "D Rai",
+                    "year": "2013",
+                    "unstructured": "Rai D, Zitko P, Jones K, et al. Country- and individual-level socioeconomic determinants of depression: multi-level cross-national comparison. B J Psych. 2013;202(3):195\u2013203.",
+                    "journal-title": "B J Psych"
+                },
+                {
+                    "issue": "4",
+                    "key": "8820_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "643",
+                    "DOI": "10.1111/hex.12940",
+                    "volume": "22",
+                    "author": "C Giebel",
+                    "year": "2019",
+                    "unstructured": "Giebel C, Hasan S, McIntyre JC, et al. Public involvement in the dissemination of the North west coast household health survey: experiences and lessons of co-producing research together. Health Expect. 2019;22(4):643\u20139.",
+                    "journal-title": "Health Expect"
+                },
+                {
+                    "key": "8820_CR13",
+                    "author": "INVOLVE",
+                    "year": "2015",
+                    "unstructured": "INVOLVE. Public involvement in research: values and principles framework. INVOLVE: Eastleigh, UK; 2015.",
+                    "volume-title": "Public involvement in research: values and principles framework"
+                },
+                {
+                    "issue": "10",
+                    "key": "8820_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1092",
+                    "DOI": "10.1001/archinte.166.10.1092",
+                    "volume": "16",
+                    "author": "RL Spitzer",
+                    "year": "2006",
+                    "unstructured": "Spitzer RL, Kroenke K, Williams JB, Lowe B. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006;16(10):1092\u20137.",
+                    "journal-title": "Arch Intern Med"
+                },
+                {
+                    "key": "8820_CR15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "52",
+                    "DOI": "10.1186/s12888-016-0736-6",
+                    "volume": "16",
+                    "author": "N Hepgul",
+                    "year": "2016",
+                    "unstructured": "Hepgul N, King S, Aarasinghe M, et al. Clinical characteristics of patients assessed within an improving access to psychological therapies (IAPT) service: results from a naturalistic cohort study (predicting outcome following psychological therapy; PROMPT). BMC Psychiatry. 2016;16:52.",
+                    "journal-title": "BMC Psychiatry"
+                },
+                {
+                    "issue": "9",
+                    "key": "8820_CR16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "606",
+                    "DOI": "10.1046/j.1525-1497.2001.016009606.x",
+                    "volume": "16",
+                    "author": "K Kroenke",
+                    "year": "2001",
+                    "unstructured": "Kroenke K, Spitzer RL, Williams JB. The PHQ-9: validity of a brief depression severity measure. J Gen Intern Med. 2001;16(9):606\u201313.",
+                    "journal-title": "J Gen Intern Med"
+                },
+                {
+                    "issue": "6",
+                    "key": "8820_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "461",
+                    "DOI": "10.1192/bjp.bp.114.147280",
+                    "volume": "206",
+                    "author": "S Stewart-Brown",
+                    "year": "2015",
+                    "unstructured": "Stewart-Brown S, Chandimali Samaraweera P, Taggart F, et al. Socioeconomic gradients and mental health: implications for public health. B J Psych. 2015;206(6):461\u20135.",
+                    "journal-title": "B J Psych"
+                },
+                {
+                    "key": "8820_CR18",
+                    "unstructured": "Viglione A, Chiarotti F, Poggini S, Giuliani A, Branchi I. Predicting antidepressant treatment outcome based on socioeconomic status and citalopram use. Pharmacogenomics J. 2019; s41397\u2013019\u20130080-6."
+                },
+                {
+                    "key": "8820_CR19",
+                    "unstructured": "Delgadillo J, Farnfield A, North A. Social inequalities in the demand, supply and utilisation of psychological treatment. Couns Psychother Res. 2018. https://doi.org/10.1002/capr.12169.",
+                    "DOI": "10.1002/capr.12169",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "8820_CR20",
+                    "unstructured": "Finegan M, Firth N, Wojnarowski C, Delgadillo J. Associations between socioeconomic status and psychological therapy outcomes: A systematic review and meta-analysis. Depression Anxiety. 2018;35(6). https://doi.org/10.1002/da.22765.",
+                    "DOI": "10.1002/da.22765",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2",
+                    "key": "8820_CR21",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "115",
+                    "DOI": "10.1192/bjp.bp.111.098863",
+                    "volume": "202",
+                    "author": "M Jokela",
+                    "year": "2013",
+                    "unstructured": "Jokela M, Batty GD, Vahtera J, et al. Socioeconomic inequalities in common mental disorders and psychotherapy treatment in the UK between 1991 and 2009. B J Psych. 2013;202(2):115\u201320.",
+                    "journal-title": "B J Psych"
+                },
+                {
+                    "issue": "11",
+                    "key": "8820_CR22",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "910",
+                    "DOI": "10.1016/j.brat.2009.07.010",
+                    "volume": "47",
+                    "author": "DM Clark",
+                    "year": "2009",
+                    "unstructured": "Clark DM, Layard R, Smithies R, et al. Improving access to psychological therapy: initial evaluation of two UK demonstration sites. Behav Res Ther. 2009;47(11):910\u201320.",
+                    "journal-title": "Behav Res Ther"
+                },
+                {
+                    "issue": "3",
+                    "key": "8820_CR23",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "PE8",
+                    "DOI": "10.1016/S2215-0366(19)30040-9",
+                    "volume": "6",
+                    "author": "TJ Bastiampillai",
+                    "year": "2019",
+                    "unstructured": "Bastiampillai TJ, Allison S, Harford P, Perry SW, Wong ML. Has the UK improving access to psychological therapies programme and rising antidepressant use had a public health impact? Lancet Psychiatry. 2019;6(3):PE8\u20139.",
+                    "journal-title": "Lancet Psychiatry"
+                },
+                {
+                    "key": "8820_CR24",
+                    "author": "National Institute for Health and Care Excellence (NICE)",
+                    "year": "2018",
+                    "unstructured": "National Institute for Health and Care Excellence (NICE). Depression in adults: recognition and management Clinical guideline [CG90]. London: NICE; 2018.",
+                    "volume-title": "Depression in adults: recognition and management Clinical guideline [CG90]."
+                },
+                {
+                    "key": "8820_CR25",
+                    "unstructured": "Creedon TB, Le Cook B. Access to mental health care increased but not for substance use, while disparities remain. Health Aff. 2016:35(6). https://doi.org/10.1377/hlthaff.2016.0098.",
+                    "DOI": "10.1377/hlthaff.2016.0098",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "10",
+                    "key": "8820_CR26",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "701",
+                    "DOI": "10.1177/0706743718760290",
+                    "volume": "63",
+                    "author": "S Lauzier",
+                    "year": "2018",
+                    "unstructured": "Lauzier S, Kadachi H, Moisan J, et al. Neighbourhood material and social deprivation and exposure to antidepressant drug treatment: a cohort study using administrative data. Can J Psychiatry. 2018;63(10):701\u201311.",
+                    "journal-title": "Can J Psychiatry"
+                },
+                {
+                    "issue": "6",
+                    "key": "8820_CR27",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "270",
+                    "DOI": "10.1192/pb.bp.113.046474",
+                    "volume": "38",
+                    "author": "CM Giebel",
+                    "year": "2014",
+                    "unstructured": "Giebel CM, Clarkson P, Challis P. Demographic and clinical characteristics of UK military veterans attending a psychological therapies service. BJ Psych Bulletin. 2014;38(6):270\u20135.",
+                    "journal-title": "BJ Psych Bulletin"
+                },
+                {
+                    "key": "8820_CR28",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.brat.2015.07.006",
+                    "volume": "73",
+                    "author": "E Goddard",
+                    "year": "2015",
+                    "unstructured": "Goddard E, Wingrove J, Moran P. The impact of comorbid personality difficulties on response to IAPT treatment for depression and anxiety. Behav Res Ther. 2015;73:1\u20137.",
+                    "journal-title": "Behav Res Ther"
+                }
+            ],
+            "container-title": "BMC Public Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://link.springer.com/content/pdf/10.1186/s12889-020-08820-4.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://link.springer.com/article/10.1186/s12889-020-08820-4/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://link.springer.com/content/pdf/10.1186/s12889-020-08820-4.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        10
+                    ]
+                ],
+                "date-time": "2021-05-10T23:16:33Z",
+                "timestamp": 1620688593000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        11
+                    ]
+                ]
+            },
+            "references-count": 28,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "8820"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12889-020-08820-4",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1471-2458"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health"
+            ],
+            "container-title-short": "BMC Public Health",
+            "assertion": [
+                {
+                    "value": "6 February 2020",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "30 April 2020",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "11 May 2020",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "Ethical approval was obtained from the University of Liverpool (Ref: RETH000836). Participants provided written informed consent prior to taking part in the study.",
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "n/a",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "None.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "651"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Deprivation",
+                        "Health care access",
+                        "Health inequalities",
+                        "Medication; therapy",
+                        "Mental health",
+                        "Socio-economic status"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32393305",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "08",
+                    "Day": "24"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "17"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "05",
+                            "Day": "11"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12889-020-08820-4"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1471-2458",
+                        "JournalIssue": {
+                            "Volume": "20",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "May",
+                                "Day": "11"
+                            }
+                        },
+                        "Title": "BMC public health",
+                        "ISOAbbreviation": "BMC Public Health"
+                    },
+                    "ArticleTitle": "Do people living in disadvantaged circumstances receive different mental health treatments than those from less disadvantaged backgrounds?",
+                    "Pagination": {
+                        "MedlinePgn": "651"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Socio-economic status (SES) has been linked to treatment outcomes for mental health problems, whilst little to no literature has explored the effects of SES on access to both medication and psychological therapy. The aim of this study was to explore whether access to mental health treatments differed by SES.",
+                            "The North West Coast Household Health Survey (HHS) collected data from residents aged 18+ from across 20 disadvantaged and 8 less disadvantaged neighbourhoods in 2015, and from 20 disadvantaged neighbourhoods in 2018. Logistic regression was used to explore the effects of SES on access to treatment (medication, psychological therapy) for people who had experienced mental health problems in the past 12 months.",
+                            "Of 6860 participants, 2932 reported experiencing mental health problems in the past 12 months. People from more disadvantaged backgrounds experienced greater rates of anxiety and depression. Anti-depressant and anti-psychotic medication treatment was significantly more common in residents with lower SES, as well as counselling. Regression analysis showed that residents from more disadvantaged neighbourhoods who reported mental distress were more likely to receive medication.",
+                            "This appears to be the first study showing higher levels of treatment with medication and psychological therapy in people from disadvantaged backgrounds. Future research needs to address the underlying factors associated with increased mental health treatment uptake in people from lower socio-economic backgrounds."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK. Clarissa.Giebel@liverpool.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK. Clarissa.Giebel@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Corcoran",
+                            "ForeName": "Rhiannon",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Goodall",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Cheshire and Wirral Partnership NHS Foundation Trust, Chester, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Merseycare NHS Foundation Trust, Prescot, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Campbell",
+                            "ForeName": "Niall",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Environmental Sciences, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Daras",
+                            "ForeName": "Konstantinos",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "Ben",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wilson",
+                            "ForeName": "Tim",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Merseycare NHS Foundation Trust, Prescot, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Kullu",
+                            "ForeName": "Cecil",
+                            "Initials": "C"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "NIHR130258",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "NIHR ARC NWC",
+                            "Agency": "National Institute for Health Research",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Public Health",
+                    "NlmUniqueID": "100968562",
+                    "ISSNLinking": "1471-2458"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Counseling",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Healthcare Disparities",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Logistic Models",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapy"
+                        ],
+                        "DescriptorName": "Mental Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Mental Health Services",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods",
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Psychotherapy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Social Class",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Vulnerable Populations",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "BMJ Open. 2016 Nov 16;6(11):e012337",
+                                "ArticleIdList": [
+                                    "27852712"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Psychiatry. 2016 Feb 27;16:52",
+                                "ArticleIdList": [
+                                    "26920578"
+                                ]
+                            },
+                            {
+                                "Citation": "J Affect Disord. 2018 Mar 15;229:358-363",
+                                "ArticleIdList": [
+                                    "29331694"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2016 Jan;45(1):148-54",
+                                "ArticleIdList": [
+                                    "26582758"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychiatr Bull (2014). 2014 Dec;38(6):270-5",
+                                "ArticleIdList": [
+                                    "25505626"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Psychiatry. 2013 Feb;202:115-20",
+                                "ArticleIdList": [
+                                    "22500010"
+                                ]
+                            },
+                            {
+                                "Citation": "Epidemiol Psychiatr Sci. 2012 Mar;21(1):87-95",
+                                "ArticleIdList": [
+                                    "22670416"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2019 Jan 6;9(1):e022820",
+                                "ArticleIdList": [
+                                    "30613026"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2019 Aug;22(4):643-649",
+                                "ArticleIdList": [
+                                    "31355516"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Psychiatry. 2019 Mar;6(3):e8-e9",
+                                "ArticleIdList": [
+                                    "30798899"
+                                ]
+                            },
+                            {
+                                "Citation": "J Gen Intern Med. 2001 Sep;16(9):606-13",
+                                "ArticleIdList": [
+                                    "11556941"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Psychiatry. 2015 Jun;206(6):461-5",
+                                "ArticleIdList": [
+                                    "25792696"
+                                ]
+                            },
+                            {
+                                "Citation": "Behav Res Ther. 2015 Oct;73:1-7",
+                                "ArticleIdList": [
+                                    "26226089"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Intern Med. 2006 May 22;166(10):1092-7",
+                                "ArticleIdList": [
+                                    "16717171"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Serv. 2015 May;12(2):158-66",
+                                "ArticleIdList": [
+                                    "25961650"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Psychiatry. 2013 Mar;202(3):195-203",
+                                "ArticleIdList": [
+                                    "23349294"
+                                ]
+                            },
+                            {
+                                "Citation": "Depress Anxiety. 2018 Jun;35(6):560-573",
+                                "ArticleIdList": [
+                                    "29697880"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacogenomics J. 2019 Dec;19(6):538-546",
+                                "ArticleIdList": [
+                                    "30723316"
+                                ]
+                            },
+                            {
+                                "Citation": "Can J Psychiatry. 2018 Oct;63(10):701-711",
+                                "ArticleIdList": [
+                                    "29514506"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 2018 Jul;48(9):1560-1571",
+                                "ArticleIdList": [
+                                    "29173244"
+                                ]
+                            },
+                            {
+                                "Citation": "Behav Res Ther. 2009 Nov;47(11):910-20",
+                                "ArticleIdList": [
+                                    "19647230"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Aff (Millwood). 2016 Jun 1;35(6):1017-21",
+                                "ArticleIdList": [
+                                    "27269017"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "02",
+                        "Day": "06"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "04",
+                        "Day": "30"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "5",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "5",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "8",
+                        "Day": "25",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "32393305",
+                    "10.1186/s12889-020-08820-4",
+                    "10.1186/s12889-020-08820-4",
+                    "PMC7216680"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32393305)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832393305%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832393305%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084574628"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084574628?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85084574628&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85084574628&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85084574628",
+                        "dc:identifier": "SCOPUS_ID:85084574628",
+                        "eid": "2-s2.0-85084574628",
+                        "dc:title": "Do people living in disadvantaged circumstances receive different mental health treatments than those from less disadvantaged backgrounds?",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "BMC Public Health",
+                        "prism:eIssn": "14712458",
+                        "prism:volume": "20",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-05-11",
+                        "prism:coverDisplayDate": "11 May 2020",
+                        "prism:doi": "10.1186/s12889-020-08820-4",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR ARC NWC",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32393305",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "651",
+                        "source-id": "19621",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "9TI7JVZC.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32393305"
+            }
+        },
+        "title": "Do people living in disadvantaged circumstances receive different mental health treatments than those from less disadvantaged backgrounds?",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK. Clarissa.Giebel@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Corcoran R",
+                "family": "Corcoran",
+                "given": "Rhiannon",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Goodall M",
+                "family": "Goodall",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Campbell N",
+                "family": "Campbell",
+                "given": "Niall",
+                "affiliation": {
+                    "name": "Cheshire and Wirral Partnership NHS Foundation Trust, Chester, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Daras K",
+                "family": "Daras",
+                "given": "Konstantinos",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Ben",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wilson T",
+                "family": "Wilson",
+                "given": "Tim",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Kullu C",
+                "family": "Kullu",
+                "given": "Cecil",
+                "affiliation": {
+                    "name": "Merseycare NHS Foundation Trust, Prescot, UK."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Counseling",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Healthcare Disparities",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Logistic Models",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Mental Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "Mental Health Services",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Psychotherapy",
+                    "major": "N"
+                },
+                {
+                    "term": "Social Class",
+                    "major": "Y"
+                },
+                {
+                    "term": "Vulnerable Populations",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "Deprivation",
+                "Health care access",
+                "Health inequalities",
+                "Medication; therapy",
+                "Mental health",
+                "Socio-economic status"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMC Public Health",
+            "volume": "20",
+            "issue": "1"
+        },
+        "abstract": "['Socio-economic status (SES) has been linked to treatment outcomes for mental health problems, whilst little to no literature has explored the effects of SES on access to both medication and psychological therapy. The aim of this study was to explore whether access to mental health treatments differed by SES.', 'The North West Coast Household Health Survey (HHS) collected data from residents aged 18+ from across 20 disadvantaged and 8 less disadvantaged neighbourhoods in 2015, and from 20 disadvantaged neighbourhoods in 2018. Logistic regression was used to explore the effects of SES on access to treatment (medication, psychological therapy) for people who had experienced mental health problems in the past 12 months.', 'Of 6860 participants, 2932 reported experiencing mental health problems in the past 12 months. People from more disadvantaged backgrounds experienced greater rates of anxiety and depression. Anti-depressant and anti-psychotic medication treatment was significantly more common in residents with lower SES, as well as counselling. Regression analysis showed that residents from more disadvantaged neighbourhoods who reported mental distress were more likely to receive medication.', 'This appears to be the first study showing higher levels of treatment with medication and psychological therapy in people from disadvantaged backgrounds. Future research needs to address the underlying factors associated with increased mental health treatment uptake in people from lower socio-economic backgrounds.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK. Clarissa.Giebel@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

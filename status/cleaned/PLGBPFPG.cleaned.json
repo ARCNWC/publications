@@ -1,0 +1,2480 @@
+{
+    "IDs": {
+        "zotero": "PLGBPFPG",
+        "DOI": "10.1186/s12889-020-08974-1",
+        "DOI_filename": "9505a861df674b1b7013c0108d08351b",
+        "PMID": "32513143",
+        "scopus": "2-s2.0-85086356532",
+        "hash": "1a60c6a33782aa63e33686c066656208"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "PLGBPFPG",
+            "version": 993,
+            "itemType": "journalArticle",
+            "title": "Personalising screening of sight-threatening diabetic retinopathy - qualitative evidence to inform effective implementation",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "P.",
+                    "lastName": "Byrne"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "C.",
+                    "lastName": "Thetford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M.",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P.",
+                    "lastName": "Clarke"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "E.",
+                    "lastName": "Doncaster"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "S. P.",
+                    "lastName": "Harding"
+                },
+                {
+                    "creatorType": "author",
+                    "name": "for the ISDR Study Group"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Simon P.",
+                    "lastName": "Harding"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Deborah M.",
+                    "lastName": "Broadbent"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paula",
+                    "lastName": "Byrne"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony C.",
+                    "lastName": "Fisher"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Marta",
+                    "lastName": "Garc\u00eda-Fi\u00f1ana"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Marilyn",
+                    "lastName": "James"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tracy",
+                    "lastName": "Moitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "John",
+                    "lastName": "Roberts"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Daniel",
+                    "lastName": "Seddon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Irene M.",
+                    "lastName": "Stratton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jiten P.",
+                    "lastName": "Vora"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paula",
+                    "lastName": "Williamson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Duncan",
+                    "lastName": "Appelbe"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ayesh",
+                    "lastName": "Alshukri"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher P.",
+                    "lastName": "Cheyne"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Darsy",
+                    "lastName": "Darssan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Antonio",
+                    "lastName": "Eleuteri"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher",
+                    "lastName": "Grierson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lola",
+                    "lastName": "Howard"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Susan U.",
+                    "lastName": "Howlin"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "James G.",
+                    "lastName": "Lathe"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mehrdad",
+                    "lastName": "Mobayen-Rahni"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andy",
+                    "lastName": "Ovens"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher J.",
+                    "lastName": "Sampson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kate",
+                    "lastName": "Silvera"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "David",
+                    "lastName": "Szmyt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Clare",
+                    "lastName": "Thetford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Pilar",
+                    "lastName": "Vazquez-Arango"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Amu",
+                    "lastName": "Wang"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Abigail E.",
+                    "lastName": "Williams"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "John",
+                    "lastName": "Collins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Emily",
+                    "lastName": "Doncaster"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "John",
+                    "lastName": "Kelly"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Peter",
+                    "lastName": "Lees"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sandra",
+                    "lastName": "Lees"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Betty",
+                    "lastName": "Williams"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catey",
+                    "lastName": "Bunce"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Helen",
+                    "lastName": "Cooper"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Vineeth",
+                    "lastName": "Kumar"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Nathalie",
+                    "lastName": "Massat"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Chris",
+                    "lastName": "Rogers"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alison",
+                    "lastName": "Rowlands"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Gideon",
+                    "lastName": "Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Julia",
+                    "lastName": "West"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Naveed",
+                    "lastName": "Younis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ticiana",
+                    "lastName": "Criddle"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stephanie",
+                    "lastName": "Perrett"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lisa",
+                    "lastName": "Jones"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              Internationally, systematic screening for sight-threatening diabetic retinopathy (STDR) usually includes annual recall. Researchers and policy-makers support extending screening intervals, citing evidence from observational studies with low incidence rates. However, there is little research around the acceptability to people with diabetes (PWD) and health care professionals (HCP) about changing eye screening intervals.\n            \n            \n              Methods\n              We conducted a qualitative study to explore issues surrounding acceptability and the barriers and enablers for changing from annual screening, using in-depth, semistructured interviews analysed using the constant comparative method. PWD were recruited from general practices and HCP from eye screening networks and related specialties in North West England using purposive sampling. Interviews were conducted prior to the commencement of and during a randomised controlled trial (RCT) comparing fixed annual with variable (6, 12 or 24\u2009month) interval risk-based screening.\n            \n            \n              Results\n              Thirty PWD and 21 HCP participants were interviewed prior to and 30 PWD during the parallel RCT. The data suggests that a move to variable screening intervals was generally acceptable in principle, though highlighted significant concerns and challenges to successful implementation. The current annual interval was recognised as unsustainable against a backdrop of increasing diabetes prevalence. There were important caveats attached to acceptability and a need for clear safeguards around: the safety and reliability of calculating screening intervals, capturing all PWD, referral into screening of PWD with diabetic changes regardless of planned interval. For PWD the 6-month interval was perceived positively as medical reassurance, and the 12-month seen as usual treatment. Concerns were expressed by many HCP and PWD that a 2-year interval was too lengthy and was risky for detecting STDR. There were also concerns about a negative effect upon PWD care and increasing non-attendance rates. Amongst PWD, there was considerable conflation and misunderstanding about different eye-related appointments within the health care system.\n            \n            \n              Conclusions\n              Implementing variable-interval screening into clinical practice is generally acceptable to PWD and HCP with important caveats, and misconceptions must be addressed. Clear safeguards against increasing non-attendance, loss of diabetes control and alternative referral pathways are required. For risk calculation systems to be safe, reliable monitoring and clear communication is required.",
+            "publicationTitle": "BMC Public Health",
+            "volume": "20",
+            "issue": "1",
+            "pages": "881",
+            "date": "12/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Public Health",
+            "language": "en",
+            "DOI": "10.1186/s12889-020-08974-1",
+            "ISSN": "1471-2458",
+            "shortTitle": "",
+            "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-08974-1",
+            "accessDate": "2021-07-23T16:46:14Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32513143",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:30Z",
+            "dateModified": "2021-07-27T12:05:44Z",
+            "pmid": "32513143"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        8
+                    ]
+                ],
+                "date-time": "2021-06-08T00:14:56Z",
+                "timestamp": 1623111296021
+            },
+            "reference-count": 47,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                6,
+                                8
+                            ]
+                        ],
+                        "date-time": "2020-06-08T00:00:00Z",
+                        "timestamp": 1591574400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                6,
+                                8
+                            ]
+                        ],
+                        "date-time": "2020-06-08T00:00:00Z",
+                        "timestamp": 1591574400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "PGfAR: RP-PG-1210-1201"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n<jats:title>Background</jats:title>\n<jats:p>Internationally, systematic screening for sight-threatening diabetic retinopathy (STDR) usually includes annual recall. Researchers and policy-makers support extending screening intervals, citing evidence from observational studies with low incidence rates. However, there is little research around the acceptability to people with diabetes (PWD) and health care professionals (HCP) about changing eye screening intervals.</jats:p>\n</jats:sec><jats:sec>\n<jats:title>Methods</jats:title>\n<jats:p>We conducted a qualitative study to explore issues surrounding acceptability and the barriers and enablers for changing from annual screening, using in-depth, semistructured interviews analysed using the constant comparative method. PWD were recruited from general practices and HCP from eye screening networks and related specialties in North West England using purposive sampling. Interviews were conducted prior to the commencement of and during a randomised controlled trial (RCT) comparing fixed annual with variable (6, 12 or 24\u2009month) interval risk-based screening.</jats:p>\n</jats:sec><jats:sec>\n<jats:title>Results</jats:title>\n<jats:p>Thirty PWD and 21 HCP participants were interviewed prior to and 30 PWD during the parallel RCT. The data suggests that a move to variable screening intervals was generally acceptable in principle, though highlighted significant concerns and challenges to successful implementation. The current annual interval was recognised as unsustainable against a backdrop of increasing diabetes prevalence. There were important caveats attached to acceptability and a need for clear safeguards around: the safety and reliability of calculating screening intervals, capturing all PWD, referral into screening of PWD with diabetic changes regardless of planned interval. For PWD the 6-month interval was perceived positively as medical reassurance, and the 12-month seen as usual treatment. Concerns were expressed by many HCP and PWD that a 2-year interval was too lengthy and was risky for detecting STDR. There were also concerns about a negative effect upon PWD care and increasing non-attendance rates. Amongst PWD, there was considerable conflation and misunderstanding about different eye-related appointments within the health care system.</jats:p>\n</jats:sec><jats:sec>\n<jats:title>Conclusions</jats:title>\n<jats:p>Implementing variable-interval screening into clinical practice is generally acceptable to PWD and HCP with important caveats, and misconceptions must be addressed. Clear safeguards against increasing non-attendance, loss of diabetes control and alternative referral pathways are required. For risk calculation systems to be safe, reliable monitoring and clear communication is required.</jats:p>\n</jats:sec>",
+            "DOI": "10.1186/s12889-020-08974-1",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        8
+                    ]
+                ],
+                "date-time": "2020-06-08T10:05:54Z",
+                "timestamp": 1591610754000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "Personalising screening of sight-threatening diabetic retinopathy - qualitative evidence to inform effective implementation",
+            "prefix": "10.1186",
+            "volume": "20",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-8090-6184",
+                    "authenticated-orcid": false,
+                    "given": "P.",
+                    "family": "Byrne",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "C.",
+                    "family": "Thetford",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "M.",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "P.",
+                    "family": "Clarke",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "E.",
+                    "family": "Doncaster",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "S. P.",
+                    "family": "Harding",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Simon P.",
+                    "family": "Harding",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Deborah M.",
+                    "family": "Broadbent",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Paula",
+                    "family": "Byrne",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Anthony C.",
+                    "family": "Fisher",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Marta",
+                    "family": "Garc\u00eda-Fi\u00f1ana",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Marilyn",
+                    "family": "James",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Tracy",
+                    "family": "Moitt",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "John",
+                    "family": "Roberts",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Daniel",
+                    "family": "Seddon",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Irene M.",
+                    "family": "Stratton",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jiten P.",
+                    "family": "Vora",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Paula",
+                    "family": "Williamson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Duncan",
+                    "family": "Appelbe",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ayesh",
+                    "family": "Alshukri",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Christopher P.",
+                    "family": "Cheyne",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Darsy",
+                    "family": "Darssan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Antonio",
+                    "family": "Eleuteri",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Christopher",
+                    "family": "Grierson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Lola",
+                    "family": "Howard",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Susan U.",
+                    "family": "Howlin",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "James G.",
+                    "family": "Lathe",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mehrdad",
+                    "family": "Mobayen-Rahni",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Andy",
+                    "family": "Ovens",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Christopher J.",
+                    "family": "Sampson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Kate",
+                    "family": "Silvera",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "David",
+                    "family": "Szmyt",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Clare",
+                    "family": "Thetford",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Pilar",
+                    "family": "Vazquez-Arango",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Amu",
+                    "family": "Wang",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Abigail E.",
+                    "family": "Williams",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "John",
+                    "family": "Collins",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Emily",
+                    "family": "Doncaster",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "John",
+                    "family": "Kelly",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Peter",
+                    "family": "Lees",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Sandra",
+                    "family": "Lees",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Betty",
+                    "family": "Williams",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Catey",
+                    "family": "Bunce",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Helen",
+                    "family": "Cooper",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Vineeth",
+                    "family": "Kumar",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Nathalie",
+                    "family": "Massat",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Chris",
+                    "family": "Rogers",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Alison",
+                    "family": "Rowlands",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Gideon",
+                    "family": "Smith",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Julia",
+                    "family": "West",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Naveed",
+                    "family": "Younis",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ticiana",
+                    "family": "Criddle",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Stephanie",
+                    "family": "Perrett",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Lisa",
+                    "family": "Jones",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "name": "for the ISDR Study Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        8
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "8974_CR1",
+                    "unstructured": "https://www.diabetes.org.uk/professionals/position-statements-reports/statistics. Accessed 22 Aug 2019."
+                },
+                {
+                    "key": "8974_CR2",
+                    "unstructured": "https://www.diabetes.org.uk/about_us/news/new-stats-people-living-with-diabetes. Accessed 22 Aug 2019."
+                },
+                {
+                    "key": "8974_CR3",
+                    "unstructured": "https://www.who.int/news-room/fact-sheets/detail/diabetes. Accessed 11 Mar 2019."
+                },
+                {
+                    "key": "8974_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e004015",
+                    "DOI": "10.1136/bmjopen-2013-004015",
+                    "volume": "4",
+                    "author": "G Liew",
+                    "year": "2014",
+                    "unstructured": "Liew G, Michaelides M, Bunce C. A comparison of the causes of blindness certifications in England and Wales in working age adults (16-64 years), 1999-2000 with 2009-2010. BMJ Open. 2014;4:e004015.",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "key": "8974_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.2337/dc10-2308",
+                    "volume": "34",
+                    "author": "E Agardh",
+                    "year": "2011",
+                    "unstructured": "Agardh E, Tabayat-Khani P. Adopting 3-year screening intervals for sight-threatening retinal vascular lesions in type 2 diabetic subjects without retinopathy. Diabetes Care. 2011;34:1\u20132.",
+                    "journal-title": "Diabetes Care"
+                },
+                {
+                    "issue": "11",
+                    "key": "8974_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1272",
+                    "DOI": "10.1111/dme.12274",
+                    "volume": "30",
+                    "author": "JB Echouffo-Tcheugui",
+                    "year": "2013",
+                    "unstructured": "Echouffo-Tcheugui JB, Ali MK, Roglic G, Hayward RA, Narayan KM. Screening intervals for diabetic retinopathy and incidence of visual loss: a systematic review. Diabet Med. 2013;30(11):1272\u201392.",
+                    "journal-title": "Diabet Med"
+                },
+                {
+                    "key": "8974_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "763",
+                    "DOI": "10.1111/aos.13936",
+                    "volume": "96",
+                    "author": "J Grauslund",
+                    "year": "2018",
+                    "unstructured": "Grauslund J, Andersen N, Andresen J, et al. Evidence-based Danish guidelines for screening of diabetic retinopathy. Acta Ophthalmol. 2018;96:763\u20139.",
+                    "journal-title": "Acta Ophthalmol"
+                },
+                {
+                    "key": "8974_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1716",
+                    "DOI": "10.1007/s00125-013-2928-7",
+                    "volume": "56",
+                    "author": "HC Looker",
+                    "year": "2013",
+                    "unstructured": "Looker HC, Nyangoma SO, Cromie DT, et al. Predicted impact of extending the screening interval for diabetic retinopathy: the Scottish diabetic retinopathy screening programme. Diabetologia. 2013;56:1716\u201325.",
+                    "journal-title": "Diabetologia"
+                },
+                {
+                    "key": "8974_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "105",
+                    "DOI": "10.1136/bjophthalmol-2014-305938",
+                    "volume": "100",
+                    "author": "S Taylor-Phillips",
+                    "year": "2016",
+                    "unstructured": "Taylor-Phillips S, Mistry H, Leslie R, Todkill D, Tsertsvadze A, Connock M, Clarke A. Extending the diabetic retinopathy screening interval beyond 1 year: systematic review. Br J Ophthalmol. 2016;100:105\u201314.",
+                    "journal-title": "Br J Ophthalmol"
+                },
+                {
+                    "key": "8974_CR10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "195",
+                    "DOI": "10.1016/S0140-6736(03)12267-2",
+                    "volume": "361",
+                    "author": "N Younis",
+                    "year": "2003",
+                    "unstructured": "Younis N, Broadbent DM, Vora JP, Harding SP. Incidence of sight threatening retinopathy in type 2 diabetes in a systematic screening programme. Lancet. 2003;361:195\u2013200.",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "8974_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "586",
+                    "DOI": "10.2337/dc17-2002",
+                    "volume": "41",
+                    "author": "S Basu",
+                    "year": "2018",
+                    "unstructured": "Basu S, Sussman JB, Berkowitz SA, et al. Validation of risk equations for complications of type 2 diabetes (RECODe) using individual participant data from diverse longitudinal cohorts in the US. Diabetes Care. 2018;41:586\u201395.",
+                    "journal-title": "Diabetes Care"
+                },
+                {
+                    "key": "8974_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "488",
+                    "DOI": "10.2337/dc14-1778",
+                    "volume": "38",
+                    "author": "GP Leese",
+                    "year": "2015",
+                    "unstructured": "Leese GP, Stratton IM, Land M, Bachmann MO, Jones C, Scanlon P, et al. Progression of diabetes retinal status within community screening programs and potential implications for screening intervals. Diabetes Care. 2015;38:488\u201394.",
+                    "journal-title": "Diabetes Care"
+                },
+                {
+                    "key": "8974_CR13",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1599",
+                    "DOI": "10.1136/bjo.2007.123810",
+                    "volume": "91",
+                    "author": "E Olafsdottir",
+                    "year": "2007",
+                    "unstructured": "Olafsdottir E, Stefansson E. Biennial eye screening in patients with diabetes without retinopathy: 10-year experience. Br J Ophthalmol. 2007;91:1599\u2013601.",
+                    "journal-title": "Br J Ophthalmol"
+                },
+                {
+                    "issue": "11",
+                    "key": "8974_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1504",
+                    "DOI": "10.1001/jamaoncol.2018.1901",
+                    "volume": "4",
+                    "author": "N Pashayan",
+                    "year": "2018",
+                    "unstructured": "Pashayan N, Morris S, Gilbert FJ, Pharoah PDP. Cost-effectiveness and benefit-to-harm ratio of risk-stratified screening for breast cancer a life-table model. JAMA Oncol. 2018;4(11):1504\u201310.",
+                    "journal-title": "JAMA Oncol"
+                },
+                {
+                    "issue": "11",
+                    "key": "8974_CR15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "2174",
+                    "DOI": "10.1007/s00125-017-4386-0",
+                    "volume": "60",
+                    "author": "A Eleuteri",
+                    "year": "2017",
+                    "unstructured": "Eleuteri A, Fisher AC, Broadbent DM, Garcia-Finana M, Cheyne CP, Wang A, Stratton IM, Gabbay M, Seddon D, Harding SP. Individualised variable-interval risk-based screening for sight-threatening diabetic retinopathy: the Liverpool risk calculation engine. Diabetalogica. 2017;60(11):2174\u201382.",
+                    "journal-title": "Diabetalogica"
+                },
+                {
+                    "key": "8974_CR16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "2525",
+                    "DOI": "10.1007/s00125-011-2257-7",
+                    "volume": "54",
+                    "author": "T Aspelund",
+                    "year": "2011",
+                    "unstructured": "Aspelund T, Thorn\u00f3risd\u00f3ttir O, Olafsdottir E, et al. Individual risk assessment and information technology to optimise screening frequency for diabetic retinopathy. Diabetologia. 2011;54:2525\u201332.",
+                    "journal-title": "Diabetologia"
+                },
+                {
+                    "key": "8974_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1332",
+                    "DOI": "10.1007/s00125-014-3246-4",
+                    "volume": "57",
+                    "author": "AA van der Heijden",
+                    "year": "2014",
+                    "unstructured": "van der Heijden AA, Walraven I, et al. Validation of a model to estimate personalised screening frequency to monitor diabetic retinopathy. Diabetologia. 2014;57:1332\u20138.",
+                    "journal-title": "Diabetologia"
+                },
+                {
+                    "issue": "11",
+                    "key": "8974_CR18",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "2094",
+                    "DOI": "10.2337/dc09-0745",
+                    "volume": "32",
+                    "author": "AAWA van der Heyden",
+                    "year": "2009",
+                    "unstructured": "van der Heyden AAWA, Ortegon MM, Niessen LW, Nijpels G, Dekker JM. Prediction of coronary heart disease risk in a general, pre-diabetic and diabetic population during 10 years of follow-up: accuracy of the Framingham SCORE and UKDPS risk functions, the Hoorn study. Diabetes Care. 2009;32(11):2094\u20138.",
+                    "journal-title": "Diabetes Care"
+                },
+                {
+                    "key": "8974_CR19",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "324",
+                    "DOI": "10.1177/109019817400200401",
+                    "volume": "2",
+                    "author": "M Becker",
+                    "year": "1974",
+                    "unstructured": "Becker M. The health belief model and personal health behavior. Health Educ Monogr. 1974;2:324\u2013508.",
+                    "journal-title": "Health Educ Monogr"
+                },
+                {
+                    "key": "8974_CR20",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "390",
+                    "DOI": "10.1037/0022-006X.51.3.390",
+                    "volume": "51",
+                    "author": "JO Prochaska",
+                    "year": "1983",
+                    "unstructured": "Prochaska JO, DiCelemente CC. Stages and processes of self-change of smoking: toward an integrativemodel of change. J Consult Clin Psychol. 1983;51:390\u20135.",
+                    "journal-title": "J Consult Clin Psychol"
+                },
+                {
+                    "key": "8974_CR21",
+                    "author": "G Marlatt",
+                    "year": "1984",
+                    "unstructured": "Marlatt G, Gordon J. Relapse prevention: a self-control strategy for the maintenance of behavior change. New York: Guilford Press; 1984.",
+                    "volume-title": "Relapse prevention: a self-control strategy for the maintenance of behavior change"
+                },
+                {
+                    "key": "8974_CR22",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "42",
+                    "DOI": "10.1186/1748-5908-6-42",
+                    "volume": "6",
+                    "author": "S Michie",
+                    "year": "2011",
+                    "unstructured": "Michie S, van Stralen MM, West R. The behaviour change wheel: a new method for characterising and designing behaviour change interventions. Implement Sci. 2011;6:42.",
+                    "journal-title": "Implement Sci"
+                },
+                {
+                    "issue": "2",
+                    "key": "8974_CR23",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "130",
+                    "DOI": "10.1370/afm.1450",
+                    "volume": "11",
+                    "author": "SE Rubin",
+                    "year": "2013",
+                    "unstructured": "Rubin SE, Davis K, McKee MD. New York City physicians\u2019 views of providing long-acting reversible contraception to adolescents. Ann Fam Med. 2013;11(2):130\u20136.",
+                    "journal-title": "Ann Fam Med"
+                },
+                {
+                    "issue": "5",
+                    "key": "8974_CR24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e120",
+                    "DOI": "10.2196/jmir.3190",
+                    "volume": "16",
+                    "author": "C Bonner",
+                    "year": "2014",
+                    "unstructured": "Bonner C, Jansen J, Newell BR, Irwig L, Glasziou P, Doust J, McCaffery K. I don\u2019t believe it, but I\u2019d better do something about it: patient experiences of online heart age risk calculators. J Med Internet Res. 2014;16(5):e120. https://doi.org/10.2196/jmir.3190.",
+                    "journal-title": "J Med Internet Res"
+                },
+                {
+                    "issue": "6",
+                    "key": "8974_CR25",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e025788",
+                    "DOI": "10.1136/bmjopen-2018-025788",
+                    "volume": "179",
+                    "author": "DM Broadbent",
+                    "year": "2019",
+                    "unstructured": "Broadbent DM, Sampson CJ, Wang A, Howard L, Williams AE, Howlin SU, Appelbe D, Moitt T, Cheyne CP, Rahni MM, Kelly J, Collins J, Garc\u00eda-Fi\u00f1ana M, Stratton IM, James M, Harding SP, ISDR Study Group. Individualised screening for diabetic retinopathy: the ISDR study-rationale, design and methodology for a randomised controlled trial comparing annual and individualised risk-based variable-interval screening. BMJ Open. 2019;179(6):e025788.",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "key": "8974_CR26",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "a1655",
+                    "DOI": "10.1136/bmj.a1655",
+                    "volume": "337",
+                    "author": "P Craig",
+                    "year": "2008",
+                    "unstructured": "Craig P, Dieppe P, Macintyre S, Michie S, Nazareth I, Petticrew M. Developing and evaluating complex interventions: the new Medical Research Council guidance. Br Med J. 2008;337:a1655.",
+                    "journal-title": "Br Med J"
+                },
+                {
+                    "key": "8974_CR27",
+                    "author": "U Flick",
+                    "year": "2018",
+                    "edition": "6",
+                    "unstructured": "Flick U. An introduction to qualitative research. 6th ed. London: Sage Publications; 2018.",
+                    "volume-title": "An introduction to qualitative research"
+                },
+                {
+                    "key": "8974_CR28",
+                    "author": "A Galletta",
+                    "year": "2013",
+                    "unstructured": "Galletta A. Mastering the semi-structured interview and beyond. New York: NYU Press; 2013.",
+                    "volume-title": "Mastering the semi-structured interview and beyond",
+                    "DOI": "10.18574/nyu/9780814732939.001.0001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "8974_CR29",
+                    "author": "A Coffey",
+                    "year": "2006",
+                    "unstructured": "Coffey A, Atkinson P. Making sense of qualitative data: complementary research strategies. London: Sage; 2006.",
+                    "volume-title": "Making sense of qualitative data: complementary research strategies"
+                },
+                {
+                    "key": "8974_CR30",
+                    "author": "D Silverman",
+                    "year": "2011",
+                    "edition": "4",
+                    "unstructured": "Silverman D. Interpreting qualitative data. 4th ed. London: Sage; 2011.",
+                    "volume-title": "Interpreting qualitative data"
+                },
+                {
+                    "key": "8974_CR31",
+                    "author": "J Mason",
+                    "year": "2017",
+                    "edition": "3",
+                    "unstructured": "Mason J. Qualitative researching. 3rd ed. London: Sage; 2017.",
+                    "volume-title": "Qualitative researching"
+                },
+                {
+                    "issue": "2",
+                    "key": "8974_CR32",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "52",
+                    "DOI": "10.7748/nr2011.01.18.2.52.c8284",
+                    "volume": "18",
+                    "author": "J Smith",
+                    "year": "2011",
+                    "unstructured": "Smith J, Firth J. Qualitative data analysis: application of the framework approach. Nurse Res. 2011;18(2):52\u201362.",
+                    "journal-title": "Nurse Res"
+                },
+                {
+                    "key": "8974_CR33",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "117",
+                    "DOI": "10.1186/1471-2288-13-117",
+                    "volume": "13",
+                    "author": "NK Gale",
+                    "year": "2013",
+                    "unstructured": "Gale NK, Heath G, Cameron E, Rashid S, Redwood S. Using the framework method for the analysis of qualitative data in multi-disciplinary health research. BMC Med Res Methodol. 2013;13:117.",
+                    "journal-title": "BMC Med Res Methodol"
+                },
+                {
+                    "key": "8974_CR34",
+                    "unstructured": "National Health Executive. Backlog of 150,000 cervical screenings revealed as all major health screenings failing to hit targets http://www.nationalhealthexecutive.com/News/backlog-of-150000-cervical-screenings-revealed-as-all-major-health-screenings-failing-to-hit-targets-/220549. Accessed 9 May 2019."
+                },
+                {
+                    "key": "8974_CR35",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "167",
+                    "DOI": "10.1186/1471-2458-10-167",
+                    "volume": "10",
+                    "author": "T Coleman",
+                    "year": "2010",
+                    "unstructured": "Coleman T. Do financial incentives for delivering health promotion counselling work? Analysis of smoking cessation activities stimulated by the quality and outcomes framework. BMC Public Health. 2010;10:167. https://doi.org/10.1186/1471-2458-10-167.",
+                    "journal-title": "BMC Public Health"
+                },
+                {
+                    "issue": "8 Suppl 2",
+                    "key": "8974_CR36",
+                    "first-page": "II2",
+                    "volume": "39",
+                    "author": "JM Grimshaw",
+                    "year": "2001",
+                    "unstructured": "Grimshaw JM, Shirran L, Thomas R, Mowatt G, Fraser C, Bero L. Changing provider behavior: an overview of systematic reviews of interventions. Med Care. 2001;39(8 Suppl 2):II2\u201345.",
+                    "journal-title": "Med Care"
+                },
+                {
+                    "key": "8974_CR37",
+                    "unstructured": "Summerbell C, Waters E, Edmunds L, Kelly S, Brown T, Campbell K. Interventions for preventing obesity in children. Cochrane Database Syst Rev. 2005:3(5):CD001871\u20133.",
+                    "DOI": "10.1002/14651858.CD001871.pub2",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "8974_CR38",
+                    "first-page": "32",
+                    "volume": "3",
+                    "author": "MS Bauer",
+                    "year": "2015",
+                    "unstructured": "Bauer MS, Damschroder L, Hagedorn H, Smith J, Kilbourne AM. An introduction to implementation science. for the non-specialist. Psychology. 2015;3:32.",
+                    "journal-title": "Psychology"
+                },
+                {
+                    "key": "8974_CR39",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "25",
+                    "DOI": "10.1258/jms.2009.009094",
+                    "volume": "17",
+                    "author": "SW Duffy",
+                    "year": "2010",
+                    "unstructured": "Duffy SW, Tabar L, Olsen AH, Vitak B, Allgood PC, Chen THH, et al. Absolute numbers of lives saved and overdiagnosis in breast cancer screening, from a randomized trial and from the breast screening programme in England. J Med Screen. 2010;17:25\u201330.",
+                    "journal-title": "J Med Screen"
+                },
+                {
+                    "key": "8974_CR40",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "375",
+                    "DOI": "10.1080/09286580701375195",
+                    "volume": "14",
+                    "author": "K Lewis",
+                    "year": "2007",
+                    "unstructured": "Lewis K, Patel D, Yorston D, Charteris D. A qualitative study in the United Kingdom of factors influencing attendance by PWD diabetes at ophthalmic outpatient clinics. Ophthalmic Epidemiol. 2007;14:375\u201380.",
+                    "journal-title": "Ophthalmic Epidemiol"
+                },
+                {
+                    "key": "8974_CR41",
+                    "author": "E Applebee",
+                    "year": "2012",
+                    "unstructured": "Applebee E (2012). The barriers and enablers that affect access to primary and secondary eye care services \u2014 Bradford site report. RNIB report: RNIB/CEP/IR/Bradford/01.",
+                    "volume-title": "The barriers and enablers that affect access to primary and secondary eye care services \u2014 Bradford site report"
+                },
+                {
+                    "issue": "6",
+                    "key": "8974_CR42",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "687",
+                    "DOI": "10.1111/j.1600-0420.2005.00541.x",
+                    "volume": "83",
+                    "author": "GM Zoega",
+                    "year": "2005",
+                    "unstructured": "Zoega GM, Gunnarsdottir T, Bjornsdottir S, et al. Screening compliance and visual outcome in diabetes. Acta Ophthalmol Scand. 2005;83(6):687\u201390.",
+                    "journal-title": "Acta Ophthalmol Scand"
+                },
+                {
+                    "key": "8974_CR43",
+                    "unstructured": "Gray RH, Blades C, Jobson T. Screening clinic non-attendance and the risk of sight threatening retinopathy. Euro J Opthalmol. 2019;19(3):510."
+                },
+                {
+                    "issue": "5",
+                    "key": "8974_CR44",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e010952",
+                    "DOI": "10.1136/bmjopen-2015-010952",
+                    "volume": "6",
+                    "author": "R Strutton",
+                    "year": "2016",
+                    "unstructured": "Strutton R, Du Chemin A, Stratton IM, Forster AS. System-level and patient-level explanations for non-attendance at diabetic retinopathy screening in Sutton and Merton (London, UK): a qualitative analysis of a service evaluation. BMJ Open. 2016;6(5):e010952.",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "key": "8974_CR45",
+                    "author": "DD Hurrell",
+                    "year": "2012",
+                    "unstructured": "Hurrell DD, Donohue S. The barriers and enablers that affect access to primary and secondary eye care services - Glasgow site report. Glasgow: RNIB; 2012.",
+                    "volume-title": "The barriers and enablers that affect access to primary and secondary eye care services - Glasgow site report"
+                },
+                {
+                    "key": "8974_CR46",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e005498",
+                    "DOI": "10.1136/bmjopen-2014-005498",
+                    "volume": "4",
+                    "author": "AE Hipwell",
+                    "year": "2014",
+                    "unstructured": "Hipwell AE, Sturt J, Lindenmeyer A, Stratton I, Gadsby R, O\u2019Hare P, et al. Attitudes, access and anguish: a qualitative interview study of staff and patients\u2019 experiences of diabetic retinopathy screening. BMJ Open. 2014;4:e005498.",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "key": "8974_CR47",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "529",
+                    "DOI": "10.1001/archfami.4.6.529",
+                    "volume": "4",
+                    "author": "SE Moss",
+                    "year": "1995",
+                    "unstructured": "Moss SE, Klein R, Klein BE. Factors associated with having eye examinations in persons with diabetes. Arch Fam Med. 1995;4:529\u201334.",
+                    "journal-title": "Arch Fam Med"
+                }
+            ],
+            "container-title": "BMC Public Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://link.springer.com/content/pdf/10.1186/s12889-020-08974-1.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://link.springer.com/article/10.1186/s12889-020-08974-1/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://link.springer.com/content/pdf/10.1186/s12889-020-08974-1.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        7
+                    ]
+                ],
+                "date-time": "2021-06-07T23:29:00Z",
+                "timestamp": 1623108540000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        8
+                    ]
+                ]
+            },
+            "references-count": 47,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "8974"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12889-020-08974-1",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1471-2458"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health"
+            ],
+            "container-title-short": "BMC Public Health",
+            "assertion": [
+                {
+                    "value": "24 September 2019",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "24 May 2020",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "8 June 2020",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "Ethical approval was given by NHS North West, Preston Research Ethics Committee. The two phases of the study were conducted under the following research ethics committee approvals: 13/NW/0287 and 16/NW/0061. All participants provided signed informed consent.",
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "All quotes are anonymised, no personal information was included.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "The author's declare that they have no competing interests.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "881"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [
+                    [
+                        "Qualitative",
+                        "acceptability",
+                        "diabetic retinopathy screening"
+                    ]
+                ],
+                "OtherID": [],
+                "PMID": "32513143",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "11",
+                    "Day": "09"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "17"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "06",
+                            "Day": "08"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12889-020-08974-1"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1471-2458",
+                        "JournalIssue": {
+                            "Volume": "20",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Jun",
+                                "Day": "08"
+                            }
+                        },
+                        "Title": "BMC public health",
+                        "ISOAbbreviation": "BMC Public Health"
+                    },
+                    "ArticleTitle": "Personalising screening of sight-threatening diabetic retinopathy - qualitative evidence to inform effective implementation.",
+                    "Pagination": {
+                        "MedlinePgn": "881"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Internationally, systematic screening for sight-threatening diabetic retinopathy (STDR) usually includes annual recall. Researchers and policy-makers support extending screening intervals, citing evidence from observational studies with low incidence rates. However, there is little research around the acceptability to people with diabetes (PWD) and health care professionals (HCP) about changing eye screening intervals.",
+                            "We conducted a qualitative study to explore issues surrounding acceptability and the barriers and enablers for changing from annual screening, using in-depth, semistructured interviews analysed using the constant comparative method. PWD were recruited from general practices and HCP from eye screening networks and related specialties in North West England using purposive sampling. Interviews were conducted prior to the commencement of and during a randomised controlled trial (RCT) comparing fixed annual with variable (6, 12 or 24\u2009month) interval risk-based screening.",
+                            "Thirty PWD and 21 HCP participants were interviewed prior to and 30 PWD during the parallel RCT. The data suggests that a move to variable screening intervals was generally acceptable in principle, though highlighted significant concerns and challenges to successful implementation. The current annual interval was recognised as unsustainable against a backdrop of increasing diabetes prevalence. There were important caveats attached to acceptability and a need for clear safeguards around: the safety and reliability of calculating screening intervals, capturing all PWD, referral into screening of PWD with diabetic changes regardless of planned interval. For PWD the 6-month interval was perceived positively as medical reassurance, and the 12-month seen as usual treatment. Concerns were expressed by many HCP and PWD that a 2-year interval was too lengthy and was risky for detecting STDR. There were also concerns about a negative effect upon PWD care and increasing non-attendance rates. Amongst PWD, there was considerable conflation and misunderstanding about different eye-related appointments within the health care system.",
+                            "Implementing variable-interval screening into clinical practice is generally acceptable to PWD and HCP with important caveats, and misconceptions must be addressed. Clear safeguards against increasing non-attendance, loss of diabetes control and alternative referral pathways are required. For risk calculation systems to be safe, reliable monitoring and clear communication is required."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health, University of Liverpool, Liverpool, UK. paula.byrne@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0001-8090-6184"
+                            ],
+                            "LastName": "Byrne",
+                            "ForeName": "P",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Thetford",
+                            "ForeName": "C",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "M",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Clarke",
+                            "ForeName": "P",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "ISDR Public Involvement Group, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Doncaster",
+                            "ForeName": "E",
+                            "Initials": "E"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Eye and Vision Science, University of Liverpool and St. Paul's Eye Unit, Royal Liverpool University Hospital, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harding",
+                            "ForeName": "S P",
+                            "Initials": "SP"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "CollectiveName": "ISDR Study Group"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "RP-PG-1210-12016",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "PGfAR: RP-PG-1210-1201",
+                            "Agency": "National Institute for Health Research",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Public Health",
+                    "NlmUniqueID": "100968562",
+                    "ISSNLinking": "1471-2458"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "diagnosis",
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Diabetic Retinopathy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Prevalence",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Qualitative Research",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Referral and Consultation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Reproducibility of Results",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Research Design",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Severity of Illness Index",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Vision Disorders",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "organization & administration"
+                        ],
+                        "DescriptorName": "Vision Screening",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "InvestigatorList": [
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Harding",
+                        "ForeName": "Simon P",
+                        "Initials": "SP"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Broadbent",
+                        "ForeName": "Deborah M",
+                        "Initials": "DM"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Byrne",
+                        "ForeName": "Paula",
+                        "Initials": "P"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Fisher",
+                        "ForeName": "Anthony C",
+                        "Initials": "AC"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Gabbay",
+                        "ForeName": "Mark",
+                        "Initials": "M"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Garc\u00eda-Fi\u00f1ana",
+                        "ForeName": "Marta",
+                        "Initials": "M"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "James",
+                        "ForeName": "Marilyn",
+                        "Initials": "M"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Moitt",
+                        "ForeName": "Tracy",
+                        "Initials": "T"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Roberts",
+                        "ForeName": "John",
+                        "Initials": "J"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Seddon",
+                        "ForeName": "Daniel",
+                        "Initials": "D"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Stratton",
+                        "ForeName": "Irene M",
+                        "Initials": "IM"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Vora",
+                        "ForeName": "Jiten P",
+                        "Initials": "JP"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Williamson",
+                        "ForeName": "Paula",
+                        "Initials": "P"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Appelbe",
+                        "ForeName": "Duncan",
+                        "Initials": "D"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Alshukri",
+                        "ForeName": "Ayesh",
+                        "Initials": "A"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Cheyne",
+                        "ForeName": "Christopher P",
+                        "Initials": "CP"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Darssan",
+                        "ForeName": "Darsy",
+                        "Initials": "D"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Eleuteri",
+                        "ForeName": "Antonio",
+                        "Initials": "A"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Grierson",
+                        "ForeName": "Christopher",
+                        "Initials": "C"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Howard",
+                        "ForeName": "Lola",
+                        "Initials": "L"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Howlin",
+                        "ForeName": "Susan U",
+                        "Initials": "SU"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Lathe",
+                        "ForeName": "James G",
+                        "Initials": "JG"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Mobayen-Rahni",
+                        "ForeName": "Mehrdad",
+                        "Initials": "M"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Ovens",
+                        "ForeName": "Andy",
+                        "Initials": "A"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Sampson",
+                        "ForeName": "Christopher J",
+                        "Initials": "CJ"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Silvera",
+                        "ForeName": "Kate",
+                        "Initials": "K"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Szmyt",
+                        "ForeName": "David",
+                        "Initials": "D"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Thetford",
+                        "ForeName": "Clare",
+                        "Initials": "C"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Vazquez-Arango",
+                        "ForeName": "Pilar",
+                        "Initials": "P"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Wang",
+                        "ForeName": "Amu",
+                        "Initials": "A"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Williams",
+                        "ForeName": "Abigail E",
+                        "Initials": "AE"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Collins",
+                        "ForeName": "John",
+                        "Initials": "J"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Doncaster",
+                        "ForeName": "Emily",
+                        "Initials": "E"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Kelly",
+                        "ForeName": "John",
+                        "Initials": "J"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Lees",
+                        "ForeName": "Peter",
+                        "Initials": "P"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Lees",
+                        "ForeName": "Sandra",
+                        "Initials": "S"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Williams",
+                        "ForeName": "Betty",
+                        "Initials": "B"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Bunce",
+                        "ForeName": "Catey",
+                        "Initials": "C"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Cooper",
+                        "ForeName": "Helen",
+                        "Initials": "H"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Kumar",
+                        "ForeName": "Vineeth",
+                        "Initials": "V"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Massat",
+                        "ForeName": "Nathalie",
+                        "Initials": "N"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Rogers",
+                        "ForeName": "Chris",
+                        "Initials": "C"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Rowlands",
+                        "ForeName": "Alison",
+                        "Initials": "A"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Smith",
+                        "ForeName": "Gideon",
+                        "Initials": "G"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "West",
+                        "ForeName": "Julia",
+                        "Initials": "J"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Younis",
+                        "ForeName": "Naveed",
+                        "Initials": "N"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Criddle",
+                        "ForeName": "Ticiana",
+                        "Initials": "T"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Perrett",
+                        "ForeName": "Stephanie",
+                        "Initials": "S"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Jones",
+                        "ForeName": "Lisa",
+                        "Initials": "L"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "J Med Screen. 2010;17(1):25-30",
+                                "ArticleIdList": [
+                                    "20356942"
+                                ]
+                            },
+                            {
+                                "Citation": "J Med Internet Res. 2014 May 05;16(5):e120",
+                                "ArticleIdList": [
+                                    "24797339"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetologia. 2014 Jul;57(7):1332-8",
+                                "ArticleIdList": [
+                                    "24763851"
+                                ]
+                            },
+                            {
+                                "Citation": "Implement Sci. 2011 Apr 23;6:42",
+                                "ArticleIdList": [
+                                    "21513547"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetes Care. 2015 Mar;38(3):488-94",
+                                "ArticleIdList": [
+                                    "25524948"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2005 Jul 20;(3):CD001871",
+                                "ArticleIdList": [
+                                    "16034868"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetologia. 2013 Aug;56(8):1716-25",
+                                "ArticleIdList": [
+                                    "23689796"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetologia. 2011 Oct;54(10):2525-32",
+                                "ArticleIdList": [
+                                    "21792613"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Ophthalmol Scand. 2005 Dec;83(6):687-90",
+                                "ArticleIdList": [
+                                    "16396645"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2016 May 18;6(5):e010952",
+                                "ArticleIdList": [
+                                    "27194319"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Res Methodol. 2013 Sep 18;13:117",
+                                "ArticleIdList": [
+                                    "24047204"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2008 Sep 29;337:a1655",
+                                "ArticleIdList": [
+                                    "18824488"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Ophthalmol. 2018 Dec;96(8):763-769",
+                                "ArticleIdList": [
+                                    "30311394"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2010 Mar 26;10:167",
+                                "ArticleIdList": [
+                                    "20346154"
+                                ]
+                            },
+                            {
+                                "Citation": "JAMA Oncol. 2018 Nov 1;4(11):1504-1510",
+                                "ArticleIdList": [
+                                    "29978189"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2014 Dec 15;4(12):e005498",
+                                "ArticleIdList": [
+                                    "25510885"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabet Med. 2013 Nov;30(11):1272-92",
+                                "ArticleIdList": [
+                                    "23819487"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetes Care. 2009 Nov;32(11):2094-8",
+                                "ArticleIdList": [
+                                    "19875606"
+                                ]
+                            },
+                            {
+                                "Citation": "J Consult Clin Psychol. 1983 Jun;51(3):390-5",
+                                "ArticleIdList": [
+                                    "6863699"
+                                ]
+                            },
+                            {
+                                "Citation": "Nurse Res. 2011;18(2):52-62",
+                                "ArticleIdList": [
+                                    "21319484"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Fam Med. 2013 Mar-Apr;11(2):130-6",
+                                "ArticleIdList": [
+                                    "23508599"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetes Care. 2011 Jun;34(6):1318-9",
+                                "ArticleIdList": [
+                                    "21562322"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Ophthalmol. 2016 Jan;100(1):105-14",
+                                "ArticleIdList": [
+                                    "25586713"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Psychol. 2015 Sep 16;3:32",
+                                "ArticleIdList": [
+                                    "26376626"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2014 Feb 12;4(2):e004015",
+                                "ArticleIdList": [
+                                    "24525390"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetes Care. 2018 Mar;41(3):586-595",
+                                "ArticleIdList": [
+                                    "29269511"
+                                ]
+                            },
+                            {
+                                "Citation": "Ophthalmic Epidemiol. 2007 Nov-Dec;14(6):375-80",
+                                "ArticleIdList": [
+                                    "18161611"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Ophthalmol. 2007 Dec;91(12):1599-601",
+                                "ArticleIdList": [
+                                    "17627978"
+                                ]
+                            },
+                            {
+                                "Citation": "Diabetologia. 2017 Nov;60(11):2174-2182",
+                                "ArticleIdList": [
+                                    "28840258"
+                                ]
+                            },
+                            {
+                                "Citation": "Med Care. 2001 Aug;39(8 Suppl 2):II2-45",
+                                "ArticleIdList": [
+                                    "11583120"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2003 Jan 18;361(9353):195-200",
+                                "ArticleIdList": [
+                                    "12547541"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Fam Med. 1995 Jun;4(6):529-34",
+                                "ArticleIdList": [
+                                    "7773429"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2019 Jun 17;9(6):e025788",
+                                "ArticleIdList": [
+                                    "31213445"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "09",
+                        "Day": "24"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "05",
+                        "Day": "24"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "10",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "10",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "11",
+                        "Day": "11",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "32513143",
+                    "10.1186/s12889-020-08974-1",
+                    "10.1186/s12889-020-08974-1",
+                    "PMC7278114"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32513143)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832513143%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832513143%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086356532"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086356532?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85086356532&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85086356532&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85086356532",
+                        "dc:identifier": "SCOPUS_ID:85086356532",
+                        "eid": "2-s2.0-85086356532",
+                        "dc:title": "Personalising screening of sight-threatening diabetic retinopathy - Qualitative evidence to inform effective implementation",
+                        "dc:creator": "Byrne P.",
+                        "prism:publicationName": "BMC Public Health",
+                        "prism:eIssn": "14712458",
+                        "prism:volume": "20",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-06-08",
+                        "prism:coverDisplayDate": "8 June 2020",
+                        "prism:doi": "10.1186/s12889-020-08974-1",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32513143",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "881",
+                        "source-id": "19621",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "PLGBPFPG.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32513143"
+            }
+        },
+        "title": "Personalising screening of sight-threatening diabetic retinopathy - qualitative evidence to inform effective implementation.",
+        "full_author_list": [
+            {
+                "clean": "Byrne P",
+                "family": "Byrne",
+                "given": "P",
+                "affiliation": {
+                    "name": "Institute of Population Health, University of Liverpool, Liverpool, UK. paula.byrne@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Thetford C",
+                "family": "Thetford",
+                "given": "C",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "M",
+                "affiliation": {
+                    "name": "Institute of Population Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Clarke P",
+                "family": "Clarke",
+                "given": "P",
+                "affiliation": {
+                    "name": "Institute of Population Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Doncaster E",
+                "family": "Doncaster",
+                "given": "E",
+                "affiliation": {
+                    "name": "ISDR Public Involvement Group, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Harding S",
+                "family": "Harding",
+                "given": "S P",
+                "affiliation": {
+                    "name": "Eye and Vision Science, University of Liverpool and St. Paul's Eye Unit, Royal Liverpool University Hospital, Preston, UK."
+                }
+            }
+        ],
+        "first_author": "Byrne P",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Diabetic Retinopathy",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Prevalence",
+                    "major": "N"
+                },
+                {
+                    "term": "Qualitative Research",
+                    "major": "N"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Referral and Consultation",
+                    "major": "N"
+                },
+                {
+                    "term": "Reproducibility of Results",
+                    "major": "N"
+                },
+                {
+                    "term": "Research Design",
+                    "major": "N"
+                },
+                {
+                    "term": "Severity of Illness Index",
+                    "major": "Y"
+                },
+                {
+                    "term": "Vision Disorders",
+                    "major": "N"
+                },
+                {
+                    "term": "Vision Screening",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "Qualitative",
+                "acceptability",
+                "diabetic retinopathy screening"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMC Public Health",
+            "volume": "20",
+            "issue": "1"
+        },
+        "abstract": "['Internationally, systematic screening for sight-threatening diabetic retinopathy (STDR) usually includes annual recall. Researchers and policy-makers support extending screening intervals, citing evidence from observational studies with low incidence rates. However, there is little research around the acceptability to people with diabetes (PWD) and health care professionals (HCP) about changing eye screening intervals.', 'We conducted a qualitative study to explore issues surrounding acceptability and the barriers and enablers for changing from annual screening, using in-depth, semistructured interviews analysed using the constant comparative method. PWD were recruited from general practices and HCP from eye screening networks and related specialties in North West England using purposive sampling. Interviews were conducted prior to the commencement of and during a randomised controlled trial (RCT) comparing fixed annual with variable (6, 12 or 24\\u2009month) interval risk-based screening.', 'Thirty PWD and 21 HCP participants were interviewed prior to and 30 PWD during the parallel RCT. The data suggests that a move to variable screening intervals was generally acceptable in principle, though highlighted significant concerns and challenges to successful implementation. The current annual interval was recognised as unsustainable against a backdrop of increasing diabetes prevalence. There were important caveats attached to acceptability and a need for clear safeguards around: the safety and reliability of calculating screening intervals, capturing all PWD, referral into screening of PWD with diabetic changes regardless of planned interval. For PWD the 6-month interval was perceived positively as medical reassurance, and the 12-month seen as usual treatment. Concerns were expressed by many HCP and PWD that a 2-year interval was too lengthy and was risky for detecting STDR. There were also concerns about a negative effect upon PWD care and increasing non-attendance rates. Amongst PWD, there was considerable conflation and misunderstanding about different eye-related appointments within the health care system.', 'Implementing variable-interval screening into clinical practice is generally acceptable to PWD and HCP with important caveats, and misconceptions must be addressed. Clear safeguards against increasing non-attendance, loss of diabetes control and alternative referral pathways are required. For risk calculation systems to be safe, reliable monitoring and clear communication is required.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Population Health, University of Liverpool, Liverpool, UK. paula.byrne@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

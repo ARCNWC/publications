@@ -1,0 +1,1719 @@
+{
+    "IDs": {
+        "zotero": "GDMGPPT4",
+        "DOI": "10.1111/jar.12826",
+        "DOI_filename": "184f04d5ed34e14eace00116bfed1481",
+        "PMID": "33342030",
+        "scopus": "2-s2.0-85097799091",
+        "hash": "376465838db01b75dae8af0422901480"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "GDMGPPT4",
+            "version": 979,
+            "itemType": "journalArticle",
+            "title": "An exploration of lifestyle/obesity programmes for adults with intellectual disabilities through a realist lens: Impact of a \u2018context, mechanism and outcome\u2019 evaluation",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Laurence",
+                    "lastName": "Taggart"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alison Jayne",
+                    "lastName": "Doherty"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Umesh",
+                    "lastName": "Chauhan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Angela",
+                    "lastName": "Hassiotis"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Journal of Applied Research in Intellectual Disabilities",
+            "volume": "34",
+            "issue": "2",
+            "pages": "578-593",
+            "date": "03/2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "J Appl Res Intellect Disabil",
+            "language": "en",
+            "DOI": "10.1111/jar.12826",
+            "ISSN": "1360-2322, 1468-3148",
+            "shortTitle": "An exploration of lifestyle/obesity programmes for adults with intellectual disabilities through a realist lens",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1111/jar.12826",
+            "accessDate": "2021-07-23T16:46:08Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33342030",
+            "tags": [
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:16Z",
+            "dateModified": "2021-07-27T11:49:41Z",
+            "pmid": "33342030"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        8
+                    ]
+                ],
+                "date-time": "2021-02-08T08:16:14Z",
+                "timestamp": 1612772174532
+            },
+            "reference-count": 107,
+            "publisher": "Wiley",
+            "issue": "2",
+            "license": [
+                {
+                    "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                12,
+                                20
+                            ]
+                        ],
+                        "date-time": "2020-12-20T00:00:00Z",
+                        "timestamp": 1608422400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                },
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                12,
+                                20
+                            ]
+                        ],
+                        "date-time": "2020-12-20T00:00:00Z",
+                        "timestamp": 1608422400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "onlinelibrary.wiley.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        3
+                    ]
+                ]
+            },
+            "DOI": "10.1111/jar.12826",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        21
+                    ]
+                ],
+                "date-time": "2020-12-21T01:13:56Z",
+                "timestamp": 1608513236000
+            },
+            "page": "578-593",
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "An exploration of lifestyle/obesity programmes for adults with intellectual disabilities through a realist lens: Impact of a \u2018context, mechanism and outcome\u2019 evaluation",
+            "prefix": "10.1111",
+            "volume": "34",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0954-2127",
+                    "authenticated-orcid": false,
+                    "given": "Laurence",
+                    "family": "Taggart",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Nursing &amp; Health Research Ulster University Co Antrim UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0003-3593-8069",
+                    "authenticated-orcid": false,
+                    "given": "Alison Jayne",
+                    "family": "Doherty",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Faculty of Health &amp; Wellbeing University of Central Lancashire (UCLan) Preston UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0747-591X",
+                    "authenticated-orcid": false,
+                    "given": "Umesh",
+                    "family": "Chauhan",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Faculty of Health &amp; Wellbeing University of Central Lancashire (UCLan) Preston UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-9800-3909",
+                    "authenticated-orcid": false,
+                    "given": "Angela",
+                    "family": "Hassiotis",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Division of Psychiatry University College London London UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        20
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "e_1_2_11_2_1",
+                    "DOI": "10.1371/journal.pone.0070855",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_11_3_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "33",
+                    "DOI": "10.1002/jrsm.32",
+                    "article-title": "Using logic models to capture complexity in systematic review",
+                    "volume": "2",
+                    "author": "Anderson L.",
+                    "year": "2010",
+                    "journal-title": "Research Synthesis Methods"
+                },
+                {
+                    "key": "e_1_2_11_4_1",
+                    "DOI": "10.1111/dme.12738",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_5_1",
+                    "author": "Bandura A.",
+                    "year": "1977",
+                    "volume-title": "Social Learning Theory"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_11_6_1",
+                    "first-page": "197",
+                    "article-title": "Piloting a manualised weight management programme for overweight and obese persons with mild\u2010moderate learning disabilities: Results of the shape up\u2010LD study",
+                    "volume": "8",
+                    "author": "Beeken R. J.",
+                    "year": "2015",
+                    "journal-title": "Obesity Facts"
+                },
+                {
+                    "key": "e_1_2_11_7_1",
+                    "first-page": "192",
+                    "article-title": "Shape up\u2010LD: A pilot randomised controlled trial of a manualised weight management programme for adults with mild\u2010moderate learning disabilities",
+                    "volume": "6",
+                    "author": "Beeken R. J.",
+                    "year": "2013",
+                    "journal-title": "Obesity Facts"
+                },
+                {
+                    "key": "e_1_2_11_8_1",
+                    "DOI": "10.1016/j.ridd.2013.07.019",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_9_1",
+                    "unstructured": "BhaskerR2008:A Realist Theory of Science.2ndEdition.London:Verso."
+                },
+                {
+                    "key": "e_1_2_11_10_1",
+                    "DOI": "10.1111/j.1365-2788.2007.01018.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_11_1",
+                    "DOI": "10.1111/jir.12251",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "12",
+                    "key": "e_1_2_11_12_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2299",
+                    "DOI": "10.1016/j.socscimed.2012.08.032",
+                    "article-title": "Realist randomised controlled trials: A new approach to evaluating complex public health interventions",
+                    "volume": "75",
+                    "author": "Bonnell C.",
+                    "year": "2012",
+                    "journal-title": "Social Science and Medicine"
+                },
+                {
+                    "key": "e_1_2_11_13_1",
+                    "DOI": "10.1111/jppi.12018",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_14_1",
+                    "DOI": "10.1136/bmj.321.7262.694",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_15_1",
+                    "DOI": "10.3399/bjgp16X684301",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_11_16_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "109",
+                    "DOI": "10.1016/j.smr.2011.01.001",
+                    "article-title": "Organisational readiness and capacity building strategies of sporting organisations to promote health",
+                    "volume": "15",
+                    "author": "Casey M. M.",
+                    "year": "2015",
+                    "journal-title": "Sport Management Review"
+                },
+                {
+                    "issue": "4",
+                    "key": "e_1_2_11_17_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "247",
+                    "DOI": "10.1352/1934-9556-55.4.247",
+                    "article-title": "Disability policy evaluation: Combing logic models and systems thinking",
+                    "volume": "55",
+                    "author": "Claes C.",
+                    "year": "2017",
+                    "journal-title": "Intellectual and Developmental Disabilities"
+                },
+                {
+                    "key": "e_1_2_11_18_1",
+                    "DOI": "10.1186/s12875-015-0329-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_19_1",
+                    "author": "Craig F. M.",
+                    "year": "2015",
+                    "article-title": "Process evaluation of complex interventions",
+                    "journal-title": "Medical Research Council"
+                },
+                {
+                    "key": "e_1_2_11_20_1",
+                    "DOI": "10.1136/bmj.a1655",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_21_1",
+                    "unstructured": "CraigP DieppeP MacintyreS MichieS NazarethI.PettigrewM. (2019)Developing and evaluating complex interventions: Following considerable development in the field since 2006 MRC and NIHR have jointly commissioned an update of this guidance to be published 2019.https://mrc.ukri.org/documents/pdf/complex\u2010interventions\u2010guidance/[accessed 1st Nov 2020]."
+                },
+                {
+                    "key": "e_1_2_11_22_1",
+                    "DOI": "10.1016/j.jpeds.2013.06.081",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_23_1",
+                    "DOI": "10.1016/j.ridd.2011.09.022",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_24_1",
+                    "author": "Digital N. H. S.",
+                    "year": "2017",
+                    "volume-title": "Health and care of people with learning disabilities"
+                },
+                {
+                    "key": "e_1_2_11_25_1",
+                    "DOI": "10.1016/0306-4603(82)90038-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_26_1",
+                    "author": "Dobbs R.",
+                    "year": "2014",
+                    "volume-title": "Overcoming obesity: An initial economic analysis"
+                },
+                {
+                    "key": "e_1_2_11_27_1",
+                    "author": "Doherty A. J.",
+                    "first-page": "1",
+                    "year": "2020",
+                    "article-title": "Barriers and facilitators to primary health care for people with intellectual disabilities and/or autism: An integrative review",
+                    "journal-title": "BJGP Open"
+                },
+                {
+                    "key": "e_1_2_11_28_1",
+                    "author": "Doherty A. J.",
+                    "year": "2018",
+                    "article-title": "An integrative review of multicomponent weight management interventions for adults with intellectual disabilities",
+                    "journal-title": "Journal of Applied Research in Intellectual Disabilities"
+                },
+                {
+                    "key": "e_1_2_11_29_1",
+                    "DOI": "10.1080/17437199.2010.513298",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_30_1",
+                    "author": "Emerson E.",
+                    "year": "2014",
+                    "volume-title": "Health inequalities and people with intellectual disabilities"
+                },
+                {
+                    "key": "e_1_2_11_31_1",
+                    "DOI": "10.4135/9781526451729",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_32_1",
+                    "DOI": "10.2466/pms.1986.62.2.359",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_33_1",
+                    "DOI": "10.1177/1356389016652743",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_11_34_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "69",
+                    "DOI": "10.1016/S0270-3092(84)80020-X",
+                    "article-title": "A streamlined weight loss program for moderately retarded adults in a sheltered workshop setting",
+                    "volume": "5",
+                    "author": "Fox R. A.",
+                    "year": "1984",
+                    "journal-title": "Applied Research in Mental Retardation"
+                },
+                {
+                    "issue": "10053",
+                    "key": "e_1_2_11_35_1",
+                    "first-page": "1459",
+                    "article-title": "Global, regional, and national life expectancy, all\u2010cause mortality, and cause\u2010specific mortality for 249 causes of death, 1980\u20132015: A systematic analysis for the Global Burden of Disease Study 2015",
+                    "volume": "388",
+                    "author": "Global Burden of Disease",
+                    "year": "2015",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "e_1_2_11_36_1",
+                    "DOI": "10.1111/1468-0009.12197",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_37_1",
+                    "DOI": "10.1111/j.1365-2788.2010.01357.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_38_1",
+                    "DOI": "10.1111/j.1467-789X.2006.00307.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_39_1",
+                    "DOI": "10.1017/S0007114517001933",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_40_1",
+                    "DOI": "10.1016/j.ridd.2017.10.021",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_41_1",
+                    "DOI": "10.1111/jir.12563",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_42_1",
+                    "author": "Hatton C.",
+                    "year": "2011",
+                    "volume-title": "Reasonable adjustments for people with learning disabilities in England: A National Survey of NHS Trusts"
+                },
+                {
+                    "issue": "36",
+                    "key": "e_1_2_11_43_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "307",
+                    "DOI": "10.1146/annurev-publhealth-031912-114421",
+                    "article-title": "Lessons for complex programmesto improve health",
+                    "volume": "18",
+                    "author": "Hawe P.",
+                    "year": "2015",
+                    "journal-title": "Annual Review Public Health"
+                },
+                {
+                    "key": "e_1_2_11_44_1",
+                    "DOI": "10.1016/j.ridd.2013.11.015",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_45_1",
+                    "DOI": "10.1177/1744629516657946",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_46_1",
+                    "DOI": "10.1111/jir.12100",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_47_1",
+                    "DOI": "10.1192/bjpo.bp.117.005462",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_11_48_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2",
+                    "DOI": "10.1111/j.1741-1130.2008.00197.x",
+                    "article-title": "Using logic models to plan quality of life outcome evaluations",
+                    "volume": "6",
+                    "author": "Isaacs B.",
+                    "year": "2009",
+                    "journal-title": "Journal of Policy & Practice in Intellectual Disabilities"
+                },
+                {
+                    "key": "e_1_2_11_49_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "466",
+                    "DOI": "10.1186/s13063-015-0980-y",
+                    "article-title": "The three stages of building and testing mid\u2010level theories in a Realist RCT: A theoretical and methodological case\u2010example",
+                    "volume": "16",
+                    "author": "Jamal F.",
+                    "year": "2015",
+                    "journal-title": "Trials"
+                },
+                {
+                    "issue": "3",
+                    "key": "e_1_2_11_50_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "460",
+                    "DOI": "10.1111/j.1365-2648.2010.05508.x",
+                    "article-title": "Obesity interventions for people with a learning disability: an integrative literature review",
+                    "volume": "67",
+                    "author": "Jinks A.",
+                    "year": "2010",
+                    "journal-title": "Journal of Advanced Nursing"
+                },
+                {
+                    "key": "e_1_2_11_51_1",
+                    "author": "Kellogg Foundation W.K.",
+                    "year": "2004",
+                    "volume-title": "Logic model development guide"
+                },
+                {
+                    "key": "e_1_2_11_52_1",
+                    "DOI": "10.1111/jir.12254",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "3",
+                    "key": "e_1_2_11_53_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "228",
+                    "DOI": "10.1111/jir.12243",
+                    "article-title": "Healthy living according to adults with intellectual disabilities: Towards tailoring health promotion initiatives",
+                    "volume": "60",
+                    "author": "Kuijken N. M. J.",
+                    "year": "2015",
+                    "journal-title": "Journal of Intellectual Disability Research"
+                },
+                {
+                    "key": "e_1_2_11_54_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "94",
+                    "DOI": "10.1016/j.ridd.2015.05.005",
+                    "article-title": "Comparison of obesity among Chinese and US Special Olympic athletes with intellectual disabilities",
+                    "volume": "41",
+                    "author": "Li H.",
+                    "year": "2015",
+                    "journal-title": "Research in Developmental Disabilities"
+                },
+                {
+                    "key": "e_1_2_11_55_1",
+                    "author": "Loveman E.",
+                    "year": "2011",
+                    "volume-title": "NIHR Health Technology Assessment programme: Executive Summaries"
+                },
+                {
+                    "issue": "7",
+                    "key": "e_1_2_11_56_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "7599",
+                    "DOI": "10.1111/obr.12408",
+                    "article-title": "Supporting information for Prevalence of overweight and obesity among children and adolescents with intellectual disabilities: A systematic review and meta\u2010analysis",
+                    "volume": "17",
+                    "author": "Maiano C.",
+                    "year": "2016",
+                    "journal-title": "Obesity Reviews"
+                },
+                {
+                    "key": "e_1_2_11_57_1",
+                    "author": "Marks B.",
+                    "first-page": "17",
+                    "year": "2014",
+                    "volume-title": "Health promotion for people with intellectual and developmental disabilities"
+                },
+                {
+                    "key": "e_1_2_11_58_1",
+                    "DOI": "10.1111/jar.12045",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_59_1",
+                    "DOI": "10.1016/j.ypmed.2011.02.001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_60_1",
+                    "DOI": "10.1177/0017896912441240",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_61_1",
+                    "DOI": "10.1177/109019818801500401",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_11_62_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1553",
+                    "DOI": "10.1017/S0007114510005362",
+                    "article-title": "An open study of the effectiveness of a multi\u2010component weight loss programme for adults with intellectual disabilities and obesity",
+                    "volume": "105",
+                    "author": "Melville C. A.",
+                    "year": "2011",
+                    "journal-title": "British Journal of Nutrition"
+                },
+                {
+                    "key": "e_1_2_11_63_1",
+                    "DOI": "10.1111/j.1468-3148.2007.00412.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_64_1",
+                    "DOI": "10.1111/j.1467-789X.2006.00296.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_65_1",
+                    "DOI": "10.1111/jir.12454",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_66_1",
+                    "DOI": "10.1186/s12966-015-0290-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_67_1",
+                    "author": "Michael J.",
+                    "year": "2008",
+                    "volume-title": "Healthcare for all: Report of the independent inquiry into access to healthcare for people with intellectual disabilities"
+                },
+                {
+                    "key": "e_1_2_11_68_1",
+                    "DOI": "10.1037/a0016136",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_69_1",
+                    "DOI": "10.1186/1748-5908-6-42",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_70_1",
+                    "DOI": "10.1016/j.ridd.2013.10.012",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_71_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "h1258",
+                    "DOI": "10.1136/bmj.h1258",
+                    "article-title": "Process evaluation of complex interventions: Medical Research Council guidance",
+                    "volume": "350",
+                    "author": "Moore G. F.",
+                    "year": "2012",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "e_1_2_11_72_1",
+                    "DOI": "10.1016/j.ssmph.2016.12.005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_11_73_1",
+                    "first-page": "23",
+                    "article-title": "From complex social interventions to interventions in complex systems: Future directions and unresolved questions for intervention development and evaluation",
+                    "volume": "25",
+                    "author": "Moore G. F.",
+                    "year": "2019",
+                    "journal-title": "Evolution"
+                },
+                {
+                    "key": "e_1_2_11_74_1",
+                    "DOI": "10.1016/j.ridd.2013.09.029",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_75_1",
+                    "unstructured": "NICE (National Institute for Health and Care Excellence) Clinical Guidance PH53(2014) ManagingOverweight and Obesity in Adults \u2013 Lifestyle Weight Management Services. Issued May 2014.http://www.nice.org.uk/guidance/ph53[accessed 20/10/19]."
+                },
+                {
+                    "issue": "1",
+                    "key": "e_1_2_11_76_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "122",
+                    "DOI": "10.1111/jar.12396",
+                    "article-title": "Healthy lifestyle behaviours for people with intellectual disabilities: An exploration of organizational barriers and enablers",
+                    "volume": "31",
+                    "author": "O'Leary L.",
+                    "year": "2018",
+                    "journal-title": "Journal of Applied Research in Intellectual Disabilities"
+                },
+                {
+                    "key": "e_1_2_11_77_1",
+                    "author": "Owens R.",
+                    "year": "2020",
+                    "article-title": "What works in community health education for adults with learning disabilities: A review of the literature",
+                    "journal-title": "Journal of Applied Research in Intellectual Disabilities"
+                },
+                {
+                    "key": "e_1_2_11_78_1",
+                    "author": "Pawson R.",
+                    "year": "1997",
+                    "volume-title": "Realistic evaluation"
+                },
+                {
+                    "key": "e_1_2_11_79_1",
+                    "DOI": "10.4135/9781473913820",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_80_1",
+                    "DOI": "10.1352/1944-7558-118.3.224",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_81_1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "156",
+                    "DOI": "10.1016/j.evalprogplan.2017.08.012",
+                    "article-title": "Devil is in the details: Using logic models to investigate program process",
+                    "volume": "65",
+                    "author": "Peyton D. J.",
+                    "year": "2017",
+                    "journal-title": "Evaluation and Programme Planning"
+                },
+                {
+                    "key": "e_1_2_11_82_1",
+                    "DOI": "10.1186/s13012-017-0552-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_83_1",
+                    "DOI": "10.1111/obr.12102",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_84_1",
+                    "author": "Public Health England",
+                    "year": "2015",
+                    "volume-title": "Obesity and health"
+                },
+                {
+                    "key": "e_1_2_11_85_1",
+                    "DOI": "10.1111/jar.12370",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_86_1",
+                    "DOI": "10.1111/j.1365-2788.2010.01305.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_87_1",
+                    "author": "Scholack R. L.",
+                    "first-page": "17",
+                    "year": "2010",
+                    "volume-title": "Enhancing the quality of life of people with intellectual disabilities",
+                    "DOI": "10.1007/978-90-481-9650-0_2",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "e_1_2_11_88_1",
+                    "DOI": "10.1108/TLDR-10-2017-0038",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_89_1",
+                    "DOI": "10.3109/13668250.2015.1014027",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_90_1",
+                    "author": "Shogren K. A.",
+                    "year": "2018",
+                    "article-title": "Impact of the self\u2010determined learning model of instruction on self\u2010determination and goal attainment in adolescents with intellectual disability",
+                    "journal-title": "Journal of Disability Policy Studies"
+                },
+                {
+                    "key": "e_1_2_11_91_1",
+                    "DOI": "10.1352/1934-9556-53.5.367",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_92_1",
+                    "unstructured": "SIGN(2010)Management of Obesity: A national clinical guide. NHS Scotland.https://www.sign.ac.uk/assets/sign115.pdf. [accessed 09/07/20]"
+                },
+                {
+                    "key": "e_1_2_11_93_1",
+                    "DOI": "10.1111/jhn.12051",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_94_1",
+                    "DOI": "10.1186/1475-2891-12-132",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_95_1",
+                    "DOI": "10.1111/jar.12202",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_96_1",
+                    "DOI": "10.1111/jar.12640",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_97_1",
+                    "DOI": "10.1352/1944-7558-116.6.401",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_98_1",
+                    "DOI": "10.1111/jar.12139",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_99_1",
+                    "DOI": "10.1016/S0140-6736(11)60813-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_100_1",
+                    "author": "Taggart L.",
+                    "year": "2014",
+                    "volume-title": "Health promotion for people with intellectual and developmental disabilities"
+                },
+                {
+                    "key": "e_1_2_11_101_1",
+                    "author": "Taggart L.",
+                    "year": "2014",
+                    "volume-title": "Health promotion for people with intellectual and developmental disabilities"
+                },
+                {
+                    "key": "e_1_2_11_102_1",
+                    "DOI": "10.1111/j.1365-2788.2012.01633.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_103_1",
+                    "DOI": "10.3390/ijerph14040435",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_104_1",
+                    "DOI": "10.1038/oby.2008.351",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_105_1",
+                    "DOI": "10.1001/archinte.162.16.1867",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_106_1",
+                    "DOI": "10.1111/jar.12463",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_11_107_1",
+                    "author": "World Health Organisation",
+                    "year": "2004",
+                    "volume-title": "Global strategy on diet, physical activity and health"
+                },
+                {
+                    "key": "e_1_2_11_108_1",
+                    "unstructured": "World Health Organisation. (2004b)The commission on ending childhood obesity.WHO.https://www.who.int/end\u2010childhood\u2010obesity/final\u2010report/en/[accessed 22/10/19]."
+                }
+            ],
+            "container-title": "Journal of Applied Research in Intellectual Disabilities",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jar.12826",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/jar.12826",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jar.12826",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        8
+                    ]
+                ],
+                "date-time": "2021-02-08T07:57:02Z",
+                "timestamp": 1612771022000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        20
+                    ]
+                ]
+            },
+            "references-count": 107,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            3
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "alternative-id": [
+                "10.1111/jar.12826"
+            ],
+            "URL": "http://dx.doi.org/10.1111/jar.12826",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1360-2322",
+                "1468-3148"
+            ],
+            "subject": [
+                "Education",
+                "Developmental and Educational Psychology"
+            ],
+            "container-title-short": "J Appl Res Intellect Disabil",
+            "assertion": [
+                {
+                    "value": "2019-12-10",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2020-10-05",
+                    "order": 1,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2020-12-20",
+                    "order": 2,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "intellectual disability",
+                        "lifestyle/obesity programmes",
+                        "logic modelling",
+                        "realist lens"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "33342030",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "02",
+                    "Day": "05"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "12",
+                            "Day": "20"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1111/jar.12826"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1468-3148",
+                        "JournalIssue": {
+                            "Volume": "34",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "Mar"
+                            }
+                        },
+                        "Title": "Journal of applied research in intellectual disabilities : JARID",
+                        "ISOAbbreviation": "J Appl Res Intellect Disabil"
+                    },
+                    "ArticleTitle": "An exploration of lifestyle/obesity programmes for adults with intellectual disabilities through a realist lens: Impact of a 'context, mechanism and outcome' evaluation.",
+                    "Pagination": {
+                        "MedlinePgn": "578-593"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Obesity is higher in people with intellectual disabilities.",
+                            "There are two aims of this explorative paper. Firstly, using a realist lens, to go beyond 'what works' and examine the 'context, mechanisms and outcomes' (CMO) of lifestyle/obesity programmes for this population. Second, using a logic model framework to inform how these programmes could be implemented within practice.",
+                            "We explored six-review papers and the individual lifestyle/obesity programmes that these papers reviewed using the CMO framework.",
+                            "There were few theoretically underpinned, multi-component programmes that were effective in the short to long-term and many failed to explore the 'context and mechanisms'. We developed a logic model and engaged in two co-production workshops to refine this model.",
+                            "Using a realist approach, programmes need to be underpinned by both individual and systems change theories, be multi-component, have a closer understanding of the interplay of the 'context and mechanisms', and co-designed using a logic model framework."
+                        ],
+                        "CopyrightInformation": "\u00a9 2020 John Wiley & Sons Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Nursing & Health Research, Ulster University, Co Antrim, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0002-0954-2127"
+                            ],
+                            "LastName": "Taggart",
+                            "ForeName": "Laurence",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health & Wellbeing, University of Central Lancashire (UCLan), Preston, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0003-3593-8069"
+                            ],
+                            "LastName": "Doherty",
+                            "ForeName": "Alison Jayne",
+                            "Initials": "AJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health & Wellbeing, University of Central Lancashire (UCLan), Preston, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0002-0747-591X"
+                            ],
+                            "LastName": "Chauhan",
+                            "ForeName": "Umesh",
+                            "Initials": "U"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Psychiatry, University College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0002-9800-3909"
+                            ],
+                            "LastName": "Hassiotis",
+                            "ForeName": "Angela",
+                            "Initials": "A"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "Agency": "University of Central Lancashire",
+                            "Country": ""
+                        },
+                        {
+                            "Agency": "Health Research",
+                            "Country": ""
+                        },
+                        {
+                            "Agency": "Department of Health",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Appl Res Intellect Disabil",
+                    "NlmUniqueID": "9613616",
+                    "ISSNLinking": "1360-2322"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Ali, A., Scior, K., Ratti, V., Strydom, A., King, M., & Hassiotis, A. (2013). Discrimination and other barriers to accessing health care: Perspectives of patients with mild and moderate intellectual disability and their carers. PLoS One, 8(8), e70855."
+                            },
+                            {
+                                "Citation": "Anderson, L. (2010). Using logic models to capture complexity in systematic review. Research Synthesis Methods, 2(1), 33-42."
+                            },
+                            {
+                                "Citation": "Avery, L., Flynn, D., Dombrowski, S. U., Wersch, A., Sniehotta, F. F., & Trenell, M. I. (2015). Successful behavioural strategies to increase physical activity and improve glucose control in adults with type 2 diabetes. Diabetic Medicine, 32(8), 1058-1062."
+                            },
+                            {
+                                "Citation": "Bandura, A. (1977). Social Learning Theory. Englewood Cliffs, NJ: Prentice-Hall."
+                            },
+                            {
+                                "Citation": "Beeken, R. J., Lally, P., Wahlich, C., Mar, R., Marston, L., Wilson, R. & Croker, H. (2015). Piloting a manualised weight management programme for overweight and obese persons with mild-moderate learning disabilities: Results of the shape up-LD study. Obesity Facts, 8(Suppl. 1), 197."
+                            },
+                            {
+                                "Citation": "Beeken, R. J., Spanos, D., Hunter, R., Hassiotis, A., King, M., Omar, R. et al. (2013). Shape up-LD: A pilot randomised controlled trial of a manualised weight management programme for adults with mild-moderate learning disabilities. Obesity Facts, 6, 192."
+                            },
+                            {
+                                "Citation": "Bergstrom, H., Hagstromer, M., Hagberg, J., & Elinder, L. S. (2013). A multi-component universal programme to improve diet and physical activity among adults with intellectual disabilities in community residences: A cluster randomised controlled trial. Research in Developmental Disabilities, 34(11), 3847-3857."
+                            },
+                            {
+                                "Citation": "Bhasker R 2008: A Realist Theory of Science. 2nd Edition. London: Verso."
+                            },
+                            {
+                                "Citation": "Bhaumik, S., Watson, J. M., Thorp, C. F., Tyrer, F., & McGrother, C. W. (2008). Body mass index in adults with intellectual disability: Distribution, associations and service implications: A population-based prevalence study. Journal of Intellectual Disability Research, 52(4), 287-298."
+                            },
+                            {
+                                "Citation": "Boer, P. H., & Moss, S. J. (2016). Effect of continuous aerobic vs interval training on selected anthropometrical, physiological and functional parameters of adults with Down syndrome. Journal of Intellectual Disability Research, 60(4), 322-334."
+                            },
+                            {
+                                "Citation": "Bonnell, C., Fletcher, A., Morton, M., Lorenc, T., & Moore, L. (2012). Realist randomised controlled trials: A new approach to evaluating complex public health interventions. Social Science and Medicine, 75(12), 2299-2306."
+                            },
+                            {
+                                "Citation": "Brehmer-Rinderer, B., Zigrovic, L., Naue, U., & Weber, G. (2013). Promoting the health of persons with intellectual disabilities using the UN Convention on the rights of persons with disabilities: Early implementation assessment in Spain and Hungary. Journal of Policy and Practice in Intellectual Disabilities, 10(1), 25-36."
+                            },
+                            {
+                                "Citation": "Campbell, M., Fitzpatrick, R., Haines, A., Kinmonth, A. L., Sandercock, P., Spiegelhalter, D., & Tyrer, P. (2000). Framework for the design and evaluation of complex programmes to improve health. BMJ, 321, 694-696."
+                            },
+                            {
+                                "Citation": "Carey, I. M., Shah, S. M., Hosking, F. J., DeWilde, S., Harris, T., Beighton, C., & Cook, D. G. (2016). Health characteristics and consultation patterns of people with intellectual disability: A cross-sectional database study in English general practice. British Journal of General Practice., 66(645), e264-e270."
+                            },
+                            {
+                                "Citation": "Casey, M. M., Payne, W. R., & Eime, R. M. (2015). Organisational readiness and capacity building strategies of sporting organisations to promote health. Sport Management Review, 15(1), 109-124."
+                            },
+                            {
+                                "Citation": "Claes, C., Ferket, H., Vandevelde, S., Verlet, D., & De Maeyer, J. (2017). Disability policy evaluation: Combing logic models and systems thinking. Intellectual and Developmental Disabilities, 55(4), 247-257."
+                            },
+                            {
+                                "Citation": "Cooper, S. A., McLean, G., Guthrie, B. et al (2015). Multiple physical and mental health comorbidity n adults with intellectual disabilities: Population-based cross-sectional analysis. BMC Family Practice, 16, 110."
+                            },
+                            {
+                                "Citation": "Craig, F. M., Audrey, S., Barker, M., Bond, L., Bonnell, C., Hardeman, W., & Moore, L. (2015). Process evaluation of complex interventions. Medical Research Council."
+                            },
+                            {
+                                "Citation": "Craig, P., Dieppe, P., Macintyre, S., Michie, S., Nazareth, I., & Pettigrew, M. (2008) Developing and evaluating complex interventions: The new Medical Research Council guidance. BMJ, 337:a1655. https://doi.org/10.1136/bmj.a1655"
+                            },
+                            {
+                                "Citation": "Craig P, Dieppe P, Macintyre S, Michie S, Nazareth I. Pettigrew M. (2019) Developing and evaluating complex interventions: Following considerable development in the field since 2006, MRC and NIHR have jointly commissioned an update of this guidance to be published 2019. https://mrc.ukri.org/documents/pdf/complex-interventions-guidance/ [accessed 1st Nov 2020]."
+                            },
+                            {
+                                "Citation": "Curtin, C., Bandini, L. G., Must, A., Gleason, J., Lividini, K., Phillips, S., Eliasziw, M., Maslin, M., & Fleming, R. K. (2013). Parent support improves weight loss in adolescents and young adults with Down syndrome. The Journal of Pediatrics, 163(5), 1402-1408."
+                            },
+                            {
+                                "Citation": "de Winter, C. F., Bastiaanse, L. P., Hilgenkamp, T. I., Evenhuis, H. M., & Echteld, M. A. (2012). Overweight and obesity in older people with intellectual disability. Research in Developmental Disabilities, 33(2), 398-405."
+                            },
+                            {
+                                "Citation": "Digital, N. H. S. (2017). Health and care of people with learning disabilities. Retrieved from https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/general-practice-data-hub/health-and-care-of-people-with-learning-disabilities. Accessed 20 November 2019"
+                            },
+                            {
+                                "Citation": "DiClemente, C. C., & Prochaska, J. O. (1982). Self-change and therapy change of smoking behavior: A comparison of processes of change of cessation and maintenance. Addictive Behavior, 7, 133-42."
+                            },
+                            {
+                                "Citation": "Dobbs, R., Sawers, C., Thompson, F., Manyika J, Woetzel J, Child P, McKenna S, & Spatharou A (2014). Overcoming obesity: An initial economic analysis. McKinsey Global Institute."
+                            },
+                            {
+                                "Citation": "Doherty, A. J., Atherton, H., Boland, P., Hastings, R., Hives, L., Hood, K., James-Jenkinson, L., Leavey, R., Randell, E., Reed, J., Taggart, L., Wilson, N., & Chauhan, U. (2020). Barriers and facilitators to primary health care for people with intellectual disabilities and/or autism: An integrative review. BJGP Open, 1-14 https://doi.org/10.3399/bjgpopen20X101030"
+                            },
+                            {
+                                "Citation": "Doherty, A. J., Jones, S. P., Chauhan, U., & Gibson, J. M. E. (2018). An integrative review of multicomponent weight management interventions for adults with intellectual disabilities. Journal of Applied Research in Intellectual Disabilities, https://doi.org/10.1111/jar.12367"
+                            },
+                            {
+                                "Citation": "Dombrowski, S. U., Sniehotta, F. F., Avenell, A., Johnston, M., MacLennan, G., & Araujo-Soares, V. (2012). Identifying active ingredients in complex behavioural programmesfor obese adults with obesity-related co-morbidities or additional risk factors for co-morbidities: A systematic review. Health Psychology Review, 6(1), 7-32."
+                            },
+                            {
+                                "Citation": "Emerson, E., & Hatton, C. (2014). Health inequalities and people with intellectual disabilities. Cambridge University Press."
+                            },
+                            {
+                                "Citation": "Emmel, N., Greenhalgh, J., Manzano, A., Monaghan, M., & Dalkin (2018). Doing Realist Research. London: SAGE Publications."
+                            },
+                            {
+                                "Citation": "Fisher, E. (1986). Behavioral weight reduction program for mentally retarded adult females. Perceptual & Motor Skills, 62(2), 359-362."
+                            },
+                            {
+                                "Citation": "Fletcher, A., Jamal, F., Moore, G. F., Evans, R. E., Murphy, S., & Bonell, C. (2016). Realist complex programme science: Applying realist principles across all phases of the MRC framework for developing and evaluating complex interventions. Evaluation, 22(3), 286-303."
+                            },
+                            {
+                                "Citation": "Fox, R. A., Haniotes, H., & Rotatori, A. (1984). A streamlined weight loss program for moderately retarded adults in a sheltered workshop setting. Applied Research in Mental Retardation, 5(1), 69-79."
+                            },
+                            {
+                                "Citation": "Global Burden of Disease (2015) Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: A systematic analysis for the Global Burden of Disease Study 2015. Lancet, 388(10053), 1459-1544."
+                            },
+                            {
+                                "Citation": "Greenhalgh, T., Jackson, C., Shaw, S., & Janamian, T. (2016). Achieving research impact through co-creation in community-based health services: Literature review and case study. The Milbank Quarterly, 94, 392-429."
+                            },
+                            {
+                                "Citation": "Hanna, L. M., Taggart, L., & Cousins, W. (2011). Cancer prevention and health promotion for people with intellectual disabilities: An exploratory study of staff knowledge. Journal of Intellectual Disability Research, 55(3), 281-191."
+                            },
+                            {
+                                "Citation": "Hamilton, S., Hankey, C. R., Miller, S., Boyle, A., & Melville, C. A. (2007). A review of weight loss interventions for adults with intellectual disabilities. Obesity Reviews, 8, 339-345."
+                            },
+                            {
+                                "Citation": "Harris, L., Hankey, C., Jones, N., Pert, C., Murray, H., Tobin, J., Boyle, S., & Melville, C. (2017). A cluster randomised control trial of a multi-component weight management programme for adults with intellectual disabilities and obesity. British Journal of Nutrition, 118, 229-240."
+                            },
+                            {
+                                "Citation": "Harris, L., Melville, C. A., Murray, H., & Hankey, C. (2018). The effects of multi-component weight management programmeson weight loss in adults with intellectual disabilities and obesity: A systematic review and meta-analysis of randomised controlled trials. Research in Developmental Disabilities, 72, 42-55."
+                            },
+                            {
+                                "Citation": "Harris, L., Hankey, C., Jones, N., Murray, H., Pert, C., Tobin, J., Boyle, S., Shearer, R., & Melville, C. A. (2019). Process evaluation of a cluster-randomised controlled trial of multi-component weight management programme in adults with intellectual disabilities and obesity. Journal of Intellectual Disability Research., 63(1), 49-63."
+                            },
+                            {
+                                "Citation": "Hatton, C., Roberts, H., & Baines, S. (2011). Reasonable adjustments for people with learning disabilities in England: A National Survey of NHS Trusts. : Improving Health and Lives: Learning Disabilities Observatory."
+                            },
+                            {
+                                "Citation": "Hawe, P. (2015). Lessons for complex programmesto improve health. Annual Review Public Health, 18(36), 307-323."
+                            },
+                            {
+                                "Citation": "Hilgenkamp, T. I., van Wijck, R., & Evenhuis, H. M. (2014). Subgroups associated with lower physical fitness in older adults with ID: Results of the HA-ID study. Research in Developmental Disabilities, 35(2), 439-447."
+                            },
+                            {
+                                "Citation": "Hoey, E., Staines, A., Walsh, D., Corby, D., Bowers, K., Belton, S., Meegan, S., McVeigh, T., McKeon, M., Tr\u00e9pel, D., Griffin, P., & Sweeney, M. R. (2017). An examination of the nutritional intake and anthropometric status of individuals with intellectual disabilities: Results from the SOPHIE study. Journal of Intellectual Disabilities, 21, 346-365."
+                            },
+                            {
+                                "Citation": "Hsieh, K., Rimmer, J. H., & Heller, T. (2014). Obesity and associated factors in adults with intellectual disability. Journal of Intellectual Disability Research, 58(9), 851-863."
+                            },
+                            {
+                                "Citation": "Hughes-McCormack, L. A., Rydzewska, E., Henderson, A. et al (2017). Prevalence of mental health conditions and relationship with general health in a whole-country population of people with intellectual disabilities compared with the general population. British Journal of Psychology Open, 3, 243-248."
+                            },
+                            {
+                                "Citation": "Isaacs, B., Clark, C., Correia, S., & Fannery, J. (2009). Using logic models to plan quality of life outcome evaluations. Journal of Policy & Practice in Intellectual Disabilities, 6(1), 2-6."
+                            },
+                            {
+                                "Citation": "Jamal, F., Fletcher, A., Shakleton, N., Elbourne, D., Viner, R., & Bonell, C. (2015). The three stages of building and testing mid-level theories in a Realist RCT: A theoretical and methodological case-example. Trials, 16, 466."
+                            },
+                            {
+                                "Citation": "Jinks, A., Cotton, A., & Rylance, R. (2010). Obesity interventions for people with a learning disability: an integrative literature review. Journal of Advanced Nursing, 67(3), 460-471."
+                            },
+                            {
+                                "Citation": "Kellogg Foundation W.K. (2004). Logic model development guide. W.K Kellogg Foundation."
+                            },
+                            {
+                                "Citation": "Koritsas, S., & Lacono, T. (2016). Weight, nutrition, food choice, and physical activity in adults with intellectual disability. Journal of Intellectual Disability Research, 60(4), 355-364."
+                            },
+                            {
+                                "Citation": "Kuijken, N. M. J., Naaldenberg, J., Nijhuis-van der Sanden, M. W., & van Schrojenstein Lantman de Valk, H.(2015). Healthy living according to adults with intellectual disabilities: Towards tailoring health promotion initiatives. Journal of Intellectual Disability Research, 60(3), 228-241."
+                            },
+                            {
+                                "Citation": "Li, H., Frey, G. C., McCormick, B. P., & Johnston, J. D. (2015). Comparison of obesity among Chinese and US Special Olympic athletes with intellectual disabilities. Research in Developmental Disabilities, 41, 94-100."
+                            },
+                            {
+                                "Citation": "Loveman, E., Frampton, G. K., Shepherd, J., Picot J, Cooper K, Bryant J, Welch K & Clegg A (2011). The clinical effectiveness and cost-effectiveness of long-term weight management schemes for adults: A systematic review. NIHR Health Technology Assessment programme: Executive Summaries. NIHR Journals Library; 2003. Retrieved from https://www.ncbi.nlm.nih.gov/books/NBK56859/"
+                            },
+                            {
+                                "Citation": "Maiano, C., Hue, O., Morin, A. J. S., & Moullec, G. (2016). Supporting information for Prevalence of overweight and obesity among children and adolescents with intellectual disabilities: A systematic review and meta-analysis. Obesity Reviews, 17(7), 7599-7611."
+                            },
+                            {
+                                "Citation": "Marks, B., & Sisirak, J. (2014). Health promotion and people with intellectual disabilities. In L. Taggart, & W. Cousins (Eds.), Health promotion for people with intellectual and developmental disabilities (pp. 17-29). Open University Press/McGraw-Hill Publishers."
+                            },
+                            {
+                                "Citation": "Marks, B., Sisirak, J., & Chang, Y. (2013). Efficacy of the HealthMatters Program Train-the-Trainer Model. Journal of Applied Research in Intellectual Disabilities, 26(4), 319-334."
+                            },
+                            {
+                                "Citation": "Matthews, L., Hankey, C., Penpraze, V., Boyle, S., Macmillan, S., Miller, S., Murray, H., Pert, C., Spanos, D., Robinson, N., & Melville, C. A. (2011). Agreement of accelerometer and a physical activity questionnaire in adults with intellectual disabilities. Preventative Medicine, 52(5), 361-264."
+                            },
+                            {
+                                "Citation": "McDermott, S., Whitner, W., Thomas-Koger, M., Mann, J. R., Clarkson, J., Barnes, T. L., Bao, H., & Meriwether, R. A. (2012). An efficacy trial of \u2018steps to your health\u2019, a health promotion programme for adults with intellectual disability. Health Education Journal, 71(3), 278-290."
+                            },
+                            {
+                                "Citation": "McLeroy, K. R., Bibeau, D., Steckler, A., & Glanz, K. (1988). An ecological perspective on health promotion programs. Health Education and Behaviour, 15, 351-377."
+                            },
+                            {
+                                "Citation": "Melville, C. A., Boyle, S., Miller, S., Macmillan, S., Penpraze, V., Pert, C. et al (2011). An open study of the effectiveness of a multi-component weight loss programme for adults with intellectual disabilities and obesity. British Journal of Nutrition, 105(1), 1553-1562."
+                            },
+                            {
+                                "Citation": "Melville, C. A., Cooper, S. A., Morrison, J., Allan, L., Smiley, E., & Williamson, A. (2008). The prevalence and determinants of obesity in adults with intellectual disabilities. Journal of Applied Research in Intellectual Disabilities, 21, 427-437."
+                            },
+                            {
+                                "Citation": "Melville, C., Hamilton, S., Hankey, C. R., Miller, S., & Boyle, S. (2007). The prevalence and determinants of obesity in adults with intellectual disabilities. Obesity Reviews, 8, 223-230."
+                            },
+                            {
+                                "Citation": "Melville, C. A., McGarty, A., Harris, L., Hughes-McCormack, L., Baltzer, M., McArthur, L. A., Morrison, J., Allan, L., & Cooper, S.-A. (2018). A population-based, cross-sectional study of the prevalence and correlates of sedentary behaviour of adults with intellectual disabilities. Journal of Intellectual Disability Research, 62, 60-71."
+                            },
+                            {
+                                "Citation": "Melville, C. A., Mitchell, F., Stalker, K., Matthews, L., McConnachie, A., Murray, H. M., Melling, C., & Mutrie, N. (2015). Effectiveness of a walking programme to support adults with intellectual disabilities to increase physical activity: Walk well cluster-randomised controlled trial. International Journal of Behavioral Nutrition and Physical Activity, 12(1), 1-11."
+                            },
+                            {
+                                "Citation": "Michael, J. (2008). Healthcare for all: Report of the independent inquiry into access to healthcare for people with intellectual disabilities. Department of Health."
+                            },
+                            {
+                                "Citation": "Michie, S., Abraham, C., Whittington, C., McAteer, J., & Gupta, S. (2009). Effective techniques in healthy eating and physical activity interventions: A meta-regression. Health Psychology, 28(6), 690."
+                            },
+                            {
+                                "Citation": "Michie, S., Van Stralen, M., & West, R. (2011). The behaviour change wheel: A new method for characterising and designing behaviour change interventions. Implementation Science, 6, 42."
+                            },
+                            {
+                                "Citation": "Mikulovic, J., Vanhelst, J., Salleron, J., Marcellini, A., Compte, R., Fardy, P. S., & Bui-Xuan, G. (2014). Overweight in intellectually-disabled population: Physical, behavioral and psychological characteristics. Research in Developmental Disabilities, 35(1), 153-161."
+                            },
+                            {
+                                "Citation": "Moore, G. F., Audrey, S., Barker, M., Bond, L., Bonell, C., Hardeman, W., Moore L, O\u2019Cathain, A, Tinati T, Wight D & Baird J. (2012). Process evaluation of complex interventions: Medical Research Council guidance. BMJ, 350, h1258."
+                            },
+                            {
+                                "Citation": "Moore, G., & Evans, R. (2017). What theory, for whom and in which context? Reflections on the application of theory in the development and evaluation of complex population health interventions. SSM Population Health, 3, 132-135."
+                            },
+                            {
+                                "Citation": "Moore, G. F., Evans, R. E., Hawkins, J., Littlecott, H., Melendez-Torres, G. J., & Bonell Murphy S., (2019). From complex social interventions to interventions in complex systems: Future directions and unresolved questions for intervention development and evaluation. Evolution, 25(1), 23-45."
+                            },
+                            {
+                                "Citation": "Naaldenberg, J., Kuijken, N., van Dooren, K., & van Schrojenstein Lantman de Valk, H.(2013). Topics, methods and challenges in health promotion for people with intellectual disabilities: A structured review of literature. Research in Developmental Disabilities, 34(12), 4534-4545."
+                            },
+                            {
+                                "Citation": "NICE (National Institute for Health and Care Excellence) Clinical Guidance PH53 (2014) Managing Overweight and Obesity in Adults - Lifestyle Weight Management Services. Issued May 2014. http://www.nice.org.uk/guidance/ph53 [accessed 20/10/19]."
+                            },
+                            {
+                                "Citation": "O'Leary, L., Taggart, L., & Cousins, W. (2018). Healthy lifestyle behaviours for people with intellectual disabilities: An exploration of organizational barriers and enablers. Journal of Applied Research in Intellectual Disabilities, 31(Suppl. 1), 122-135. https://doi.org/10.1111/jar.12396"
+                            },
+                            {
+                                "Citation": "Owens, R., Earle, S., McNulty, C., & Tilley, E. (2020). What works in community health education for adults with learning disabilities: A review of the literature. Journal of Applied Research in Intellectual Disabilities, https://doi.org/0.111/jar.12746"
+                            },
+                            {
+                                "Citation": "Pawson, R., & Tilley, N. (1997). Realistic evaluation. Sage."
+                            },
+                            {
+                                "Citation": "Pawson, R. (2013). The Science of Evaluation: A Realist Manifesto. London: SAGE Publications."
+                            },
+                            {
+                                "Citation": "Pett, M., Clark, L., Eldredge, A., Cardell B, Jordan K, Chambless K & Burley J (2013). Effective healthy lifestyle change in overweight and obese young adults with intellectual disability. American Journal on Intellectual and Developmental Disabilities, 118(3), 224-243. https://doi.org/10.1352/1944-7558-118.3.224"
+                            },
+                            {
+                                "Citation": "Peyton, D. J., & Sicchitano, M. (2017). Devil is in the details: Using logic models to investigate program process. Evaluation and Programme Planning, 65, 156-162."
+                            },
+                            {
+                                "Citation": "Pfadenhauer, L., Gerhardus, A., Mozygemba, K., Lysdahl, K. B., Booth, A., Hofmann, B., Polus S, Burns J, Brereton L. & Refhfuess E (2017). Context and Implementation of Complex Programmes (CICI) framework. Implementation Science, 12, 21. https://doi.org/10.1186/s13012-017-0552-5"
+                            },
+                            {
+                                "Citation": "Popkin, B. M., & Slining, M. M. (2013). New dynamics in global obesity facing low-and middle-income countries. Obesity Reviews, 14(S2), 11-20."
+                            },
+                            {
+                                "Citation": "Public Health England (2015). Obesity and health. Retrieved from ; http://webarchive.nationalarchives.gov.uk/20170110170044/https://www.noo.org.uk/NOO_about_obesity/obesity_and_health. Accessed 2 October 2019"
+                            },
+                            {
+                                "Citation": "Ranjan, S., Nasser, J. A., & Fisher, K. (2018). Prevalence and potential factors associated with overweight and obesity status in adults with intellectual developmental disorders. Journal of Applied Research in Intellectual Disabilities, 31, 29-38."
+                            },
+                            {
+                                "Citation": "Rimmer, J. H., Yamaki, K., Lowry, D., Wang, E., & Vogel, L. C. (2010). Obesity and obesity-related secondary conditions in adolescents with intellectual/developmental disabilities. Journal of Intellectual Disability Research, 54(9), 787-794."
+                            },
+                            {
+                                "Citation": "Scholack, R. L., Keith, K. D., Verdugo, M. A., & Gomez, L. E. (2010) Quality of life model development and use in the field of intellectual disability. In R. Kober (Eds.) Enhancing the quality of life of people with intellectual disabilities (Vol. 41, 17-21). Springer: Social Indicators Research Series."
+                            },
+                            {
+                                "Citation": "Scott, S. J., Denne, L. D., & Hastings, R. P. (2018). Developing a logic model to guide evaluation of impact for learning disability projects: The case of the Positive Behavioural Support (PBS) Academy. Tizard Learning Disability Review, 23(3), 125-132."
+                            },
+                            {
+                                "Citation": "Shields, N., & Taylor, N. (2015). The feasibility of a physical activity program for young adults with Down syndrome: A phase II randomised controlled trial. Journal of Intellectual and Developmental Disability, 40(2), 115-125."
+                            },
+                            {
+                                "Citation": "Shogren, K. A., Burke, K. M., Antosh, A., Wehmeyer, M. L., LaPlante, T., Shaw, L. A., & Raley, S. (2018). Impact of the self-determined learning model of instruction on self-determination and goal attainment in adolescents with intellectual disability. Journal of Disability Policy Studies, https://doi.org/10.1177/1044207318792178"
+                            },
+                            {
+                                "Citation": "Shogren, K. A., Luckasson, R., & Schalock, R. L. (2015). Using context as an integrative framework to align policy goals, supports, and outcomes in intellectual disability. Intellectual & Developmental Disabilities, 53, 367-376."
+                            },
+                            {
+                                "Citation": "SIGN (2010) Management of Obesity: A national clinical guide. NHS Scotland. https://www.sign.ac.uk/assets/sign115.pdf. [accessed 09/07/20]"
+                            },
+                            {
+                                "Citation": "Spanos, D., Hankey, C., Boyle, S., & Melville, C. (2014). Comparing the effectiveness of a multi-component weight loss programme in adults with and without intellectual disabilities. Journal of Human Nutrition & Dietetics., 27(1), 22-29."
+                            },
+                            {
+                                "Citation": "Spanos, D., Melville, C. A., & Hankey, C. R. (2013). Weight management programmesin adults with intellectual disabilities and obesity: A systematic review of the evidence. Nutrition Journal, 12, 132."
+                            },
+                            {
+                                "Citation": "Spassiani, N. A., Parker-Harris, S., & Hammel, J. (2016). Exploring how knowledge translation can improve sustainability of community-based health initiatives for people with intellectual/developmental disabilities. Journal of Applied Research in Intellectual Disabilities, 29(5), 433-444."
+                            },
+                            {
+                                "Citation": "Spassiani, N., Meisner, B., Abou Chacra, M. S., Heller, T., & Hammel, J. (2019). What is and isn\u2019t working: Factors involved in sustaining community-based health and participation initiatives for people aging with intellectual and developmental disabilities. Journal of Applied Research in Intellectual Disabilities, 32(6), 1465-1477. https://doi.org/10.1111/jar.12640."
+                            },
+                            {
+                                "Citation": "Stancliffe, R. J., Lakin, K. C., Larson, S., Engler, J., Bershadsky, J., Taub, S., Fortune, J., & Ticha, R. (2011). Overweight and obesity among adults with intellectual disabilities who use intellectual disability/developmental disability services in 20 US States. American Journal of Intellectual and Developmental Disabilities, 116, 401-418."
+                            },
+                            {
+                                "Citation": "Sundblom, E., Bergstrom, H., & Elinder, L. S. (2015). Understanding the implementation process of a multi-component health promotion programme for adults with intellectual disabilities in Sweden. Journal of Applied Research in Intellectual Disabilities, 28(4), 296-306."
+                            },
+                            {
+                                "Citation": "Swinburn, B. A., Sacks, G., Hall, K. D., McPherson, K., Finegood, D. T., Moodie, M. L., & Gortmaker, S. L. (2011). The global obesity pandemic: Shaped by global drivers and local environments. Lancet, 378(9793), 804-814."
+                            },
+                            {
+                                "Citation": "Taggart, L., Brown, M., & Karatzias, T. (2014). Diabetes (Chapter 6). In L. Taggart, & W. Cousins (Eds.), Health promotion for people with intellectual and developmental disabilities. Open University Press/McGraw-Hill Publishers, Maidenhead."
+                            },
+                            {
+                                "Citation": "Taggart, L., & Cousins, W. (Eds.) (2014). Health promotion for people with intellectual and developmental disabilities. Open University Press/McGraw-Hill Publishers."
+                            },
+                            {
+                                "Citation": "Taggart, L., Truesdale-Kennedy, M., & Coates, V. (2013). Management and quality indicators of diabetes mellitus in people with intellectual disabilities. Journal of Intellectual Disability Research, 57(12), 1152-1163."
+                            },
+                            {
+                                "Citation": "Tremmel, M., Gerdtham, U. G., Nilsson, P. M., & Saha, S. (2017). Economic burden of obesity: Systematic literature review. International Journal of Environmental Research & Public Health, 14, 435."
+                            },
+                            {
+                                "Citation": "Wang, Y., Beydoun, M. A., Liang, L., Caballero, B., & Kumanyika, S. K. (2008). Will all Americans become overweight or obese? Estimating the progression and cost of the US obesity epidemic. Obesity, 16, 2323-2330."
+                            },
+                            {
+                                "Citation": "Wilson, P. W., D\u2019Agostino, R. B., Sullivan, L., Parise, H., & Kannel, W. B. (2002). Overweight and obesity as determinants of cardiovascular risk: The Framingham experience. Archives of Internal Medicine, 162(16), 1867-1872."
+                            },
+                            {
+                                "Citation": "Willems, M, Waninge, A, Hilgenkamp, TIM, Krijnen WP, van der Schans CP & Melville CA (2018). Effects of lifestyle change interventions for people with intellectual disabilities: Systematic review and meta-analysis of randomized controlled trials. J Appl Res Intellect Disabil; 31: 949- 961. https://doi.org/10.1111/jar.12463"
+                            },
+                            {
+                                "Citation": "World Health Organisation. (2004a) Global strategy on diet, physical activity and health. WHO. http://www.who.int/dietphysicalactivity/strategy/eb11344/strategy_english_web.pdf [accessed 07/10/19]."
+                            },
+                            {
+                                "Citation": "World Health Organisation. (2004b) The commission on ending childhood obesity. WHO. https://www.who.int/end-childhood-obesity/final-report/en/ [accessed 22/10/19]."
+                            }
+                        ],
+                        "Title": "REFERENCES"
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "12",
+                        "Day": "10"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "07",
+                        "Day": "16"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "10",
+                        "Day": "05"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "21",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "21",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "20",
+                        "Hour": "20",
+                        "Minute": "33"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "33342030",
+                    "10.1111/jar.12826"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33342030)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833342030%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833342030%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097799091"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097799091?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097799091&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097799091&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097799091",
+                        "dc:identifier": "SCOPUS_ID:85097799091",
+                        "eid": "2-s2.0-85097799091",
+                        "dc:title": "An exploration of lifestyle/obesity programmes for adults with intellectual disabilities through a realist lens: Impact of a \u2018context, mechanism and outcome\u2019 evaluation",
+                        "dc:creator": "Taggart L.",
+                        "prism:publicationName": "Journal of Applied Research in Intellectual Disabilities",
+                        "prism:issn": "13602322",
+                        "prism:eIssn": "14683148",
+                        "prism:volume": "34",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "578-593",
+                        "prism:coverDate": "2021-03-01",
+                        "prism:coverDisplayDate": "March 2021",
+                        "prism:doi": "10.1111/jar.12826",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Ulster University",
+                                "affiliation-city": "Coleraine",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33342030",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "16247",
+                        "openaccess": "0",
+                        "openaccessFlag": false,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "GDMGPPT4.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33342030"
+            }
+        },
+        "title": "An exploration of lifestyle/obesity programmes for adults with intellectual disabilities through a realist lens: Impact of a 'context, mechanism and outcome' evaluation.",
+        "full_author_list": [
+            {
+                "clean": "Taggart L",
+                "family": "Taggart",
+                "given": "Laurence",
+                "affiliation": {
+                    "name": "Institute of Nursing & Health Research, Ulster University, Co Antrim, UK."
+                }
+            },
+            {
+                "clean": "Doherty A",
+                "family": "Doherty",
+                "given": "Alison Jayne",
+                "affiliation": {
+                    "name": "Faculty of Health & Wellbeing, University of Central Lancashire (UCLan), Preston, UK."
+                }
+            },
+            {
+                "clean": "Chauhan U",
+                "family": "Chauhan",
+                "given": "Umesh",
+                "affiliation": {
+                    "name": "Faculty of Health & Wellbeing, University of Central Lancashire (UCLan), Preston, UK."
+                }
+            },
+            {
+                "clean": "Hassiotis A",
+                "family": "Hassiotis",
+                "given": "Angela",
+                "affiliation": {
+                    "name": "Division of Psychiatry, University College London, London, UK."
+                }
+            }
+        ],
+        "first_author": "Taggart L",
+        "zotero_tags": [
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "intellectual disability",
+                "lifestyle/obesity programmes",
+                "logic modelling",
+                "realist lens"
+            ]
+        },
+        "journal": {
+            "journal_name": "J Appl Res Intellect Disabil",
+            "volume": "34",
+            "issue": "2"
+        },
+        "abstract": "['Obesity is higher in people with intellectual disabilities.', \"There are two aims of this explorative paper. Firstly, using a realist lens, to go beyond 'what works' and examine the 'context, mechanisms and outcomes' (CMO) of lifestyle/obesity programmes for this population. Second, using a logic model framework to inform how these programmes could be implemented within practice.\", 'We explored six-review papers and the individual lifestyle/obesity programmes that these papers reviewed using the CMO framework.', \"There were few theoretically underpinned, multi-component programmes that were effective in the short to long-term and many failed to explore the 'context and mechanisms'. We developed a logic model and engaged in two co-production workshops to refine this model.\", \"Using a realist approach, programmes need to be underpinned by both individual and systems change theories, be multi-component, have a closer understanding of the interplay of the 'context and mechanisms', and co-designed using a logic model framework.\"]",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Nursing & Health Research, Ulster University, Co Antrim, UK.",
+            "clean_institute": "Ulster University",
+            "country": "Northern Ireland",
+            "latitude": "55.1478",
+            "longitude": "-6.67222"
+        }
+    }
+}

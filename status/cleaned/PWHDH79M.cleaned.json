@@ -1,0 +1,920 @@
+{
+    "IDs": {
+        "zotero": "PWHDH79M",
+        "DOI": "10.1080/09638288.2020.1864035",
+        "DOI_filename": "f7c486922ed61845c792f80423ea06a9",
+        "PMID": "33355028",
+        "scopus": "2-s2.0-85097963871",
+        "hash": "590a8afcf36f2c3f78b89c0fed241e6b"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "PWHDH79M",
+            "version": 982,
+            "itemType": "journalArticle",
+            "title": "Delivering motivational interviewing early post stroke: standardisation of the intervention",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Kulsum",
+                    "lastName": "Patel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Malcolm F.",
+                    "lastName": "Auton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Caroline L.",
+                    "lastName": "Watkins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher J.",
+                    "lastName": "Sutton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Valerio",
+                    "lastName": "Benedetto"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Maree L.",
+                    "lastName": "Hackett"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Emma-Joy",
+                    "lastName": "Holland"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Catherine E.",
+                    "lastName": "Lightbody"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Disability and Rehabilitation",
+            "volume": "",
+            "issue": "",
+            "pages": "1-6",
+            "date": "2020-12-23",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Disability and Rehabilitation",
+            "language": "en",
+            "DOI": "10.1080/09638288.2020.1864035",
+            "ISSN": "0963-8288, 1464-5165",
+            "shortTitle": "Delivering motivational interviewing early post stroke",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/09638288.2020.1864035",
+            "accessDate": "2021-07-23T16:46:08Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33355028",
+            "tags": [
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:14Z",
+            "dateModified": "2021-07-27T11:53:12Z",
+            "pmid": "33355028"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        7
+                    ]
+                ],
+                "date-time": "2021-05-07T18:40:40Z",
+                "timestamp": 1620412840463
+            },
+            "reference-count": 34,
+            "publisher": "Informa UK Limited",
+            "content-domain": {
+                "domain": [
+                    "www.tandfonline.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1080/09638288.2020.1864035",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        23
+                    ]
+                ],
+                "date-time": "2020-12-23T11:48:59Z",
+                "timestamp": 1608724139000
+            },
+            "page": "1-6",
+            "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Delivering motivational interviewing early post stroke: standardisation of the intervention",
+            "prefix": "10.1080",
+            "author": [
+                {
+                    "given": "Kulsum",
+                    "family": "Patel",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Malcolm F.",
+                    "family": "Auton",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-9403-3772",
+                    "authenticated-orcid": false,
+                    "given": "Caroline L.",
+                    "family": "Watkins",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Christopher J.",
+                    "family": "Sutton",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "The University of Manchester, Manchester, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Valerio",
+                    "family": "Benedetto",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Maree L.",
+                    "family": "Hackett",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        },
+                        {
+                            "name": "The George Institute for Global Health, Sydney, Australia"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0003-3029-7573",
+                    "authenticated-orcid": false,
+                    "given": "Emma-Joy",
+                    "family": "Holland",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-5016-3471",
+                    "authenticated-orcid": false,
+                    "given": "Catherine E.",
+                    "family": "Lightbody",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Central Lancashire, Preston, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "301",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        23
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "CIT0001",
+                    "DOI": "10.1017/S1352465809005128",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0002",
+                    "DOI": "10.1161/01.STR.0000258114.28006.d7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0003",
+                    "DOI": "10.1111/ijs.12357",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0004",
+                    "DOI": "10.1161/STROKEAHA.110.583997",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0005",
+                    "author": "Bartoli F",
+                    "volume": "2013",
+                    "first-page": "862978",
+                    "year": "2013",
+                    "journal-title": "Stroke Res Treat"
+                },
+                {
+                    "key": "CIT0006",
+                    "unstructured": "Feeling overwhelmed. The Stroke Association, Summer 2013."
+                },
+                {
+                    "key": "CIT0007",
+                    "DOI": "10.1161/STROKEAHA.110.602227",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0008",
+                    "DOI": "10.1136/bmj.a1655",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0009",
+                    "DOI": "10.1016/j.brat.2008.10.018",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0010",
+                    "DOI": "10.1016/S0272-7358(97)00043-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0011",
+                    "DOI": "10.1016/j.jsat.2004.11.001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0012",
+                    "DOI": "10.1016/j.brat.2011.03.005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0013",
+                    "DOI": "10.1136/bmj.h1258",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0014",
+                    "DOI": "10.1161/01.STR.0000237097.00342.a9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0015",
+                    "DOI": "10.1007/s10464-008-9165-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0016",
+                    "DOI": "10.1136/bmjopen-2013-003555",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0017",
+                    "DOI": "10.1108/17466660200800012",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0018",
+                    "DOI": "10.1017/S0033291700021644",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0019",
+                    "DOI": "10.1177/1049732315582197",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0020",
+                    "unstructured": "Moyers TB, Martin T, Manuel Jk Miller Wr, Ernst D. Revised Global Scales: Motivational Interviewing Treatment Integrity 3.1.1 (MITI 3.1.1). 2010. Unpublished manual."
+                },
+                {
+                    "key": "CIT0021",
+                    "DOI": "10.1016/j.cct.2015.05.001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0022",
+                    "DOI": "10.1016/j.jsat.2016.01.001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0023",
+                    "DOI": "10.3109/09638288809164105",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0024",
+                    "DOI": "10.1007/s10488-016-0750-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0025",
+                    "DOI": "10.1037/a0016830",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0026",
+                    "DOI": "10.1002/14651858.CD006936.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0027",
+                    "author": "Firpo-Triplett R",
+                    "year": "2012",
+                    "volume-title": "A guide to adapting evidence-based sexual health curricula"
+                },
+                {
+                    "key": "CIT0028",
+                    "DOI": "10.1037/a0031530",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0029",
+                    "DOI": "10.1111/j.1530-0277.2006.00027.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0030",
+                    "author": "The Health Foundation.",
+                    "year": "2011",
+                    "volume-title": "Evidence scan: training professionals in motivational interviewing"
+                },
+                {
+                    "key": "CIT0031",
+                    "DOI": "10.1111/acer.12469",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0032",
+                    "DOI": "10.1016/j.cpr.2018.08.004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "CIT0033",
+                    "unstructured": "Moyers TB, Manuel JK, Ernst D. Motivational interviewing treatment integrity coding manual 4.2.1. Unpublished manual. 2015."
+                },
+                {
+                    "key": "CIT0034",
+                    "author": "Miller WR",
+                    "year": "2012",
+                    "edition": "3",
+                    "volume-title": "Motivational interviewing"
+                }
+            ],
+            "container-title": "Disability and Rehabilitation",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09638288.2020.1864035",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        7
+                    ]
+                ],
+                "date-time": "2021-05-07T18:21:44Z",
+                "timestamp": 1620411704000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        23
+                    ]
+                ]
+            },
+            "references-count": 34,
+            "alternative-id": [
+                "10.1080/09638288.2020.1864035"
+            ],
+            "URL": "http://dx.doi.org/10.1080/09638288.2020.1864035",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0963-8288",
+                "1464-5165"
+            ],
+            "subject": [
+                "Rehabilitation"
+            ],
+            "container-title-short": "Disability and Rehabilitation",
+            "assertion": [
+                {
+                    "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+                    "order": 1,
+                    "name": "peerreview_statement",
+                    "label": "Peer Review Statement"
+                },
+                {
+                    "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=idre20",
+                    "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=idre20",
+                    "order": 2,
+                    "name": "aims_and_scope_url",
+                    "label": "Aim & Scope"
+                },
+                {
+                    "value": "2020-06-15",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2020-11-17",
+                    "order": 1,
+                    "name": "revised",
+                    "label": "Revised",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2020-12-10",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2020-12-23",
+                    "order": 3,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Motivational interviewing",
+                        "complex interventions",
+                        "depression",
+                        "stroke",
+                        "therapist effects"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "33355028",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "07"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "12",
+                            "Day": "23"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1080/09638288.2020.1864035"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1464-5165",
+                        "JournalIssue": {
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Dec",
+                                "Day": "23"
+                            }
+                        },
+                        "Title": "Disability and rehabilitation",
+                        "ISOAbbreviation": "Disabil Rehabil"
+                    },
+                    "ArticleTitle": "Delivering motivational interviewing early post stroke: standardisation of the intervention.",
+                    "Pagination": {
+                        "MedlinePgn": "1-6"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "We applied Motivational Interviewing (MI) techniques, early after stroke, to facilitate psychological adjustment to life post-stroke. In our trial, MI-plus-usual-care increased the likelihood of normal mood at 3-months post-stroke, compared to usual-care alone. Whilst appropriate training, manuals, and supervision may increase adherence to core principles of this complex intervention, unintended variability in implementation inevitably remains. We aimed to explore the impact of variability on participant outcome.",
+                            "Using our trial data (411 participants), we explored variation in MI delivery, examining: therapist characteristics (stroke care expertise/knowledge, psychology training); MI content (fidelity to MI techniques assessed with Motivational Interviewing Treatment Integrity code, describing therapist behaviours as MI-consistent, MI-neutral or MI-inconsistent); and MI dose (number/duration of sessions).",
+                            "The four MI therapists (two nurses/two psychologists) had varying expertise and MI delivery. Across therapists, mean average session duration ranged 29.5-47.8\u2009min. The percentage of participants completing the per-protocol four sessions ranged 47%-74%. These variations were not related to participant outcome. There were uniformly high frequencies (>99%) of MI-consistent and MI-neutral interactions, and low frequencies (<1%) of MI-inconsistent interactions.",
+                            "Variation in therapist characteristics and MI dose did not affect participant outcome. These may have been tolerated due to high fidelity to MI principles.IMPLICATIONS FOR REHABILITATIONMotivational Interviewing (MI) can help reduce depression in stroke survivors when delivered early after stroke.The effectiveness of our MI intervention depends on the delivery of high quality MI; in particular, interactions with low levels of MI-inconsistency, and high global MI ratings, ideally delivered over more than one session, each lasting at least 30\u2009minutes.Provided high quality MI is being delivered, the intervention can still have a beneficial effect on participant outcome, even with flexibility and variation in therapist characteristics, and duration and number of sessions, which may be inevitable in a clinical context."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Patel",
+                            "ForeName": "Kulsum",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Auton",
+                            "ForeName": "Malcolm F",
+                            "Initials": "MF"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0002-9403-3772"
+                            ],
+                            "LastName": "Watkins",
+                            "ForeName": "Caroline L",
+                            "Initials": "CL"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The University of Manchester, Manchester, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Sutton",
+                            "ForeName": "Christopher J",
+                            "Initials": "CJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Benedetto",
+                            "ForeName": "Valerio",
+                            "Initials": "V"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The George Institute for Global Health, Sydney, Australia."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hackett",
+                            "ForeName": "Maree L",
+                            "Initials": "ML"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0003-3029-7573"
+                            ],
+                            "LastName": "Holland",
+                            "ForeName": "Emma-Joy",
+                            "Initials": "EJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0001-5016-3471"
+                            ],
+                            "LastName": "Lightbody",
+                            "ForeName": "Catherine E",
+                            "Initials": "CE"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Disabil Rehabil",
+                    "NlmUniqueID": "9207179",
+                    "ISSNLinking": "0963-8288"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "23",
+                        "Hour": "8",
+                        "Minute": "39"
+                    }
+                ],
+                "PublicationStatus": "aheadofprint",
+                "ArticleIdList": [
+                    "33355028",
+                    "10.1080/09638288.2020.1864035"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1080/09638288.2020.1864035)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F09638288.2020.1864035%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1080%2F09638288.2020.1864035%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097963871"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097963871?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097963871&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097963871&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097963871",
+                        "dc:identifier": "SCOPUS_ID:85097963871",
+                        "eid": "2-s2.0-85097963871",
+                        "dc:title": "Delivering motivational interviewing early post stroke: standardisation of the intervention",
+                        "dc:creator": "Patel K.",
+                        "prism:publicationName": "Disability and Rehabilitation",
+                        "prism:issn": "09638288",
+                        "prism:eIssn": "14645165",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-01-01",
+                        "prism:coverDisplayDate": "2020",
+                        "prism:doi": "10.1080/09638288.2020.1864035",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "13710",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "PWHDH79M.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33355028"
+            }
+        },
+        "title": "Delivering motivational interviewing early post stroke: standardisation of the intervention.",
+        "full_author_list": [
+            {
+                "clean": "Patel K",
+                "family": "Patel",
+                "given": "Kulsum",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Auton M",
+                "family": "Auton",
+                "given": "Malcolm F",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Watkins C",
+                "family": "Watkins",
+                "given": "Caroline L",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Sutton C",
+                "family": "Sutton",
+                "given": "Christopher J",
+                "affiliation": {
+                    "name": "The University of Manchester, Manchester, UK."
+                }
+            },
+            {
+                "clean": "Benedetto V",
+                "family": "Benedetto",
+                "given": "Valerio",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Hackett M",
+                "family": "Hackett",
+                "given": "Maree L",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Holland E",
+                "family": "Holland",
+                "given": "Emma-Joy",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Lightbody C",
+                "family": "Lightbody",
+                "given": "Catherine E",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            }
+        ],
+        "first_author": "Patel K",
+        "zotero_tags": [
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "Motivational interviewing",
+                "complex interventions",
+                "depression",
+                "stroke",
+                "therapist effects"
+            ]
+        },
+        "journal": {
+            "journal_name": "Disabil Rehabil",
+            "volume": "",
+            "issue": ""
+        },
+        "abstract": "['We applied Motivational Interviewing (MI) techniques, early after stroke, to facilitate psychological adjustment to life post-stroke. In our trial, MI-plus-usual-care increased the likelihood of normal mood at 3-months post-stroke, compared to usual-care alone. Whilst appropriate training, manuals, and supervision may increase adherence to core principles of this complex intervention, unintended variability in implementation inevitably remains. We aimed to explore the impact of variability on participant outcome.', 'Using our trial data (411 participants), we explored variation in MI delivery, examining: therapist characteristics (stroke care expertise/knowledge, psychology training); MI content (fidelity to MI techniques assessed with Motivational Interviewing Treatment Integrity code, describing therapist behaviours as MI-consistent, MI-neutral or MI-inconsistent); and MI dose (number/duration of sessions).', 'The four MI therapists (two nurses/two psychologists) had varying expertise and MI delivery. Across therapists, mean average session duration ranged 29.5-47.8\\u2009min. The percentage of participants completing the per-protocol four sessions ranged 47%-74%. These variations were not related to participant outcome. There were uniformly high frequencies (>99%) of MI-consistent and MI-neutral interactions, and low frequencies (<1%) of MI-inconsistent interactions.', 'Variation in therapist characteristics and MI dose did not affect participant outcome. These may have been tolerated due to high fidelity to MI principles.IMPLICATIONS FOR REHABILITATIONMotivational Interviewing (MI) can help reduce depression in stroke survivors when delivered early after stroke.The effectiveness of our MI intervention depends on the delivery of high quality MI; in particular, interactions with low levels of MI-inconsistency, and high global MI ratings, ideally delivered over more than one session, each lasting at least 30\\u2009minutes.Provided high quality MI is being delivered, the intervention can still have a beneficial effect on participant outcome, even with flexibility and variation in therapist characteristics, and duration and number of sessions, which may be inevitable in a clinical context.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Central Lancashire, Preston, UK.",
+            "clean_institute": "University of Central Lancashire",
+            "country": "United Kingdom",
+            "latitude": "53.759444444444",
+            "longitude": "-2.6980555555556"
+        }
+    }
+}

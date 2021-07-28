@@ -1,0 +1,1236 @@
+{
+    "IDs": {
+        "zotero": "P3FG26BJ",
+        "DOI": "10.1136/bmjopen-2019-033357",
+        "DOI_filename": "0a261a72fb1ec99a82ff8f67f63faa10",
+        "PMID": "32474424",
+        "scopus": "2-s2.0-85085855294",
+        "hash": "58b1f8d9d8bbdb77aecd41bea4dff9b8"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "P3FG26BJ",
+            "version": 986,
+            "itemType": "journalArticle",
+            "title": "Has the introduction of direct oral anticoagulants (DOACs) in England increased emergency admissions for bleeding conditions? A longitudinal ecological study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ana",
+                    "lastName": "Alfirevic"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Downing"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Konstantinos",
+                    "lastName": "Daras"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Terence",
+                    "lastName": "Comerford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Munir",
+                    "lastName": "Pirmohamed"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Barr"
+                }
+            ],
+            "abstractNote": "Objective\n              There is concern about long-term safety of direct oral coagulants (DOACs) in clinical practice. Our aim was to investigate whether the introduction of DOACs compared with vitamin-K antagonists in England was associated with a change in admissions for bleeding or thromboembolic complications.\n            \n            \n              Setting\n              5508 General practitioner (GP) practices in England between 2011 and 2016.\n            \n            \n              Participants\n              All GP practices in England with a registered population size of greater than 1000 that had data for all 6 years.\n            \n            \n              Main outcome measure\n              The rate of emergency admissions to hospital for bleeding or thromboembolism, per 100\u2009000 population for each GP practice in England.\n            \n            \n              Main exposure measure\n              The annual number of DOAC items prescribed for each GP practice population as a proportion of all anticoagulant items prescribed.\n            \n            \n              Design\n              This longitudinal ecological study used panel regression models to investigate the association between trends in DOAC prescribing within GP practice populations and trends in emergency admission rates for bleeding and thromboembolic conditions, while controlling for confounders.\n            \n            \n              Results\n              For each additional 10% of DOACs prescribed as a proportion of all anticoagulants, there was a 0.9% increase in bleeding complications (rate ratio 1.008 95% CI 1.003 to 1.013). The introduction of DOACs between 2011 and 2016 was associated with additional 4929 (95% CI 2489 to 7370) emergency admissions for bleeding complications. Increased DOAC prescribing was associated with a slight decline in admission for thromboembolic conditions.\n            \n            \n              Conclusion\n              Our data show that the rapid increase in prescribing of DOACs after changes in National Institute for Health and Care Excellence guidelines in 2014 may have been associated with a higher rate of emergency admissions for bleeding conditions. These consequences need to be considered in assessing the benefits and costs of the widespread use of DOACs.",
+            "publicationTitle": "BMJ Open",
+            "volume": "10",
+            "issue": "5",
+            "pages": "e033357",
+            "date": "05/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open",
+            "language": "en",
+            "DOI": "10.1136/bmjopen-2019-033357",
+            "ISSN": "2044-6055, 2044-6055",
+            "shortTitle": "Has the introduction of direct oral anticoagulants (DOACs) in England increased emergency admissions for bleeding conditions?",
+            "url": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2019-033357",
+            "accessDate": "2021-07-23T16:46:10Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32474424",
+            "tags": [
+                {
+                    "tag": "PCCC"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:21Z",
+            "dateModified": "2021-07-27T11:57:39Z",
+            "pmid": "32474424"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        17
+                    ]
+                ],
+                "date-time": "2020-10-17T09:43:36Z",
+                "timestamp": 1602927816860
+            },
+            "reference-count": 41,
+            "publisher": "BMJ",
+            "issue": "5",
+            "license": [
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                5,
+                                29
+                            ]
+                        ],
+                        "date-time": "2020-05-29T00:00:00Z",
+                        "timestamp": 1590710400000
+                    },
+                    "delay-in-days": 28,
+                    "content-version": "unspecified"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100007602",
+                    "name": "Programme Grants for Applied Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "CLAHRC NWC"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        5
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Objective</jats:title><jats:p>There is concern about long-term safety of direct oral coagulants (DOACs) in clinical practice. Our aim was to investigate whether the introduction of DOACs compared with vitamin-K antagonists in England was associated with a change in admissions for bleeding or thromboembolic complications.</jats:p></jats:sec><jats:sec><jats:title>Setting</jats:title><jats:p>5508 General practitioner (GP) practices in England between 2011 and 2016.</jats:p></jats:sec><jats:sec><jats:title>Participants</jats:title><jats:p>All GP practices in England with a registered population size of greater than 1000 that had data for all 6 years.</jats:p></jats:sec><jats:sec><jats:title>Main outcome measure</jats:title><jats:p>The rate of emergency admissions to hospital for bleeding or thromboembolism, per 100\u2009000 population for each GP practice in England.</jats:p></jats:sec><jats:sec><jats:title>Main exposure measure</jats:title><jats:p>The annual number of DOAC items prescribed for each GP practice population as a proportion of all anticoagulant items prescribed.</jats:p></jats:sec><jats:sec><jats:title>Design</jats:title><jats:p>This longitudinal ecological study used panel regression models to investigate the association between trends in DOAC prescribing within GP practice populations and trends in emergency admission rates for bleeding and thromboembolic conditions, while controlling for confounders.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>For each additional 10% of DOACs prescribed as a proportion of all anticoagulants, there was a 0.9% increase in bleeding complications (rate ratio 1.008 95% CI 1.003 to 1.013). The introduction of DOACs between 2011 and 2016 was associated with additional 4929 (95% CI 2489 to 7370) emergency admissions for bleeding complications. Increased DOAC prescribing was associated with a slight decline in admission for thromboembolic conditions.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>Our data show that the rapid increase in prescribing of DOACs after changes in National Institute for Health and Care Excellence guidelines in 2014 may have been associated with a higher rate of emergency admissions for bleeding conditions. These consequences need to be considered in assessing the benefits and costs of the widespread use of DOACs.</jats:p></jats:sec>",
+            "DOI": "10.1136/bmjopen-2019-033357",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        30
+                    ]
+                ],
+                "date-time": "2020-05-30T21:17:47Z",
+                "timestamp": 1590873467000
+            },
+            "page": "e033357",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Has the introduction of direct oral anticoagulants (DOACs) in England increased emergency admissions for bleeding conditions? A longitudinal ecological study",
+            "prefix": "10.1136",
+            "volume": "10",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-2801-9817",
+                    "authenticated-orcid": false,
+                    "given": "Ana",
+                    "family": "Alfirevic",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jennifer",
+                    "family": "Downing",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Konstantinos",
+                    "family": "Daras",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Terence",
+                    "family": "Comerford",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Munir",
+                    "family": "Pirmohamed",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ben",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        30
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020053013365114000_10.5.e033357.1"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.2"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.3"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.4"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.5"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.6",
+                    "unstructured": "L\u00f3pez-L\u00f3pez JA , Sterne JAC , Thom HHZ , et al . Oral anticoagulants for prevention of stroke in atrial fibrillation: systematic review, network meta-analysis, and cost effectiveness analysis. BMJ 2017;82(8A:j5058.doi:10.1136/bmj.j5058"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.7",
+                    "first-page": "132",
+                    "article-title": "Dawn of the direct-acting oral anticoagulants: trends in oral anticoagulant prescribing in Wales 2009-2015",
+                    "volume": "42",
+                    "author": "Protty",
+                    "year": "2017",
+                    "journal-title": "J Clin Pharm Ther"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.8"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.9",
+                    "first-page": "422",
+                    "article-title": "Comparative safety and effectiveness of direct oral anticoagulants in patients with atrial fibrillation in clinical practice in Scotland",
+                    "volume": "85",
+                    "author": "Mueller",
+                    "year": "2019",
+                    "journal-title": "Br J Clin Pharmacol"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.10"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.11",
+                    "unstructured": "Harding JW , Hilbe JM . Generalized estimating equations. 2 edn. Boca Raton, FL: Chapman and Hall/CRC, 2012."
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.12",
+                    "unstructured": "Rogers W . Regression standard errors in clustered samples. Stata Technical Bulletin 1994;3."
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.13",
+                    "unstructured": "Shadish WR , Cook TD , CD T , et al . Quasi-Experimental designs for generalised causal inference. Houghton Mifflin, 2002."
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.14",
+                    "first-page": "349",
+                    "article-title": "A summary of the literature evaluating adherence and persistence with oral anticoagulants in atrial fibrillation",
+                    "volume": "16",
+                    "author": "Obamiro",
+                    "year": "2016",
+                    "journal-title": "Am J Cardiovasc Drugs"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.15"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.16"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.17"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.18"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.19"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.20"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.21"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.22",
+                    "first-page": "135",
+                    "article-title": "Direct oral anticoagulants in patients with chronic kidney disease: patient selection and special considerations",
+                    "volume": "10",
+                    "author": "Lutz",
+                    "year": "2017",
+                    "journal-title": "Int J Nephrol Renovasc Dis"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.23",
+                    "first-page": "46",
+                    "article-title": "Direct oral anticoagulants in patients with atrial fibrillation and renal impairment, extremes in weight, or advanced age",
+                    "volume": "40",
+                    "author": "Buckley",
+                    "year": "2017",
+                    "journal-title": "Clin Cardiol"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.24",
+                    "first-page": "1137",
+                    "article-title": "Renal function and direct oral anticoagulant treatment for venous thromboembolism",
+                    "volume": "130",
+                    "author": "Fanikos",
+                    "year": "2017",
+                    "journal-title": "Am J Med"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.25",
+                    "first-page": "1015",
+                    "article-title": "Renal function considerations for stroke prevention in atrial fibrillation",
+                    "volume": "130",
+                    "author": "Fanikos",
+                    "year": "2017",
+                    "journal-title": "Am J Med"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.26",
+                    "first-page": "41",
+                    "article-title": "Meta-Analysis of safety and efficacy for direct oral anticoagulation treatment of non-valvular atrial fibrillation in relation to renal function",
+                    "volume": "160",
+                    "author": "Zou",
+                    "year": "2017",
+                    "journal-title": "Thromb Res"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.27",
+                    "first-page": "857",
+                    "article-title": "Drug class, renal elimination, and outcomes of direct oral anticoagulants in Asian patients: a meta-analysis",
+                    "volume": "27",
+                    "author": "Wang",
+                    "year": "2018",
+                    "journal-title": "J Stroke Cerebrovasc Dis"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.28",
+                    "first-page": "178",
+                    "article-title": "Plasma levels of direct oral anticoagulants in real life patients with atrial fibrillation: results observed in four anticoagulation clinics",
+                    "volume": "137",
+                    "author": "Testa",
+                    "year": "2016",
+                    "journal-title": "Thromb Res"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.29",
+                    "first-page": "463",
+                    "article-title": "Association of intracerebral hemorrhage among patients taking non-vitamin K antagonist vs vitamin K antagonist oral anticoagulants with in-hospital mortality",
+                    "volume": "319",
+                    "author": "Inohara",
+                    "year": "2018",
+                    "journal-title": "JAMA"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.30"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.31",
+                    "author": "Charlton",
+                    "volume": "13",
+                    "year": "2018",
+                    "article-title": "Length of hospitalization and mortality for bleeding during treatment with warfarin, dabigatran, or rivaroxaban",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.32",
+                    "unstructured": "The Lancet . Personalised medicine in the UK. The Lancet 2018;391:e1.doi:10.1016/S0140-6736(17)33261-0"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.33",
+                    "first-page": "197",
+                    "article-title": "Genotype-guided dosing versus conventional dosing of warfarin: a meta-analysis of 15 randomized controlled trials",
+                    "volume": "44",
+                    "author": "Yang",
+                    "year": "2019",
+                    "journal-title": "J Clin Pharm Ther"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.34",
+                    "author": "Jorgensen",
+                    "volume": "17",
+                    "year": "2019",
+                    "article-title": "Implementation of genotype-guided dosing of warfarin with point-of-care genetic testing in three UK clinics: a matched cohort study",
+                    "journal-title": "BMC Med"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.35",
+                    "first-page": "1",
+                    "article-title": "Benefits and pitfalls of point-of-care coagulation testing for anticoagulation management: an ACLPS critical review",
+                    "volume": "151",
+                    "author": "Wool",
+                    "year": "2019",
+                    "journal-title": "Am J Clin Pathol"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.36",
+                    "first-page": "1973",
+                    "article-title": "Genotype and risk of major bleeding during warfarin treatment",
+                    "volume": "15",
+                    "author": "Kawai",
+                    "year": "2014",
+                    "journal-title": "Pharmacogenomics"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.37",
+                    "first-page": "199",
+                    "article-title": "Cost-Effectiveness of pharmacogenetics-guided warfarin therapy vs. alternative anticoagulation in atrial fibrillation",
+                    "volume": "95",
+                    "author": "Pink",
+                    "year": "2014",
+                    "journal-title": "Clin Pharmacol Ther"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.38"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.39"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.40",
+                    "first-page": "514",
+                    "article-title": "Haematological management of major bleeding associated with direct oral anticoagulants - UK experience",
+                    "volume": "185",
+                    "author": "Green",
+                    "year": "2019",
+                    "journal-title": "Br J Haematol"
+                },
+                {
+                    "key": "2020053013365114000_10.5.e033357.41"
+                }
+            ],
+            "container-title": "BMJ Open",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2019-033357",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        26
+                    ]
+                ],
+                "date-time": "2020-09-26T02:08:09Z",
+                "timestamp": 1601086089000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        5
+                    ]
+                ]
+            },
+            "references-count": 41,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2020,
+                            5,
+                            30
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            5
+                        ]
+                    ]
+                },
+                "issue": "5"
+            },
+            "alternative-id": [
+                "10.1136/bmjopen-2019-033357"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmjopen-2019-033357",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2044-6055",
+                "2044-6055"
+            ],
+            "subject": [
+                "General Medicine"
+            ],
+            "container-title-short": "BMJ Open"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "clinical pharmacology",
+                        "primary care",
+                        "public health"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32474424",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "14"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "14"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "05",
+                            "Day": "30"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmjopen-2019-033357"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "2044-6055",
+                        "JournalIssue": {
+                            "Volume": "10",
+                            "Issue": "5",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "05",
+                                "Day": "30"
+                            }
+                        },
+                        "Title": "BMJ open",
+                        "ISOAbbreviation": "BMJ Open"
+                    },
+                    "ArticleTitle": "Has the introduction of direct oral anticoagulants (DOACs) in England increased emergency admissions for bleeding conditions? A longitudinal ecological study.",
+                    "Pagination": {
+                        "MedlinePgn": "e033357"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "There is concern about long-term safety of direct oral coagulants (DOACs) in clinical practice. Our aim was to investigate whether the introduction of DOACs compared with vitamin-K antagonists in England was associated with a change in admissions for bleeding or thromboembolic complications.",
+                            "5508 General practitioner (GP) practices in England between 2011 and 2016.",
+                            "All GP practices in England with a registered population size of greater than 1000 that had data for all 6 years.",
+                            "The rate of emergency admissions to hospital for bleeding or thromboembolism, per 100\u2009000 population for each GP practice in England.",
+                            "The annual number of DOAC items prescribed for each GP practice population as a proportion of all anticoagulant items prescribed.",
+                            "This longitudinal ecological study used panel regression models to investigate the association between trends in DOAC prescribing within GP practice populations and trends in emergency admission rates for bleeding and thromboembolic conditions, while controlling for confounders.",
+                            "For each additional 10% of DOACs prescribed as a proportion of all anticoagulants, there was a 0.9% increase in bleeding complications (rate ratio 1.008 95% CI 1.003 to 1.013). The introduction of DOACs between 2011 and 2016 was associated with additional 4929 (95% CI 2489 to 7370) emergency admissions for bleeding complications. Increased DOAC prescribing was associated with a slight decline in admission for thromboembolic conditions.",
+                            "Our data show that the rapid increase in prescribing of DOACs after changes in National Institute for Health and Care Excellence guidelines in 2014 may have been associated with a higher rate of emergency admissions for bleeding conditions. These consequences need to be considered in assessing the benefits and costs of the widespread use of DOACs."
+                        ],
+                        "CopyrightInformation": "\u00a9 Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY. Published by BMJ."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK Ana.Alfirevic@liv.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-2801-9817"
+                            ],
+                            "LastName": "Alfirevic",
+                            "ForeName": "Ana",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Downing",
+                            "ForeName": "Jennifer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Geography and Planning, University of Liverpool School of Environmental Sciences, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Daras",
+                            "ForeName": "Konstantinos",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "CLAHRC NWC Advisor Group, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Comerford",
+                            "ForeName": "Terence",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pirmohamed",
+                            "ForeName": "Munir",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "Ben",
+                            "Initials": "B"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "NIHR130258",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "Agency": "Department of Health [UK]",
+                            "Country": "International"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open",
+                    "NlmUniqueID": "101552874",
+                    "ISSNLinking": "2044-6055"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticoagulants"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Administration, Oral",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects"
+                        ],
+                        "DescriptorName": "Anticoagulants",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "chemically induced",
+                            "drug therapy",
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Hemorrhage",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Thromboembolism",
+                        "MajorTopicYN": "Y"
+                    }
+                ],
+                "CoiStatement": "Competing interests: We have read and understood BMJ policy on declaration of interests and declare the following: all authors have completed the ICMJE uniform disclosure form at http://www.icmje.org/coi_disclosure.pdf and declare: no support from any organisation for the submitted work (or describe if any); no financial relationships with any organisations that might have an interest in the submitted work in the previous 3 years (or describe if any); no other relationships or activities that could appear to have influenced the submitted work (or describe if any)."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "BMC Med. 2019 Apr 8;17(1):76",
+                                "ArticleIdList": [
+                                    "30961588"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Med. 2017 Sep;130(9):1015-1023",
+                                "ArticleIdList": [
+                                    "28502818"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2018 Jul 4;362:k2505",
+                                "ArticleIdList": [
+                                    "29973392"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2010 Dec 23;363(26):2499-510",
+                                "ArticleIdList": [
+                                    "21128814"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Cardiovasc Drugs. 2016 Oct;16(5):349-63",
+                                "ArticleIdList": [
+                                    "27262433"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Epidemiol. 2014 Feb;43(1):264-9",
+                                "ArticleIdList": [
+                                    "24366487"
+                                ]
+                            },
+                            {
+                                "Citation": "Am Heart J. 2009 May;157(5):805-10, 810.e1-2",
+                                "ArticleIdList": [
+                                    "19376304"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Nephrol Renovasc Dis. 2017 Jun 12;10:135-143",
+                                "ArticleIdList": [
+                                    "28652799"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Cardiol. 2017 Jan;40(1):46-52",
+                                "ArticleIdList": [
+                                    "27716948"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2017 Nov 28;359:j5058",
+                                "ArticleIdList": [
+                                    "29183961"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2013 Aug 29;369(9):799-808",
+                                "ArticleIdList": [
+                                    "23808982"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2012 Apr 5;366(14):1287-97",
+                                "ArticleIdList": [
+                                    "22449293"
+                                ]
+                            },
+                            {
+                                "Citation": "Open Heart. 2018 Feb 7;5(1):e000712",
+                                "ArticleIdList": [
+                                    "29531758"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Pharm Ther. 2019 Apr;44(2):197-208",
+                                "ArticleIdList": [
+                                    "30593674"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2009 Sep 17;361(12):1139-51",
+                                "ArticleIdList": [
+                                    "19717844"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2009 Dec 10;361(24):2342-52",
+                                "ArticleIdList": [
+                                    "19966341"
+                                ]
+                            },
+                            {
+                                "Citation": "Thromb Haemost. 2010 Sep;104(3):633-41",
+                                "ArticleIdList": [
+                                    "20694273"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Clin Pathol. 2019 Jan 1;151(1):1-17",
+                                "ArticleIdList": [
+                                    "30215666"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2018 Mar 28;13(3):e0193912",
+                                "ArticleIdList": [
+                                    "29590141"
+                                ]
+                            },
+                            {
+                                "Citation": "Circ J. 2011;75(8):1852-9",
+                                "ArticleIdList": [
+                                    "21670542"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2013 Dec 12;369(24):2294-303",
+                                "ArticleIdList": [
+                                    "24251363"
+                                ]
+                            },
+                            {
+                                "Citation": "J Stroke Cerebrovasc Dis. 2018 Apr;27(4):857-864",
+                                "ArticleIdList": [
+                                    "29239808"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2017 May 25;357:j2216",
+                                "ArticleIdList": [
+                                    "28546438"
+                                ]
+                            },
+                            {
+                                "Citation": "Pharmacogenomics. 2014 Dec;15(16):1973-83",
+                                "ArticleIdList": [
+                                    "25521356"
+                                ]
+                            },
+                            {
+                                "Citation": "Thromb Res. 2016 Jan;137:178-183",
+                                "ArticleIdList": [
+                                    "26672898"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Med. 2017 Oct;130(10):1137-1143",
+                                "ArticleIdList": [
+                                    "28687262"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2018 Jan 6;391(10115):e1",
+                                "ArticleIdList": [
+                                    "29275870"
+                                ]
+                            },
+                            {
+                                "Citation": "Thromb Res. 2017 Dec;160:41-50",
+                                "ArticleIdList": [
+                                    "29096154"
+                                ]
+                            },
+                            {
+                                "Citation": "JAMA. 2018 Feb 6;319(5):463-473",
+                                "ArticleIdList": [
+                                    "29372247"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Pharm Ther. 2017 Apr;42(2):132-134",
+                                "ArticleIdList": [
+                                    "28000318"
+                                ]
+                            },
+                            {
+                                "Citation": "Haematologica. 2018 Apr;103(4):738-745",
+                                "ArticleIdList": [
+                                    "29371325"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Haematol. 2019 May;185(3):514-522",
+                                "ArticleIdList": [
+                                    "30784047"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2017 Oct 17;359:j4323",
+                                "ArticleIdList": [
+                                    "29042362"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2011 Sep 8;365(10):883-91",
+                                "ArticleIdList": [
+                                    "21830957"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Clin Pharmacol. 2019 Feb;85(2):422-431",
+                                "ArticleIdList": [
+                                    "30423191"
+                                ]
+                            },
+                            {
+                                "Citation": "Am Heart J. 2010 Oct;160(4):635-41",
+                                "ArticleIdList": [
+                                    "20934556"
+                                ]
+                            },
+                            {
+                                "Citation": "JAMA. 2017 Sep 26;318(12):1115-1124",
+                                "ArticleIdList": [
+                                    "28973620"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Pharmacol Ther. 2014 Feb;95(2):199-207",
+                                "ArticleIdList": [
+                                    "24067746"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "5",
+                        "Day": "15",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "32474424",
+                    "bmjopen-2019-033357",
+                    "10.1136/bmjopen-2019-033357",
+                    "PMC7264699"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32474424)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832474424%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832474424%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085855294"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085855294?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085855294&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085855294&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085855294",
+                        "dc:identifier": "SCOPUS_ID:85085855294",
+                        "eid": "2-s2.0-85085855294",
+                        "dc:title": "Has the introduction of direct oral anticoagulants (DOACs) in England increased emergency admissions for bleeding conditions? A longitudinal ecological study",
+                        "dc:creator": "Alfirevic A.",
+                        "prism:publicationName": "BMJ open",
+                        "prism:eIssn": "20446055",
+                        "prism:volume": "10",
+                        "prism:issueIdentifier": "5",
+                        "prism:pageRange": "e033357",
+                        "prism:coverDate": "2020-05-30",
+                        "prism:coverDisplayDate": "30 May 2020",
+                        "prism:doi": "10.1136/bmjopen-2019-033357",
+                        "citedby-count": "5",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32474424",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "19800188003",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "P3FG26BJ.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32474424"
+            }
+        },
+        "title": "Has the introduction of direct oral anticoagulants (DOACs) in England increased emergency admissions for bleeding conditions? A longitudinal ecological study.",
+        "full_author_list": [
+            {
+                "clean": "Alfirevic A",
+                "family": "Alfirevic",
+                "given": "Ana",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK Ana.Alfirevic@liv.ac.uk."
+                }
+            },
+            {
+                "clean": "Downing J",
+                "family": "Downing",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Daras K",
+                "family": "Daras",
+                "given": "Konstantinos",
+                "affiliation": {
+                    "name": "Department of Geography and Planning, University of Liverpool School of Environmental Sciences, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Comerford T",
+                "family": "Comerford",
+                "given": "Terence",
+                "affiliation": {
+                    "name": "CLAHRC NWC Advisor Group, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Pirmohamed M",
+                "family": "Pirmohamed",
+                "given": "Munir",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Ben",
+                "affiliation": {
+                    "name": "Department of Public Health and Policy, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Alfirevic A",
+        "zotero_tags": [
+            {
+                "tag": "PCCC"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Administration, Oral",
+                    "major": "N"
+                },
+                {
+                    "term": "Anticoagulants",
+                    "major": "Y"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Hemorrhage",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Thromboembolism",
+                    "major": "Y"
+                }
+            ],
+            "other": [
+                "clinical pharmacology",
+                "primary care",
+                "public health"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMJ Open",
+            "volume": "10",
+            "issue": "5"
+        },
+        "abstract": "['There is concern about long-term safety of direct oral coagulants (DOACs) in clinical practice. Our aim was to investigate whether the introduction of DOACs compared with vitamin-K antagonists in England was associated with a change in admissions for bleeding or thromboembolic complications.', '5508 General practitioner (GP) practices in England between 2011 and 2016.', 'All GP practices in England with a registered population size of greater than 1000 that had data for all 6 years.', 'The rate of emergency admissions to hospital for bleeding or thromboembolism, per 100\\u2009000 population for each GP practice in England.', 'The annual number of DOAC items prescribed for each GP practice population as a proportion of all anticoagulant items prescribed.', 'This longitudinal ecological study used panel regression models to investigate the association between trends in DOAC prescribing within GP practice populations and trends in emergency admission rates for bleeding and thromboembolic conditions, while controlling for confounders.', 'For each additional 10% of DOACs prescribed as a proportion of all anticoagulants, there was a 0.9% increase in bleeding complications (rate ratio 1.008 95% CI 1.003 to 1.013). The introduction of DOACs between 2011 and 2016 was associated with additional 4929 (95% CI 2489 to 7370) emergency admissions for bleeding complications. Increased DOAC prescribing was associated with a slight decline in admission for thromboembolic conditions.', 'Our data show that the rapid increase in prescribing of DOACs after changes in National Institute for Health and Care Excellence guidelines in 2014 may have been associated with a higher rate of emergency admissions for bleeding conditions. These consequences need to be considered in assessing the benefits and costs of the widespread use of DOACs.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "5"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Molecular and Clinical Pharmacology, University of Liverpool, Liverpool, UK Ana.Alfirevic@liv.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

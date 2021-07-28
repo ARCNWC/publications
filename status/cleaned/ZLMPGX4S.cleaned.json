@@ -1,0 +1,977 @@
+{
+    "IDs": {
+        "zotero": "ZLMPGX4S",
+        "DOI": "10.1016/j.nedt.2019.104317",
+        "DOI_filename": "fd9d0b531daff577873ebba5bf00c554",
+        "PMID": "31927492",
+        "scopus": "2-s2.0-85077643887",
+        "hash": "48c498bfdc7076761e19ab156f760cc9"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "ZLMPGX4S",
+            "version": 978,
+            "itemType": "journalArticle",
+            "title": "Accelerated programmes in children's nursing to tackle the workforce gap in the United Kingdom: A cost-consequences analysis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Valerio",
+                    "lastName": "Benedetto"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Karen",
+                    "lastName": "Whittaker"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Neil",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hannah",
+                    "lastName": "Storey"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Diane",
+                    "lastName": "Daune"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Nurse Education Today",
+            "volume": "86",
+            "issue": "",
+            "pages": "104317",
+            "date": "03/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Nurse Education Today",
+            "language": "en",
+            "DOI": "10.1016/j.nedt.2019.104317",
+            "ISSN": "02606917",
+            "shortTitle": "Accelerated programmes in children's nursing to tackle the workforce gap in the United Kingdom",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S026069171930440X",
+            "accessDate": "2021-07-23T16:46:05Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:31927492",
+            "tags": [
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:08Z",
+            "dateModified": "2021-07-27T11:49:08Z",
+            "pmid": "31927492"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        9
+                    ]
+                ],
+                "date-time": "2020-06-09T15:13:08Z",
+                "timestamp": 1591715588737
+            },
+            "reference-count": 23,
+            "publisher": "Elsevier BV",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                3,
+                                1
+                            ]
+                        ],
+                        "date-time": "2020-03-01T00:00:00Z",
+                        "timestamp": 1583020800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "Health Education England",
+                    "award": []
+                },
+                {
+                    "name": "National Institute for Health Research Applied Research Collaboration North West Coast",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "clinicalkey.com",
+                    "clinicalkey.com.au",
+                    "elsevier.com",
+                    "sciencedirect.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        3
+                    ]
+                ]
+            },
+            "DOI": "10.1016/j.nedt.2019.104317",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        12,
+                        26
+                    ]
+                ],
+                "date-time": "2019-12-26T07:29:14Z",
+                "timestamp": 1577345354000
+            },
+            "page": "104317",
+            "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Accelerated programmes in children's nursing to tackle the workforce gap in the United Kingdom: A cost-consequences analysis",
+            "prefix": "10.1016",
+            "volume": "86",
+            "author": [
+                {
+                    "given": "Valerio",
+                    "family": "Benedetto",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Karen",
+                    "family": "Whittaker",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Neil",
+                    "family": "Wilson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Hannah",
+                    "family": "Storey",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Diane",
+                    "family": "Daune",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "reference": [
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0005",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "86",
+                    "DOI": "10.1016/j.nedt.2018.05.027",
+                    "article-title": "Nursing students\u2019 stress and satisfaction in clinical practice along different stages: a cross-sectional study",
+                    "volume": "68",
+                    "author": "Admi",
+                    "year": "2018",
+                    "journal-title": "Nurse Educ. Today"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0010",
+                    "author": "Barriball",
+                    "year": "2015",
+                    "series-title": "Recruitment and Retention of the Health Workforce in Europe. Final Report."
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0015",
+                    "author": "CoDH",
+                    "year": "2014",
+                    "article-title": "Nursing, midwifery and AHP",
+                    "series-title": "Pre-registration Education: The Funding Gap"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0020",
+                    "year": "2016",
+                    "series-title": "Unit Costs of Health and Social Care 2016"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0025",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "449",
+                    "DOI": "10.1111/j.1365-2834.2007.00668.x",
+                    "article-title": "The costs of training a nurse practitioner in primary care: the importance of allowing for the cost of education and training when making decisions about changing the professional-mix",
+                    "volume": "15",
+                    "author": "Curtis",
+                    "year": "2007",
+                    "journal-title": "J. Nurs. Manag."
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0030",
+                    "author": "Daune",
+                    "year": "2018",
+                    "article-title": "Speeding up things to accelerate learning: an evaluation of two novel children's nursing education programmes",
+                    "series-title": "Networking for Education in Healthcare 2018 Conference, Cambridge"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0035",
+                    "author": "Dawson",
+                    "volume": "13",
+                    "year": "2014",
+                    "article-title": "Nursing churn and turnover in Australian hospitals: nurses perceptions and suggestions for supportive strategies",
+                    "journal-title": "BMC Nurs.",
+                    "DOI": "10.1186/1472-6955-13-11",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0040",
+                    "author": "Department of Health",
+                    "year": "2016",
+                    "series-title": "Education & Training Tariffs: Tariff Guidance for 2016/17"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0045",
+                    "author": "Drummond",
+                    "year": "2005",
+                    "series-title": "Methods for the Economic Evaluation of Health Care Programmes"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0050",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "771",
+                    "DOI": "10.1007/s10198-015-0733-6",
+                    "article-title": "Pay or conditions? The role of workplace characteristics in nurses\u2019 labor supply",
+                    "volume": "17",
+                    "author": "Eberth",
+                    "year": "2016",
+                    "journal-title": "Eur. J. Health Econ."
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1016/j.nedt.2019.104317_bb0055",
+                    "first-page": "162",
+                    "article-title": "Specialized new graduate RN pediatric orientation: a strategy for nursing retention and its financial impact",
+                    "volume": "31",
+                    "author": "Friedman",
+                    "year": "2013",
+                    "journal-title": "Nurs. Economic."
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0060",
+                    "author": "HEE",
+                    "year": "2016",
+                    "series-title": "Raising the Bar - Shape of Caring: A Review of the Future Education and Training of Registered Nurses and Care Assistants"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0065",
+                    "author": "HEFCE",
+                    "year": "2017",
+                    "article-title": "Financial health of the higher education sector",
+                    "series-title": "2015\u201316 Financial Results"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0070",
+                    "author": "HEFCE",
+                    "year": "2018",
+                    "article-title": "Financial health of the higher education sector",
+                    "series-title": "2016\u201317 Financial Results"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0075",
+                    "author": "House of Commons\u2019\u2019 Health Committee",
+                    "year": "2018",
+                    "article-title": "The nursing workforce",
+                    "series-title": "Second Report of Session 2017\u201319"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1016/j.nedt.2019.104317_bb0080",
+                    "doi-asserted-by": "crossref",
+                    "DOI": "10.1097/00005110-200501000-00014",
+                    "article-title": "The cost of nurse turnover: part 2: application of nursing turnover costs calculation methodology",
+                    "volume": "35",
+                    "author": "Jones",
+                    "year": "2005",
+                    "journal-title": "J. Nurs. Adm."
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1016/j.nedt.2019.104317_bb0085",
+                    "article-title": "The costs and benefits of nurse turnover: a business case for nurse retention",
+                    "volume": "12",
+                    "author": "Jones",
+                    "year": "2007",
+                    "journal-title": "Online J. Issues Nurs."
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0090",
+                    "author": "KPMG",
+                    "year": "2017",
+                    "series-title": "Costing Study of Pre-registration Nursing, Midwifery and Allied Health Disciplines"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0095",
+                    "author": "Monitor and NHS England",
+                    "year": "2016",
+                    "series-title": "2016/17 National Tariff Payment System"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0100",
+                    "year": "2004",
+                    "series-title": "Keeping Patients Safe: Transforming the Work Environment of Nurses"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0105",
+                    "author": "RCN",
+                    "year": "2017",
+                    "series-title": "International Workforce in the UK After Brexit: Future Immigration System"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0110",
+                    "author": "RCPCH",
+                    "year": "2017",
+                    "article-title": "State of child health",
+                    "series-title": "Short Report Series: The Paediatric Workforce"
+                },
+                {
+                    "key": "10.1016/j.nedt.2019.104317_bb0115",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "28",
+                    "DOI": "10.1016/j.nedt.2017.04.013",
+                    "article-title": "Dreams and disappointments regarding nursing: student nurses\u2019 reasons for attrition and retention. A qualitative study design",
+                    "volume": "54",
+                    "author": "ten Hoeve",
+                    "year": "2017",
+                    "journal-title": "Nurse Educ. Today"
+                }
+            ],
+            "container-title": "Nurse Education Today",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S026069171930440X?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S026069171930440X?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        1,
+                        29
+                    ]
+                ],
+                "date-time": "2020-01-29T07:14:17Z",
+                "timestamp": 1580282057000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        3
+                    ]
+                ]
+            },
+            "references-count": 23,
+            "alternative-id": [
+                "S026069171930440X"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.nedt.2019.104317",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0260-6917"
+            ],
+            "subject": [
+                "General Nursing",
+                "Education"
+            ],
+            "container-title-short": "Nurse Education Today",
+            "assertion": [
+                {
+                    "value": "Elsevier",
+                    "name": "publisher",
+                    "label": "This article is maintained by"
+                },
+                {
+                    "value": "Accelerated programmes in children's nursing to tackle the workforce gap in the United Kingdom: A cost-consequences analysis",
+                    "name": "articletitle",
+                    "label": "Article Title"
+                },
+                {
+                    "value": "Nurse Education Today",
+                    "name": "journaltitle",
+                    "label": "Journal Title"
+                },
+                {
+                    "value": "https://doi.org/10.1016/j.nedt.2019.104317",
+                    "name": "articlelink",
+                    "label": "CrossRef DOI link to publisher maintained version"
+                },
+                {
+                    "value": "article",
+                    "name": "content_type",
+                    "label": "Content Type"
+                },
+                {
+                    "value": "\u00a9 2019 Elsevier Ltd. All rights reserved.",
+                    "name": "copyright",
+                    "label": "Copyright"
+                }
+            ],
+            "article-number": "104317"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Cost-consequences analysis",
+                        "Nursing economics",
+                        "Nursing education research",
+                        "Pediatric nursing",
+                        "Recruitment",
+                        "Retention"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "N"
+                ],
+                "PMID": "31927492",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "10",
+                    "Day": "23"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "10",
+                    "Day": "23"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2019",
+                            "Month": "12",
+                            "Day": "26"
+                        }
+                    ],
+                    "ELocationID": [
+                        "S0260-6917(19)30440-X",
+                        "10.1016/j.nedt.2019.104317"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1532-2793",
+                        "JournalIssue": {
+                            "Volume": "86",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Mar"
+                            }
+                        },
+                        "Title": "Nurse education today",
+                        "ISOAbbreviation": "Nurse Educ Today"
+                    },
+                    "ArticleTitle": "Accelerated programmes in children's nursing to tackle the workforce gap in the United Kingdom: A cost-consequences analysis.",
+                    "Pagination": {
+                        "MedlinePgn": "104317"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "With alarming vacancy rates and dipping availability of European nurses, remedies for the shortage of nurses in the UK are urged. To accelerate the registration of new children's nurses, a health education funder commissioned two education programmes within its region. The first is a 1-year programme designed for UK-registered nurses in adult or mental health. The second is a 2-year programme for individuals, not registered as nurses, who are child or social care graduates with experience of working with children and young people.",
+                            "To evaluate the economic effectiveness of two accelerated children's nursing education programmes.",
+                            "Economic evaluation.",
+                            "Two accelerated children's nursing education programmes in two sites in England.",
+                            "Nursing students enrolled in both programmes (N\u00a0=\u00a020).",
+                            "We adopt a cost-consequences analysis to analyse the programmes' costs and outcomes.",
+                            "All graduates were heading for posts within the region where they studied, a favourable outcome for the funder. However, the first programme would deplete the workforce in other nursing fields, whereas the second, by quickening the graduates' career progression, would not dent the long-term shortage in entry roles. Given our small sample size, these impacts may differ if the programmes have wider implementation.",
+                            "Our evaluation measures the effectiveness of two novel accelerated education programmes in tackling the nurses' shortage. Concurrently, it contributes to developing a standardised approach for future economic evaluations in nursing education."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2019 Elsevier Ltd. All rights reserved."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, United Kingdom. Electronic address: vbenedetto@uclan.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Benedetto",
+                            "ForeName": "Valerio",
+                            "Initials": "V"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Whittaker",
+                            "ForeName": "Karen",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wilson",
+                            "ForeName": "Neil",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Storey",
+                            "ForeName": "Hannah",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Daune",
+                            "ForeName": "Diane",
+                            "Initials": "D"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Scotland",
+                    "MedlineTA": "Nurse Educ Today",
+                    "NlmUniqueID": "8511379",
+                    "ISSNLinking": "0260-6917"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Attitude of Health Personnel",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Costs and Cost Analysis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods",
+                            "trends"
+                        ],
+                        "DescriptorName": "Education, Nursing",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data",
+                            "supply & distribution"
+                        ],
+                        "DescriptorName": "Nurses",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "education"
+                        ],
+                        "DescriptorName": "Pediatric Nursing",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "standards"
+                        ],
+                        "DescriptorName": "Workforce",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Declaration of competing interest None declared."
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "04",
+                        "Day": "04"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "10",
+                        "Day": "07"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "12",
+                        "Day": "18"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "1",
+                        "Day": "14",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "10",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "1",
+                        "Day": "14",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "31927492",
+                    "S0260-6917(19)30440-X",
+                    "10.1016/j.nedt.2019.104317"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(31927492)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831927492%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2831927492%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077643887"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077643887?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077643887&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077643887&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S026069171930440X"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077643887",
+                        "dc:identifier": "SCOPUS_ID:85077643887",
+                        "eid": "2-s2.0-85077643887",
+                        "dc:title": "Accelerated programmes in children's nursing to tackle the workforce gap in the United Kingdom: A cost-consequences analysis",
+                        "dc:creator": "Benedetto V.",
+                        "prism:publicationName": "Nurse Education Today",
+                        "prism:issn": "02606917",
+                        "prism:eIssn": "15322793",
+                        "prism:volume": "86",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-03-01",
+                        "prism:coverDisplayDate": "March 2020",
+                        "prism:doi": "10.1016/j.nedt.2019.104317",
+                        "pii": "S026069171930440X",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "31927492",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "104317",
+                        "source-id": "28806",
+                        "openaccess": "0",
+                        "openaccessFlag": false,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "ZLMPGX4S.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "31927492"
+            }
+        },
+        "title": "Accelerated programmes in children's nursing to tackle the workforce gap in the United Kingdom: A cost-consequences analysis.",
+        "full_author_list": [
+            {
+                "clean": "Benedetto V",
+                "family": "Benedetto",
+                "given": "Valerio",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, United Kingdom. Electronic address: vbenedetto@uclan.ac.uk."
+                }
+            },
+            {
+                "clean": "Whittaker K",
+                "family": "Whittaker",
+                "given": "Karen",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, United Kingdom."
+                }
+            },
+            {
+                "clean": "Wilson N",
+                "family": "Wilson",
+                "given": "Neil",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, United Kingdom."
+                }
+            },
+            {
+                "clean": "Storey H",
+                "family": "Storey",
+                "given": "Hannah",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, United Kingdom."
+                }
+            },
+            {
+                "clean": "Daune D",
+                "family": "Daune",
+                "given": "Diane",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, United Kingdom."
+                }
+            }
+        ],
+        "first_author": "Benedetto V",
+        "zotero_tags": [
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Attitude of Health Personnel",
+                    "major": "N"
+                },
+                {
+                    "term": "Costs and Cost Analysis",
+                    "major": "N"
+                },
+                {
+                    "term": "Education, Nursing",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Nurses",
+                    "major": "N"
+                },
+                {
+                    "term": "Pediatric Nursing",
+                    "major": "N"
+                },
+                {
+                    "term": "Workforce",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "Cost-consequences analysis",
+                "Nursing economics",
+                "Nursing education research",
+                "Pediatric nursing",
+                "Recruitment",
+                "Retention"
+            ]
+        },
+        "journal": {
+            "journal_name": "Nurse Educ Today",
+            "volume": "86",
+            "issue": ""
+        },
+        "abstract": "[\"With alarming vacancy rates and dipping availability of European nurses, remedies for the shortage of nurses in the UK are urged. To accelerate the registration of new children's nurses, a health education funder commissioned two education programmes within its region. The first is a 1-year programme designed for UK-registered nurses in adult or mental health. The second is a 2-year programme for individuals, not registered as nurses, who are child or social care graduates with experience of working with children and young people.\", \"To evaluate the economic effectiveness of two accelerated children's nursing education programmes.\", 'Economic evaluation.', \"Two accelerated children's nursing education programmes in two sites in England.\", 'Nursing students enrolled in both programmes (N\\xa0=\\xa020).', \"We adopt a cost-consequences analysis to analyse the programmes' costs and outcomes.\", \"All graduates were heading for posts within the region where they studied, a favourable outcome for the funder. However, the first programme would deplete the workforce in other nursing fields, whereas the second, by quickening the graduates' career progression, would not dent the long-term shortage in entry roles. Given our small sample size, these impacts may differ if the programmes have wider implementation.\", \"Our evaluation measures the effectiveness of two novel accelerated education programmes in tackling the nurses' shortage. Concurrently, it contributes to developing a standardised approach for future economic evaluations in nursing education.\"]",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Faculty of Health and Wellbeing, University of Central Lancashire, United Kingdom. Electronic address: vbenedetto@uclan.ac.uk.",
+            "clean_institute": "University of Central Lancashire",
+            "country": "United Kingdom",
+            "latitude": "53.759444444444",
+            "longitude": "-2.6980555555556"
+        }
+    }
+}

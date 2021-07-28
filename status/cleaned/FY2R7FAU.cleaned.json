@@ -1,0 +1,1382 @@
+{
+    "IDs": {
+        "zotero": "FY2R7FAU",
+        "DOI": "10.3390/ijerph17207601",
+        "DOI_filename": "abc51e1b2e2ffbe771a105bdfa3c318f",
+        "PMID": "33086576",
+        "scopus": "2-s2.0-85092939105",
+        "hash": "33dbd1d8b53e186d0f3cd4b7e66b414a"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "FY2R7FAU",
+            "version": 990,
+            "itemType": "journalArticle",
+            "title": "Improving the Quality of Care in Care Homes Using the Quality Improvement Collaborative Approach: Lessons Learnt from Six Projects Conducted in the UK and The Netherlands",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Reena",
+                    "lastName": "Devi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Graham",
+                    "lastName": "Martin"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jay",
+                    "lastName": "Banerjee"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Louise",
+                    "lastName": "Butler"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tim",
+                    "lastName": "Pattison"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lesley",
+                    "lastName": "Cruickshank"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Caroline",
+                    "lastName": "Maries-Tillott"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tracie",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah",
+                    "lastName": "Damery"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Julienne",
+                    "lastName": "Meyer"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Antonius",
+                    "lastName": "Poot"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Peter",
+                    "lastName": "Chamberlain"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Debbie",
+                    "lastName": "Harvey"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kathryn",
+                    "lastName": "Hinsliff-Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Neil",
+                    "lastName": "Chadborn"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Adam",
+                    "lastName": "Lee Gordon"
+                }
+            ],
+            "abstractNote": "The Breakthrough Series Quality Improvement Collaborative (QIC) initiative is a well-developed and widely used approach, but most of what we know about it has come from healthcare settings. In this article, those leading QICs to improve care in care homes provide detailed accounts of six QICs and share their learning of applying the QIC approach in the care home sector. Overall, five care home-specific lessons were learnt: (i) plan for the resources needed to support collaborative teams with collecting, processing, and interpreting data; (ii) create encouraging and safe working environments to help collaborative team members feel valued; (iii) recruit collaborative teams, QIC leads, and facilitators who have established relationships with care homes; (iv) regularly check project ideas are aligned with team members\u2019 job roles, responsibilities, and priorities; and (v) work flexibly and accept that planned activities may need adapting as the project progresses. These insights are targeted at teams delivering QICs in care homes. These insights demonstrate the need to consider the care home context when applying improvement tools and techniques in this setting.",
+            "publicationTitle": "International Journal of Environmental Research and Public Health",
+            "volume": "17",
+            "issue": "20",
+            "pages": "7601",
+            "date": "2020-10-19",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "IJERPH",
+            "language": "en",
+            "DOI": "10.3390/ijerph17207601",
+            "ISSN": "1660-4601",
+            "shortTitle": "Improving the Quality of Care in Care Homes Using the Quality Improvement Collaborative Approach",
+            "url": "https://www.mdpi.com/1660-4601/17/20/7601",
+            "accessDate": "2021-07-23T16:46:16Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33086576",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:40Z",
+            "dateModified": "2021-07-27T12:00:41Z",
+            "pmid": "33086576"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        14
+                    ]
+                ],
+                "date-time": "2021-05-14T15:24:12Z",
+                "timestamp": 1621005852133
+            },
+            "reference-count": 31,
+            "publisher": "MDPI AG",
+            "issue": "20",
+            "license": [
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                10,
+                                19
+                            ]
+                        ],
+                        "date-time": "2020-10-19T00:00:00Z",
+                        "timestamp": 1603065600000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "unspecified"
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "abstract": "<jats:p>The Breakthrough Series Quality Improvement Collaborative (QIC) initiative is a well-developed and widely used approach, but most of what we know about it has come from healthcare settings. In this article, those leading QICs to improve care in care homes provide detailed accounts of six QICs and share their learning of applying the QIC approach in the care home sector. Overall, five care home-specific lessons were learnt: (i) plan for the resources needed to support collaborative teams with collecting, processing, and interpreting data; (ii) create encouraging and safe working environments to help collaborative team members feel valued; (iii) recruit collaborative teams, QIC leads, and facilitators who have established relationships with care homes; (iv) regularly check project ideas are aligned with team members\u2019 job roles, responsibilities, and priorities; and (v) work flexibly and accept that planned activities may need adapting as the project progresses. These insights are targeted at teams delivering QICs in care homes. These insights demonstrate the need to consider the care home context when applying improvement tools and techniques in this setting.</jats:p>",
+            "DOI": "10.3390/ijerph17207601",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        19
+                    ]
+                ],
+                "date-time": "2020-10-19T13:36:28Z",
+                "timestamp": 1603114588000
+            },
+            "page": "7601",
+            "source": "Crossref",
+            "is-referenced-by-count": 5,
+            "title": "Improving the Quality of Care in Care Homes Using the Quality Improvement Collaborative Approach: Lessons Learnt from Six Projects Conducted in the UK and The Netherlands",
+            "prefix": "10.3390",
+            "volume": "17",
+            "author": [
+                {
+                    "given": "Reena",
+                    "family": "Devi",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Graham",
+                    "family": "Martin",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jay",
+                    "family": "Banerjee",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Louise",
+                    "family": "Butler",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Tim",
+                    "family": "Pattison",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Lesley",
+                    "family": "Cruickshank",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Caroline",
+                    "family": "Maries-Tillott",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Tracie",
+                    "family": "Wilson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Sarah",
+                    "family": "Damery",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Julienne",
+                    "family": "Meyer",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Antonius",
+                    "family": "Poot",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Peter",
+                    "family": "Chamberlain",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Debbie",
+                    "family": "Harvey",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Kathryn",
+                    "family": "Hinsliff-Smith",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Neil",
+                    "family": "Chadborn",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Adam",
+                    "family": "Lee Gordon",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "1968",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "ref1",
+                    "author": "Zimmer",
+                    "year": "2016",
+                    "series-title": "Global Ageing in the Twenty-First Century: Challenges, Opportunities and Implications"
+                },
+                {
+                    "key": "ref2",
+                    "DOI": "10.1016/j.jamda.2014.12.013",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref3",
+                    "author": "Schols",
+                    "year": "2018",
+                    "article-title": "Chapter 37 Residential and nursing home care; from the past to the future",
+                    "series-title": "Oxford Textbook of Geriatric Medicine"
+                },
+                {
+                    "key": "ref4",
+                    "author": "Achterberg",
+                    "year": "2019",
+                    "series-title": "We\u2019re All Different and We\u2019re the Same: The Story of the European Nursing Home Resident"
+                },
+                {
+                    "key": "ref5"
+                },
+                {
+                    "key": "ref6",
+                    "unstructured": "Improving Safety in Care Homes. A summary of Academic Health Science Network Projects and Innovationshttp://www.ahsnnetwork.com/wp-content/uploads/2019/09/Care_Homes_Report_WEB.pdf"
+                },
+                {
+                    "key": "ref7",
+                    "year": "2016",
+                    "series-title": "The Framework for Enhanced Health in Care Homes"
+                },
+                {
+                    "key": "ref8",
+                    "DOI": "10.5334/ijic.609",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref9",
+                    "DOI": "10.1136/bmjqs-2017-006926",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref10",
+                    "author": "Hulscher",
+                    "year": "2009",
+                    "series-title": "QQUIP, Quest for Quality and Improved Performance, Collaboratives"
+                },
+                {
+                    "key": "ref11",
+                    "DOI": "10.1136/qhc.11.4.345",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref12",
+                    "year": "2003",
+                    "series-title": "The Breakthrough Series: IHI\u2019s Collaborative Model for Achieving Breakthrough Improvement"
+                },
+                {
+                    "key": "ref13",
+                    "DOI": "10.1136/bmj.39570.749884.BE",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref14",
+                    "author": "Langley",
+                    "first-page": "89",
+                    "year": "2009",
+                    "article-title": "Using the model for improvement",
+                    "series-title": "The Improvement Guide: A Practical Approach to Enhancing Organizational Performance"
+                },
+                {
+                    "key": "ref15",
+                    "DOI": "10.1007/s41999-020-00389-w",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref16",
+                    "DOI": "10.1136/bmj.g1687",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref17",
+                    "DOI": "10.1136/bmjopen-2018-023287",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref18",
+                    "unstructured": "Statistical Analysis Plan for the Proactive Healthcare of Older People in Care Homes (PEACH) Studyhttps://dora.dmu.ac.uk/bitstream/handle/2086/17245/PEACH%2520statistical%2520plan%2520issue-22-emran-sep-2018.pdf?sequence=1&isAllowed=y"
+                },
+                {
+                    "key": "ref19",
+                    "DOI": "10.1136/bmjqs-2016-006143",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref20",
+                    "DOI": "10.1177/0141076818803457",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref21",
+                    "unstructured": "Improving Safety in Care Homes: Evaluation of the Safer Provision and Caring Excellence (SPACE) Programmehttps://www.wmahsn.org/storage/resources/documents/SPACE_evaluation_report_final_04042019.pdf"
+                },
+                {
+                    "key": "ref22",
+                    "DOI": "10.1177/0046958017737906",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref23",
+                    "DOI": "10.1371/journal.pone.0164536",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref24",
+                    "DOI": "10.1186/s12913-020-4945-9",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref25",
+                    "DOI": "10.1093/ageing/afx182",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref26",
+                    "DOI": "10.1136/bmj.m2463",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref27",
+                    "DOI": "10.1111/jan.12189",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref28",
+                    "DOI": "10.1186/1472-6963-8-277",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref29",
+                    "DOI": "10.1111/hsc.12436",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref30",
+                    "DOI": "10.3310/hsdr05290",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "ref31",
+                    "DOI": "10.1136/bmjopen-2013-003178",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "International Journal of Environmental Research and Public Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.mdpi.com/1660-4601/17/20/7601/pdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        4
+                    ]
+                ],
+                "date-time": "2020-12-04T01:44:06Z",
+                "timestamp": 1607046246000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "references-count": 31,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2020,
+                            10
+                        ]
+                    ]
+                },
+                "issue": "20"
+            },
+            "alternative-id": [
+                "ijerph17207601"
+            ],
+            "URL": "http://dx.doi.org/10.3390/ijerph17207601",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1660-4601"
+            ],
+            "container-title-short": "IJERPH"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Implementation Science",
+                        "Quality Improvement",
+                        "Quality Improvement Collaborative",
+                        "older people",
+                        "residential facilities"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "33086576",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "01",
+                    "Day": "11"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "02",
+                    "Day": "11"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "10",
+                            "Day": "19"
+                        }
+                    ],
+                    "ELocationID": [
+                        "E7601",
+                        "10.3390/ijerph17207601"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1660-4601",
+                        "JournalIssue": {
+                            "Volume": "17",
+                            "Issue": "20",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "10",
+                                "Day": "19"
+                            }
+                        },
+                        "Title": "International journal of environmental research and public health",
+                        "ISOAbbreviation": "Int J Environ Res Public Health"
+                    },
+                    "ArticleTitle": "Improving the Quality of Care in Care Homes Using the Quality Improvement Collaborative Approach: Lessons Learnt from Six Projects Conducted in the UK and The Netherlands.",
+                    "Abstract": {
+                        "AbstractText": [
+                            "The Breakthrough Series Quality Improvement Collaborative (QIC) initiative is a well-developed and widely used approach, but most of what we know about it has come from healthcare settings. In this article, those leading QICs to improve care in care homes provide detailed accounts of six QICs and share their learning of applying the QIC approach in the care home sector. Overall, five care home-specific lessons were learnt: (i) plan for the resources needed to support collaborative teams with collecting, processing, and interpreting data; (ii) create encouraging and safe working environments to help collaborative team members feel valued; (iii) recruit collaborative teams, QIC leads, and facilitators who have established relationships with care homes; (iv) regularly check project ideas are aligned with team members' job roles, responsibilities, and priorities; and (v) work flexibly and accept that planned activities may need adapting as the project progresses. These insights are targeted at teams delivering QICs in care homes. These insights demonstrate the need to consider the care home context when applying improvement tools and techniques in this setting."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Healthcare, University of Leeds, Leeds LS2 9JT, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Devi",
+                            "ForeName": "Reena",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Healthcare Improvement Studies Institute, University of Cambridge, Cambridge CB2 0AH, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Martin",
+                            "ForeName": "Graham",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University Hospitals of Leicester NHS Trust, Leicester LE1 5WW, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Sciences, University of Leicester, Leicester LE1 7RH, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Banerjee",
+                            "ForeName": "Jay",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Ageing and Complex Medicine, Salford Royal NHS Foundation Trust, Salford M6 8HD, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Butler",
+                            "ForeName": "Louise",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Ageing and Complex Medicine, Salford Royal NHS Foundation Trust, Salford M6 8HD, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pattison",
+                            "ForeName": "Tim",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Essex County Council, Chelmsford, CM1 1QH, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cruickshank",
+                            "ForeName": "Lesley",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "West Midlands Academic Health Science Network, Birmingham B15 2TH, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Maries-Tillott",
+                            "ForeName": "Caroline",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Walsall Clinical Commissioning Group, Walsall WS2 7JL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wilson",
+                            "ForeName": "Tracie",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Applied Health Research, University of Birmingham, Birmingham B15 2TT, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Damery",
+                            "ForeName": "Sarah",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Health Sciences, City University of London, London EC1V 0HB, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Meyer",
+                            "ForeName": "Julienne",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Primary Care, Leiden University Medical Centre, Hippocratespad 21, 2300 RC Leiden, The Netherlands."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Poot",
+                            "ForeName": "Antonius",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "South Sefton Clinical Commissioning Group, Bootle L20 3DL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Chamberlain",
+                            "ForeName": "Peter",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "South Sefton Clinical Commissioning Group, Bootle L20 3DL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harvey",
+                            "ForeName": "Debbie",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool L69 3GL, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Institute for Health Research, Applied Research Collaborations, North West Coast, University of Liverpool, Liverpool L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Life Sciences, De Montfort University, Leicester LE1 9BH, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hinsliff-Smith",
+                            "ForeName": "Kathryn",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Graduate Entry Medicine, University of Nottingham, Derby DE22 3NE, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Applied Research Collaboration-East Midlands (ARC-EM), University of Nottingham, Nottingham NG7 2TU, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Chadborn",
+                            "ForeName": "Neil",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Division of Graduate Entry Medicine, University of Nottingham, Derby DE22 3NE, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Applied Research Collaboration-East Midlands (ARC-EM), University of Nottingham, Nottingham NG7 2TU, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Lee Gordon",
+                            "ForeName": "Adam",
+                            "Initials": "A"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "FOP1/0115",
+                            "Acronym": "DMT_",
+                            "Agency": "The Dunhill Medical Trust",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Switzerland",
+                    "MedlineTA": "Int J Environ Res Public Health",
+                    "NlmUniqueID": "101238455",
+                    "ISSNLinking": "1660-4601"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cooperative Behavior",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Learning",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Netherlands",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Nursing Homes",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Quality Improvement",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Quality of Health Care",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "BMC Health Serv Res. 2020 Feb 6;20(1):94",
+                                "ArticleIdList": [
+                                    "32028940"
+                                ]
+                            },
+                            {
+                                "Citation": "J Adv Nurs. 2013 Sep;69(9):e5-17",
+                                "ArticleIdList": [
+                                    "23941059"
+                                ]
+                            },
+                            {
+                                "Citation": "Inquiry. 2017 Jan-Dec;54:46958017737906",
+                                "ArticleIdList": [
+                                    "29161944"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2008 Jun 28;336(7659):1491-4",
+                                "ArticleIdList": [
+                                    "18577559"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Soc Care Community. 2017 Jul;25(4):1375-1386",
+                                "ArticleIdList": [
+                                    "28215044"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Qual Saf. 2018 Mar;27(3):226-240",
+                                "ArticleIdList": [
+                                    "29055899"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2008 Dec 30;8:277",
+                                "ArticleIdList": [
+                                    "19115991"
+                                ]
+                            },
+                            {
+                                "Citation": "J R Soc Med. 2018 Nov;111(11):414-421",
+                                "ArticleIdList": [
+                                    "30235053"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur Geriatr Med. 2020 Sep 4;:",
+                                "ArticleIdList": [
+                                    "32888183"
+                                ]
+                            },
+                            {
+                                "Citation": "Qual Saf Health Care. 2002 Dec;11(4):345-51",
+                                "ArticleIdList": [
+                                    "12468695"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2018 May 1;47(3):387-391",
+                                "ArticleIdList": [
+                                    "29267840"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2016 Oct 13;11(10):e0164536",
+                                "ArticleIdList": [
+                                    "27737012"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2014 Mar 07;348:g1687",
+                                "ArticleIdList": [
+                                    "24609605"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2019 Dec 1;49(1):3-4",
+                                "ArticleIdList": [
+                                    "31838507"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Med Dir Assoc. 2015 Mar;16(3):181-4",
+                                "ArticleIdList": [
+                                    "25704126"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2013 Jul 19;3(7):",
+                                "ArticleIdList": [
+                                    "23872297"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2020 Jun 24;369:m2463",
+                                "ArticleIdList": [
+                                    "32581008"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2018 Nov 12;8(11):e023287",
+                                "ArticleIdList": [
+                                    "30420349"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Qual Saf. 2017 Jul;26(7):578-582",
+                                "ArticleIdList": [
+                                    "27986901"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "09",
+                        "Day": "11"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "10",
+                        "Day": "05"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "10",
+                        "Day": "13"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "10",
+                        "Day": "22",
+                        "Hour": "1",
+                        "Minute": "1"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "10",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "1",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "33086576",
+                    "ijerph17207601",
+                    "10.3390/ijerph17207601",
+                    "PMC7589164"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33086576)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833086576%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833086576%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092939105"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092939105?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85092939105&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85092939105&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85092939105",
+                        "dc:identifier": "SCOPUS_ID:85092939105",
+                        "eid": "2-s2.0-85092939105",
+                        "dc:title": "Improving the quality of care in care homes using the quality improvement collaborative approach: Lessons learnt from six projects conducted in the uk and the netherlands",
+                        "dc:creator": "Devi R.",
+                        "prism:publicationName": "International Journal of Environmental Research and Public Health",
+                        "prism:issn": "16617827",
+                        "prism:eIssn": "16604601",
+                        "prism:volume": "17",
+                        "prism:issueIdentifier": "20",
+                        "prism:pageRange": "1-20",
+                        "prism:coverDate": "2020-10-02",
+                        "prism:coverDisplayDate": "2 October 2020",
+                        "prism:doi": "10.3390/ijerph17207601",
+                        "citedby-count": "3",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Leeds",
+                                "affiliation-city": "Leeds",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33086576",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "7601",
+                        "source-id": "144989",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "FY2R7FAU.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33086576"
+            }
+        },
+        "title": "Improving the Quality of Care in Care Homes Using the Quality Improvement Collaborative Approach: Lessons Learnt from Six Projects Conducted in the UK and The Netherlands.",
+        "full_author_list": [
+            {
+                "clean": "Devi R",
+                "family": "Devi",
+                "given": "Reena",
+                "affiliation": {
+                    "name": "School of Healthcare, University of Leeds, Leeds LS2 9JT, UK."
+                }
+            },
+            {
+                "clean": "Martin G",
+                "family": "Martin",
+                "given": "Graham",
+                "affiliation": {
+                    "name": "The Healthcare Improvement Studies Institute, University of Cambridge, Cambridge CB2 0AH, UK."
+                }
+            },
+            {
+                "clean": "Banerjee J",
+                "family": "Banerjee",
+                "given": "Jay",
+                "affiliation": {
+                    "name": "University Hospitals of Leicester NHS Trust, Leicester LE1 5WW, UK."
+                }
+            },
+            {
+                "clean": "Butler L",
+                "family": "Butler",
+                "given": "Louise",
+                "affiliation": {
+                    "name": "Department of Ageing and Complex Medicine, Salford Royal NHS Foundation Trust, Salford M6 8HD, UK."
+                }
+            },
+            {
+                "clean": "Pattison T",
+                "family": "Pattison",
+                "given": "Tim",
+                "affiliation": {
+                    "name": "Department of Ageing and Complex Medicine, Salford Royal NHS Foundation Trust, Salford M6 8HD, UK."
+                }
+            },
+            {
+                "clean": "Cruickshank L",
+                "family": "Cruickshank",
+                "given": "Lesley",
+                "affiliation": {
+                    "name": "Essex County Council, Chelmsford, CM1 1QH, UK."
+                }
+            },
+            {
+                "clean": "Maries-Tillott C",
+                "family": "Maries-Tillott",
+                "given": "Caroline",
+                "affiliation": {
+                    "name": "West Midlands Academic Health Science Network, Birmingham B15 2TH, UK."
+                }
+            },
+            {
+                "clean": "Wilson T",
+                "family": "Wilson",
+                "given": "Tracie",
+                "affiliation": {
+                    "name": "Walsall Clinical Commissioning Group, Walsall WS2 7JL, UK."
+                }
+            },
+            {
+                "clean": "Damery S",
+                "family": "Damery",
+                "given": "Sarah",
+                "affiliation": {
+                    "name": "Institute of Applied Health Research, University of Birmingham, Birmingham B15 2TT, UK."
+                }
+            },
+            {
+                "clean": "Meyer J",
+                "family": "Meyer",
+                "given": "Julienne",
+                "affiliation": {
+                    "name": "School of Health Sciences, City University of London, London EC1V 0HB, UK."
+                }
+            },
+            {
+                "clean": "Poot A",
+                "family": "Poot",
+                "given": "Antonius",
+                "affiliation": {
+                    "name": "Department of Public Health and Primary Care, Leiden University Medical Centre, Hippocratespad 21, 2300 RC Leiden, The Netherlands."
+                }
+            },
+            {
+                "clean": "Chamberlain P",
+                "family": "Chamberlain",
+                "given": "Peter",
+                "affiliation": {
+                    "name": "South Sefton Clinical Commissioning Group, Bootle L20 3DL, UK."
+                }
+            },
+            {
+                "clean": "Harvey D",
+                "family": "Harvey",
+                "given": "Debbie",
+                "affiliation": {
+                    "name": "South Sefton Clinical Commissioning Group, Bootle L20 3DL, UK."
+                }
+            },
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool L69 3GL, UK."
+                }
+            },
+            {
+                "clean": "Hinsliff-Smith K",
+                "family": "Hinsliff-Smith",
+                "given": "Kathryn",
+                "affiliation": {
+                    "name": "Faculty of Health and Life Sciences, De Montfort University, Leicester LE1 9BH, UK."
+                }
+            },
+            {
+                "clean": "Chadborn N",
+                "family": "Chadborn",
+                "given": "Neil",
+                "affiliation": {
+                    "name": "Division of Graduate Entry Medicine, University of Nottingham, Derby DE22 3NE, UK."
+                }
+            },
+            {
+                "clean": "Lee Gordon A",
+                "family": "Lee Gordon",
+                "given": "Adam",
+                "affiliation": {
+                    "name": "Division of Graduate Entry Medicine, University of Nottingham, Derby DE22 3NE, UK."
+                }
+            }
+        ],
+        "first_author": "Devi R",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Cooperative Behavior",
+                    "major": "Y"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Learning",
+                    "major": "N"
+                },
+                {
+                    "term": "Netherlands",
+                    "major": "N"
+                },
+                {
+                    "term": "Nursing Homes",
+                    "major": "Y"
+                },
+                {
+                    "term": "Quality Improvement",
+                    "major": "Y"
+                },
+                {
+                    "term": "Quality of Health Care",
+                    "major": "Y"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "Implementation Science",
+                "Quality Improvement",
+                "Quality Improvement Collaborative",
+                "older people",
+                "residential facilities"
+            ]
+        },
+        "journal": {
+            "journal_name": "Int J Environ Res Public Health",
+            "volume": "17",
+            "issue": "20"
+        },
+        "abstract": "[\"The Breakthrough Series Quality Improvement Collaborative (QIC) initiative is a well-developed and widely used approach, but most of what we know about it has come from healthcare settings. In this article, those leading QICs to improve care in care homes provide detailed accounts of six QICs and share their learning of applying the QIC approach in the care home sector. Overall, five care home-specific lessons were learnt: (i) plan for the resources needed to support collaborative teams with collecting, processing, and interpreting data; (ii) create encouraging and safe working environments to help collaborative team members feel valued; (iii) recruit collaborative teams, QIC leads, and facilitators who have established relationships with care homes; (iv) regularly check project ideas are aligned with team members' job roles, responsibilities, and priorities; and (v) work flexibly and accept that planned activities may need adapting as the project progresses. These insights are targeted at teams delivering QICs in care homes. These insights demonstrate the need to consider the care home context when applying improvement tools and techniques in this setting.\"]",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "3"
+            }
+        },
+        "location": {
+            "candidate_institute": "School of Healthcare, University of Leeds, Leeds LS2 9JT, UK.",
+            "clean_institute": "University of Leeds",
+            "country": "United Kingdom",
+            "latitude": "53.807222222222",
+            "longitude": "-1.5516666666667"
+        }
+    }
+}

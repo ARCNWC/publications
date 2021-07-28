@@ -1,0 +1,1415 @@
+{
+    "IDs": {
+        "zotero": "6UDH488D",
+        "DOI": "10.1002/14651858.CD001415.pub4",
+        "DOI_filename": "91982eb753f76302199c31c30318ce3f",
+        "PMID": "33434292",
+        "scopus": "2-s2.0-85099892577",
+        "hash": "4b3a8daf634bfab7beddfd1ead630878"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "6UDH488D",
+            "version": 986,
+            "itemType": "journalArticle",
+            "title": "Gabapentin add-on treatment for drug-resistant focal epilepsy",
+            "creators": [
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mariangela",
+                    "lastName": "Panebianco"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah",
+                    "lastName": "Al-Bachari"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jane L",
+                    "lastName": "Hutton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "2021",
+            "issue": "1",
+            "pages": "",
+            "date": "2021-01-12",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD001415.pub4",
+            "ISSN": "14651858",
+            "shortTitle": "",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD001415.pub4",
+            "accessDate": "2021-07-23T16:46:08Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33434292",
+            "tags": [
+                {
+                    "tag": "PCCC"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:15Z",
+            "dateModified": "2021-07-27T11:57:16Z",
+            "pmid": "33434292"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        9
+                    ]
+                ],
+                "date-time": "2021-03-09T18:51:30Z",
+                "timestamp": 1615315890185
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2021,
+                                1,
+                                12
+                            ]
+                        ],
+                        "date-time": "2021-01-12T00:00:00Z",
+                        "timestamp": 1610409600000
+                    },
+                    "DOI": "10.1002/14651858.cd001415.pub3",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 46,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd001415.pub4",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        15
+                    ]
+                ],
+                "date-time": "2021-01-15T09:27:11Z",
+                "timestamp": 1610702831000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "Gabapentin add-on treatment for drug-resistant focal epilepsy",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Mariangela",
+                    "family": "Panebianco",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Molecular and Clinical Pharmacology; Institute of Translational Medicine, University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sarah",
+                    "family": "Al-Bachari",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Neurology; Royal Preston Hospital; Preston UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Jane L",
+                    "family": "Hutton",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Statistics; University of Warwick; Coventry UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Molecular and Clinical Pharmacology; Institute of Translational Medicine, University of Liverpool; Liverpool UK"
+                        },
+                        {
+                            "name": "The Walton Centre NHS Foundation Trust; Liverpool UK"
+                        },
+                        {
+                            "name": "Liverpool Health Partners; Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        12
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0001|cit1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "795",
+                    "DOI": "10.1111/j.1528-1157.1994.tb02513.x",
+                    "article-title": "Gabapentin (Neurontin) as add-on therapy in patients with partial seizures: a double-blind, placebo-controlled study",
+                    "volume": "35",
+                    "author": "Anhut",
+                    "year": "1994",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0002|cit2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1147",
+                    "DOI": "10.1111/j.1528-1157.1999.tb00833.x",
+                    "article-title": "Gabapentin as add-on therapy in children with refractory partial seizures: a 12 week, multicentre, double blind placebo controlled study",
+                    "volume": "40",
+                    "author": "Appleton",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0003|cit3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "743",
+                    "DOI": "10.1212/WNL.56.6.743",
+                    "article-title": "Rapid Initiation of gabapentin: a randomised control trial",
+                    "volume": "56",
+                    "author": "Fisher",
+                    "year": "2001",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1242",
+                    "DOI": "10.1212/WNL.0000000000003118",
+                    "article-title": "Adjunctive pregabalin vs gabapentin for focal seizures: interpretation of comparative outcomes",
+                    "volume": "87",
+                    "author": "French",
+                    "year": "2016",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0005|cit5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "372",
+                    "DOI": "10.1136/jnnp.62.4.372",
+                    "article-title": "Gabapentin and cognition: a double blind, dose ranging, placebo controlled study in refractory epilepsy",
+                    "volume": "62",
+                    "author": "Leach",
+                    "year": "1997",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0006|cit6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1289",
+                    "DOI": "10.1111/j.1528-1157.2000.tb04607.x",
+                    "article-title": "Gabapentin versus vigabatrin as first add-on for patients with partial seizures that failed to respond to monotherapy: a randomised, double-blind, dose titration study",
+                    "volume": "41",
+                    "author": "Lindberger",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0007|cit7",
+                    "first-page": "359",
+                    "article-title": "Gabapentin and lamotrigine in Indian patients of partial epilepsy refractory to carbamazepine",
+                    "volume": "50",
+                    "author": "Sethi",
+                    "year": "2002",
+                    "journal-title": "Neurology India"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0008|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "539",
+                    "DOI": "10.1111/j.1528-1157.1991.tb04689.x",
+                    "article-title": "Double blind study of gabapentin in the treatment of partial seizures",
+                    "volume": "32",
+                    "author": "Sivenius",
+                    "year": "1991",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0009|cit9",
+                    "first-page": "151",
+                    "article-title": "Gabapentin as adjuvant therapy in the treatment of refractory partial epilepsy",
+                    "volume": "56",
+                    "author": "Tomovic",
+                    "year": "1999",
+                    "journal-title": "Vojnosanitetski Pregled"
+                },
+                {
+                    "issue": "8698",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0010|cit10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1114",
+                    "DOI": "10.1016/0140-6736(90)91123-R",
+                    "article-title": "Gabapentin in partial epilepsy",
+                    "volume": "335",
+                    "author": "UK Gabapentin Study Group",
+                    "year": "1990",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0011|cit11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2292",
+                    "DOI": "10.1212/WNL.43.11.2292",
+                    "article-title": "Gabapentin as add-on therapy in refractory partial epilepsy: a double-blind, placebo-controlled, parallel-group study",
+                    "volume": "43",
+                    "author": "US Gabapentin Study Group No 5",
+                    "year": "1993",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0012|cit12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "507",
+                    "DOI": "10.1111/j.1440-1819.2006.01553.x",
+                    "article-title": "Treatment of partial seizures with gabapentin: double-blind, placebo-controlled, parallel-group study",
+                    "volume": "60",
+                    "author": "Yamauchi",
+                    "year": "2006",
+                    "journal-title": "Psychiatry and Clinical Neurosciences"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0013|cit13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "273",
+                    "DOI": "10.1007/s40263-013-0048-z",
+                    "article-title": "Pharmacotherapy of focal epilepsy in children: a systematic review of approved agents",
+                    "volume": "27",
+                    "author": "Arya",
+                    "year": "2013",
+                    "journal-title": "CNS Drugs"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0014|cit14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "649",
+                    "DOI": "10.1111/bcp.12083",
+                    "article-title": "Comparative efficacy and tolerability of anti-epileptic drugs for refractory focal epilepsy: systematic review and network meta-analysis reveals the need for long term comparator trials",
+                    "volume": "76",
+                    "author": "Bodalia",
+                    "year": "2013",
+                    "journal-title": "British Journal of Clinical Pharmacology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0015|cit15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "61",
+                    "DOI": "10.1093/ajhp/52.1.61",
+                    "article-title": "Gabapentin and lamotrigine: novel antiepileptic drugs",
+                    "volume": "52",
+                    "author": "Btaiche",
+                    "year": "1995",
+                    "journal-title": "American Journal of Health-system Pharmacy"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0016|cit16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "682",
+                    "DOI": "10.1136/jnnp.50.6.682",
+                    "article-title": "Gabapentin as an antiepileptic drug in man",
+                    "volume": "50",
+                    "author": "Crawford",
+                    "year": "1987",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0017|cit17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "460",
+                    "DOI": "10.1111/epi.12913",
+                    "article-title": "Quality-of-life outcomes of initiating treatment with standard and newer antiepileptic drugs in adults with new-onset epilepsy: findings from the SANAD trial",
+                    "volume": "56",
+                    "author": "Jacoby",
+                    "year": "2015",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0018|cit18",
+                    "first-page": "19",
+                    "article-title": "Comparative clinical trial of gabapentin and sodium valproate as add-on therapy in refractory partial epilepsies: open randomized multicenter trial",
+                    "volume": "4",
+                    "author": "Korean Gabapentin Study Group",
+                    "year": "2000",
+                    "journal-title": "Journal of Korean Epilepsy Society"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0019|cit19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "194",
+                    "DOI": "10.1016/j.braindev.2013.04.006",
+                    "article-title": "The efficacy of gabapentin in children of partial seizures and the blood levels",
+                    "volume": "36",
+                    "author": "Nonoda",
+                    "year": "2014",
+                    "journal-title": "Brain & Development"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0020|cit20",
+                    "first-page": "931",
+                    "article-title": "New antiepileptic drugs: characteristics and clinical applications",
+                    "volume": "72",
+                    "author": "Ohtsuka",
+                    "year": "2014",
+                    "journal-title": "Japanese Journal of Clinical Medicine"
+                },
+                {
+                    "issue": "6 Suppl 5",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0021|cit21",
+                    "first-page": "S23",
+                    "article-title": "Clinical efficacy and safety of gabapentin",
+                    "volume": "44",
+                    "author": "Ramsay",
+                    "year": "1994",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0022|cit22",
+                    "first-page": "580",
+                    "article-title": "Recommendations for the treatment of partial epilepsies with gabapentin A - a consensus",
+                    "volume": "20",
+                    "author": "Schmidt",
+                    "year": "2001",
+                    "journal-title": "Nervenheilkunde"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0023|cit23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "165",
+                    "DOI": "10.1684/epd.2014.0650",
+                    "article-title": "Early add-on treatment vs alternative monotherapy in patients with partial epilepsy",
+                    "volume": "16",
+                    "author": "Semah",
+                    "year": "2014",
+                    "journal-title": "Epileptic Disorders"
+                },
+                {
+                    "issue": "Suppl Florence",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0024|cit24",
+                    "first-page": "69",
+                    "article-title": "A double blind study of gabapentin in partial seizures",
+                    "volume": "41",
+                    "author": "Kwan",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 7",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0025|cit25",
+                    "first-page": "106, Abstract n",
+                    "article-title": "Gabapentin as add-on therapy for refractory partial seizures in children 1-36 months of age: a novel, short-term, placebo-controlled trial",
+                    "volume": "41",
+                    "author": "Shapiro",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0026|cit26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "295",
+                    "DOI": "10.1007/978-94-017-8914-1_24",
+                    "article-title": "What are the arguments for and against rational therapy for epilepsy?",
+                    "volume": "813",
+                    "author": "Barker-Haliski",
+                    "year": "2014",
+                    "journal-title": "Advances in Experimental Medicine and Biology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0027|cit27",
+                    "unstructured": "British National Formulary www.bnf.org/"
+                },
+                {
+                    "issue": "8968",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0028|cit28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "140",
+                    "DOI": "10.1016/S0140-6736(95)91208-8",
+                    "article-title": "Remission of epilepsy: results from the National General Practice Study of Epilepsy",
+                    "volume": "346",
+                    "author": "Cockerell",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0029|cit29",
+                    "unstructured": "McMaster University (developed by Evidence Prime) GRADEpro GDT"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0030|cit30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "453",
+                    "DOI": "10.1111/j.1528-1157.1993.tb02586.x",
+                    "article-title": "Incidence of epilepsy and unprovoked seizures in Rochester, Minnesota: 1935-1984",
+                    "volume": "34",
+                    "author": "Hauser",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0031|cit31",
+                    "unstructured": "Higgins JP Green S Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from training.cochrane.org/handbook/archive/v5.1"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0032|cit32",
+                    "unstructured": "Higgins JP Thomas J Chandler J Cumpston M Li T Page MJ Cochrane Handbook for Systematic Reviews of Interventions version 6.1 (updated September 2020). Cochrane, 2020 Available from www.training.cochrane.org/handbook",
+                    "DOI": "10.1002/9781119536604",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0033|cit33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "c365",
+                    "DOI": "10.1136/bmj.c365",
+                    "article-title": "The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews",
+                    "volume": "340",
+                    "author": "Kirkham",
+                    "year": "2010",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0034|cit34",
+                    "unstructured": "Lefebvre C Glanville J Briscoe S Littlewood A Marshall C Technical Supplement to Chapter 4: Searching for and selecting studies. In: Higgins JP, Thomas J, Chandler J, Cumpston MS, Li T, Page MJ, et al (eds). Cochrane Handbook for Systematic Reviews of Interventions Version 6.1 (updated September 2020). Cochrane, 2020 Available from www.training.cochrane.org/handbook"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0035|cit35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "113",
+                    "DOI": "10.1016/S0165-6147(00)01974-X",
+                    "article-title": "Current status and future directions in the pharmacotherapy of epilepsy",
+                    "volume": "23",
+                    "author": "Loscher",
+                    "year": "2002",
+                    "journal-title": "Trends in Pharmacological Sciences"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0036|cit36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S73",
+                    "DOI": "10.1111/j.1528-1157.1995.tb06001.x",
+                    "article-title": "Gabapentin",
+                    "volume": "36",
+                    "author": "McClean",
+                    "year": "1995",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0037|cit37",
+                    "author": "McCullagh",
+                    "year": "1989",
+                    "volume-title": "Generalized Linear Models",
+                    "DOI": "10.1007/978-1-4899-3242-6",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0038|cit38",
+                    "author": "Panebianco",
+                    "issue": "4",
+                    "year": "2015",
+                    "article-title": "Vagus nerve stimulation for partial seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD002896.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0039|cit39",
+                    "unstructured": "Nordic Cochrane Centre, The Cochrane Collaboration Review Manager 5 (RevMan 5) 2014"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0040|cit40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "475",
+                    "DOI": "10.1111/j.1528-1157.1981.tb06158.x",
+                    "article-title": "Phenytoin monotherapy for epilepsy: a long term prospective study, assisted by serum level monitoring, in previously untreated patients",
+                    "volume": "22",
+                    "author": "Reynolds",
+                    "year": "1981",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0041|cit41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "512",
+                    "DOI": "10.1111/epi.13709",
+                    "article-title": "ILAE classification of the epilepsies: position paper of the ILAE Commission for Classification and Terminology",
+                    "volume": "58",
+                    "author": "Scheffer",
+                    "year": "2017",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0042|cit42",
+                    "unstructured": "Sch\u00fcnemann H Bro\u017cek J Guyatt G Oxman A Handbook for grading the quality of evidence and the strength of recommendations using the GRADE approach (updated October 2013). GRADE Working Group, 2013 Available from gdt.guidelinedevelopment.org/app/handbook/handbook.html"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0043|cit43",
+                    "author": "West",
+                    "issue": "6",
+                    "year": "2019",
+                    "article-title": "Surgery for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD010541.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0044|cit44",
+                    "author": "Al-Bachari",
+                    "issue": "7",
+                    "year": "2013",
+                    "article-title": "Gabapentin add-on for drug-resistant partial epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001415.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0045|cit45",
+                    "author": "Marson",
+                    "issue": "1",
+                    "year": "1999",
+                    "article-title": "Gabapentin add-on for drug-resistant partial epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001415",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001415.pub4-BIB0046|cit46",
+                    "author": "Panebianco",
+                    "issue": "10",
+                    "year": "2018",
+                    "article-title": "Gabapentin add-on treatment for drug-resistant focal epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001415.pub3",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        9
+                    ]
+                ],
+                "date-time": "2021-03-09T18:17:05Z",
+                "timestamp": 1615313825000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        12
+                    ]
+                ]
+            },
+            "references-count": 46,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD001415.pub4",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "33434292",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "02",
+                    "Day": "05"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "14"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "01",
+                            "Day": "12"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD001415.pub4"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "1",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "01",
+                                "Day": "12"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Gabapentin add-on treatment for drug-resistant focal epilepsy.",
+                    "Pagination": {
+                        "MedlinePgn": "CD001415"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "This is an updated version of the Cochrane Review previously published in 2018. Epilepsy is a common neurological disorder characterised by recurrent seizures. Most people with epilepsy have a good prognosis and their seizures are well controlled by a single antiepileptic drug, but up to 30% develop drug-resistant epilepsy, especially people with focal seizures. In this review, we summarised the evidence from randomised controlled trials (RCTs) of gabapentin, when used as an add-on treatment for drug-resistant focal epilepsy.",
+                            "To evaluate the efficacy and tolerability of gabapentin when used as an add-on treatment for people with drug-resistant focal epilepsy.",
+                            "For the latest update, we searched the Cochrane Register of Studies (CRS Web) and MEDLINE (Ovid) on 11 August 2020. CRS Web includes randomised or quasi-randomised, controlled trials from PubMed, Embase, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform (ICTRP), the Cochrane Central Register of Controlled Trials (CENTRAL), and the Specialised Registers of Cochrane Review Groups including Epilepsy. We imposed no language restrictions.",
+                            "Randomised, placebo-controlled, double-blind, add-on trials of gabapentin in people with drug-resistant focal epilepsy. We also included trials using an active drug control group or comparing different doses of gabapentin.",
+                            "Two review authors independently selected trials for inclusion and extracted the relevant data. We assessed the following outcomes: seizure frequency, seizure freedom, treatment withdrawal (any reason) and adverse effects. Primary analyses were intention-to-treat. We also undertook sensitivity best-case and worst-case analyses. We estimated summary risk ratios (RR) for each outcome and evaluated dose-response in regression models.",
+                            "We identified no new studies for this update, therefore, the results and conclusions are unchanged. In the previous update of this review, we combined data from six trials in meta-analyses of 1206 randomised participants. The overall risk ratio (RR) for reduction in seizure frequency of 50% or more compared to placebo was 1.89 (95% confidence interval (CI) 1.40 to 2.55; 6 studies, 1206 participants; moderate-certainty evidence). Dose regression analysis (for trials in adults) showed increasing efficacy with increasing dose, with 25.3% (95% CI 19.3 to 32.3) of people responding to gabapentin 1800 mg compared to 9.7% on placebo, a 15.5% increase in response rate (95% CI 8.5 to 22.5). The RR for treatment withdrawal compared to placebo was 1.05 (95% CI 0.74 to 1.49; 6 trials, 1206 participants; moderate-certainty evidence). Adverse effects were significantly associated with gabapentin compared to placebo. RRs were as follows: ataxia 2.01 (99% CI 0.98 to 4.11; 3 studies, 787 participants; low-certainty evidence), dizziness 2.43 (99% CI 1.44 to 4.12; 6 studies, 1206 participants; moderate-certainty evidence), fatigue 1.95 (99% CI 0.99 to 3.82; 5 studies, 1161 participants; low-certainty evidence) and somnolence 1.93 (99% CI 1.22 to 3.06; 6 studies, 1206 participants; moderate-certainty evidence). There was no evidence of a difference for the adverse effects of headache (RR 0.79, 99% CI 0.46 to 1.35; 6 studies, 1206 participants; moderate-certainty evidence) or nausea (RR 0.95, 99% CI 0.52 to 1.73; 4 trials, 1034 participants; moderate-certainty evidence). Overall, the studies were at low to unclear risk of bias due to information on each risk of bias domain not being available. We judged the overall certainty of the evidence (using the GRADE approach) as low to moderate due to potential attrition bias resulting from missing outcome data and imprecise results with wide CIs.",
+                            "Gabapentin has efficacy as an add-on treatment in people with drug-resistant focal epilepsy, and seems to be fairly well-tolerated. However, the trials reviewed were of relatively short duration and provide no evidence for the long-term efficacy of gabapentin beyond a three-month period. The results cannot be extrapolated to monotherapy or to people with other epilepsy types. Further trials are needed to assess the long-term effects of gabapentin, and to compare gabapentin with other add-on drugs."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2021 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Panebianco",
+                            "ForeName": "Mariangela",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Neurology, Royal Preston Hospital, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Al-Bachari",
+                            "ForeName": "Sarah",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Statistics, University of Warwick, Coventry, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hutton",
+                            "ForeName": "Jane L",
+                            "Initials": "JL"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Walton Centre NHS Foundation Trust, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Health Partners, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "16/114/26",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Research Support, Non-U.S. Gov't",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Cyclohexanecarboxylic Acids"
+                    },
+                    {
+                        "RegistryNumber": "56-12-2",
+                        "NameOfSubstance": "gamma-Aminobutyric Acid"
+                    },
+                    {
+                        "RegistryNumber": "6CW7F3G59X",
+                        "NameOfSubstance": "Gabapentin"
+                    }
+                ],
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2018 Oct 24;10:CD001415",
+                        "PMID": "30357813"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "administration & dosage",
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Cyclohexanecarboxylic Acids",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Drug Resistant Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Drug Therapy, Combination",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsies, Partial",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "administration & dosage",
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Gabapentin",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Intention to Treat Analysis",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Patient Dropouts",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "gamma-Aminobutyric Acid",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Epilepsia. 2000 Oct;41(10):1289-95",
+                                "ArticleIdList": [
+                                    "11051124"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1981 Aug;22(4):475-88",
+                                "ArticleIdList": [
+                                    "6790274"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2019 Jun 25;6:CD010541",
+                                "ArticleIdList": [
+                                    "31237346"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2015 Mar;56(3):460-72",
+                                "ArticleIdList": [
+                                    "25630353"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1991 Jul-Aug;32(4):539-42",
+                                "ArticleIdList": [
+                                    "1907907"
+                                ]
+                            },
+                            {
+                                "Citation": "Vojnosanit Pregl. 1999 Mar-Apr;56(2):151-6",
+                                "ArticleIdList": [
+                                    "10437420"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1994 Jul-Aug;35(4):795-801",
+                                "ArticleIdList": [
+                                    "8082624"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2013 Jul 25;(7):CD001415",
+                                "ArticleIdList": [
+                                    "23888424"
+                                ]
+                            },
+                            {
+                                "Citation": "Epileptic Disord. 2014 Jun;16(2):165-74",
+                                "ArticleIdList": [
+                                    "24776953"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2018 Oct 24;10:CD001415",
+                                "ArticleIdList": [
+                                    "30357813"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1993 Nov;43(11):2292-8",
+                                "ArticleIdList": [
+                                    "8232945"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1993 May-Jun;34(3):453-68",
+                                "ArticleIdList": [
+                                    "8504780"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1997 Apr;62(4):372-6",
+                                "ArticleIdList": [
+                                    "9120451"
+                                ]
+                            },
+                            {
+                                "Citation": "Adv Exp Med Biol. 2014;813:295-308",
+                                "ArticleIdList": [
+                                    "25012386"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1990 May 12;335(8698):1114-7",
+                                "ArticleIdList": [
+                                    "1971862"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1994 Jun;44(6 Suppl 5):S23-30; discussion S31-2",
+                                "ArticleIdList": [
+                                    "8022537"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2000;(3):CD001415",
+                                "ArticleIdList": [
+                                    "10908495"
+                                ]
+                            },
+                            {
+                                "Citation": "Nihon Rinsho. 2014 May;72(5):931-8",
+                                "ArticleIdList": [
+                                    "24912297"
+                                ]
+                            },
+                            {
+                                "Citation": "Trends Pharmacol Sci. 2002 Mar;23(3):113-8",
+                                "ArticleIdList": [
+                                    "11879677"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2001 Mar 27;56(6):743-8",
+                                "ArticleIdList": [
+                                    "11274308"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2017 Apr;58(4):512-521",
+                                "ArticleIdList": [
+                                    "28276062"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychiatry Clin Neurosci. 2006 Aug;60(4):507-15",
+                                "ArticleIdList": [
+                                    "16884455"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Feb 15;340:c365",
+                                "ArticleIdList": [
+                                    "20156912"
+                                ]
+                            },
+                            {
+                                "Citation": "CNS Drugs. 2013 Apr;27(4):273-86",
+                                "ArticleIdList": [
+                                    "23515971"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurol India. 2002 Sep;50(3):359-63",
+                                "ArticleIdList": [
+                                    "12391470"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1995;36 Suppl 2:S73-86",
+                                "ArticleIdList": [
+                                    "8784216"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Health Syst Pharm. 1995 Jan 1;52(1):61-9",
+                                "ArticleIdList": [
+                                    "12879525"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Clin Pharmacol. 2013 Nov;76(5):649-67",
+                                "ArticleIdList": [
+                                    "23351090"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2016 Sep 20;87(12):1242-9",
+                                "ArticleIdList": [
+                                    "27521437"
+                                ]
+                            },
+                            {
+                                "Citation": "Brain Dev. 2014 Mar;36(3):194-202",
+                                "ArticleIdList": [
+                                    "23647918"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1995 Jul 15;346(8968):140-4",
+                                "ArticleIdList": [
+                                    "7603228"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1987 Jun;50(6):682-6",
+                                "ArticleIdList": [
+                                    "3302110"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1999 Aug;40(8):1147-54",
+                                "ArticleIdList": [
+                                    "10448830"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Apr 03;(4):CD002896",
+                                "ArticleIdList": [
+                                    "25835947"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2022",
+                        "Month": "01",
+                        "Day": "12"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "1",
+                        "Day": "12",
+                        "Hour": "17",
+                        "Minute": "31"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "1",
+                        "Day": "13",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "2",
+                        "Day": "7",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "33434292",
+                    "10.1002/14651858.CD001415.pub4",
+                    "PMC8094401"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33434292)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833434292%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833434292%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099892577"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099892577?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099892577&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099892577&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099892577",
+                        "dc:identifier": "SCOPUS_ID:85099892577",
+                        "eid": "2-s2.0-85099892577",
+                        "dc:title": "Gabapentin add-on treatment for drug-resistant focal epilepsy",
+                        "dc:creator": "Panebianco M.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:issn": "14651858",
+                        "prism:volume": "2021",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-01-12",
+                        "prism:coverDisplayDate": "12 January 2021",
+                        "prism:doi": "10.1002/14651858.CD001415.pub4",
+                        "citedby-count": "2",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33434292",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD001415",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "6UDH488D.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33434292"
+            }
+        },
+        "title": "Gabapentin add-on treatment for drug-resistant focal epilepsy.",
+        "full_author_list": [
+            {
+                "clean": "Panebianco M",
+                "family": "Panebianco",
+                "given": "Mariangela",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Al-Bachari S",
+                "family": "Al-Bachari",
+                "given": "Sarah",
+                "affiliation": {
+                    "name": "Department of Neurology, Royal Preston Hospital, Preston, UK."
+                }
+            },
+            {
+                "clean": "Hutton J",
+                "family": "Hutton",
+                "given": "Jane L",
+                "affiliation": {
+                    "name": "Department of Statistics, University of Warwick, Coventry, UK."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Panebianco M",
+        "zotero_tags": [
+            {
+                "tag": "PCCC"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Child",
+                    "major": "N"
+                },
+                {
+                    "term": "Cyclohexanecarboxylic Acids",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Resistant Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Therapy, Combination",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsies, Partial",
+                    "major": "N"
+                },
+                {
+                    "term": "Gabapentin",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Intention to Treat Analysis",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient Dropouts",
+                    "major": "N"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "gamma-Aminobutyric Acid",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "1",
+            "issue": ""
+        },
+        "abstract": "['This is an updated version of the Cochrane Review previously published in 2018. Epilepsy is a common neurological disorder characterised by recurrent seizures. Most people with epilepsy have a good prognosis and their seizures are well controlled by a single antiepileptic drug, but up to 30% develop drug-resistant epilepsy, especially people with focal seizures. In this review, we summarised the evidence from randomised controlled trials (RCTs) of gabapentin, when used as an add-on treatment for drug-resistant focal epilepsy.', 'To evaluate the efficacy and tolerability of gabapentin when used as an add-on treatment for people with drug-resistant focal epilepsy.', 'For the latest update, we searched the Cochrane Register of Studies (CRS Web) and MEDLINE (Ovid) on 11 August 2020. CRS Web includes randomised or quasi-randomised, controlled trials from PubMed, Embase, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform (ICTRP), the Cochrane Central Register of Controlled Trials (CENTRAL), and the Specialised Registers of Cochrane Review Groups including Epilepsy. We imposed no language restrictions.', 'Randomised, placebo-controlled, double-blind, add-on trials of gabapentin in people with drug-resistant focal epilepsy. We also included trials using an active drug control group or comparing different doses of gabapentin.', 'Two review authors independently selected trials for inclusion and extracted the relevant data. We assessed the following outcomes: seizure frequency, seizure freedom, treatment withdrawal (any reason) and adverse effects. Primary analyses were intention-to-treat. We also undertook sensitivity best-case and worst-case analyses. We estimated summary risk ratios (RR) for each outcome and evaluated dose-response in regression models.', 'We identified no new studies for this update, therefore, the results and conclusions are unchanged. In the previous update of this review, we combined data from six trials in meta-analyses of 1206 randomised participants. The overall risk ratio (RR) for reduction in seizure frequency of 50% or more compared to placebo was 1.89 (95% confidence interval (CI) 1.40 to 2.55; 6 studies, 1206 participants; moderate-certainty evidence). Dose regression analysis (for trials in adults) showed increasing efficacy with increasing dose, with 25.3% (95% CI 19.3 to 32.3) of people responding to gabapentin 1800 mg compared to 9.7% on placebo, a 15.5% increase in response rate (95% CI 8.5 to 22.5). The RR for treatment withdrawal compared to placebo was 1.05 (95% CI 0.74 to 1.49; 6 trials, 1206 participants; moderate-certainty evidence). Adverse effects were significantly associated with gabapentin compared to placebo. RRs were as follows: ataxia 2.01 (99% CI 0.98 to 4.11; 3 studies, 787 participants; low-certainty evidence), dizziness 2.43 (99% CI 1.44 to 4.12; 6 studies, 1206 participants; moderate-certainty evidence), fatigue 1.95 (99% CI 0.99 to 3.82; 5 studies, 1161 participants; low-certainty evidence) and somnolence 1.93 (99% CI 1.22 to 3.06; 6 studies, 1206 participants; moderate-certainty evidence). There was no evidence of a difference for the adverse effects of headache (RR 0.79, 99% CI 0.46 to 1.35; 6 studies, 1206 participants; moderate-certainty evidence) or nausea (RR 0.95, 99% CI 0.52 to 1.73; 4 trials, 1034 participants; moderate-certainty evidence). Overall, the studies were at low to unclear risk of bias due to information on each risk of bias domain not being available. We judged the overall certainty of the evidence (using the GRADE approach) as low to moderate due to potential attrition bias resulting from missing outcome data and imprecise results with wide CIs.', 'Gabapentin has efficacy as an add-on treatment in people with drug-resistant focal epilepsy, and seems to be fairly well-tolerated. However, the trials reviewed were of relatively short duration and provide no evidence for the long-term efficacy of gabapentin beyond a three-month period. The results cannot be extrapolated to monotherapy or to people with other epilepsy types. Further trials are needed to assess the long-term effects of gabapentin, and to compare gabapentin with other add-on drugs.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "2"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

@@ -1,0 +1,1399 @@
+{
+    "IDs": {
+        "zotero": "JE5VZUKU",
+        "DOI": "10.1186/s40900-021-00289-8",
+        "DOI_filename": "3e985189975d625d218c7bb40174bd39",
+        "PMID": "34187590",
+        "scopus": "2-s2.0-85108895576",
+        "hash": "eb0ce00dd00feda1d8ae5d813da0e24b"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "JE5VZUKU",
+            "version": 1001,
+            "itemType": "journalArticle",
+            "title": "The value of involving patients and public in health services research and evaluation: a qualitative study",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Pooja",
+                    "lastName": "Saini"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Shaima M.",
+                    "lastName": "Hassan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Esmaeil Khedmati",
+                    "lastName": "Morasae"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Goodall"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Saiqa",
+                    "lastName": "Ahmed"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anna",
+                    "lastName": "Pearson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lesley M.",
+                    "lastName": "Harper"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jane",
+                    "lastName": "Cloke"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jenny",
+                    "lastName": "Irvine"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              Public and Patient Involvement, Engagement and Participation research encompasses working with patients/service users (people with a medical condition receiving health service treatment), public members, caregivers and communities (who use services or care for patients). The Partner Priority Programme (PPP) was developed by the National Health Service [NHS] and National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care [NIHR CLAHRC] NWC to share information and experience on evaluating new services being offered to patients that were seeking to reduce health inequalities, improve people\u2019s health and wellbeing and reduce emergency hospital admissions. This paper seeks to explore an approach developed for involving the public as equal partners within the evaluation and decision-making processes of health and social care services research. The aim of this study was to identify how public advisors were included, the impact of their involvement, and how change occurred within the organisations following their involvement.\n            \n            \n              Methods\n              \n                A qualitative approach using focus group discussions was adopted to explore the experiences of two cohorts of participants involved in PPP project teams. Focus groups were held with public advisors (\n                n\n                \u2009=\u20099), interns (n\u2009=\u20099; staff or public who received a funded internship for a PPP project), NHS and Local Authority initiative leads (\n                n\n                \u2009=\u200910), and academic facilitators (\n                n\n                \u2009=\u200914). These were transcribed verbatim and analysed using a thematic approach.\n              \n            \n            \n              Results\n              \n                Thirty-two public advisors were recruited to support 25 PPP projects across the Collaboration for Leadership in Applied Health Research and CLAHRC North West Coast [NWC] partner organisations. Three inter-related themes were conceptualised: 1)\n                \u201cWhere it all started - involving public advisors\u201d\n                identified the varying journeys to recruitment and experiences of becoming a public advisor; 2)\n                \u201cSteps toward active involvement and engagement\u201d\n                related to public advisors becoming core team members; and 3)\n                \u201cCollaborative working to enhance public and patient involvement\u201d\n                relayed how projects identified the benefits of working jointly with the public advisors, particularly for those who had not experienced this style of working before.\n              \n            \n            \n              Conclusions\n              The findings indicate that the PPP model is effective for embedding Public and Patient Involvement [PPI] within health services research, and recommends that PPI is integrated at the earliest opportunity within research projects and service evaluations through the use of support-led and facilitative programmes.",
+            "publicationTitle": "Research Involvement and Engagement",
+            "volume": "7",
+            "issue": "1",
+            "pages": "49",
+            "date": "12/2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Res Involv Engagem",
+            "language": "en",
+            "DOI": "10.1186/s40900-021-00289-8",
+            "ISSN": "2056-7529",
+            "shortTitle": "The value of involving patients and public in health services research and evaluation",
+            "url": "https://researchinvolvement.biomedcentral.com/articles/10.1186/s40900-021-00289-8",
+            "accessDate": "2021-07-23T16:46:15Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:34187590",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:36Z",
+            "dateModified": "2021-07-27T12:13:10Z",
+            "pmid": "34187590"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        29
+                    ]
+                ],
+                "date-time": "2021-06-29T12:45:11Z",
+                "timestamp": 1624970711252
+            },
+            "reference-count": 34,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                6,
+                                29
+                            ]
+                        ],
+                        "date-time": "2021-06-29T00:00:00Z",
+                        "timestamp": 1624924800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                6,
+                                29
+                            ]
+                        ],
+                        "date-time": "2021-06-29T00:00:00Z",
+                        "timestamp": 1624924800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Public and Patient Involvement, Engagement and Participation research encompasses working with patients/service users (people with a medical condition receiving health service treatment), public members, caregivers and communities (who use services or care for patients). The Partner Priority Programme (PPP) was developed by the National Health Service [NHS] and National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care [NIHR CLAHRC] NWC to share information and experience on evaluating new services being offered to patients that were seeking to reduce health inequalities, improve people\u2019s health and wellbeing and reduce emergency hospital admissions. This paper seeks to explore an approach developed for involving the public as equal partners within the evaluation and decision-making processes of health and social care services research. The aim of this study was to identify how public advisors were included, the impact of their involvement, and how change occurred within the organisations following their involvement.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>A qualitative approach using focus group discussions was adopted to explore the experiences of two cohorts of participants involved in PPP project teams. Focus groups were held with public advisors (<jats:italic>n</jats:italic>\u2009=\u20099), interns (n\u2009=\u20099; staff or public who received a funded internship for a PPP project), NHS and Local Authority initiative leads (<jats:italic>n</jats:italic>\u2009=\u200910), and academic facilitators (<jats:italic>n</jats:italic>\u2009=\u200914). These were transcribed verbatim and analysed using a thematic approach.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>Thirty-two public advisors were recruited to support 25 PPP projects across the Collaboration for Leadership in Applied Health Research and CLAHRC North West Coast [NWC] partner organisations. Three inter-related themes were conceptualised: 1)<jats:italic>\u201cWhere it all started - involving public advisors\u201d</jats:italic> identified the varying journeys to recruitment and experiences of becoming a public advisor; 2)<jats:italic>\u201cSteps toward active involvement and engagement\u201d</jats:italic> related to public advisors becoming core team members; and 3) <jats:italic>\u201cCollaborative working to enhance public and patient involvement\u201d</jats:italic> relayed how projects identified the benefits of working jointly with the public advisors, particularly for those who had not experienced this style of working before.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>The findings indicate that the PPP model is effective for embedding Public and Patient Involvement [PPI] within health services research, and recommends that PPI is integrated at the earliest opportunity within research projects and service evaluations through the use of support-led and facilitative programmes.</jats:p>\n              </jats:sec>",
+            "DOI": "10.1186/s40900-021-00289-8",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        29
+                    ]
+                ],
+                "date-time": "2021-06-29T12:02:42Z",
+                "timestamp": 1624968162000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "The value of involving patients and public in health services research and evaluation: a qualitative study",
+            "prefix": "10.1186",
+            "volume": "7",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-4981-7914",
+                    "authenticated-orcid": false,
+                    "given": "Pooja",
+                    "family": "Saini",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Shaima M.",
+                    "family": "Hassan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Esmaeil Khedmati",
+                    "family": "Morasae",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Goodall",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Saiqa",
+                    "family": "Ahmed",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Anna",
+                    "family": "Pearson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Lesley M.",
+                    "family": "Harper",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jane",
+                    "family": "Cloke",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jenny",
+                    "family": "Irvine",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        29
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "289_CR1",
+                    "author": "R Francis",
+                    "year": "2013",
+                    "unstructured": "Francis R. Report of the mid Staffordshire NHS Foundation trust public inquiry. London: The Stationery office; 2013.",
+                    "volume-title": "Report of the mid Staffordshire NHS Foundation trust public inquiry"
+                },
+                {
+                    "key": "289_CR2",
+                    "author": "INVOLVE",
+                    "year": "2015",
+                    "unstructured": "INVOLVE. Public involvement in research: values and principles framework. Eastleigh: INVOLVE; 2015.",
+                    "volume-title": "Public involvement in research: values and principles framework"
+                },
+                {
+                    "key": "289_CR3",
+                    "unstructured": "Whitehead M. Due north: the report of the inquiry on health equity for the north. Liverpool: University of Liverpool and Centre for Local Economic Strategies; 2014."
+                },
+                {
+                    "issue": "11",
+                    "key": "289_CR4",
+                    "first-page": "91",
+                    "volume": "5",
+                    "author": "J Boote",
+                    "year": "2011",
+                    "unstructured": "Boote J, Baird W, Sutton A. Public involvement in the design and conduct of clinical trials: a review. Int J Interdisc Soc Sci. 2011;5(11):91\u2013111.",
+                    "journal-title": "Int J Interdisc Soc Sci"
+                },
+                {
+                    "issue": "2",
+                    "key": "289_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "298",
+                    "DOI": "10.1016/j.ijnurstu.2006.09.010",
+                    "volume": "45",
+                    "author": "E Smith",
+                    "year": "2008",
+                    "unstructured": "Smith E, Ross F, Donovan S, Manthorpe J, Brearley S, Sitzia J, et al. Service user involvement in nursing, midwifery and health visiting research: a review of evidence and practice. Int J Nurs Stud. 2008;45(2):298\u2013315. https://doi.org/10.1016/j.ijnurstu.2006.09.010.",
+                    "journal-title": "Int J Nurs Stud"
+                },
+                {
+                    "key": "289_CR6",
+                    "author": "The National Institute for Health Research [NIHR]",
+                    "year": "2015",
+                    "unstructured": "The National Institute for Health Research [NIHR]. Going the extra mile: improving the Nation\u2019s health and wellbeing through public involvement in research. England: Department of Health; 2015. https://www.nihr.ac.uk/documents/about-us/our-contribution-to-research/how-we-involve-patients-carers-and-the-public/Going-the-Extra-Mile.pdf",
+                    "volume-title": "Going the extra mile: improving the Nation\u2019s health and wellbeing through public involvement in research"
+                },
+                {
+                    "issue": "1",
+                    "key": "289_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "14",
+                    "DOI": "10.1186/s40900-019-0147-1",
+                    "volume": "5",
+                    "author": "K Staley",
+                    "year": "2019",
+                    "unstructured": "Staley K, Barron D. Learning as an outcome of involvement in research: what are the implications for practice, reporting and evaluation? Res Involv Engagem. 2019;5(1):14. https://doi.org/10.1186/s40900-019-0147-1.",
+                    "journal-title": "Res Involv Engagem"
+                },
+                {
+                    "key": "289_CR8",
+                    "unstructured": "Marston C, Renedo A. Understanding and measuring the eff ects of patient and public involvement: an ethnographic study - Meeting abstract. Lancet. 2013. https://doi.org/10.1016/S0140-6736(13)62494-0.",
+                    "DOI": "10.1016/S0140-6736(13)62494-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "289_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e022820",
+                    "DOI": "10.1136/bmjopen-2018-022820",
+                    "volume": "9",
+                    "author": "C Giebel",
+                    "year": "2019",
+                    "unstructured": "Giebel C, McIntyre JC, Daras K, Gabbay M, Downing J, Pirmohamed M, et al. What are the social predictors of accident and emergency attendance in disadvantaged neighbourhoods? Results from a cross-sectional household health survey in the north west of England. BMJ Open. 2019;9(1):e022820. https://doi.org/10.1136/bmjopen-2018-022820.",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "issue": "1",
+                    "key": "289_CR10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "7",
+                    "DOI": "10.1186/s40900-019-0141-7",
+                    "volume": "5",
+                    "author": "T Bell",
+                    "year": "2019",
+                    "unstructured": "Bell T, Vat LE, McGavin C, Keller M, Getchell L, Rychtera A, et al. Co-building a patient-oriented research curriculum in Canada. Res Involv Engagem. 2019;5(1):7. https://doi.org/10.1186/s40900-019-0141-7.",
+                    "journal-title": "Res Involv Engagem"
+                },
+                {
+                    "issue": "1",
+                    "key": "289_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1186/s40900-019-0140-8",
+                    "volume": "5",
+                    "author": "A Curwen",
+                    "year": "2019",
+                    "unstructured": "Curwen A, Fernandes J, Howison R, Binfield P, Rohricht F, Giacco D. Exploring experiences of people participation activities in a British national health service trust: a service user-led research project. Res Involv Engagem. 2019;5(1):1\u20139. https://doi.org/10.1186/s40900-019-0140-8.",
+                    "journal-title": "Res Involv Engagem"
+                },
+                {
+                    "issue": "1",
+                    "key": "289_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "10",
+                    "DOI": "10.1186/s40900-019-0144-4",
+                    "volume": "5",
+                    "author": "K Staley",
+                    "year": "2019",
+                    "unstructured": "Staley K, Cockcroft E, Shelly A, Liabo K. \u2018What can I do that will most help researchers?\u2019 A different approach to training the public at the start of their involvement in research. Res Involv Engagem. 2019;5(1):10. https://doi.org/10.1186/s40900-019-0144-4.",
+                    "journal-title": "Res Involv Engagem"
+                },
+                {
+                    "issue": "3",
+                    "key": "289_CR13",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "399",
+                    "DOI": "10.1016/j.healthpol.2014.04.014",
+                    "volume": "117",
+                    "author": "JH Parkes",
+                    "year": "2014",
+                    "unstructured": "Parkes JH, Pyer M, Wray P, Taylor J. Partners in projects: preparing for public involvement in health and social care research. Health Policy. 2014;117(3):399\u2013408. https://doi.org/10.1016/j.healthpol.2014.04.014.",
+                    "journal-title": "Health Policy"
+                },
+                {
+                    "issue": "1",
+                    "key": "289_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "32",
+                    "DOI": "10.1186/s40900-018-0116-0",
+                    "volume": "4",
+                    "author": "T McConnell",
+                    "year": "2018",
+                    "unstructured": "McConnell T, Best P, Davidson G, McEneaney T, Cantrell C, Tully M. Coproduction for feasibility and pilot randomised controlled trials: learning outcomes for community partners, service users and the research team. Res Involv Engagem. 2018;4(1):32. https://doi.org/10.1186/s40900-018-0116-0.",
+                    "journal-title": "Res Involv Engagem"
+                },
+                {
+                    "key": "289_CR15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "k4738",
+                    "DOI": "10.1136/bmj.k473830487232",
+                    "volume": "363",
+                    "author": "JC Crocker",
+                    "year": "2018",
+                    "unstructured": "Crocker JC, Ricci-Cabello I, Parker A, et al. Impact of patient and public involvement on enrolment and retention in clinical trials: systematic review and meta-analysis. BMJ. 2018;363:k4738. https://doi.org/10.1136/bmj.k473830487232.",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "8",
+                    "key": "289_CR16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "626",
+                    "DOI": "10.1136/bmjqs-2015-004839",
+                    "volume": "25",
+                    "author": "J Ocloo",
+                    "year": "2016",
+                    "unstructured": "Ocloo J, Matthews R. From tokenism to empowerment: progressing patient and public involvement in healthcare improvement. BMJ Qual Saf. 2016;25(8):626\u201332. https://doi.org/10.1136/bmjqs-2015-004839.",
+                    "journal-title": "BMJ Qual Saf"
+                },
+                {
+                    "issue": "10",
+                    "key": "289_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "858",
+                    "DOI": "10.1136/bmjqs-2017-006954",
+                    "volume": "27",
+                    "author": "KA Gray-Burrows",
+                    "year": "2018",
+                    "unstructured": "Gray-Burrows KA, Willis TA, Foy R, Rathfelder M, Bland P, Chin A, et al. Role of patient and public involvement in implementation research: a consensus study. BMJ Qual Saf. 2018;27(10):858\u201364. https://doi.org/10.1136/bmjqs-2017-006954.",
+                    "journal-title": "BMJ Qual Saf"
+                },
+                {
+                    "issue": "1",
+                    "key": "289_CR18",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "7",
+                    "DOI": "10.1186/s40900-016-0023-1",
+                    "volume": "2",
+                    "author": "H Morgan",
+                    "year": "2016",
+                    "unstructured": "Morgan H, Thomson G, Crossland N, Dykes F, Hoddinott P. Combining PPI with qualitative research to engage \u2018harder-to-reach\u2019 populations: service user groups as co-applicants on a platform study for a trial. Res Involv Engagem. 2016;2(1):7. https://doi.org/10.1186/s40900-016-0023-1.",
+                    "journal-title": "Res Involv Engagem"
+                },
+                {
+                    "issue": "6",
+                    "key": "289_CR19",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1200",
+                    "DOI": "10.1177/0038038517749781",
+                    "volume": "52",
+                    "author": "P Bissell",
+                    "year": "2018",
+                    "unstructured": "Bissell P, Thompson J, Gibson B. Exploring difference or just watching the experts at work? Interrogating patient and public involvement (PPI) in a Cancer research setting using the work of Jurgen Habermas. Sociology. 2018;52(6):1200\u201316. https://doi.org/10.1177/0038038517749781.",
+                    "journal-title": "Sociology"
+                },
+                {
+                    "issue": "3",
+                    "key": "289_CR20",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "330",
+                    "DOI": "10.1177/1356389019840058",
+                    "volume": "25",
+                    "author": "LM Harper",
+                    "year": "2019",
+                    "unstructured": "Harper LM, Dickson R. Using developmental evaluation principles to build capacity for knowledge mobilisation in health and social care. Evaluation. 2019;25(3):330\u201348. https://doi.org/10.1177/1356389019840058.",
+                    "journal-title": "Evaluation"
+                },
+                {
+                    "issue": "5",
+                    "key": "289_CR21",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e0215953",
+                    "DOI": "10.1371/journal.pone.0215953",
+                    "volume": "14",
+                    "author": "J Keenan",
+                    "year": "2019",
+                    "unstructured": "Keenan J, Poland F, Boote J, Howe A, Wythe H, Varley A, et al. \u2018We\u2019re passengers sailing in the same ship, but we save our own berths to sleep in\u2019: evaluating patient and public involvement within a regional research programme: an action research project informed by normalisation process theory. Plos One. 2019;14(5):e0215953. https://doi.org/10.1371/journal.pone.0215953.",
+                    "journal-title": "Plos One"
+                },
+                {
+                    "key": "289_CR22",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "k5147",
+                    "DOI": "10.1136/bmj.k5147",
+                    "volume": "363",
+                    "author": "A Boivin",
+                    "year": "2018",
+                    "unstructured": "Boivin A, Richards T, Forsythe L, Gr\u00e9goire A, L\u2019Esp\u00e9rance A, Abelson J, et al. Evaluating patient and public involvement in research. BMJ. 2018;363:k5147. https://doi.org/10.1136/bmj.k5147.",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "1",
+                    "key": "289_CR23",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "8",
+                    "DOI": "10.1186/s40900-019-0139-1",
+                    "volume": "5",
+                    "author": "D Banner",
+                    "year": "2019",
+                    "unstructured": "Banner D, Bains M, Carroll S, Kandola DK, Rolfe DE, Wong C, et al. Patient and public engagement in integrated knowledge translation research: are we there yet? Res Involv Engagem. 2019;5(1):8. https://doi.org/10.1186/s40900-019-0139-1.",
+                    "journal-title": "Res Involv Engagem"
+                },
+                {
+                    "issue": "1",
+                    "key": "289_CR24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "47",
+                    "DOI": "10.1186/s40900-018-0132-0",
+                    "volume": "4",
+                    "author": "C Kendall",
+                    "year": "2018",
+                    "unstructured": "Kendall C, Fitzgerald M, Kang RS, Wong ST, Katz A, Fortin M, et al. \u201cStill learning and evolving in our approaches\u201d: patient and stakeholder engagement among Canadian community-based primary health care researchers. Res Involv Engagem. 2018;4(1):47. https://doi.org/10.1186/s40900-018-0132-0.",
+                    "journal-title": "Res Involv Engagem"
+                },
+                {
+                    "key": "289_CR25",
+                    "unstructured": "NIHR CLAHRC NWC Partner priority Programme (2017-2018) http://www.clahrc-nwc.nihr.ac.uk/our-work/PartnerPriorityProgramme.php. Accessed 23 Apr 2020."
+                },
+                {
+                    "key": "289_CR26",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "63",
+                    "DOI": "10.1037/10096-003",
+                    "volume": "2",
+                    "author": "J Lave",
+                    "year": "1991",
+                    "unstructured": "Lave J. Situating learning in communities of practice. Perspect Soc Shared Cognition. 1991;2:63\u201382.",
+                    "journal-title": "Perspect Soc Shared Cognition"
+                },
+                {
+                    "key": "289_CR27",
+                    "author": "E Wenger",
+                    "year": "1998",
+                    "unstructured": "Wenger E. Communities of practice: learning, meaning and identity. Cambridge: Cambridge University Press; 1998. https://doi.org/10.1017/CBO9780511803932.",
+                    "volume-title": "Communities of practice: learning, meaning and identity",
+                    "DOI": "10.1017/CBO9780511803932",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "4",
+                    "key": "289_CR28",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "389",
+                    "DOI": "10.1177/0018726716661040",
+                    "volume": "70",
+                    "author": "I Pyrko",
+                    "year": "2017",
+                    "unstructured": "Pyrko I, D\u00f6rfler V, Eden C. Thinking together: what makes communities of practice work? Hum Relat. 2017;70(4):389\u2013409. https://doi.org/10.1177/0018726716661040.",
+                    "journal-title": "Hum Relat"
+                },
+                {
+                    "key": "289_CR29",
+                    "author": "MQ Patton",
+                    "year": "2011",
+                    "unstructured": "Patton MQ. Developmental evaluation applying complexity concepts to enhance innovation and use. New York: The Guilford Press; 2011.",
+                    "volume-title": "Developmental evaluation applying complexity concepts to enhance innovation and use"
+                },
+                {
+                    "issue": "4",
+                    "key": "289_CR30",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "910",
+                    "DOI": "10.1111/hex.13070",
+                    "volume": "23",
+                    "author": "F Ward",
+                    "year": "2020",
+                    "unstructured": "Ward F, Popay J, Porroche-Escudero A, Akeju D, Ahmed S, Cloke J, et al. Mainstreaming public involvement in a complex research collaboration: a theory-informed evaluation. Health Expect. 2020;23(4):910\u20138. https://doi.org/10.1111/hex.13070.",
+                    "journal-title": "Health Expect"
+                },
+                {
+                    "issue": "2",
+                    "key": "289_CR31",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "77",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "volume": "3",
+                    "author": "V Braun",
+                    "year": "2006",
+                    "unstructured": "Braun V, Clarke V. Using thematic analysis in psychology. Qual Res Psychol. 2006;3(2):77\u2013101. https://doi.org/10.1191/1478088706qp063oa.",
+                    "journal-title": "Qual Res Psychol"
+                },
+                {
+                    "key": "289_CR32",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "277",
+                    "DOI": "10.1177/1049732305285708",
+                    "volume": "16",
+                    "author": "T Farmer",
+                    "year": "2006",
+                    "unstructured": "Farmer T, Robinson K, Elliot SJ, Eyles J. Developing and implementing a triangulation protocol for qualitative health research. Qual Health Res. 2006;16:277\u201394.",
+                    "journal-title": "Qual Health Res"
+                },
+                {
+                    "key": "289_CR33",
+                    "author": "Health Inequalities Assessment Toolkit (HIAT)",
+                    "year": "2016",
+                    "unstructured": "Health Inequalities Assessment Toolkit (HIAT) 2016. NIHR Collaboration for Leadership in Applied Health Research and Care North West Coast. http://www.hiat.org.uk/",
+                    "volume-title": "NIHR Collaboration for Leadership in Applied Health Research and Care North West Coast"
+                },
+                {
+                    "issue": "2",
+                    "key": "289_CR34",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "216",
+                    "DOI": "10.1080/10508406.2014.883978",
+                    "volume": "23",
+                    "author": "J Eberle",
+                    "year": "2014",
+                    "unstructured": "Eberle J, Stegmann K, Fischer F. Legitimate peripheral participation in communities of practice: participation support structures for newcomers in faculty student councils. J Learn Sci. 2014;23(2):216\u201344. https://doi.org/10.1080/10508406.2014.883978.",
+                    "journal-title": "J Learn Sci"
+                }
+            ],
+            "container-title": "Research Involvement and Engagement",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://link.springer.com/content/pdf/10.1186/s40900-021-00289-8.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://link.springer.com/article/10.1186/s40900-021-00289-8/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://link.springer.com/content/pdf/10.1186/s40900-021-00289-8.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        29
+                    ]
+                ],
+                "date-time": "2021-06-29T12:14:15Z",
+                "timestamp": 1624968855000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        29
+                    ]
+                ]
+            },
+            "references-count": 34,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "289"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s40900-021-00289-8",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2056-7529"
+            ],
+            "container-title-short": "Res Involv Engagem",
+            "assertion": [
+                {
+                    "value": "2 May 2020",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "30 May 2021",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "29 June 2021",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Declarations"
+                    }
+                },
+                {
+                    "value": "The research was approved by the University of Liverpool Committee on Research Ethics (Reference number: 2236). RY, PS, LH, MGa, JCm MGo, JH, GG contributed to the ethics application.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "Participants provided informed consent before completing the study.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "The Authors declare no conflict of interest. The views expressed are those of the author(s) and not necessarily those of the NHS, the NIHR or the Department of Health and Social Care.",
+                    "order": 4,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "49"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [
+                    {
+                        "AbstractText": [
+                            "The purpose of involving the public and patients in research is to help them have a say in decisions about healthcare and enable patients or other people with relevant experience to contribute to how research is planned, carried out, and shared with a wider audience. The Partner Priority Programme (PPP) was developed by the National Health Service [NHS] and Local Authority partners to share information and experience on evaluating new services being offered to patients that were seeking to reduce health inequalities, improve people\u2019s health and wellbeing and reduce emergency hospital admissions. In this paper, we explore an approach we developed for involving public advisors (service users/patients, and caregivers) as equal partners within the evaluation and decision-making processes of health and social care services research. The aim of this study was to identify how public advisors were included, the impact of their involvement, and identify the changes organisations made as a result of public advisor involvement. Most projects had not included public advisors in their teams before and initially did not understand how to involve them. By attending scheduled meetings, they had time to learn how to engage with public advisors (and what methods to use to recruit them to be part of their teams). Participants also learned the benefits of including public advisors within their teams. With the help and support provided as part of the programme, public advisors seemed to grow in confidence and take part in teams as equal partners."
+                        ]
+                    }
+                ],
+                "KeywordList": [
+                    [
+                        "Capacity building",
+                        "Collaborative working",
+                        "Coproduction",
+                        "Participation",
+                        "Partnership",
+                        "Public and patient involvement"
+                    ]
+                ],
+                "OtherID": [],
+                "PMID": "34187590",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "07",
+                    "Day": "03"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "06",
+                            "Day": "29"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s40900-021-00289-8"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "2056-7529",
+                        "JournalIssue": {
+                            "Volume": "7",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "Jun",
+                                "Day": "29"
+                            }
+                        },
+                        "Title": "Research involvement and engagement",
+                        "ISOAbbreviation": "Res Involv Engagem"
+                    },
+                    "ArticleTitle": "The value of involving patients and public in health services research and evaluation: a qualitative study.",
+                    "Pagination": {
+                        "MedlinePgn": "49"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Public and Patient Involvement, Engagement and Participation research encompasses working with patients/service users (people with a medical condition receiving health service treatment), public members, caregivers and communities (who use services or care for patients). The Partner Priority Programme (PPP) was developed by the National Health Service [NHS] and National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care [NIHR CLAHRC] NWC to share information and experience on evaluating new services being offered to patients that were seeking to reduce health inequalities, improve people's health and wellbeing and reduce emergency hospital admissions. This paper seeks to explore an approach developed for involving the public as equal partners within the evaluation and decision-making processes of health and social care services research. The aim of this study was to identify how public advisors were included, the impact of their involvement, and how change occurred within the organisations following their involvement.",
+                            "A qualitative approach using focus group discussions was adopted to explore the experiences of two cohorts of participants involved in PPP project teams. Focus groups were held with public advisors (n\u2009=\u20099), interns (n\u2009=\u20099; staff or public who received a funded internship for a PPP project), NHS and Local Authority initiative leads (n\u2009=\u200910), and academic facilitators (n\u2009=\u200914). These were transcribed verbatim and analysed using a thematic approach.",
+                            "Thirty-two public advisors were recruited to support 25 PPP projects across the Collaboration for Leadership in Applied Health Research and CLAHRC North West Coast [NWC] partner organisations. Three inter-related themes were conceptualised: 1)\"Where it all started - involving public advisors\" identified the varying journeys to recruitment and experiences of becoming a public advisor; 2)\"Steps toward active involvement and engagement\" related to public advisors becoming core team members; and 3) \"Collaborative working to enhance public and patient involvement\" relayed how projects identified the benefits of working jointly with the public advisors, particularly for those who had not experienced this style of working before.",
+                            "The findings indicate that the PPP model is effective for embedding Public and Patient Involvement [PPI] within health services research, and recommends that PPI is integrated at the earliest opportunity within research projects and service evaluations through the use of support-led and facilitative programmes."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Psychology, Tom Reilly Building, Liverpool John Moores University, Liverpool, L3 3AF, UK. P.Saini@ljmu.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-4981-7914"
+                            ],
+                            "LastName": "Saini",
+                            "ForeName": "Pooja",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hassan",
+                            "ForeName": "Shaima M",
+                            "Initials": "SM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Exeter University Business School, Exeter, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Morasae",
+                            "ForeName": "Esmaeil Khedmati",
+                            "Initials": "EK"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Goodall",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "ARC NWC Public Advisor, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ahmed",
+                            "ForeName": "Saiqa",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "North West Boroughs Healthcare NHS Foundation Trust, Winwick, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pearson",
+                            "ForeName": "Anna",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Harper",
+                            "ForeName": "Lesley M",
+                            "Initials": "LM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cloke",
+                            "ForeName": "Jane",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lancaster University, NIHR CLAHRC NWC, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Irvine",
+                            "ForeName": "Jenny",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Res Involv Engagem",
+                    "NlmUniqueID": "101708164",
+                    "ISSNLinking": "2056-7529"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Res Involv Engagem. 2019 Feb 20;5:10",
+                                "ArticleIdList": [
+                                    "30828464"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2020 Aug;23(4):910-918",
+                                "ArticleIdList": [
+                                    "32430935"
+                                ]
+                            },
+                            {
+                                "Citation": "Res Involv Engagem. 2018 Dec 3;4:47",
+                                "ArticleIdList": [
+                                    "30524753"
+                                ]
+                            },
+                            {
+                                "Citation": "Res Involv Engagem. 2019 Mar 12;5:14",
+                                "ArticleIdList": [
+                                    "30915234"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Qual Saf. 2016 Aug;25(8):626-32",
+                                "ArticleIdList": [
+                                    "26993640"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2019 May 14;14(5):e0215953",
+                                "ArticleIdList": [
+                                    "31086394"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2018 Dec 6;363:k5147",
+                                "ArticleIdList": [
+                                    "30522999"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Policy. 2014 Sep;117(3):399-408",
+                                "ArticleIdList": [
+                                    "24907228"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2018 Nov 28;363:k4738",
+                                "ArticleIdList": [
+                                    "30487232"
+                                ]
+                            },
+                            {
+                                "Citation": "Res Involv Engagem. 2016 Mar 24;2:7",
+                                "ArticleIdList": [
+                                    "29062508"
+                                ]
+                            },
+                            {
+                                "Citation": "Hum Relat. 2017 Apr;70(4):389-409",
+                                "ArticleIdList": [
+                                    "28232754"
+                                ]
+                            },
+                            {
+                                "Citation": "Res Involv Engagem. 2019 Feb 11;5:7",
+                                "ArticleIdList": [
+                                    "30788148"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Qual Saf. 2018 Oct;27(10):858-864",
+                                "ArticleIdList": [
+                                    "29666310"
+                                ]
+                            },
+                            {
+                                "Citation": "Res Involv Engagem. 2019 Feb 12;5:8",
+                                "ArticleIdList": [
+                                    "30805202"
+                                ]
+                            },
+                            {
+                                "Citation": "Res Involv Engagem. 2018 Oct 8;4:32",
+                                "ArticleIdList": [
+                                    "30338129"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2019 Jan 6;9(1):e022820",
+                                "ArticleIdList": [
+                                    "30613026"
+                                ]
+                            },
+                            {
+                                "Citation": "Res Involv Engagem. 2019 Jan 28;5:5",
+                                "ArticleIdList": [
+                                    "30723548"
+                                ]
+                            },
+                            {
+                                "Citation": "Qual Health Res. 2006 Mar;16(3):377-94",
+                                "ArticleIdList": [
+                                    "16449687"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Nurs Stud. 2008 Feb;45(2):298-315",
+                                "ArticleIdList": [
+                                    "17161402"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "05",
+                        "Day": "02"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "05",
+                        "Day": "30"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "6",
+                        "Day": "30",
+                        "Hour": "5",
+                        "Minute": "44"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "7",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "7",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "1"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "34187590",
+                    "10.1186/s40900-021-00289-8",
+                    "10.1186/s40900-021-00289-8",
+                    "PMC8244227"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1186/s40900-021-00289-8)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1186%2Fs40900-021-00289-8%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1186%2Fs40900-021-00289-8%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108895576"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108895576?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108895576&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108895576&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108895576",
+                        "dc:identifier": "SCOPUS_ID:85108895576",
+                        "eid": "2-s2.0-85108895576",
+                        "dc:title": "The value of involving patients and public in health services research and evaluation: a qualitative study",
+                        "dc:creator": "Saini P.",
+                        "prism:publicationName": "Research Involvement and Engagement",
+                        "prism:eIssn": "20567529",
+                        "prism:volume": "7",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-12-01",
+                        "prism:coverDisplayDate": "December 2021",
+                        "prism:doi": "10.1186/s40900-021-00289-8",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Liverpool John Moores University",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "49",
+                        "source-id": "21100901580",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "JE5VZUKU.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "34187590"
+            }
+        },
+        "title": "The value of involving patients and public in health services research and evaluation: a qualitative study.",
+        "full_author_list": [
+            {
+                "clean": "Saini P",
+                "family": "Saini",
+                "given": "Pooja",
+                "affiliation": {
+                    "name": "School of Psychology, Tom Reilly Building, Liverpool John Moores University, Liverpool, L3 3AF, UK. P.Saini@ljmu.ac.uk."
+                }
+            },
+            {
+                "clean": "Hassan S",
+                "family": "Hassan",
+                "given": "Shaima M",
+                "affiliation": {
+                    "name": "University of Liverpool, NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Morasae E",
+                "family": "Morasae",
+                "given": "Esmaeil Khedmati",
+                "affiliation": {
+                    "name": "Exeter University Business School, Exeter, UK."
+                }
+            },
+            {
+                "clean": "Goodall M",
+                "family": "Goodall",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "University of Liverpool, NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "University of Liverpool, NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Ahmed S",
+                "family": "Ahmed",
+                "given": "Saiqa",
+                "affiliation": {
+                    "name": "ARC NWC Public Advisor, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Pearson A",
+                "family": "Pearson",
+                "given": "Anna",
+                "affiliation": {
+                    "name": "North West Boroughs Healthcare NHS Foundation Trust, Winwick, UK."
+                }
+            },
+            {
+                "clean": "Harper L",
+                "family": "Harper",
+                "given": "Lesley M",
+                "affiliation": {
+                    "name": "University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Cloke J",
+                "family": "Cloke",
+                "given": "Jane",
+                "affiliation": {
+                    "name": "University of Liverpool, NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Irvine J",
+                "family": "Irvine",
+                "given": "Jenny",
+                "affiliation": {
+                    "name": "Lancaster University, NIHR CLAHRC NWC, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "University of Liverpool, NIHR ARC NWC, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Saini P",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "Capacity building",
+                "Collaborative working",
+                "Coproduction",
+                "Participation",
+                "Partnership",
+                "Public and patient involvement"
+            ]
+        },
+        "journal": {
+            "journal_name": "Res Involv Engagem",
+            "volume": "7",
+            "issue": "1"
+        },
+        "abstract": "[\"Public and Patient Involvement, Engagement and Participation research encompasses working with patients/service users (people with a medical condition receiving health service treatment), public members, caregivers and communities (who use services or care for patients). The Partner Priority Programme (PPP) was developed by the National Health Service [NHS] and National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care [NIHR CLAHRC] NWC to share information and experience on evaluating new services being offered to patients that were seeking to reduce health inequalities, improve people's health and wellbeing and reduce emergency hospital admissions. This paper seeks to explore an approach developed for involving the public as equal partners within the evaluation and decision-making processes of health and social care services research. The aim of this study was to identify how public advisors were included, the impact of their involvement, and how change occurred within the organisations following their involvement.\", 'A qualitative approach using focus group discussions was adopted to explore the experiences of two cohorts of participants involved in PPP project teams. Focus groups were held with public advisors (n\\u2009=\\u20099), interns (n\\u2009=\\u20099; staff or public who received a funded internship for a PPP project), NHS and Local Authority initiative leads (n\\u2009=\\u200910), and academic facilitators (n\\u2009=\\u200914). These were transcribed verbatim and analysed using a thematic approach.', 'Thirty-two public advisors were recruited to support 25 PPP projects across the Collaboration for Leadership in Applied Health Research and CLAHRC North West Coast [NWC] partner organisations. Three inter-related themes were conceptualised: 1)\"Where it all started - involving public advisors\" identified the varying journeys to recruitment and experiences of becoming a public advisor; 2)\"Steps toward active involvement and engagement\" related to public advisors becoming core team members; and 3) \"Collaborative working to enhance public and patient involvement\" relayed how projects identified the benefits of working jointly with the public advisors, particularly for those who had not experienced this style of working before.', 'The findings indicate that the PPP model is effective for embedding Public and Patient Involvement [PPI] within health services research, and recommends that PPI is integrated at the earliest opportunity within research projects and service evaluations through the use of support-led and facilitative programmes.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "School of Psychology, Tom Reilly Building, Liverpool John Moores University, Liverpool, L3 3AF, UK. P.Saini@ljmu.ac.uk.",
+            "clean_institute": "Liverpool John Moores University",
+            "country": "United Kingdom",
+            "latitude": "53.403",
+            "longitude": "-2.97"
+        }
+    }
+}

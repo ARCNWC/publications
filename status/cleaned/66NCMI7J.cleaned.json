@@ -1,0 +1,1559 @@
+{
+    "IDs": {
+        "zotero": "66NCMI7J",
+        "DOI": "10.1186/s12889-020-09346-5",
+        "DOI_filename": "38dd29a926c4a93135c675e9f7dd3199",
+        "PMID": "32811459",
+        "scopus": "2-s2.0-85089639942",
+        "hash": "8c932a18834dcb69e6c6716db6e63c4d"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "66NCMI7J",
+            "version": 1000,
+            "itemType": "journalArticle",
+            "title": "The longitudinal NIHR ARC North West Coast Household Health Survey: exploring health inequalities in disadvantaged communities",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jason C.",
+                    "lastName": "McIntyre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ana",
+                    "lastName": "Alfirevic"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rhiannon",
+                    "lastName": "Corcoran"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Konstantinos",
+                    "lastName": "Daras"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennifer",
+                    "lastName": "Downing"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Munir",
+                    "lastName": "Pirmohamed"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jennie",
+                    "lastName": "Popay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paula",
+                    "lastName": "Wheeler"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Keith",
+                    "lastName": "Holt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Timothy",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard",
+                    "lastName": "Bentall"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ben",
+                    "lastName": "Barr"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "BMC Public Health",
+            "volume": "20",
+            "issue": "1",
+            "pages": "1257",
+            "date": "12/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Public Health",
+            "language": "en",
+            "DOI": "10.1186/s12889-020-09346-5",
+            "ISSN": "1471-2458",
+            "shortTitle": "The longitudinal NIHR ARC North West Coast Household Health Survey",
+            "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-09346-5",
+            "accessDate": "2021-07-23T16:46:13Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32811459",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:29Z",
+            "dateModified": "2021-07-27T12:11:46Z",
+            "pmid": "32811459"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        21
+                    ]
+                ],
+                "date-time": "2020-08-21T16:40:43Z",
+                "timestamp": 1598028043385
+            },
+            "reference-count": 26,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                8,
+                                18
+                            ]
+                        ],
+                        "date-time": "2020-08-18T00:00:00Z",
+                        "timestamp": 1597708800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                8,
+                                18
+                            ]
+                        ],
+                        "date-time": "2020-08-18T00:00:00Z",
+                        "timestamp": 1597708800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "NIHR ARC NWC"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        12
+                    ]
+                ]
+            },
+            "DOI": "10.1186/s12889-020-09346-5",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        18
+                    ]
+                ],
+                "date-time": "2020-08-18T12:03:21Z",
+                "timestamp": 1597752201000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "The longitudinal NIHR ARC North West Coast Household Health Survey: exploring health inequalities in disadvantaged communities",
+            "prefix": "10.1186",
+            "volume": "20",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jason C.",
+                    "family": "McIntyre",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ana",
+                    "family": "Alfirevic",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Rhiannon",
+                    "family": "Corcoran",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Konstantinos",
+                    "family": "Daras",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jennifer",
+                    "family": "Downing",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Munir",
+                    "family": "Pirmohamed",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jennie",
+                    "family": "Popay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Paula",
+                    "family": "Wheeler",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Keith",
+                    "family": "Holt",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Timothy",
+                    "family": "Wilson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Richard",
+                    "family": "Bentall",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ben",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        18
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "9346_CR1",
+                    "author": "WHO Commission on Social Determinants of Health, and World Health Organization",
+                    "year": "2008",
+                    "unstructured": "WHO Commission on Social Determinants of Health, and World Health Organization. Closing the Gap in a Generation: Health Equity through Action on the Social Determinants of Health : Commission on Social Determinants of Health Final Report. Geneva: World Health Organization, Commission on Social Determinants of Health; 2008..",
+                    "volume-title": "Closing the Gap in a Generation: Health Equity through Action on the Social Determinants of Health : Commission on Social Determinants of Health Final Report"
+                },
+                {
+                    "key": "9346_CR2",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "43",
+                    "DOI": "10.1186/1475-9276-13-43",
+                    "volume": "13",
+                    "author": "O Grintsova",
+                    "year": "2014",
+                    "unstructured": "Grintsova O, Maier W, Mielck A. Inequalities in health care among patients with type 2 diabetes by individual socio-economic status (SES) and regional deprivation: a systematic literature review. Int J Equity Health. 2014;13:43.",
+                    "journal-title": "Int J Equity Health"
+                },
+                {
+                    "key": "9346_CR3",
+                    "unstructured": "Institute of Health Equity. Marmot Indicators Briefing 2017. \n                  http://www.instituteofhealthequity.org/resources-reports/marmot-indicators-2017-institute-of-health-equity-briefing/marmot-indicators-briefing-2017-updated.pdf\n                  \n                 (last Accessed 19.04.2018), 2017."
+                },
+                {
+                    "issue": "9989",
+                    "key": "9346_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "163",
+                    "DOI": "10.1016/S0140-6736(15)60296-3",
+                    "volume": "386",
+                    "author": "JE Bennett",
+                    "year": "2015",
+                    "unstructured": "Bennett JE, Li G, Foreman K, et al. The future of life expectancy and life expectancy inequalities in England and Wales: Bayesian spatiotemporal forecasting. Lancet. 2015;386(9989):163\u201370.",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "9346_CR5",
+                    "author": "World Health Organization",
+                    "year": "2019",
+                    "unstructured": "World Health Organization. Healthy, prosperous lives for all: the European Health Equity Status Report (2019). Copenhagen: WHO; 2019.",
+                    "volume-title": "Healthy, prosperous lives for all: the European Health Equity Status Report (2019)"
+                },
+                {
+                    "key": "9346_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "371",
+                    "DOI": "10.1111/j.1475-5890.2016.12109",
+                    "volume": "37",
+                    "author": "R Cookson",
+                    "year": "2016",
+                    "unstructured": "Cookson R, Propper C, Asaria M, Raine R. Socio-economic inequalities in health Care in England. Fiscal Studies: The Journal of Applied Public Economics. 2016;37:371\u2013403.",
+                    "journal-title": "Fiscal Studies: The Journal of Applied Public Economics"
+                },
+                {
+                    "issue": "1",
+                    "key": "9346_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "41",
+                    "DOI": "10.1016/j.healthpol.2013.04.015",
+                    "volume": "114",
+                    "author": "P Eibich",
+                    "year": "2014",
+                    "unstructured": "Eibich P, Ziebarth NR. Analyzing regional variation in health care utilization using (rich) household microdata. Health Policy. 2014;114(1):41\u201353.",
+                    "journal-title": "Health Policy"
+                },
+                {
+                    "issue": "6",
+                    "key": "9346_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1251",
+                    "DOI": "10.1016/j.socscimed.2004.07.016",
+                    "volume": "60",
+                    "author": "S Morris",
+                    "year": "2005",
+                    "unstructured": "Morris S, Sutton M, Gravelle H. Inequity and inequality in the use of health care in England: an empirical investigation. Soc Sci Med. 2005;60(6):1251\u201366.",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "9346_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "392",
+                    "DOI": "10.3109/09540261.2014.928270",
+                    "volume": "26",
+                    "author": "J Allen",
+                    "year": "2014",
+                    "unstructured": "Allen J, Balfour R, Bell R, Marmot M. Social determinants of mental health. Int Review Psychiatr. 2014;26:392\u2013407.",
+                    "journal-title": "Int Review Psychiatr"
+                },
+                {
+                    "issue": "9",
+                    "key": "9346_CR10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1734",
+                    "DOI": "10.2105/AJPH.2014.302003",
+                    "volume": "104",
+                    "author": "OL Meyer",
+                    "year": "2014",
+                    "unstructured": "Meyer OL, Castro-Schilo L, Aguilar-Gaxiola S. Determinants of mental health and self-rated health: a model of socioeconomic status, Neighbourhood safety, and physical activity. Am J Public Health. 2014;104(9):1734\u201341.",
+                    "journal-title": "Am J Public Health"
+                },
+                {
+                    "key": "9346_CR11",
+                    "unstructured": "Williamson S, McGregor-Shenton M, Brumble B, et al. Deprivation and healthy food access, cost and availability: a cross-sectional study. J Human Nutrition Dietetics. 2017. \n                  https://doi.org/10.1111/jhn.12489\n                  \n                .",
+                    "DOI": "10.1111/jhn.12489",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "9346_CR12",
+                    "author": "JM Popay",
+                    "year": "2017",
+                    "unstructured": "Popay JM, Porroche-Escudero A, Sadler G, Simpson S. The CLAHRC NWC health inequalities assessment toolkit V.3. Lancaster: NIHR CLAHRC NWC; 2017.",
+                    "volume-title": "The CLAHRC NWC health inequalities assessment toolkit V.3"
+                },
+                {
+                    "key": "9346_CR13",
+                    "author": "Office for National Statistics",
+                    "year": "2017",
+                    "unstructured": "Office for National Statistics. The English Indices of Deprivation 2015. London: Deprivation for communities and local government; 2017.",
+                    "volume-title": "The English Indices of Deprivation 2015"
+                },
+                {
+                    "key": "9346_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "19",
+                    "DOI": "10.1177/00333549141291S206",
+                    "volume": "129",
+                    "author": "P Braveman",
+                    "year": "2014",
+                    "unstructured": "Braveman P, Gottlieb L. The social determinants of health: It\u2019s time to consider the causes of the causes. Public Health Rep. 2014;129:19\u201331.",
+                    "journal-title": "Public Health Rep"
+                },
+                {
+                    "issue": "9",
+                    "key": "9346_CR15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "606",
+                    "DOI": "10.1046/j.1525-1497.2001.016009606.x",
+                    "volume": "16",
+                    "author": "K Kroenke",
+                    "year": "2001",
+                    "unstructured": "Kroenke K, Spitzer RL, Williams JB. The PHQ-9: validity of a brief depression severity measure. J Gen Intern Med. 2001;16(9):606\u201313.",
+                    "journal-title": "J Gen Intern Med"
+                },
+                {
+                    "issue": "10",
+                    "key": "9346_CR16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1092",
+                    "DOI": "10.1001/archinte.166.10.1092",
+                    "volume": "16",
+                    "author": "RL Spitzer",
+                    "year": "2006",
+                    "unstructured": "Spitzer RL, Kroenke K, Williams JB, Lowe B. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006;16(10):1092\u20137.",
+                    "journal-title": "Arch Intern Med"
+                },
+                {
+                    "key": "9346_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "63",
+                    "DOI": "10.1186/1477-7525-5-63",
+                    "volume": "5",
+                    "author": "R Tennant",
+                    "year": "2007",
+                    "unstructured": "Tennant R, Hiller L, Fishwick R, et al. The Warwick-Edinburgh mental well-being scale (WEMWBS): development and UK validation. Health Qual Life Outcomes. 2007;5:63.",
+                    "journal-title": "Health Qual Life Outcomes"
+                },
+                {
+                    "issue": "3",
+                    "key": "9346_CR18",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "199",
+                    "DOI": "10.1016/0168-8510(90)90421-9",
+                    "volume": "16",
+                    "author": "EuroQoL Group",
+                    "year": "1990",
+                    "unstructured": "EuroQoL Group. EuroQol \u2013 a new facility for the measurement of health-related quality of life. Health Policy. 1990;16(3):199\u2013208.",
+                    "journal-title": "Health Policy"
+                },
+                {
+                    "key": "9346_CR19",
+                    "unstructured": "Giebel C, McIntyre JC, Daras K, Pirmohamed M, Gabbay M, Downing J, et al. What are the predictors of a&E attendance in deprived neighbourhoods? Results from a cross-sectional household health survey in the north west of England. BMJ Open. 2019. \n                  https://doi.org/10.1136/bmjopen-2018-022820\n                  \n                .",
+                    "DOI": "10.1136/bmjopen-2018-022820",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "690",
+                    "key": "9346_CR20",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e1",
+                    "DOI": "10.3399/bjgp19X707093",
+                    "volume": "70",
+                    "author": "P Saini",
+                    "year": "2020",
+                    "unstructured": "Saini P, McIntyre J, Corcoran R, Daras K, Giebel C, Fuller L, et al. Social and Mental Health Predictors of Emergency Department and General Practitioner Usage. Br J Gen Practice. 2020;70(690):e1\u20138. \n                  https://doi.org/10.3399/bjgp19X707093\n                  \n                .",
+                    "journal-title": "Br J Gen Practice"
+                },
+                {
+                    "key": "9346_CR21",
+                    "unstructured": "Hales S, Fossey J. Caring for me and you: the co-production of a computerized cognitive behavioural therapy (cCBT) package for carers of people with dementia. Aging Ment Health. 2017. \n                  https://doi.org/10.1080/13607863.2017.1348475\n                  \n                .",
+                    "DOI": "10.1080/13607863.2017.1348475",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "1",
+                    "key": "9346_CR22",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "122",
+                    "DOI": "10.1111/hsc.12468",
+                    "volume": "26",
+                    "author": "U Vaeggemose",
+                    "year": "2018",
+                    "unstructured": "Vaeggemose U, Ankersen PV, Aagaard J, et al. Co-production of community mental health services: Organising the interplay between public services and civil society in Denmark. Health Soc Care Comm. 2018;26(1):122\u201330.",
+                    "journal-title": "Health Soc Care Comm"
+                },
+                {
+                    "key": "9346_CR23",
+                    "unstructured": "Office for National Statistics. 2011 Census: key statistics for England and Wales, March 2011. London: Office for National Statistics; 2011."
+                },
+                {
+                    "key": "9346_CR24",
+                    "author": "R Young",
+                    "year": "2011",
+                    "unstructured": "Young R, Sly F. Regional trends: portrait of the north west. London: Office for National Statistics; 2011.",
+                    "volume-title": "Regional trends: portrait of the north west"
+                },
+                {
+                    "key": "9346_CR25",
+                    "unstructured": "GP Patient Survey. \n                  https://gp-patient.co.uk/SurveysAndReports\n                  \n                 (last Accessed 10.01.2020)."
+                },
+                {
+                    "issue": "4",
+                    "key": "9346_CR26",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "643",
+                    "DOI": "10.1111/hex.12940",
+                    "volume": "22",
+                    "author": "C Giebel",
+                    "year": "2019",
+                    "unstructured": "Giebel C, Hassan S, McIntyre J, Corcoran R, Comerford T, Barr B, Gabbay M, Downing J, Alfirevic A. Public involvement in the dissemination of the north west coast household health survey: experiences and lessons of co-producing research together. Health Expect. 2019;22(4):643\u20139.",
+                    "journal-title": "Health Expect"
+                }
+            ],
+            "container-title": "BMC Public Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12889-020-09346-5.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s12889-020-09346-5/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12889-020-09346-5.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        21
+                    ]
+                ],
+                "date-time": "2020-08-21T16:03:07Z",
+                "timestamp": 1598025787000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        18
+                    ]
+                ]
+            },
+            "references-count": 26,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "9346"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12889-020-09346-5",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1471-2458"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health"
+            ],
+            "container-title-short": "BMC Public Health",
+            "assertion": [
+                {
+                    "value": "20 February 2020",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "4 August 2020",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "18 August 2020",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "Ethical approval was obtained from the University of Liverpool (Ref: RETH000836). Participants provided written informed consent prior to taking part in the study.",
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "Not applicable.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "The authors have no conflicts of interest to report.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "1257"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Co-production",
+                        "Deprivation",
+                        "Health care utilisation",
+                        "Health inequalities",
+                        "Housing",
+                        "Mental health"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32811459",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "12",
+                    "Day": "15"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "17"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "08",
+                            "Day": "18"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12889-020-09346-5"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1471-2458",
+                        "JournalIssue": {
+                            "Volume": "20",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Aug",
+                                "Day": "18"
+                            }
+                        },
+                        "Title": "BMC public health",
+                        "ISOAbbreviation": "BMC Public Health"
+                    },
+                    "ArticleTitle": "The longitudinal NIHR ARC North West Coast Household Health Survey: exploring health inequalities in disadvantaged communities.",
+                    "Pagination": {
+                        "MedlinePgn": "1257"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The Household Health Survey (HHS) was developed to understand the socioeconomic determinants of mental and physical health, and health inequalities in health and social care. This paper aims to provide a detailed rationale of the development and implementation of the survey and explore socio-economic variations in physical and mental health and health care.",
+                            "This comprehensive longitudinal public health survey was designed and piloted in a disadvantaged area of England, comprising questions on housing, physical health, mental health, lifestyle, social issues, environment, work, and finances. After piloting, the HHS was implemented across 28 neighbourhoods - 10 disadvantaged neighbourhoods for learning (NfLs), 10 disadvantaged comparator sites, and eight relatively advantaged areas, in 2015 and 2018. Participants were recruited via random sampling of households in pre-selected neighbourhoods based on their areas of deprivation.",
+                            "7731 residents participated in Wave 1 (N\u2009=\u20094319) and 2 (n\u2009=\u20093412) of the survey, with 871 residents having participated in both. Mental health, physical health, employment, and housing quality were poorer in disadvantaged neighbourhoods than in relatively advantaged areas.",
+                            "This survey provides important insights into socio-economic variations in physical and mental health, with findings having implications for improved care provision to enable residents from any geographical or socio-economic background to access suitable care."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, UK. Clarissa.giebel@liverpool.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK. Clarissa.giebel@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Natural Sciences and Psychology, Liverpool John Moores University, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McIntyre",
+                            "ForeName": "Jason C",
+                            "Initials": "JC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Alfirevic",
+                            "ForeName": "Ana",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Corcoran",
+                            "ForeName": "Rhiannon",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Geography and Planning, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Daras",
+                            "ForeName": "Konstantinos",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Downing",
+                            "ForeName": "Jennifer",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pirmohamed",
+                            "ForeName": "Munir",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Research, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Popay",
+                            "ForeName": "Jennie",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Research, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wheeler",
+                            "ForeName": "Paula",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Holt",
+                            "ForeName": "Keith",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wilson",
+                            "ForeName": "Timothy",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Psychology, University of Sheffield, Sheffield, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bentall",
+                            "ForeName": "Richard",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "Ben",
+                            "Initials": "B"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "NIHR130258",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "NIHR ARC NWC",
+                            "Agency": "National Institute for Health Research",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Public Health",
+                    "NlmUniqueID": "100968562",
+                    "ISSNLinking": "1471-2458"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Status Disparities",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Surveys",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Longitudinal Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Residence Characteristics",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Arch Intern Med. 2006 May 22;166(10):1092-7",
+                                "ArticleIdList": [
+                                    "16717171"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Soc Care Community. 2018 Jan;26(1):122-130",
+                                "ArticleIdList": [
+                                    "28670769"
+                                ]
+                            },
+                            {
+                                "Citation": "J Hum Nutr Diet. 2017 Dec;30(6):791-799",
+                                "ArticleIdList": [
+                                    "28608509"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2015 Jul 11;386(9989):163-70",
+                                "ArticleIdList": [
+                                    "25935825"
+                                ]
+                            },
+                            {
+                                "Citation": "Public Health Rep. 2014 Jan-Feb;129 Suppl 2:19-31",
+                                "ArticleIdList": [
+                                    "24385661"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2019 Jan 6;9(1):e022820",
+                                "ArticleIdList": [
+                                    "30613026"
+                                ]
+                            },
+                            {
+                                "Citation": "Int Rev Psychiatry. 2014 Aug;26(4):392-407",
+                                "ArticleIdList": [
+                                    "25137105"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2005 Mar;60(6):1251-66",
+                                "ArticleIdList": [
+                                    "15626522"
+                                ]
+                            },
+                            {
+                                "Citation": "Aging Ment Health. 2018 Oct;22(10):1287-1294",
+                                "ArticleIdList": [
+                                    "28691520"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Policy. 1990 Dec;16(3):199-208",
+                                "ArticleIdList": [
+                                    "10109801"
+                                ]
+                            },
+                            {
+                                "Citation": "J Gen Intern Med. 2001 Sep;16(9):606-13",
+                                "ArticleIdList": [
+                                    "11556941"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Equity Health. 2014 Jun 02;13:43",
+                                "ArticleIdList": [
+                                    "24889694"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Qual Life Outcomes. 2007 Nov 27;5:63",
+                                "ArticleIdList": [
+                                    "18042300"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Public Health. 2014 Sep;104(9):1734-41",
+                                "ArticleIdList": [
+                                    "25033151"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2019 Aug;22(4):643-649",
+                                "ArticleIdList": [
+                                    "31355516"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Policy. 2014 Jan;114(1):41-53",
+                                "ArticleIdList": [
+                                    "23706385"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Gen Pract. 2019 Dec 26;70(690):e1-e8",
+                                "ArticleIdList": [
+                                    "31848197"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "02",
+                        "Day": "20"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "08",
+                        "Day": "04"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "8",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "8",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "16",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "32811459",
+                    "10.1186/s12889-020-09346-5",
+                    "10.1186/s12889-020-09346-5",
+                    "PMC7436975"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32811459)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832811459%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832811459%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089639942"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089639942?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85089639942&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85089639942&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85089639942",
+                        "dc:identifier": "SCOPUS_ID:85089639942",
+                        "eid": "2-s2.0-85089639942",
+                        "dc:title": "The longitudinal NIHR ARC North West Coast Household Health Survey: Exploring health inequalities in disadvantaged communities",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "BMC Public Health",
+                        "prism:eIssn": "14712458",
+                        "prism:volume": "20",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-08-18",
+                        "prism:coverDisplayDate": "18 August 2020",
+                        "prism:doi": "10.1186/s12889-020-09346-5",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR ARC NWC",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32811459",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "1257",
+                        "source-id": "19621",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "66NCMI7J.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32811459"
+            }
+        },
+        "title": "The longitudinal NIHR ARC North West Coast Household Health Survey: exploring health inequalities in disadvantaged communities.",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, UK. Clarissa.giebel@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "McIntyre J",
+                "family": "McIntyre",
+                "given": "Jason C",
+                "affiliation": {
+                    "name": "School of Natural Sciences and Psychology, Liverpool John Moores University, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Alfirevic A",
+                "family": "Alfirevic",
+                "given": "Ana",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Corcoran R",
+                "family": "Corcoran",
+                "given": "Rhiannon",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, UK."
+                }
+            },
+            {
+                "clean": "Daras K",
+                "family": "Daras",
+                "given": "Konstantinos",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Downing J",
+                "family": "Downing",
+                "given": "Jennifer",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, UK."
+                }
+            },
+            {
+                "clean": "Pirmohamed M",
+                "family": "Pirmohamed",
+                "given": "Munir",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Popay J",
+                "family": "Popay",
+                "given": "Jennie",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wheeler P",
+                "family": "Wheeler",
+                "given": "Paula",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Holt K",
+                "family": "Holt",
+                "given": "Keith",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wilson T",
+                "family": "Wilson",
+                "given": "Timothy",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Bentall R",
+                "family": "Bentall",
+                "given": "Richard",
+                "affiliation": {
+                    "name": "Department of Psychology, University of Sheffield, Sheffield, UK."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Ben",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, UK."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Status Disparities",
+                    "major": "Y"
+                },
+                {
+                    "term": "Health Surveys",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Longitudinal Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Residence Characteristics",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "Co-production",
+                "Deprivation",
+                "Health care utilisation",
+                "Health inequalities",
+                "Housing",
+                "Mental health"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMC Public Health",
+            "volume": "20",
+            "issue": "1"
+        },
+        "abstract": "['The Household Health Survey (HHS) was developed to understand the socioeconomic determinants of mental and physical health, and health inequalities in health and social care. This paper aims to provide a detailed rationale of the development and implementation of the survey and explore socio-economic variations in physical and mental health and health care.', 'This comprehensive longitudinal public health survey was designed and piloted in a disadvantaged area of England, comprising questions on housing, physical health, mental health, lifestyle, social issues, environment, work, and finances. After piloting, the HHS was implemented across 28 neighbourhoods - 10 disadvantaged neighbourhoods for learning (NfLs), 10 disadvantaged comparator sites, and eight relatively advantaged areas, in 2015 and 2018. Participants were recruited via random sampling of households in pre-selected neighbourhoods based on their areas of deprivation.', '7731 residents participated in Wave 1 (N\\u2009=\\u20094319) and 2 (n\\u2009=\\u20093412) of the survey, with 871 residents having participated in both. Mental health, physical health, employment, and housing quality were poorer in disadvantaged neighbourhoods than in relatively advantaged areas.', 'This survey provides important insights into socio-economic variations in physical and mental health, with findings having implications for improved care provision to enable residents from any geographical or socio-economic background to access suitable care.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Primary Care & Mental Health, University of Liverpool, Waterhouse Building B Block, Brownlow Street, Liverpool, L69 3GL, UK. Clarissa.giebel@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

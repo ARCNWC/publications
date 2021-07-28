@@ -1,0 +1,1473 @@
+{
+    "IDs": {
+        "zotero": "3RMRDX9B",
+        "DOI": "10.1136/bmjopen-2019-035252",
+        "DOI_filename": "7e18de075e4cc2b9e6b80403de951648",
+        "PMID": "33542033",
+        "scopus": "2-s2.0-85101018595",
+        "hash": "b906bb56cc3cc74b8885ad01ac69a123"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "3RMRDX9B",
+            "version": 991,
+            "itemType": "journalArticle",
+            "title": "Investigation to identify individual socioeconomic and health determinants of suicidal ideation using responses to a cross-sectional, community-based public health survey",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Helen",
+                    "lastName": "Mulholland"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jason C",
+                    "lastName": "McIntyre"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alina",
+                    "lastName": "Haines-Delmont"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard",
+                    "lastName": "Whittington"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Terence",
+                    "lastName": "Comerford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rhiannon",
+                    "lastName": "Corcoran"
+                }
+            ],
+            "abstractNote": "Objectives\n              To address a gap in knowledge by simultaneously assessing a broad spectrum of individual socioeconomic and potential health determinants of suicidal ideation (SI) using validated measures in a large UK representative community sample.\n            \n            \n              Design\n              In this cross-sectional design, participants were recruited via random area probability sampling to participate in a comprehensive public health survey. The questionnaire examined demographic, health and socioeconomic factors. Logistic regression analysis was employed to identify predictors of SI.\n            \n            \n              Setting\n              Community setting from high (n=20) and low (n=8) deprivation neighbourhoods across the North West of England, UK.\n            \n            \n              Participants\n              4319 people were recruited between August 2015 and January 2016. There were 809 participants from low-deprivation neighbourhoods and 3510 from high-deprivation neighbourhoods. The sample comprised 1854 (43%) men and 2465 (57%) women.\n            \n            \n              Primary outcome measures\n              SI was the dependent variable which was assessed using item 9 of the Patient Health Questionnaire-9 instrument.\n            \n            \n              Results\n              454 (11%) participants reported having SI within the last 2 weeks. Model 1 (excluding mental health variables) identified younger age, black and minority ethnic (BME) background, lower housing quality and current smoker status as key predictors of SI. Higher self-esteem, empathy and neighbourhood belonging, alcohol abstinence and having arthritis were protective against SI. Model 2 (including mental health variables) found depression and having cancer as key health predictors for SI, while identifying as lesbian, gay, bisexual, transgender or queer (LGBTQ) and BME were significant demographic predictors. Alcohol abstinence, having arthritis and higher empathy levels were protective against SI.\n            \n            \n              Conclusions\n              This study suggests that it could be useful to increase community support and sense of belonging using a public health approach for vulnerable groups (e.g. those with cancer) and peer support for people who identify as LGBTQ and/or BME. Also, interventions aimed at increasing empathic functioning may prove effective for reducing SI.",
+            "publicationTitle": "BMJ Open",
+            "volume": "11",
+            "issue": "2",
+            "pages": "e035252",
+            "date": "02/2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open",
+            "language": "en",
+            "DOI": "10.1136/bmjopen-2019-035252",
+            "ISSN": "2044-6055, 2044-6055",
+            "shortTitle": "",
+            "url": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2019-035252",
+            "accessDate": "2021-07-23T16:46:11Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33542033",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:22Z",
+            "dateModified": "2021-07-27T12:02:28Z",
+            "pmid": "33542033"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        4
+                    ]
+                ],
+                "date-time": "2021-02-04T19:25:53Z",
+                "timestamp": 1612466753924
+            },
+            "reference-count": 66,
+            "publisher": "BMJ",
+            "issue": "2",
+            "license": [
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                2,
+                                3
+                            ]
+                        ],
+                        "date-time": "2021-02-03T00:00:00Z",
+                        "timestamp": 1612310400000
+                    },
+                    "delay-in-days": 2,
+                    "content-version": "unspecified"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100015509",
+                    "name": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        2
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Objectives</jats:title><jats:p>To address a gap in knowledge by simultaneously assessing a broad spectrum of individual socioeconomic and potential health determinants of suicidal ideation (SI) using validated measures in a large UK representative community sample.</jats:p></jats:sec><jats:sec><jats:title>Design</jats:title><jats:p>In this cross-sectional design, participants were recruited via random area probability sampling to participate in a comprehensive public health survey. The questionnaire examined demographic, health and socioeconomic factors. Logistic regression analysis was employed to identify predictors of SI.</jats:p></jats:sec><jats:sec><jats:title>Setting</jats:title><jats:p>Community setting from high (n=20) and low (n=8) deprivation neighbourhoods across the North West of England, UK.</jats:p></jats:sec><jats:sec><jats:title>Participants</jats:title><jats:p>4319 people were recruited between August 2015 and January 2016. There were 809 participants from low-deprivation neighbourhoods and 3510 from high-deprivation neighbourhoods. The sample comprised 1854 (43%) men and 2465 (57%) women.</jats:p></jats:sec><jats:sec><jats:title>Primary outcome measures</jats:title><jats:p>SI was the dependent variable which was assessed using item 9 of the Patient Health Questionnaire-9 instrument.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>454 (11%) participants reported having SI within the last 2 weeks. Model 1 (excluding mental health variables) identified younger age, black and minority ethnic (BME) background, lower housing quality and current smoker status as key predictors of SI. Higher self-esteem, empathy and neighbourhood belonging, alcohol abstinence and having arthritis were protective against SI. Model 2 (including mental health variables) found depression and having cancer as key health predictors for SI, while identifying as lesbian, gay, bisexual, transgender or queer (LGBTQ) and BME were significant demographic predictors. Alcohol abstinence, having arthritis and higher empathy levels were protective against SI.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>This study suggests that it could be useful to increase community support and sense of belonging using a public health approach for vulnerable groups (e.g. those with cancer) and peer support for people who identify as LGBTQ and/or BME. Also, interventions aimed at increasing empathic functioning may prove effective for reducing SI.</jats:p></jats:sec>",
+            "DOI": "10.1136/bmjopen-2019-035252",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        4
+                    ]
+                ],
+                "date-time": "2021-02-04T17:38:39Z",
+                "timestamp": 1612460319000
+            },
+            "page": "e035252",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Investigation to identify individual socioeconomic and health determinants of suicidal ideation using responses to a cross-sectional, community-based public health survey",
+            "prefix": "10.1136",
+            "volume": "11",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-6679-7257",
+                    "authenticated-orcid": false,
+                    "given": "Helen",
+                    "family": "Mulholland",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jason C",
+                    "family": "McIntyre",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-6989-0943",
+                    "authenticated-orcid": false,
+                    "given": "Alina",
+                    "family": "Haines-Delmont",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Richard",
+                    "family": "Whittington",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Terence",
+                    "family": "Comerford",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Rhiannon",
+                    "family": "Corcoran",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        4
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2021020408551347000_11.2.e035252.1",
+                    "unstructured": "World Health Organisation (WHO) . Suicide. key facts, 2019. Available: https://www.who.int/news-room/fact-sheets/detail/suicide"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.2",
+                    "unstructured": "Department of Health (DoH) . No health without mental health: a cross-government outcomes strategy, 2011. Available: https://www.gov.uk/government/publications/no-health-without-mental-health-a-cross-government-outcomes-strategy"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.3",
+                    "DOI": "10.1192/bjp.bp.107.040113",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.4",
+                    "DOI": "10.1016/j.jad.2011.05.020",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.5",
+                    "DOI": "10.1192/bjp.bp.110.084129",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.6",
+                    "author": "Alonso",
+                    "first-page": "21",
+                    "year": "2004",
+                    "article-title": "Prevalence of mental disorders in Europe: results from the European study of the epidemiology of mental disorders (ESEMeD) project",
+                    "journal-title": "Acta Psychiatr Scand Suppl"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.7",
+                    "unstructured": "McManus S , Bebbington P , Jenkins R , eds. Mental health and wellbeing in England: Adult Psychiatric Morbidity Survey 2014. Leeds: NHS Digital, 2016."
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.8",
+                    "DOI": "10.4088/JCP.08m04967blu",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "729",
+                    "DOI": "10.1111/sltb.12336",
+                    "article-title": "Risk factors for suicide and suicidal behavior relevant to emergency health care settings: a systematic review of Post-2007 reviews",
+                    "volume": "47",
+                    "author": "McClatchey",
+                    "year": "2017",
+                    "journal-title": "Suicide Life Threat Behav"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.10",
+                    "DOI": "10.1098/rstb.2017.0268",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "114",
+                    "DOI": "10.1521/ijct.2015.8.2.114",
+                    "article-title": "The Three-Step Theory (3ST): A New Theory of Suicide Rooted in the \u201cIdeation-to-Action\u201d Framework",
+                    "volume": "8",
+                    "author": "Klonsky",
+                    "year": "2015",
+                    "journal-title": "Int J Cogn Ther"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.12",
+                    "DOI": "10.1037/0033-295X.97.1.90",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.13",
+                    "unstructured": "Linehan MM . Cognitive-Behavioral treatment of borderline personality disorder. New York: Guilford Press, 1993."
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.14",
+                    "unstructured": "Brown MZ . Linehan\u2019s theory of suicidal behavior: Theory, research, and dialectical behavior therapy. In: Ellis T , ed. Cognition and suicide: theory, research, and practice. American Psychological Association, 2006."
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.15",
+                    "DOI": "10.1016/S0140-6736(05)71146-6",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.16",
+                    "author": "Handley",
+                    "volume": "12",
+                    "year": "2012",
+                    "article-title": "Contributors to suicidality in rural communities: beyond the effects of depression",
+                    "journal-title": "BMC Psychiatry",
+                    "DOI": "10.1186/1471-244X-12-105",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.17",
+                    "unstructured": "Barnes M , Caullinane C , Scott S . People living in bad housing: numbers and health impacts. London: National Centre for Social Research, 2013."
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.18",
+                    "DOI": "10.1080/713613168",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "375",
+                    "DOI": "10.1016/j.maturitas.2014.01.013",
+                    "article-title": "Feeling that life is not worth living (death thoughts) among middle-aged, Australian women providing unpaid care",
+                    "volume": "77",
+                    "author": "O'Dwyer",
+                    "year": "2014",
+                    "journal-title": "Maturitas"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.20",
+                    "unstructured": "Anderson J , Eppes A , O\u2019Dwyer S . \u201cLike Death is Near\u201d: Expressions of Suicidal and Homicidal Ideation in the Blog Posts of Family Caregivers of People with Dementia. Behav Sci 2019;9:22. doi:10.3390/bs9030022",
+                    "DOI": "10.3390/bs9030022",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.21",
+                    "author": "Park",
+                    "volume": "8",
+                    "year": "2013",
+                    "article-title": "Suicidal ideation and suicide attempts in anxious or depressed family caregivers of patients with cancer: a nationwide survey in Korea",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "596",
+                    "DOI": "10.1002/gps.4498",
+                    "article-title": "Treatment emergent suicidal ideation in depressed older adults",
+                    "volume": "32",
+                    "author": "Cristancho",
+                    "year": "2017",
+                    "journal-title": "Int J Geriatr Psychiatry"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "597",
+                    "DOI": "10.1016/j.psym.2020.06.022",
+                    "article-title": "Psychiatric aspects of chloroquine and hydroxychloroquine treatment in the wake of coronavirus Disease-2019: psychopharmacological interactions and neuropsychiatric sequelae",
+                    "volume": "61",
+                    "author": "Hamm",
+                    "year": "2020",
+                    "journal-title": "Psychosomatics"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.24",
+                    "author": "Zhang",
+                    "volume": "120",
+                    "year": "2019",
+                    "article-title": "Behavioral empathy failures and suicidal behavior",
+                    "journal-title": "Behav Res Ther",
+                    "DOI": "10.1016/j.brat.2018.10.019",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "653",
+                    "DOI": "10.1016/j.jad.2018.11.022",
+                    "article-title": "Suicidal thoughts and behaviors and social isolation: a narrative review of the literature",
+                    "volume": "245",
+                    "author": "Calati",
+                    "year": "2019",
+                    "journal-title": "J Affect Disord"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.26",
+                    "author": "Giebel",
+                    "volume": "20",
+                    "year": "2020",
+                    "article-title": "The longitudinal NIHR Arc North West coast household health survey: exploring health inequalities in disadvantaged communities",
+                    "journal-title": "BMC Public Health",
+                    "DOI": "10.1186/s12889-020-09346-5",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.27",
+                    "unstructured": "Kroenke K , Spitzer RL . The PHQ-9: a new depression diagnostic and severity measure the nine-item patient health questionnaire depression scale is a dual-purpose instrument that can establish provisional depressive disorder diagnoses as well as grade depression severity. United States: SLACK INCORPORATED, 2002: 509."
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.28",
+                    "unstructured": "Office for National Statistics (ONS) . Classifications and harmonisation, 2016. Available: https://www.ons.gov.uk/methodology/classificationsandstandards"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.29",
+                    "unstructured": "UK Government. Ministry of Housing, Communities & Local Government . English housing survey 2013 to 2014: questionnaire and physical survey form, 2015. Available: https://www.gov.uk/government/publications/english-housing-survey-2013-to-2014-questionnaire-and-physical-survey-form"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.30",
+                    "unstructured": "Office for National Statistics (ONS) . Wealth and assets survey QMI, 2019. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/debt/methodologies/wealthandassetssurveyqmi"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.31",
+                    "unstructured": "Gusi N , Olivares P , Rajendram R . The EQ-5D health-related quality of life questionnaire. In: Handbook of disease burdens and quality of life measures, 2010: 87\u201399.",
+                    "DOI": "10.1007/978-0-387-78665-0_5",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.32",
+                    "unstructured": "United Kingdom Cabinet Office . Community life survey 2014-15, 2015. Available: https://www.gov.uk/government/publications/community-life-survey-2014-to-2015-statistical-analysis"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.33",
+                    "unstructured": "McManus S , Bebbington P , Jenkins R . Adult psychiatric morbidity survey: survey of mental health and wellbeing, England, 2014. UK: NHS Digital Leeds, 2016."
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.34",
+                    "unstructured": "National Health Service (NHS) Digital . Health survey for England \u2013 2013, 2014. Available: https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/health-survey-for-england-2013#summary"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.35",
+                    "unstructured": "Knowsley Council . Nhs Merseyside lifestyle survey, 2013. Available: http://www.knowsley.gov.uk/pdf/knowsley-health-and-lifestyle-survey-2012-13.pdf"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.36",
+                    "DOI": "10.1001/archinte.166.10.1092",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "247",
+                    "DOI": "10.1348/147608308X398337",
+                    "article-title": "The persecution and deservedness scale",
+                    "volume": "82",
+                    "author": "Melo",
+                    "year": "2009",
+                    "journal-title": "Psychol Psychother"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.38",
+                    "DOI": "10.1186/1477-7525-5-63",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.39",
+                    "DOI": "10.1177/0146167201272002",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.40",
+                    "first-page": "85",
+                    "article-title": "A multidimensional approach to individual differences in empathy",
+                    "volume": "10",
+                    "author": "Davis",
+                    "year": "1980",
+                    "journal-title": "Catalog of Selected Documents in Psychology"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.41",
+                    "DOI": "10.1097/00006842-199603000-00003",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.42",
+                    "DOI": "10.1037/h0035357",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.43",
+                    "unstructured": "StataCorp LP . Stata statistical software: release 12. College Station, TX: StataCorp LP, 2011."
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.44",
+                    "DOI": "10.1037/1082-989X.7.1.19",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.45",
+                    "DOI": "10.1080/09720502.2010.10700699",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.46",
+                    "unstructured": "Department of Health . UK Chief Medical Officers\u2019 low risk drinking guidelines. Department of Health London, 2016."
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.47",
+                    "DOI": "10.1016/j.jad.2013.01.004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.48",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "80",
+                    "DOI": "10.1016/j.jad.2016.11.026",
+                    "article-title": "The role of physical and mental health multimorbidity in suicidal ideation",
+                    "volume": "209",
+                    "author": "Kavalidou",
+                    "year": "2017",
+                    "journal-title": "J Affect Disord"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.49",
+                    "DOI": "10.1111/j.1365-2796.2012.02572.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.50",
+                    "unstructured": "Joiner TE . Why people die by suicide. Cambridge, MA: Harvard University Press, 2005."
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.51",
+                    "unstructured": "O'Connor R , Pirkis J . The International Handbook of suicide prevention. Second edition. Wiley, 2016.",
+                    "DOI": "10.1002/9781118903223",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.52",
+                    "DOI": "10.1111/sltb.12068",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.53",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "335",
+                    "DOI": "10.1038/mp.2016.167",
+                    "article-title": "Antidepressant activity of anti-cytokine treatment: a systematic review and meta-analysis of clinical trials of chronic inflammatory conditions",
+                    "volume": "23",
+                    "author": "Kappelmann",
+                    "year": "2018",
+                    "journal-title": "Mol Psychiatry"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.54",
+                    "DOI": "10.1111/j.1742-1241.2012.02899.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.55",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "222",
+                    "DOI": "10.1080/13607863.2015.1063109",
+                    "article-title": "Suicidal ideation in family carers of people with dementia",
+                    "volume": "20",
+                    "author": "O'Dwyer",
+                    "year": "2016",
+                    "journal-title": "Aging Ment Health"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.56",
+                    "unstructured": "Public Health England (PHE) . Health profile for England: 2019, 2019. Available: https://www.gov.uk/government/publications/health-profile-for-england-2019"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.57",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "271",
+                    "DOI": "10.21101/cejph.a4677",
+                    "article-title": "Factors influencing suicidal tendencies of patients with diagnosis of attempted suicide in medical history and potential prevention of relapse prevention",
+                    "volume": "25",
+                    "author": "Kotrbov\u00e1",
+                    "year": "2017",
+                    "journal-title": "Cent Eur J Public Health"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.58",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "150",
+                    "DOI": "10.1177/0091415018757214",
+                    "article-title": "Suicide risk factors among older adults: exploring thwarted Belongingness and perceived Burdensomeness in relation to personality and self-esteem",
+                    "volume": "88",
+                    "author": "Eades",
+                    "year": "2019",
+                    "journal-title": "Int J Aging Hum Dev"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.59",
+                    "unstructured": "Putnam RD . Bowling alone: the collapse and revival of American community. Simon & Schuster, 2000.",
+                    "DOI": "10.1145/358916.361990",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.60",
+                    "author": "Wastler",
+                    "year": "2020",
+                    "article-title": "Perceived burdensomeness, thwarted belongingness and suicidal ideation among individuals with first-episode psychosis",
+                    "journal-title": "Early Interv Psychiatry",
+                    "DOI": "10.1111/eip.13023",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.61",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "650",
+                    "DOI": "10.1016/j.apnu.2018.03.003",
+                    "article-title": "Suicide in sexual minority populations: a systematic review of evidence-based studies",
+                    "volume": "32",
+                    "author": "Y\u0131ld\u0131z",
+                    "year": "2018",
+                    "journal-title": "Arch Psychiatr Nurs"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.62",
+                    "unstructured": "Robertson D , Smyth J , McIntosh I . Neighbourhood identity: effects of time, location and social class. Joseph Rowntree Foundation, 2008. Available: https://www.jrf.org.uk/report/neighbourhood-identity-effects-time-location-and-social-class"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.63",
+                    "author": "Fortuna",
+                    "volume": "7",
+                    "year": "2020",
+                    "article-title": "Digital peer support mental health interventions for people with a lived experience of a serious mental illness: systematic review",
+                    "journal-title": "JMIR Ment Health",
+                    "DOI": "10.2196/16460",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.64",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "484",
+                    "DOI": "10.1111/inm.12256",
+                    "article-title": "Peer support interventions seeking to improve physical health and lifestyle behaviours among people with serious mental illness: a systematic review",
+                    "volume": "25",
+                    "author": "Stubbs",
+                    "year": "2016",
+                    "journal-title": "Int J Ment Health Nurs"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.65",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "463",
+                    "DOI": "10.1037/hea0000120",
+                    "article-title": "Peers promoting physical activity among breast cancer survivors: a randomized controlled trial",
+                    "volume": "34",
+                    "author": "Pinto",
+                    "year": "2015",
+                    "journal-title": "Health Psychol"
+                },
+                {
+                    "key": "2021020408551347000_11.2.e035252.66",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1295",
+                    "DOI": "10.1002/pon.3884",
+                    "article-title": "Peer mentorship to promote physical activity among cancer survivors: effects on quality of life",
+                    "volume": "24",
+                    "author": "Pinto",
+                    "year": "2015",
+                    "journal-title": "Psychooncology"
+                }
+            ],
+            "container-title": "BMJ Open",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2019-035252",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        4
+                    ]
+                ],
+                "date-time": "2021-02-04T17:39:18Z",
+                "timestamp": 1612460358000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 66,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2021,
+                            2,
+                            4
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "alternative-id": [
+                "10.1136/bmjopen-2019-035252"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmjopen-2019-035252",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2044-6055",
+                "2044-6055"
+            ],
+            "subject": [
+                "General Medicine"
+            ],
+            "container-title-short": "BMJ Open"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "adult psychiatry",
+                        "mental health",
+                        "suicide & self-harm"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "33542033",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "14"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "14"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "02",
+                            "Day": "04"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmjopen-2019-035252"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "2044-6055",
+                        "JournalIssue": {
+                            "Volume": "11",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "02",
+                                "Day": "04"
+                            }
+                        },
+                        "Title": "BMJ open",
+                        "ISOAbbreviation": "BMJ Open"
+                    },
+                    "ArticleTitle": "Investigation to identify individual socioeconomic and health determinants of suicidal ideation using responses to a cross-sectional, community-based public health survey.",
+                    "Pagination": {
+                        "MedlinePgn": "e035252"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To address a gap in knowledge by simultaneously assessing a broad spectrum of individual socioeconomic and potential health determinants of suicidal ideation (SI) using validated measures in a large UK representative community sample.",
+                            "In this cross-sectional design, participants were recruited via random area probability sampling to participate in a comprehensive public health survey. The questionnaire examined demographic, health and socioeconomic factors. Logistic regression analysis was employed to identify predictors of SI.",
+                            "Community setting from high (n=20) and low (n=8) deprivation neighbourhoods across the North West of England, UK.",
+                            "4319 people were recruited between August 2015 and January 2016. There were 809 participants from low-deprivation neighbourhoods and 3510 from high-deprivation neighbourhoods. The sample comprised 1854 (43%) men and 2465 (57%) women.",
+                            "SI was the dependent variable which was assessed using item 9 of the Patient Health Questionnaire-9 instrument.",
+                            "454 (11%) participants reported having SI within the last 2 weeks. Model 1 (excluding mental health variables) identified younger age, black and minority ethnic (BME) background, lower housing quality and current smoker status as key predictors of SI. Higher self-esteem, empathy and neighbourhood belonging, alcohol abstinence and having arthritis were protective against SI. Model 2 (including mental health variables) found depression and having cancer as key health predictors for SI, while identifying as lesbian, gay, bisexual, transgender or queer (LGBTQ) and BME were significant demographic predictors. Alcohol abstinence, having arthritis and higher empathy levels were protective against SI.",
+                            "This study suggests that it could be useful to increase community support and sense of belonging using a public health approach for vulnerable groups (e.g. those with cancer) and peer support for people who identify as LGBTQ and/or BME. Also, interventions aimed at increasing empathic functioning may prove effective for reducing SI."
+                        ],
+                        "CopyrightInformation": "\u00a9 Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY. Published by BMJ."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Primary Care and Mental Health, University of Liverpool, Liverpool, UK helen.mulholland@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-6679-7257"
+                            ],
+                            "LastName": "Mulholland",
+                            "ForeName": "Helen",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Natural Sciences and Psychology, Liverpool John Moores University, Liverpool, Merseyside, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McIntyre",
+                            "ForeName": "Jason C",
+                            "Initials": "JC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Nursing, Manchester Metropolitan University, Manchester, Greater Manchester, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0001-6989-0943"
+                            ],
+                            "LastName": "Haines-Delmont",
+                            "ForeName": "Alina",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Br\u00f8set Centre for Research and Education in Forensic Psychiatry, St. Olav's Hospital and Department of Mental Health, Norwegian University of Science and Technology, Trondheim, Norway."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Whittington",
+                            "ForeName": "Richard",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Institute for Health Research Applied Research Collaboration North West Coast (NIHR ARC NWC), University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Comerford",
+                            "ForeName": "Terence",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Corcoran",
+                            "ForeName": "Rhiannon",
+                            "Initials": "R"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open",
+                    "NlmUniqueID": "101552874",
+                    "ISSNLinking": "2044-6055"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cross-Sectional Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Surveys",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Public Health",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Risk Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Socioeconomic Factors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Suicidal Ideation",
+                        "MajorTopicYN": "Y"
+                    }
+                ],
+                "CoiStatement": "Competing interests: JCM reports grants from NIHR, during the conduct of the study."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Int J Ment Health Nurs. 2016 Dec;25(6):484-495",
+                                "ArticleIdList": [
+                                    "27600483"
+                                ]
+                            },
+                            {
+                                "Citation": "Suicide Life Threat Behav. 2017 Dec;47(6):729-745",
+                                "ArticleIdList": [
+                                    "28220516"
+                                ]
+                            },
+                            {
+                                "Citation": "Philos Trans R Soc Lond B Biol Sci. 2018 Sep 5;373(1754):",
+                                "ArticleIdList": [
+                                    "30012735"
+                                ]
+                            },
+                            {
+                                "Citation": "Cent Eur J Public Health. 2017 Dec;25(4):271-276",
+                                "ArticleIdList": [
+                                    "29346848"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Geriatr Psychiatry. 2017 Jun;32(6):596-604",
+                                "ArticleIdList": [
+                                    "27162147"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Psychiatr Scand Suppl. 2004;(420):21-7",
+                                "ArticleIdList": [
+                                    "15128384"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychooncology. 2015 Oct;24(10):1295-1302",
+                                "ArticleIdList": [
+                                    "26110777"
+                                ]
+                            },
+                            {
+                                "Citation": "J Affect Disord. 2017 Feb;209:80-85",
+                                "ArticleIdList": [
+                                    "27888724"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychosomatics. 2020 Nov - Dec;61(6):597-606",
+                                "ArticleIdList": [
+                                    "32800347"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Psychiatry. 2012 Aug 08;12:105",
+                                "ArticleIdList": [
+                                    "22873772"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Psychol. 2015 May;34(5):463-72",
+                                "ArticleIdList": [
+                                    "25110844"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Qual Life Outcomes. 2007 Nov 27;5:63",
+                                "ArticleIdList": [
+                                    "18042300"
+                                ]
+                            },
+                            {
+                                "Citation": "Behav Res Ther. 2019 Sep;120:103329",
+                                "ArticleIdList": [
+                                    "30477905"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Intern Med. 2006 May 22;166(10):1092-7",
+                                "ArticleIdList": [
+                                    "16717171"
+                                ]
+                            },
+                            {
+                                "Citation": "Early Interv Psychiatry. 2020 Aug 27;:",
+                                "ArticleIdList": [
+                                    "32852887"
+                                ]
+                            },
+                            {
+                                "Citation": "AIDS Care. 1997 Aug;9(4):373-84",
+                                "ArticleIdList": [
+                                    "9337882"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Psychiatry. 2008 Feb;192(2):98-105",
+                                "ArticleIdList": [
+                                    "18245022"
+                                ]
+                            },
+                            {
+                                "Citation": "J Affect Disord. 2019 Feb 15;245:653-667",
+                                "ArticleIdList": [
+                                    "30445391"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Psychiatry. 2011 Jul;199(1):64-70",
+                                "ArticleIdList": [
+                                    "21263012"
+                                ]
+                            },
+                            {
+                                "Citation": "Suicide Life Threat Behav. 2014 Feb;44(1):1-5",
+                                "ArticleIdList": [
+                                    "24313594"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychosom Med. 1996 Mar-Apr;58(2):113-21",
+                                "ArticleIdList": [
+                                    "8849626"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2005 Mar 19-25;365(9464):1099-104",
+                                "ArticleIdList": [
+                                    "15781105"
+                                ]
+                            },
+                            {
+                                "Citation": "J Consult Clin Psychol. 1973 Dec;41(3):397-404",
+                                "ArticleIdList": [
+                                    "4803272"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Clin Pract. 2012 May;66(5):431-3",
+                                "ArticleIdList": [
+                                    "22432949"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Psychiatr Nurs. 2018 Aug;32(4):650-659",
+                                "ArticleIdList": [
+                                    "30029759"
+                                ]
+                            },
+                            {
+                                "Citation": "J Intern Med. 2013 Jan;273(1):48-58",
+                                "ArticleIdList": [
+                                    "22775487"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Public Health. 2020 Aug 18;20(1):1257",
+                                "ArticleIdList": [
+                                    "32811459"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Rev. 1990 Jan;97(1):90-113",
+                                "ArticleIdList": [
+                                    "2408091"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Psychiatry. 2010 Dec;71(12):1617-28",
+                                "ArticleIdList": [
+                                    "20816034"
+                                ]
+                            },
+                            {
+                                "Citation": "JMIR Ment Health. 2020 Apr 3;7(4):e16460",
+                                "ArticleIdList": [
+                                    "32243256"
+                                ]
+                            },
+                            {
+                                "Citation": "Aging Ment Health. 2016;20(2):222-30",
+                                "ArticleIdList": [
+                                    "26161825"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2013;8(4):e60230",
+                                "ArticleIdList": [
+                                    "23565204"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Methods. 2002 Mar;7(1):19-40",
+                                "ArticleIdList": [
+                                    "11928888"
+                                ]
+                            },
+                            {
+                                "Citation": "Behav Sci (Basel). 2019 Mar 03;9(3):",
+                                "ArticleIdList": [
+                                    "30832390"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Aging Hum Dev. 2019 Mar;88(2):150-167",
+                                "ArticleIdList": [
+                                    "29480062"
+                                ]
+                            },
+                            {
+                                "Citation": "J Affect Disord. 2011 Nov;134(1-3):341-7",
+                                "ArticleIdList": [
+                                    "21652085"
+                                ]
+                            },
+                            {
+                                "Citation": "Mol Psychiatry. 2018 Feb;23(2):335-343",
+                                "ArticleIdList": [
+                                    "27752078"
+                                ]
+                            },
+                            {
+                                "Citation": "Maturitas. 2014 Apr;77(4):375-9",
+                                "ArticleIdList": [
+                                    "24602554"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Psychother. 2009 Sep;82(Pt 3):247-60",
+                                "ArticleIdList": [
+                                    "19426584"
+                                ]
+                            },
+                            {
+                                "Citation": "J Affect Disord. 2013 May;147(1-3):17-28",
+                                "ArticleIdList": [
+                                    "23411024"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2021",
+                        "Month": "2",
+                        "Day": "5",
+                        "Hour": "5",
+                        "Minute": "46"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "2",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "5",
+                        "Day": "15",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "33542033",
+                    "bmjopen-2019-035252",
+                    "10.1136/bmjopen-2019-035252",
+                    "PMC7868260"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33542033)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833542033%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833542033%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101018595"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101018595?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85101018595&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85101018595&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85101018595",
+                        "dc:identifier": "SCOPUS_ID:85101018595",
+                        "eid": "2-s2.0-85101018595",
+                        "dc:title": "Investigation to identify individual socioeconomic and health determinants of suicidal ideation using responses to a cross-sectional, community-based public health survey",
+                        "dc:creator": "Mulholland H.",
+                        "prism:publicationName": "BMJ open",
+                        "prism:eIssn": "20446055",
+                        "prism:volume": "11",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "e035252",
+                        "prism:coverDate": "2021-02-04",
+                        "prism:coverDisplayDate": "4 February 2021",
+                        "prism:doi": "10.1136/bmjopen-2019-035252",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33542033",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "19800188003",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "3RMRDX9B.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33542033"
+            }
+        },
+        "title": "Investigation to identify individual socioeconomic and health determinants of suicidal ideation using responses to a cross-sectional, community-based public health survey.",
+        "full_author_list": [
+            {
+                "clean": "Mulholland H",
+                "family": "Mulholland",
+                "given": "Helen",
+                "affiliation": {
+                    "name": "Primary Care and Mental Health, University of Liverpool, Liverpool, UK helen.mulholland@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "McIntyre J",
+                "family": "McIntyre",
+                "given": "Jason C",
+                "affiliation": {
+                    "name": "Natural Sciences and Psychology, Liverpool John Moores University, Liverpool, Merseyside, UK."
+                }
+            },
+            {
+                "clean": "Haines-Delmont A",
+                "family": "Haines-Delmont",
+                "given": "Alina",
+                "affiliation": {
+                    "name": "Department of Nursing, Manchester Metropolitan University, Manchester, Greater Manchester, UK."
+                }
+            },
+            {
+                "clean": "Whittington R",
+                "family": "Whittington",
+                "given": "Richard",
+                "affiliation": {
+                    "name": "Br\u00f8set Centre for Research and Education in Forensic Psychiatry, St. Olav's Hospital and Department of Mental Health, Norwegian University of Science and Technology, Trondheim, Norway."
+                }
+            },
+            {
+                "clean": "Comerford T",
+                "family": "Comerford",
+                "given": "Terence",
+                "affiliation": {
+                    "name": "National Institute for Health Research Applied Research Collaboration North West Coast (NIHR ARC NWC), University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Corcoran R",
+                "family": "Corcoran",
+                "given": "Rhiannon",
+                "affiliation": {
+                    "name": "Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Mulholland H",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Cross-Sectional Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Surveys",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Public Health",
+                    "major": "Y"
+                },
+                {
+                    "term": "Risk Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Socioeconomic Factors",
+                    "major": "N"
+                },
+                {
+                    "term": "Suicidal Ideation",
+                    "major": "Y"
+                }
+            ],
+            "other": [
+                "adult psychiatry",
+                "mental health",
+                "suicide & self-harm"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMJ Open",
+            "volume": "11",
+            "issue": "2"
+        },
+        "abstract": "['To address a gap in knowledge by simultaneously assessing a broad spectrum of individual socioeconomic and potential health determinants of suicidal ideation (SI) using validated measures in a large UK representative community sample.', 'In this cross-sectional design, participants were recruited via random area probability sampling to participate in a comprehensive public health survey. The questionnaire examined demographic, health and socioeconomic factors. Logistic regression analysis was employed to identify predictors of SI.', 'Community setting from high (n=20) and low (n=8) deprivation neighbourhoods across the North West of England, UK.', '4319 people were recruited between August 2015 and January 2016. There were 809 participants from low-deprivation neighbourhoods and 3510 from high-deprivation neighbourhoods. The sample comprised 1854 (43%) men and 2465 (57%) women.', 'SI was the dependent variable which was assessed using item 9 of the Patient Health Questionnaire-9 instrument.', '454 (11%) participants reported having SI within the last 2 weeks. Model 1 (excluding mental health variables) identified younger age, black and minority ethnic (BME) background, lower housing quality and current smoker status as key predictors of SI. Higher self-esteem, empathy and neighbourhood belonging, alcohol abstinence and having arthritis were protective against SI. Model 2 (including mental health variables) found depression and having cancer as key health predictors for SI, while identifying as lesbian, gay, bisexual, transgender or queer (LGBTQ) and BME were significant demographic predictors. Alcohol abstinence, having arthritis and higher empathy levels were protective against SI.', 'This study suggests that it could be useful to increase community support and sense of belonging using a public health approach for vulnerable groups (e.g. those with cancer) and peer support for people who identify as LGBTQ and/or BME. Also, interventions aimed at increasing empathic functioning may prove effective for reducing SI.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Primary Care and Mental Health, University of Liverpool, Liverpool, UK helen.mulholland@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

@@ -1,0 +1,1303 @@
+{
+    "IDs": {
+        "zotero": "Z4VM5GL5",
+        "DOI": "10.1186/s12889-021-10506-4",
+        "DOI_filename": "5d14b318b4f46f831c244bf69993dfa3",
+        "PMID": "33673833",
+        "scopus": "2-s2.0-85102205123",
+        "hash": "a01671e3f7c013d8271f3bd2f1cdd97e"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "Z4VM5GL5",
+            "version": 987,
+            "itemType": "journalArticle",
+            "title": "How do Muslim community members perceive Covid-19 risk reduction recommendations - a UK qualitative study?",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Shaima M.",
+                    "lastName": "Hassan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Adele",
+                    "lastName": "Ring"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Naheed",
+                    "lastName": "Tahir"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Introduction\n              The evidence is now unequivocal that people from Black and Minority Ethnic Backgrounds (BAME) living in the UK are disproportionately affected by covid-19. There is growing evidence that the reasons for this difference are multi-factorial and need further exploration.\n            \n            \n              Aim\n              The aim of this study was to understand better, perceptions of risk and responses to covid-19 of members of the Muslim community living in the North West of England, and to understand the facilitators and barriers to adherence to restrictions and guidance measures.\n            \n            \n              Method\n              A total of 47 participants took part in 25 in-depth qualitative interviews and four focus groups (n=22)\u00a0that explored perceptions of risk and responses to risk from covid-19. Data were analysed thematically.\n            \n            \n              Findings\n              Participants were aware of the mechanism of transmission of covid-19 and took steps to mitigate risk of transmission including, observing a range of hygiene practices and following social distancing guidance. Increased risk of covid-19 for BAME populations was explained largely in terms of exposure to the virus due to the types of employment people from BAME populations are employed in. Limitations both within the working environment and more generally in public spaces, was identified as problematic for effective social distancing. The closure of mosques sent out a strong message about the seriousness of the virus and religious teachings reinforced hygiene and social distancing guidelines.\n            \n            \n              Conclusion\n              Across society there are people that adhere to restrictions and guidelines and those that do not. Improving local information provision and communication pathways during times of the pandemic, could aid understanding of risk and promote adherence to social distancing restrictions.",
+            "publicationTitle": "BMC Public Health",
+            "volume": "21",
+            "issue": "1",
+            "pages": "449",
+            "date": "12/2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Public Health",
+            "language": "en",
+            "DOI": "10.1186/s12889-021-10506-4",
+            "ISSN": "1471-2458",
+            "shortTitle": "",
+            "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10506-4",
+            "accessDate": "2021-07-23T16:46:15Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33673833",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:34Z",
+            "dateModified": "2021-07-27T11:58:23Z",
+            "pmid": "33673833"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        7
+                    ]
+                ],
+                "date-time": "2021-03-07T00:46:42Z",
+                "timestamp": 1615078002616
+            },
+            "reference-count": 41,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                3,
+                                5
+                            ]
+                        ],
+                        "date-time": "2021-03-05T00:00:00Z",
+                        "timestamp": 1614902400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                3,
+                                5
+                            ]
+                        ],
+                        "date-time": "2021-03-05T00:00:00Z",
+                        "timestamp": 1614902400000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Introduction</jats:title>\n                <jats:p>The evidence is now unequivocal that people from Black and Minority Ethnic Backgrounds (BAME) living in the UK are disproportionately affected by covid-19. There is growing evidence that the reasons for this difference are multi-factorial and need further exploration.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Aim</jats:title>\n                <jats:p>The aim of this study was to understand better, perceptions of risk and responses to covid-19 of members of the Muslim community living in the North West of England, and to understand the facilitators and barriers to adherence to restrictions and guidance measures.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Method</jats:title>\n                <jats:p>A total of 47 participants took part in 25 in-depth qualitative interviews and four focus groups (n=22)\u00a0that explored perceptions of risk and responses to risk from covid-19. Data were analysed thematically.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Findings</jats:title>\n                <jats:p>Participants were aware of the mechanism of transmission of covid-19 and took steps to mitigate risk of transmission including, observing a range of hygiene practices and following social distancing guidance. Increased risk of covid-19 for BAME populations was explained largely in terms of exposure to the virus due to the types of employment people from BAME populations are employed in. Limitations both within the working environment and more generally in public spaces, was identified as problematic for effective social distancing. The closure of mosques sent out a strong message about the seriousness of the virus and religious teachings reinforced hygiene and social distancing guidelines.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusion</jats:title>\n                <jats:p>Across society there are people that adhere to restrictions and guidelines and those that do not. Improving local information provision and communication pathways during times of the pandemic, could aid understanding of risk and promote adherence to social distancing restrictions.</jats:p>\n              </jats:sec>",
+            "DOI": "10.1186/s12889-021-10506-4",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        5
+                    ]
+                ],
+                "date-time": "2021-03-05T19:03:00Z",
+                "timestamp": 1614970980000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "How do Muslim community members perceive Covid-19 risk reduction recommendations - a UK qualitative study?",
+            "prefix": "10.1186",
+            "volume": "21",
+            "author": [
+                {
+                    "given": "Shaima M.",
+                    "family": "Hassan",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Adele",
+                    "family": "Ring",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Naheed",
+                    "family": "Tahir",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        5
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "10506_CR1",
+                    "unstructured": "Public Health England Report. Disparities in the risk and outcomes of COVID-19: PHE publications; 2020. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/908434/Disparities_in_the_risk_and_outcomes_of_COVID_August_2020_update.pdf"
+                },
+                {
+                    "key": "10506_CR2",
+                    "unstructured": "Public Health England Report. Beyond the data: Understanding the impact of COVID-19 on BAME groups. PHE publications; 2020. https://www.gov.uk/government/publications/covid-19-understanding-the-impact-on-bame-communities."
+                },
+                {
+                    "key": "10506_CR3",
+                    "unstructured": "NHS England. Statistics: COVID-19 Daily Deaths. NHS England; https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-daily-deaths/). Accessed 23 Apr 2020."
+                },
+                {
+                    "key": "10506_CR4",
+                    "unstructured": "Intensive Care National Audit and Research Centre. ICNARC report on COVID-19 in critical care:17-April-2020. https://www.icnarc.org/Our-Audit/Audits/Cmp/Reports. Accessed 18 Apr 2020."
+                },
+                {
+                    "key": "10506_CR5",
+                    "unstructured": "Roxby, P. Coronavirus: Higher ethnic death risk 'not linked to health'. BBC. 2020. https://www.bbc.co.uk/news/health-54567866. Accessed 16 Oct 2020."
+                },
+                {
+                    "key": "10506_CR6",
+                    "author": "M Marmot",
+                    "year": "2020",
+                    "unstructured": "Marmot M, Allen J, Boyce T, Goldblatt P, Morrison J. Health equity in England: the Marmot review 10 years on. London: Institute of Health Equit; 2020. http://www.instituteofhealthequity.org/resources-reports/marmot-review-10-years-on/the-marmot-review-10-years-on-full-report.pdf",
+                    "volume-title": "Health equity in England: the Marmot review 10 years on"
+                },
+                {
+                    "key": "10506_CR7",
+                    "unstructured": "Pareek M, Bangash MN, Pareek N, et al. Ethnicity and COVID-19: an urgent public health research priority. Lancet. 2020;0. https://doi.org/10.1016/S0140-6736(20)30922-3.",
+                    "DOI": "10.1016/S0140-6736(20)30922-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10506_CR8",
+                    "unstructured": "Mamluk L, Jones T. The impact of COVID-19 on black, Asian and minority ethnic communities. 2020. Available from https://arcw.nihr.ac.uk/research-and-implementation/covid-19-response/reports/the-impact-of-covid-19-on-black-asian-and-minority-ethnic-communities/."
+                },
+                {
+                    "key": "10506_CR9",
+                    "unstructured": "GOV UK. SPI-M-O Statement on population segmentation by age group. 2020.(Accessed.25 July 2020) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/926922/S0646_SPI-M-O_Statement_on_segmentation_by_age.pdf"
+                },
+                {
+                    "key": "10506_CR10",
+                    "unstructured": "GOV UK. Prime Minister's statement on coronavirus (COVID-19): 2020.(Accessed 17 April.2020) https://www.gov.uk/government/speeches/pm-address-to-the-nation-on-coronavirus-23-march-2020"
+                },
+                {
+                    "key": "10506_CR11",
+                    "unstructured": "GOV UK. Guidance; Staying at home and away from others (social distancing). 2020.(Accessed 1 May 2020) https://www.gov.uk/government/publications/full-guidance-on-staying-at-home-and-away-from-others"
+                },
+                {
+                    "key": "10506_CR12",
+                    "unstructured": "GOV UK. PM statement in the House of Commons 2020.(Accessed 11 May 2020) https://www.gov.uk/government/speeches/pm-statement-in-the-house-of-commons-11-may-2020"
+                },
+                {
+                    "key": "10506_CR13",
+                    "unstructured": "GOV UK. Policy paper: Slides to accompany coronavirus press conference:2020.(Accessed 11 May.2020) https://www.gov.uk/government/publications/slides-to-accompany-coronavirus-press-conference-11-may-2020"
+                },
+                {
+                    "key": "10506_CR14",
+                    "unstructured": "Hussain S. NHS officials told me Muslim households are particularly vulnerable to coronavirus\u2013it\u2019s important to understand why. Independent 2020(Accessed15 May 2020) https://www.independent.co.uk/voices/coronavirus-muslim-mosque-closure-prayer-nhs-a9411936.html"
+                },
+                {
+                    "key": "10506_CR15",
+                    "unstructured": "Office of National statistic. Coronavirus (COVID-19) related deaths by religious group, England and Wales 2020. (Accessed 20 June 2020) https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/coronaviruscovid19relateddeathsbyreligiousgroupenglandandwales/2marchto15may2020"
+                },
+                {
+                    "key": "10506_CR16",
+                    "unstructured": "Ozalp M. How coronavirus challenges Muslims\u2019 faith and changes their lives. Conversation. 2020.(Accessed 25 June 2020) https://theconversation.com/how-coronavirus-challenges-muslims-faith-and-changes-their-lives-133925"
+                },
+                {
+                    "key": "10506_CR17",
+                    "unstructured": "Ahmed A, Alzahrani F, Varney J. Muslim faith and COVID-19: Do faith communities limit or increase the spread of the new Coronavirus? MedShrOpen. 2020; https://en.medshr.net/open/muslim-faith-islam-covid."
+                },
+                {
+                    "key": "10506_CR18",
+                    "unstructured": "Rahim Z. In the latest sign of Covid-19-related racism, Muslims are being blamed for England's coronavirus outbreaks. CNN. 2020. https://edition.cnn.com/2020/08/06/europe/muslims-coronavirus-england-islamophobia-gbr-intl/index.html. Accessed 29 Aug 2020."
+                },
+                {
+                    "key": "10506_CR19",
+                    "unstructured": "Buller A. Why are British Muslims being falsely blamed for the spread of Covid-19?. Arabian Business.2020.(Accessed 20 Sept 2020) https://www.arabianbusiness.com/politics-economics/451249-why-are-muslims-being-falsely-blamed-for-the-spread-of-covid-19-in-britain"
+                },
+                {
+                    "key": "10506_CR20",
+                    "unstructured": "Hockaday J. Tory MP slammed for blaming Muslims and BAME people for coronavirus surge. Metro. 2020 (Accessed 20 Sept 2020) https://metro.co.uk/2020/08/01/tory-mp-slammed-blaming-muslims-bame-people-coronavirus-surge-13068463/"
+                },
+                {
+                    "key": "10506_CR21",
+                    "unstructured": "Billig M. and Tajfel H. Social categorization and similarity in intergroup behavior. Eur J Soc Psychol.1973,3,27\u201352. doi.org/https://doi.org/10.1002/ejsp.2420030103",
+                    "DOI": "10.1002/ejsp.2420030103",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10506_CR22",
+                    "author": "A Bowling",
+                    "year": "2002",
+                    "edition": "2",
+                    "unstructured": "Bowling A. Research methods in health. 2nd ed. Maidenhead: Open University Press; 2002.",
+                    "volume-title": "Research methods in health"
+                },
+                {
+                    "key": "10506_CR23",
+                    "author": "A Bryman",
+                    "year": "2001",
+                    "unstructured": "Bryman A. Social research methods. Oxford: Oxford University Press; 2001.",
+                    "volume-title": "Social research methods"
+                },
+                {
+                    "issue": "2",
+                    "key": "10506_CR24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "228",
+                    "DOI": "10.1111/j.1365-2648.2007.04559.x",
+                    "volume": "62",
+                    "author": "SD Lambert",
+                    "year": "2008",
+                    "unstructured": "Lambert SD, Loiselle CG. J Adv Nurs. 2008;62(2):228\u201337.",
+                    "journal-title": "J Adv Nurs"
+                },
+                {
+                    "key": "10506_CR25",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "902",
+                    "DOI": "10.1016/j.sbspro.2009.01.160",
+                    "volume": "1",
+                    "author": "N Aksan",
+                    "year": "2009",
+                    "unstructured": "Aksan N, Kisac B, Aydin M, Demirbukin S. Symbolic interaction theory. Proc Soc Behav Sci. 2009;1:902\u20134. https://doi.org/10.1016/j.sbspro.2009.01.160.",
+                    "journal-title": "Proc Soc Behav Sci"
+                },
+                {
+                    "key": "10506_CR26",
+                    "first-page": "2",
+                    "volume": "19",
+                    "author": "AC Walker",
+                    "year": "2015",
+                    "unstructured": "Walker AC. Social constructionism and qualitative research. J Theory Const Test. 2015;19:2 https://www.questia.com/library/journal/1P3-4107909561/social-constructionism-and-qualitative-research.",
+                    "journal-title": "J Theory Const Test"
+                },
+                {
+                    "key": "10506_CR27",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "9",
+                    "DOI": "10.1098/rsos.200742",
+                    "volume": "7",
+                    "author": "T Wise",
+                    "year": "2020",
+                    "unstructured": "Wise T, Zbozinek T, Michelini G, Hagan C, Mobbs D. Changes in risk perception and protective behavior during the first week of the covid-19 pandemic in the United States. R Soc Open Sci. 2020;7:9. https://doi.org/10.1098/rsos.200742.",
+                    "journal-title": "R Soc Open Sci"
+                },
+                {
+                    "key": "10506_CR28",
+                    "unstructured": "Harper C, Satchell L, Fido D, Latzman R. Functional fear predicts health compliance in the COVID-19 pandemic. Int J Mental Health Addict. 2020. https://doi.org/10.1007/s11469-202-00281-5 Advance online publication.",
+                    "DOI": "10.1007/s11469-202-00281-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10506_CR29",
+                    "unstructured": "The Doreen Lawrence Review. An avoidable crisis: The disproportionate impact of Covid-19 on black, Asian and minority ethnic communities.2020. https://www.lawrencereview.co.uk/"
+                },
+                {
+                    "issue": "0",
+                    "key": "10506_CR30",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1177/0004865820954484",
+                    "volume": "0",
+                    "author": "K Murphy",
+                    "year": "2020",
+                    "unstructured": "Murphy K, Williamson H, Sargeant E, McCarthy M. Why people comply with covid-19 social distancing restrictions: self-interest or duty. Austr N Z J Criminol. 2020;0(0):1\u201320. https://doi.org/10.1177/0004865820954484.",
+                    "journal-title": "Austr N Z J Criminol"
+                },
+                {
+                    "issue": "4",
+                    "key": "10506_CR31",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "797",
+                    "DOI": "10.1348/135910710X485826",
+                    "volume": "15",
+                    "author": "A Bish",
+                    "year": "2020",
+                    "unstructured": "Bish A, Michie S. Demographic and attitudinal determinants of protective behaviours during a pandemic: a review. Br J Health Psychol. 2020;15(4):797\u2013824.",
+                    "journal-title": "Br J Health Psychol"
+                },
+                {
+                    "issue": "5",
+                    "key": "10506_CR32",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "761",
+                    "DOI": "10.1093/her/cyr035",
+                    "volume": "26",
+                    "author": "B Prati",
+                    "year": "2020",
+                    "unstructured": "Prati B, Pietrantoni L, Zani B. Compliance and recommendations for pandemic influenza H1N1 2009: the role of trust and personal beliefs. Health Educ Res. 2020;26(5):761\u20139.",
+                    "journal-title": "Health Educ Res"
+                },
+                {
+                    "key": "10506_CR33",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "76",
+                    "DOI": "10.1016/j.glt.2020.06.003",
+                    "volume": "2",
+                    "author": "C Clark",
+                    "year": "2020",
+                    "unstructured": "Clark C, Davila A, Regis M, Krausd S. Predictors of COVID-19 voluntary compliance behaviors: an international investigation. Glob Transit. 2020;2:76\u201382. https://doi.org/10.1016/j.glt.2020.06.003.",
+                    "journal-title": "Glob Transit"
+                },
+                {
+                    "key": "10506_CR34",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "26",
+                    "DOI": "10.1007/s41465-017-0009-4",
+                    "volume": "1",
+                    "author": "C Civai",
+                    "year": "2017",
+                    "unstructured": "Civai C, Ma I. The enhancement of social norm compliance: prospects and caveats. J Cognit Enhance. 2017;1:26\u201330 https://link.springer.com/article/10.1007/s41465-017-0009-4.",
+                    "journal-title": "J Cognit Enhance"
+                },
+                {
+                    "key": "10506_CR35",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "171268",
+                    "DOI": "10.1098/rsos.171268",
+                    "volume": "5",
+                    "author": "U Toelch",
+                    "year": "2018",
+                    "unstructured": "Toelch U, Panzzia F, Heekeren HR. Norm compliance effects perceptual decisions through modulation of a starting point bias. R Soc Open Sci. 2018;5:171268. https://doi.org/10.1098/rsos.171268.",
+                    "journal-title": "R Soc Open Sci"
+                },
+                {
+                    "issue": "4",
+                    "key": "10506_CR36",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "343",
+                    "DOI": "10.1111/j.1547-5069.2005.00059.x",
+                    "volume": "37",
+                    "author": "MA Cava",
+                    "year": "2005",
+                    "unstructured": "Cava MA, Fay KE, Beanlands HJ, McCay EA, Wignall R. Risk perception and compliance with quarantine during the SARS outbreak. J Nurs Scholarsh. 2005;37(4):343\u20137. https://doi.org/10.1111/j.1547-5069.2005.00059.x.",
+                    "journal-title": "J Nurs Scholarsh"
+                },
+                {
+                    "issue": "1",
+                    "key": "10506_CR37",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "27",
+                    "DOI": "10.1016/j.tics.2014.11.005",
+                    "volume": "19",
+                    "author": "C Summerfield",
+                    "year": "2015",
+                    "unstructured": "Summerfield C, Tsetsos K. Do Humans make good decisions. Trends Cogn Sci. 2015;19(1):27\u201334. https://doi.org/10.1016/j.tics.2014.11.005.",
+                    "journal-title": "Trends Cogn Sci"
+                },
+                {
+                    "key": "10506_CR38",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1136/bmj.b2651",
+                    "volume": "339",
+                    "author": "GJ Rubin",
+                    "year": "2009",
+                    "unstructured": "Rubin GJ, Amlot R, Page L, Wessely S. Public perceptions, anxiety, and behaviour change in relation to the swine flu outbreak: Cross sectional telephone survey. Br Med J. 2009;339:1\u20138. https://doi.org/10.1136/bmj.b2651.",
+                    "journal-title": "Br Med J"
+                },
+                {
+                    "key": "10506_CR39",
+                    "unstructured": "GOV UK. Public Health Messaging for Communities from Different Cultural Backgrounds.2020.(Accessed 28 Aug 2020) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/914924/s0649-public-health-messaging-bame-communities.pdf"
+                },
+                {
+                    "key": "10506_CR40",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "113370",
+                    "DOI": "10.1016/j.socscimed.2020.113370.",
+                    "volume": "268",
+                    "author": "A Nivette",
+                    "year": "2020",
+                    "unstructured": "Nivette A, Ribeaud D, Murray A, Steinhoff A, Bechtiger L, Hepp U, Shanahan L, Eisner M. Non-compliance with COVID-19-related public health messages among young adults in Switzerland: insights form a longitudinal cohort study. Soc Sci Med. 2020;268:113370. https://doi.org/10.1016/j.socscimed.2020.113370.",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "key": "10506_CR41",
+                    "author": "E Kooistra",
+                    "year": "2020",
+                    "unstructured": "Kooistra E, Folmer C, Kuiper M, Olthuis E, Brownlee M, Fine A, van Rooij B. Mitigating covid-19 in a nationally representative UK sample: personal abilities and obligation to obey the law shape compliance with mitigation measures; 2020. https://doi.org/10.31234/osf.io/zuc23.",
+                    "volume-title": "Mitigating covid-19 in a nationally representative UK sample: personal abilities and obligation to obey the law shape compliance with mitigation measures",
+                    "DOI": "10.31234/osf.io/zuc23",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "BMC Public Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12889-021-10506-4.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s12889-021-10506-4/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12889-021-10506-4.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        5
+                    ]
+                ],
+                "date-time": "2021-03-05T19:04:56Z",
+                "timestamp": 1614971096000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        5
+                    ]
+                ]
+            },
+            "references-count": 41,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "10506"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12889-021-10506-4",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1471-2458"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health"
+            ],
+            "container-title-short": "BMC Public Health",
+            "assertion": [
+                {
+                    "value": "7 December 2020",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "23 February 2021",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "5 March 2021",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Declarations"
+                    }
+                },
+                {
+                    "value": "This study received University of Liverpool ethical committee approval [Ref: 7685] and the study protocol was carried out in accordance with relevant guidelines and regulations of the university ethics.All participants were provided with an electronic copy of the study information sheet and consent form. They were followed up with a phone/zoom call the next day or at a time convenient for them, to discuss the study and what would be involved should they agree to participate.Prior to interviews and focus groups informed consent was obtained from all participants. Participants were asked to read and sign the study consent form (providing an electronic signature or typing their name into the consent form, or signing and scanning the form) and returning it to the research team via email. At the start of each interview and focus group, consent was reviewed and verbal consent was also recorded.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "Not applicable.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "The authors declare that they have no competing interests.",
+                    "order": 4,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "449"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "COVID-19",
+                        "Communication",
+                        "Health behaviours",
+                        "Muslim community",
+                        "Risk"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "33673833",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "22"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "22"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "03",
+                            "Day": "05"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12889-021-10506-4"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1471-2458",
+                        "JournalIssue": {
+                            "Volume": "21",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "03",
+                                "Day": "05"
+                            }
+                        },
+                        "Title": "BMC public health",
+                        "ISOAbbreviation": "BMC Public Health"
+                    },
+                    "ArticleTitle": "How do Muslim community members perceive Covid-19 risk reduction recommendations - a UK qualitative study?",
+                    "Pagination": {
+                        "MedlinePgn": "449"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The evidence is now unequivocal that people from Black and Minority Ethnic Backgrounds (BAME) living in the UK are disproportionately affected by covid-19. There is growing evidence that the reasons for this difference are multi-factorial and need further exploration.",
+                            "The aim of this study was to understand better, perceptions of risk and responses to covid-19 of members of the Muslim community living in the North West of England, and to understand the facilitators and barriers to adherence to restrictions and guidance measures.",
+                            "A total of 47 participants took part in 25 in-depth qualitative interviews and four focus groups (n=22)\u00a0that explored perceptions of risk and responses to risk from covid-19. Data were analysed thematically.",
+                            "Participants were aware of the mechanism of transmission of covid-19 and took steps to mitigate risk of transmission including, observing a range of hygiene practices and following social distancing guidance. Increased risk of covid-19 for BAME populations was explained largely in terms of exposure to the virus due to the types of employment people from BAME populations are employed in. Limitations both within the working environment and more generally in public spaces, was identified as problematic for effective social distancing. The closure of mosques sent out a strong message about the seriousness of the virus and religious teachings reinforced hygiene and social distancing guidelines.",
+                            "Across society there are people that adhere to restrictions and guidelines and those that do not. Improving local information provision and communication pathways during times of the pandemic, could aid understanding of risk and promote adherence to social distancing restrictions."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences. Department of Primary Care and Mental Health, University of Liverpool, Waterhouse Building, Brownlow Street, Liverpool, L69 3GL, England. s.m.hassan@liverpool.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Applied Research Collaboration NWC, Liverpool, England. s.m.hassan@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hassan",
+                            "ForeName": "Shaima M",
+                            "Initials": "SM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences. Department of Primary Care and Mental Health, University of Liverpool, Waterhouse Building, Brownlow Street, Liverpool, L69 3GL, England."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Applied Research Collaboration NWC, Liverpool, England."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ring",
+                            "ForeName": "Adele",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Applied Research Collaboration NWC, Liverpool, England."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Tahir",
+                            "ForeName": "Naheed",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences. Department of Primary Care and Mental Health, University of Liverpool, Waterhouse Building, Brownlow Street, Liverpool, L69 3GL, England."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Applied Research Collaboration NWC, Liverpool, England."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Public Health",
+                    "NlmUniqueID": "100968562",
+                    "ISSNLinking": "1471-2458"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology",
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "African Continental Ancestry Group",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Aged, 80 and over",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology",
+                            "psychology"
+                        ],
+                        "DescriptorName": "COVID-19",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Communicable Disease Control",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology",
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Ethnic Groups",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Focus Groups",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Guideline Adherence",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Behavior",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Islam",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology",
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Minority Groups",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Pandemics",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Qualitative Research",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Risk Reduction Behavior",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "SARS-CoV-2",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Soc Sci Med. 2021 Jan;268:113370",
+                                "ArticleIdList": [
+                                    "32980677"
+                                ]
+                            },
+                            {
+                                "Citation": "R Soc Open Sci. 2018 Mar 28;5(3):171268",
+                                "ArticleIdList": [
+                                    "29657747"
+                                ]
+                            },
+                            {
+                                "Citation": "J Adv Nurs. 2008 Apr;62(2):228-37",
+                                "ArticleIdList": [
+                                    "18394035"
+                                ]
+                            },
+                            {
+                                "Citation": "Glob Transit. 2020;2:76-82",
+                                "ArticleIdList": [
+                                    "32835202"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Educ Res. 2011 Oct;26(5):761-9",
+                                "ArticleIdList": [
+                                    "21613380"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2020 May 2;395(10234):1421-1422",
+                                "ArticleIdList": [
+                                    "32330427"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2020 Feb 24;368:m693",
+                                "ArticleIdList": [
+                                    "32094110"
+                                ]
+                            },
+                            {
+                                "Citation": "J Nurs Scholarsh. 2005;37(4):343-7",
+                                "ArticleIdList": [
+                                    "16396407"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2009 Jul 02;339:b2651",
+                                "ArticleIdList": [
+                                    "19574308"
+                                ]
+                            },
+                            {
+                                "Citation": "R Soc Open Sci. 2020 Sep 16;7(9):200742",
+                                "ArticleIdList": [
+                                    "33047037"
+                                ]
+                            },
+                            {
+                                "Citation": "Trends Cogn Sci. 2015 Jan;19(1):27-34",
+                                "ArticleIdList": [
+                                    "25488076"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Health Psychol. 2010 Nov;15(Pt 4):797-824",
+                                "ArticleIdList": [
+                                    "20109274"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Ment Health Addict. 2020 Apr 27;:1-14",
+                                "ArticleIdList": [
+                                    "32346359"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "07"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "02",
+                        "Day": "23"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "3",
+                        "Day": "6",
+                        "Hour": "5",
+                        "Minute": "28"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "3",
+                        "Day": "7",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "3",
+                        "Day": "23",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "33673833",
+                    "10.1186/s12889-021-10506-4",
+                    "10.1186/s12889-021-10506-4",
+                    "PMC7935005"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33673833)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833673833%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833673833%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102205123"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102205123?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102205123&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102205123&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102205123",
+                        "dc:identifier": "SCOPUS_ID:85102205123",
+                        "eid": "2-s2.0-85102205123",
+                        "dc:title": "How do Muslim community members perceive Covid-19 risk reduction recommendations - a UK qualitative study?",
+                        "dc:creator": "Hassan S.M.",
+                        "prism:publicationName": "BMC Public Health",
+                        "prism:eIssn": "14712458",
+                        "prism:volume": "21",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-12-01",
+                        "prism:coverDisplayDate": "December 2021",
+                        "prism:doi": "10.1186/s12889-021-10506-4",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR ARC NWC",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33673833",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "449",
+                        "source-id": "19621",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "Z4VM5GL5.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33673833"
+            }
+        },
+        "title": "How do Muslim community members perceive Covid-19 risk reduction recommendations - a UK qualitative study?",
+        "full_author_list": [
+            {
+                "clean": "Hassan S",
+                "family": "Hassan",
+                "given": "Shaima M",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences. Department of Primary Care and Mental Health, University of Liverpool, Waterhouse Building, Brownlow Street, Liverpool, L69 3GL, England. s.m.hassan@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Ring A",
+                "family": "Ring",
+                "given": "Adele",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences. Department of Primary Care and Mental Health, University of Liverpool, Waterhouse Building, Brownlow Street, Liverpool, L69 3GL, England."
+                }
+            },
+            {
+                "clean": "Tahir N",
+                "family": "Tahir",
+                "given": "Naheed",
+                "affiliation": {
+                    "name": "NIHR Applied Research Collaboration NWC, Liverpool, England."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences. Department of Primary Care and Mental Health, University of Liverpool, Waterhouse Building, Brownlow Street, Liverpool, L69 3GL, England."
+                }
+            }
+        ],
+        "first_author": "Hassan S",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "African Continental Ancestry Group",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Aged, 80 and over",
+                    "major": "N"
+                },
+                {
+                    "term": "COVID-19",
+                    "major": "N"
+                },
+                {
+                    "term": "Communicable Disease Control",
+                    "major": "N"
+                },
+                {
+                    "term": "Ethnic Groups",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Focus Groups",
+                    "major": "N"
+                },
+                {
+                    "term": "Guideline Adherence",
+                    "major": "Y"
+                },
+                {
+                    "term": "Health Behavior",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Islam",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Minority Groups",
+                    "major": "N"
+                },
+                {
+                    "term": "Pandemics",
+                    "major": "N"
+                },
+                {
+                    "term": "Qualitative Research",
+                    "major": "N"
+                },
+                {
+                    "term": "Risk Reduction Behavior",
+                    "major": "N"
+                },
+                {
+                    "term": "SARS-CoV-2",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "COVID-19",
+                "Communication",
+                "Health behaviours",
+                "Muslim community",
+                "Risk"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMC Public Health",
+            "volume": "21",
+            "issue": "1"
+        },
+        "abstract": "['The evidence is now unequivocal that people from Black and Minority Ethnic Backgrounds (BAME) living in the UK are disproportionately affected by covid-19. There is growing evidence that the reasons for this difference are multi-factorial and need further exploration.', 'The aim of this study was to understand better, perceptions of risk and responses to covid-19 of members of the Muslim community living in the North West of England, and to understand the facilitators and barriers to adherence to restrictions and guidance measures.', 'A total of 47 participants took part in 25 in-depth qualitative interviews and four focus groups (n=22)\\xa0that explored perceptions of risk and responses to risk from covid-19. Data were analysed thematically.', 'Participants were aware of the mechanism of transmission of covid-19 and took steps to mitigate risk of transmission including, observing a range of hygiene practices and following social distancing guidance. Increased risk of covid-19 for BAME populations was explained largely in terms of exposure to the virus due to the types of employment people from BAME populations are employed in. Limitations both within the working environment and more generally in public spaces, was identified as problematic for effective social distancing. The closure of mosques sent out a strong message about the seriousness of the virus and religious teachings reinforced hygiene and social distancing guidelines.', 'Across society there are people that adhere to restrictions and guidelines and those that do not. Improving local information provision and communication pathways during times of the pandemic, could aid understanding of risk and promote adherence to social distancing restrictions.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Population Health Sciences. Department of Primary Care and Mental Health, University of Liverpool, Waterhouse Building, Brownlow Street, Liverpool, L69 3GL, England. s.m.hassan@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

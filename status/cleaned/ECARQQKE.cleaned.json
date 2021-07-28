@@ -1,0 +1,1461 @@
+{
+    "IDs": {
+        "zotero": "ECARQQKE",
+        "DOI": "10.1186/s12889-021-10815-8",
+        "DOI_filename": "31a5b01aae73f79c252b31a5ffb7d142",
+        "PMID": "33879117",
+        "scopus": "2-s2.0-85104662231",
+        "hash": "de7c42bb5ce84df5745596ab4586e7e9"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "ECARQQKE",
+            "version": 1000,
+            "itemType": "journalArticle",
+            "title": "The potential dangers of not understanding COVID-19 public health restrictions in dementia: \u201cIt\u2019s a groundhog day \u2013 every single day she does not understand why she can\u2019t go out for a walk\u201d",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kerry",
+                    "lastName": "Hanna"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Manoj",
+                    "lastName": "Rajagopal"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Aravind",
+                    "lastName": "Komuravelli"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jacqueline",
+                    "lastName": "Cannon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Justine",
+                    "lastName": "Shenton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ruth",
+                    "lastName": "Eley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anna",
+                    "lastName": "Gaughan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Steve",
+                    "lastName": "Callaghan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hilary",
+                    "lastName": "Tetlow"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stan",
+                    "lastName": "Limbert"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rosie",
+                    "lastName": "Whittington"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Carol",
+                    "lastName": "Rogers"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kym",
+                    "lastName": "Ward"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lisa",
+                    "lastName": "Shaw"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah",
+                    "lastName": "Butchard"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              Sudden public health restrictions can be difficult to comprehend for people with cognitive deficits. However, these are even more important for them to adhere to due to their increased levels of vulnerability, particularly to COVID-19. With a lack of previous evidence, we explored the understanding and changes in adherence to COVID-19 public health restrictions over time in people living with dementia (PLWD).\n            \n            \n              Methods\n              Unpaid carers and PLWD were interviewed over the phone in April 2020, shortly after the nationwide UK lockdown, with a proportion followed up from 24th June to 10th July. Participants were recruited via social care and third sector organisations across the UK, and via social media.\n            \n            \n              Findings\n              A total of 70 interviews (50 baseline, 20 follow-up) were completed with unpaid carers and PLWD. Five themes emerged: Confusion and limited comprehension; Frustration and burden; Putting oneself in danger; Adherence to restrictions in wider society; (Un) changed perceptions. Most carers reported limited to no understanding of the public health measures in PLWD, causing distress and frustration for both the carer and the PLWD. Due to the lack of understanding, some PLWD put themselves in dangerous situations without adhering to the restrictions. PLWD with cognitive capacity who participated understood the measures and adhered to these.\n            \n            \n              Discussion\n              In light of the new second wave of the pandemic, public health measures need to be simpler for PLWD to avoid unwilful non-adherence. Society also needs to be more adaptive to the needs of people with cognitive disabilities more widely, as blanket rules cause distress to the lives of those affected by dementia.",
+            "publicationTitle": "BMC Public Health",
+            "volume": "21",
+            "issue": "1",
+            "pages": "762",
+            "date": "12/2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Public Health",
+            "language": "en",
+            "DOI": "10.1186/s12889-021-10815-8",
+            "ISSN": "1471-2458",
+            "shortTitle": "The potential dangers of not understanding COVID-19 public health restrictions in dementia",
+            "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10815-8",
+            "accessDate": "2021-07-23T16:46:14Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33879117",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:31Z",
+            "dateModified": "2021-07-27T12:12:11Z",
+            "pmid": "33879117"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        20
+                    ]
+                ],
+                "date-time": "2021-04-20T21:08:46Z",
+                "timestamp": 1618952926227
+            },
+            "reference-count": 17,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                4,
+                                20
+                            ]
+                        ],
+                        "date-time": "2021-04-20T00:00:00Z",
+                        "timestamp": 1618876800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                4,
+                                20
+                            ]
+                        ],
+                        "date-time": "2021-04-20T00:00:00Z",
+                        "timestamp": 1618876800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "ARC NWC"
+                    ]
+                },
+                {
+                    "DOI": "10.13039/501100000836",
+                    "name": "University of Liverpool",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Sudden public health restrictions can be difficult to comprehend for people with cognitive deficits. However, these are even more important for them to adhere to due to their increased levels of vulnerability, particularly to COVID-19. With a lack of previous evidence, we explored the understanding and changes in adherence to COVID-19 public health restrictions over time in people living with dementia (PLWD).</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>Unpaid carers and PLWD were interviewed over the phone in April 2020, shortly after the nationwide UK lockdown, with a proportion followed up from 24th June to 10th July. Participants were recruited via social care and third sector organisations across the UK, and via social media.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Findings</jats:title>\n                <jats:p>A total of 70 interviews (50 baseline, 20 follow-up) were completed with unpaid carers and PLWD. Five themes emerged: Confusion and limited comprehension; Frustration and burden; Putting oneself in danger; Adherence to restrictions in wider society; (Un) changed perceptions. Most carers reported limited to no understanding of the public health measures in PLWD, causing distress and frustration for both the carer and the PLWD. Due to the lack of understanding, some PLWD put themselves in dangerous situations without adhering to the restrictions. PLWD with cognitive capacity who participated understood the measures and adhered to these.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Discussion</jats:title>\n                <jats:p>In light of the new second wave of the pandemic, public health measures need to be simpler for PLWD to avoid unwilful non-adherence. Society also needs to be more adaptive to the needs of people with cognitive disabilities more widely, as blanket rules cause distress to the lives of those affected by dementia.</jats:p>\n              </jats:sec>",
+            "DOI": "10.1186/s12889-021-10815-8",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        20
+                    ]
+                ],
+                "date-time": "2021-04-20T20:05:32Z",
+                "timestamp": 1618949132000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "The potential dangers of not understanding COVID-19 public health restrictions in dementia: \u201cIt\u2019s a groundhog day \u2013 every single day she does not understand why she can\u2019t go out for a walk\u201d",
+            "prefix": "10.1186",
+            "volume": "21",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Kerry",
+                    "family": "Hanna",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Manoj",
+                    "family": "Rajagopal",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Aravind",
+                    "family": "Komuravelli",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jacqueline",
+                    "family": "Cannon",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Justine",
+                    "family": "Shenton",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ruth",
+                    "family": "Eley",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Anna",
+                    "family": "Gaughan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Steve",
+                    "family": "Callaghan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Hilary",
+                    "family": "Tetlow",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Stan",
+                    "family": "Limbert",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Rosie",
+                    "family": "Whittington",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Carol",
+                    "family": "Rogers",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Kym",
+                    "family": "Ward",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Lisa",
+                    "family": "Shaw",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Sarah",
+                    "family": "Butchard",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        20
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "10815_CR1",
+                    "author": "Alzheimer\u2019s Disease International (ADI)",
+                    "year": "2020",
+                    "unstructured": "Alzheimer\u2019s Disease International (ADI). From plan to impact III: Maintaining dementia as a priority in unprecedented times. London, England: ADI; 2020.",
+                    "volume-title": "From plan to impact III: Maintaining dementia as a priority in unprecedented times"
+                },
+                {
+                    "issue": "7",
+                    "key": "10815_CR2",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "712",
+                    "DOI": "10.1016/j.jagp.2020.04.010",
+                    "volume": "28",
+                    "author": "EE Brown",
+                    "year": "2020",
+                    "unstructured": "Brown EE, Kumar S, Rajji TK, Pollock BG, Mulsant BH. Anticipating and mitigating the impact of the COVID-19 pandemic on Alzheimer\u2019s disease and related dementias. Am J Geriatr Psychiatr. 2020;28(7):712\u201321. https://doi.org/10.1016/j.jagp.2020.04.010.",
+                    "journal-title": "Am J Geriatr Psychiatr"
+                },
+                {
+                    "issue": "4",
+                    "key": "10815_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "429",
+                    "DOI": "10.1016/j.cortex.2010.12.002",
+                    "volume": "48",
+                    "author": "CL Stopford",
+                    "year": "2012",
+                    "unstructured": "Stopford CL, Thompson JC, Neary D, Richardson AMT, Snowden JS. Working memory, attention, and executive function in Alzheimer\u2019s disease and frontotemporal dementia. Cortex. 2012;48(4):429\u201346. https://doi.org/10.1016/j.cortex.2010.12.002.",
+                    "journal-title": "Cortex"
+                },
+                {
+                    "key": "10815_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "DOI": "10.1016/j.gaitpost.2016.08.009",
+                    "volume": "50",
+                    "author": "NE Fritz",
+                    "year": "2016",
+                    "unstructured": "Fritz NE, Kegelmeyer DA, Kloos AD, Linder S, Park A, Kataki M, et al. Motor performance differentiates individuals with Lewy body dementia, Parkinson\u2019s and Alzheimer\u2019s disease. Gait Posture. 2016;50:1\u20137. https://doi.org/10.1016/j.gaitpost.2016.08.009.",
+                    "journal-title": "Gait Posture"
+                },
+                {
+                    "issue": "3",
+                    "key": "10815_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e1002250",
+                    "DOI": "10.1371/journal.pmed.1002250",
+                    "volume": "14",
+                    "author": "E Cornelis",
+                    "year": "2017",
+                    "unstructured": "Cornelis E, Gorus E, Beyer I, Bautmans I, de Vriendt P. Early diagnosis of mild cognitive impairment and mild dementia through basic and instrumental activities of daily living: development of a new evaluation tool. PLoS Med. 2017;14(3):e1002250. https://doi.org/10.1371/journal.pmed.1002250.",
+                    "journal-title": "PLoS Med"
+                },
+                {
+                    "issue": "10",
+                    "key": "10815_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "551",
+                    "DOI": "10.1016/S2468-2667(20)30190-0",
+                    "volume": "5",
+                    "author": "G Deuschl",
+                    "year": "2020",
+                    "unstructured": "Deuschl G, Beghi E, Fazekas F, et al. The burden of neurologcal diseases in Europe: an analysis for the global burden of disease study 2017. Lancet Public Health. 2020;5(10):551\u201367.",
+                    "journal-title": "Lancet Public Health"
+                },
+                {
+                    "issue": "1",
+                    "key": "10815_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "19",
+                    "DOI": "10.1186/s13195-017-0242-1",
+                    "volume": "9",
+                    "author": "J Kemp",
+                    "year": "2017",
+                    "unstructured": "Kemp J, Philippi N, Phillipps C, Demuynck C, Albasser T, Martin-Hunyadi C, et al. Cognitive profile in prodromal dementia with Lewy bodies. Alzheimers Res Ther. 2017;9(1):19. https://doi.org/10.1186/s13195-017-0242-1.",
+                    "journal-title": "Alzheimers Res Ther"
+                },
+                {
+                    "key": "10815_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "41",
+                    "DOI": "10.1016/j.cortex.2020.06.016",
+                    "volume": "132",
+                    "author": "N Zokaei",
+                    "year": "2020",
+                    "unstructured": "Zokaei N, Sillence A, Kienast A, Drew D, Plant O, Slavkova E, et al. Different patterns of short-term memory deficit in Alzheimer\u2019s disease, Parkinson\u2019s disease and subjective cognitive impairment. Cortex. 2020;132:41\u201350. https://doi.org/10.1016/j.cortex.2020.06.016.",
+                    "journal-title": "Cortex"
+                },
+                {
+                    "key": "10815_CR9",
+                    "unstructured": "Canevelli M, Valletta M, Blasi MT, et al. Facing dementia during the COVID-19 outbreak. J Am Geriarics Soc. 2020. https://doi.org/10.1111/jgs.16644.",
+                    "DOI": "10.1111/jgs.16644",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10815_CR10",
+                    "unstructured": "Giebel C, Cannon J, Hanna K, Butchard S, Eley R, Gaughan A, et al. Impact of Covid-19 related social support service closures on people with dementia and unpaid carers: a qualitative study. Aging Ment Health. 2020:1\u20138. https://doi.org/10.1080/13607863.2020.1822292.",
+                    "DOI": "10.1080/13607863.2020.1822292",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2",
+                    "key": "10815_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "77",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "volume": "3",
+                    "author": "V Braun",
+                    "year": "2006",
+                    "unstructured": "Braun V, Clarke V. Using thematic analysis in psychology. Qual Res Psychol. 2006 Jan 1;3(2):77\u2013101. https://doi.org/10.1191/1478088706qp063oa.",
+                    "journal-title": "Qual Res Psychol"
+                },
+                {
+                    "issue": "5",
+                    "key": "10815_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "366",
+                    "DOI": "10.1192/bjp.bp.114.148403",
+                    "volume": "209",
+                    "author": "RM Van der Linde",
+                    "year": "2016",
+                    "unstructured": "Van der Linde RM, Dening T, Stephan BCM, et al. Longitudinal course of behavioural and psychological symptoms of dementia: systematic review. Br J Psychiatry. 2016;209(5):366\u201377. https://doi.org/10.1192/bjp.bp.114.148403.",
+                    "journal-title": "Br J Psychiatry"
+                },
+                {
+                    "issue": "2",
+                    "key": "10815_CR13",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "101",
+                    "DOI": "10.1002/gps.4295",
+                    "volume": "31",
+                    "author": "C Sutcliffe",
+                    "year": "2016",
+                    "unstructured": "Sutcliffe C, Giebel CM, Jolley D, Challis DJ. Experience of burden in carers of people with dementia on the margins of long-term care. International Journal of Geriatric Psychiatry. 2016;31(2):101\u20138. https://doi.org/10.1002/gps.4295.",
+                    "journal-title": "International Journal of Geriatric Psychiatry"
+                },
+                {
+                    "key": "10815_CR14",
+                    "unstructured": "Care Act 2014 https://www.legislation.gov.uk/ukpga/2014/23/contents/enacted"
+                },
+                {
+                    "key": "10815_CR15",
+                    "unstructured": "Neves BB, Franz R, Munteanu C, Baecker R. Adoption and feasibility of a communication app to enhance social connectedness amongst frail institutionalised oldest old: an embedded case study. Information, Communication & Society online: 1\u201319."
+                },
+                {
+                    "key": "10815_CR16",
+                    "unstructured": "Pendo E, Gatter R, Mohapatra S. Resolving tensions between disability rights law and COVID-19 mask policies. Maryland Law Review Online 2020; last accessed 25th September 2020: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3625840",
+                    "DOI": "10.2139/ssrn.3625840",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10815_CR17",
+                    "author": "British Psychological Society",
+                    "year": "2020",
+                    "unstructured": "British Psychological Society. Guidance for Health Professionals Supporting Groups with Specific Complex Needs who are or have been shielding. Leicester, UK: British Psychological Society; 2020.",
+                    "volume-title": "Guidance for Health Professionals Supporting Groups with Specific Complex Needs who are or have been shielding"
+                }
+            ],
+            "container-title": "BMC Public Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://link.springer.com/content/pdf/10.1186/s12889-021-10815-8.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://link.springer.com/article/10.1186/s12889-021-10815-8/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://link.springer.com/content/pdf/10.1186/s12889-021-10815-8.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        20
+                    ]
+                ],
+                "date-time": "2021-04-20T20:06:54Z",
+                "timestamp": 1618949214000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        20
+                    ]
+                ]
+            },
+            "references-count": 17,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "10815"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12889-021-10815-8",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1471-2458"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health"
+            ],
+            "container-title-short": "BMC Public Health",
+            "assertion": [
+                {
+                    "value": "28 October 2020",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "12 April 2021",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "20 April 2021",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Declarations"
+                    }
+                },
+                {
+                    "value": "We obtained ethical approval from the University of Liverpool ethics committee before the study [Ref: 7626]. Participants provided verbal informed consent at the beginning of the study, which was audio recorded and approved by the ethics committee. Given the pandemic\u2019s restrictions, and inability to collect data face-to-face, and many people from the participant group shielding and thus avoiding going to the post box, no written informed consent was required.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "N/a",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "N/a",
+                    "order": 4,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "762"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [],
+                "OtherID": [],
+                "PMID": "33879117",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "04"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "04"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "04",
+                            "Day": "20"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12889-021-10815-8"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1471-2458",
+                        "JournalIssue": {
+                            "Volume": "21",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "04",
+                                "Day": "20"
+                            }
+                        },
+                        "Title": "BMC public health",
+                        "ISOAbbreviation": "BMC Public Health"
+                    },
+                    "ArticleTitle": "The potential dangers of not understanding COVID-19 public health restrictions in dementia: \"It's a groundhog day - every single day she does not understand why she can't go out for a walk\".",
+                    "Pagination": {
+                        "MedlinePgn": "762"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Sudden public health restrictions can be difficult to comprehend for people with cognitive deficits. However, these are even more important for them to adhere to due to their increased levels of vulnerability, particularly to COVID-19. With a lack of previous evidence, we explored the understanding and changes in adherence to COVID-19 public health restrictions over time in people living with dementia (PLWD).",
+                            "Unpaid carers and PLWD were interviewed over the phone in April 2020, shortly after the nationwide UK lockdown, with a proportion followed up from 24th June to 10th July. Participants were recruited via social care and third sector organisations across the UK, and via social media.",
+                            "A total of 70 interviews (50 baseline, 20 follow-up) were completed with unpaid carers and PLWD. Five themes emerged: Confusion and limited comprehension; Frustration and burden; Putting oneself in danger; Adherence to restrictions in wider society; (Un) changed perceptions. Most carers reported limited to no understanding of the public health measures in PLWD, causing distress and frustration for both the carer and the PLWD. Due to the lack of understanding, some PLWD put themselves in dangerous situations without adhering to the restrictions. PLWD with cognitive capacity who participated understood the measures and adhered to these.",
+                            "In light of the new second wave of the pandemic, public health measures need to be simpler for PLWD to avoid unwilful non-adherence. Society also needs to be more adaptive to the needs of people with cognitive disabilities more widely, as blanket rules cause distress to the lives of those affected by dementia."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Brownlow Street, Liverpool, L69 3GL, UK. Clarissa.giebel@liverpool.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK. Clarissa.giebel@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Brownlow Street, Liverpool, L69 3GL, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hanna",
+                            "ForeName": "Kerry",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lancashire and South Cumbria NHS Trust, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rajagopal",
+                            "ForeName": "Manoj",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "North West Boroughs NHS Trust, Warrington, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Komuravelli",
+                            "ForeName": "Aravind",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Lewy Body Society, Wigan, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cannon",
+                            "ForeName": "Jacqueline",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Sefton Older People's Forum, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shenton",
+                            "ForeName": "Justine",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Dementia Action Alliance, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Eley",
+                            "ForeName": "Ruth",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Together In Dementia Everyday (TIDE), Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gaughan",
+                            "ForeName": "Anna",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "EQE Health, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Callaghan",
+                            "ForeName": "Steve",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "SURF Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Tetlow",
+                            "ForeName": "Hilary",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Limbert",
+                            "ForeName": "Stan",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Me2U Day Care Centre, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Whittington",
+                            "ForeName": "Rosie",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "National Museums Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rogers",
+                            "ForeName": "Carol",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Brain Charity, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ward",
+                            "ForeName": "Kym",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Modern Languages and Cultures, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shaw",
+                            "ForeName": "Lisa",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Brownlow Street, Liverpool, L69 3GL, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Butchard",
+                            "ForeName": "Sarah",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Brownlow Street, Liverpool, L69 3GL, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "ARC NWC",
+                            "Agency": "National Institute for Health Research",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Public Health",
+                    "NlmUniqueID": "100968562",
+                    "ISSNLinking": "1471-2458"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "COVID-19",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Caregivers",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Communicable Disease Control",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Comprehension",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Dementia",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Interviews as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Public Health",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "J Am Geriatr Soc. 2020 Aug;68(8):1673-1676",
+                                "ArticleIdList": [
+                                    "32516441"
+                                ]
+                            },
+                            {
+                                "Citation": "Cortex. 2020 Nov;132:41-50",
+                                "ArticleIdList": [
+                                    "32919108"
+                                ]
+                            },
+                            {
+                                "Citation": "Cortex. 2012 Apr;48(4):429-46",
+                                "ArticleIdList": [
+                                    "21237452"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Public Health. 2020 Oct;5(10):e551-e567",
+                                "ArticleIdList": [
+                                    "33007212"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Geriatr Psychiatry. 2016 Feb;31(2):101-8",
+                                "ArticleIdList": [
+                                    "25963021"
+                                ]
+                            },
+                            {
+                                "Citation": "Aging Ment Health. 2020 Sep 21;:1-8",
+                                "ArticleIdList": [
+                                    "32954794"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS Med. 2017 Mar 14;14(3):e1002250",
+                                "ArticleIdList": [
+                                    "28291801"
+                                ]
+                            },
+                            {
+                                "Citation": "Alzheimers Res Ther. 2017 Mar 16;9(1):19",
+                                "ArticleIdList": [
+                                    "28302161"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Psychiatry. 2016 Nov;209(5):366-377",
+                                "ArticleIdList": [
+                                    "27491532"
+                                ]
+                            },
+                            {
+                                "Citation": "Gait Posture. 2016 Oct;50:1-7",
+                                "ArticleIdList": [
+                                    "27544062"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Geriatr Psychiatry. 2020 Jul;28(7):712-721",
+                                "ArticleIdList": [
+                                    "32331845"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "10",
+                        "Day": "28"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "04",
+                        "Day": "12"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "4",
+                        "Day": "21",
+                        "Hour": "5",
+                        "Minute": "39"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "4",
+                        "Day": "22",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "5",
+                        "Day": "5",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "33879117",
+                    "10.1186/s12889-021-10815-8",
+                    "10.1186/s12889-021-10815-8",
+                    "PMC8057664"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33879117)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833879117%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833879117%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104662231"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104662231?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85104662231&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85104662231&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85104662231",
+                        "dc:identifier": "SCOPUS_ID:85104662231",
+                        "eid": "2-s2.0-85104662231",
+                        "dc:title": "The potential dangers of not understanding COVID-19 public health restrictions in dementia: \u201cIt\u2019s a groundhog day \u2013 every single day she does not understand why she can\u2019t go out for a walk\u201d",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "BMC Public Health",
+                        "prism:eIssn": "14712458",
+                        "prism:volume": "21",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-12-01",
+                        "prism:coverDisplayDate": "December 2021",
+                        "prism:doi": "10.1186/s12889-021-10815-8",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR ARC NWC",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33879117",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "762",
+                        "source-id": "19621",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "ECARQQKE.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33879117"
+            }
+        },
+        "title": "The potential dangers of not understanding COVID-19 public health restrictions in dementia: \"It's a groundhog day - every single day she does not understand why she can't go out for a walk\".",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Brownlow Street, Liverpool, L69 3GL, UK. Clarissa.giebel@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Hanna K",
+                "family": "Hanna",
+                "given": "Kerry",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Brownlow Street, Liverpool, L69 3GL, UK."
+                }
+            },
+            {
+                "clean": "Rajagopal M",
+                "family": "Rajagopal",
+                "given": "Manoj",
+                "affiliation": {
+                    "name": "Lancashire and South Cumbria NHS Trust, Preston, UK."
+                }
+            },
+            {
+                "clean": "Komuravelli A",
+                "family": "Komuravelli",
+                "given": "Aravind",
+                "affiliation": {
+                    "name": "North West Boroughs NHS Trust, Warrington, UK."
+                }
+            },
+            {
+                "clean": "Cannon J",
+                "family": "Cannon",
+                "given": "Jacqueline",
+                "affiliation": {
+                    "name": "Lewy Body Society, Wigan, UK."
+                }
+            },
+            {
+                "clean": "Shenton J",
+                "family": "Shenton",
+                "given": "Justine",
+                "affiliation": {
+                    "name": "Sefton Older People's Forum, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Eley R",
+                "family": "Eley",
+                "given": "Ruth",
+                "affiliation": {
+                    "name": "Liverpool Dementia Action Alliance, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gaughan A",
+                "family": "Gaughan",
+                "given": "Anna",
+                "affiliation": {
+                    "name": "Together In Dementia Everyday (TIDE), Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Callaghan S",
+                "family": "Callaghan",
+                "given": "Steve",
+                "affiliation": {
+                    "name": "EQE Health, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Tetlow H",
+                "family": "Tetlow",
+                "given": "Hilary",
+                "affiliation": {
+                    "name": "SURF Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Limbert S",
+                "family": "Limbert",
+                "given": "Stan",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Whittington R",
+                "family": "Whittington",
+                "given": "Rosie",
+                "affiliation": {
+                    "name": "Me2U Day Care Centre, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Rogers C",
+                "family": "Rogers",
+                "given": "Carol",
+                "affiliation": {
+                    "name": "National Museums Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Ward K",
+                "family": "Ward",
+                "given": "Kym",
+                "affiliation": {
+                    "name": "The Brain Charity, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Shaw L",
+                "family": "Shaw",
+                "given": "Lisa",
+                "affiliation": {
+                    "name": "Department of Modern Languages and Cultures, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Butchard S",
+                "family": "Butchard",
+                "given": "Sarah",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Brownlow Street, Liverpool, L69 3GL, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Brownlow Street, Liverpool, L69 3GL, UK."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "COVID-19",
+                    "major": "N"
+                },
+                {
+                    "term": "Caregivers",
+                    "major": "N"
+                },
+                {
+                    "term": "Communicable Disease Control",
+                    "major": "Y"
+                },
+                {
+                    "term": "Comprehension",
+                    "major": "Y"
+                },
+                {
+                    "term": "Dementia",
+                    "major": "Y"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Interviews as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Public Health",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "BMC Public Health",
+            "volume": "21",
+            "issue": "1"
+        },
+        "abstract": "['Sudden public health restrictions can be difficult to comprehend for people with cognitive deficits. However, these are even more important for them to adhere to due to their increased levels of vulnerability, particularly to COVID-19. With a lack of previous evidence, we explored the understanding and changes in adherence to COVID-19 public health restrictions over time in people living with dementia (PLWD).', 'Unpaid carers and PLWD were interviewed over the phone in April 2020, shortly after the nationwide UK lockdown, with a proportion followed up from 24th June to 10th July. Participants were recruited via social care and third sector organisations across the UK, and via social media.', 'A total of 70 interviews (50 baseline, 20 follow-up) were completed with unpaid carers and PLWD. Five themes emerged: Confusion and limited comprehension; Frustration and burden; Putting oneself in danger; Adherence to restrictions in wider society; (Un) changed perceptions. Most carers reported limited to no understanding of the public health measures in PLWD, causing distress and frustration for both the carer and the PLWD. Due to the lack of understanding, some PLWD put themselves in dangerous situations without adhering to the restrictions. PLWD with cognitive capacity who participated understood the measures and adhered to these.', 'In light of the new second wave of the pandemic, public health measures need to be simpler for PLWD to avoid unwilful non-adherence. Society also needs to be more adaptive to the needs of people with cognitive disabilities more widely, as blanket rules cause distress to the lives of those affected by dementia.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Primary Care & Mental Health, University of Liverpool, Brownlow Street, Liverpool, L69 3GL, UK. Clarissa.giebel@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

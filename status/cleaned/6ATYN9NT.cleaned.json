@@ -1,0 +1,787 @@
+{
+    "IDs": {
+        "zotero": "6ATYN9NT",
+        "DOI": "10.1017/S1041610220004081",
+        "DOI_filename": "6bd5f2e11b289f25eeb44d205d620584",
+        "PMID": "33327989",
+        "scopus": "2-s2.0-85098176351",
+        "hash": "a0cc30ae1dbbd0f0b0d3fc17c5c80011"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "6ATYN9NT",
+            "version": 990,
+            "itemType": "journalArticle",
+            "title": "Impact of COVID-19 public health restrictions on older people in Uganda: \u201chunger is really one of those problems brought by this COVID\u201d",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Bwire",
+                    "lastName": "Ivan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Philomena",
+                    "lastName": "Burger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Isaac",
+                    "lastName": "Ddumba"
+                }
+            ],
+            "abstractNote": "ABSTRACT\n            \n              Objectives:\n              To explore the impact of COVID-19 public health restrictions on the lives of older adults living in Uganda.\n            \n            \n              Design:\n              Qualitative semi-structured interview study.\n            \n            \n              Setting:\n              Participants\u2019 homes.\n            \n            \n              Participants:\n              Older adults living in Uganda (aged 60+).\n            \n            \n              Measurements:\n              Older adults in Uganda were interviewed over the phone and asked about their lives before and since COVID-19, and how public health restrictions have affected their lives. Semi-structured interviews were audio-recorded, transcribed and translated into English. Transcripts were thematically analyzed and themes generated in discussion.\n            \n            \n              Results:\n              In total, 30 older adults participated in the study. Five themes were identified: (1) economic impacts; (2) lack of access to basic necessities; (3) impact on healthcare utilization; (4) social impacts and (5) violent reinforcement of public health restrictions. COVID-19 public health restrictions had severe impacts on their lives, with many people having not enough food to eat due to lack of income, and being unable to pay their grandchildren\u2019s school fees. Steep rises in public transport fares and an overall avoidance of transport also resulted in a lack of access to healthcare services and difficulty in getting food. Restrictions were violently reinforced by security guards.\n            \n            \n              Conclusions:\n              Public health restrictions have a severe impact not only on older adults but also on the whole family in Uganda. Governmental strategies to contain the virus need to provide more support to enable people to get basic necessities and live as normal a life as possible.",
+            "publicationTitle": "International Psychogeriatrics",
+            "volume": "",
+            "issue": "",
+            "pages": "1-8",
+            "date": "2020-12-17",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Int. Psychogeriatr.",
+            "language": "en",
+            "DOI": "10.1017/S1041610220004081",
+            "ISSN": "1041-6102, 1741-203X",
+            "shortTitle": "Impact of COVID-19 public health restrictions on older people in Uganda",
+            "url": "https://www.cambridge.org/core/product/identifier/S1041610220004081/type/journal_article",
+            "accessDate": "2021-07-23T16:46:06Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33327989",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:10Z",
+            "dateModified": "2021-07-27T12:00:22Z",
+            "pmid": "33327989"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        12
+                    ]
+                ],
+                "date-time": "2021-04-12T18:24:08Z",
+                "timestamp": 1618251848844
+            },
+            "reference-count": 22,
+            "publisher": "Cambridge University Press (CUP)",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                12,
+                                17
+                            ]
+                        ],
+                        "date-time": "2020-12-17T00:00:00Z",
+                        "timestamp": 1608163200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "unspecified"
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "abstract": "<jats:title>ABSTRACT</jats:title>\n\t  <jats:sec id=\"S1041610220004081_as1\">\n\t    <jats:title>Objectives:</jats:title>\n\t    <jats:p>To explore the impact of COVID-19 public health restrictions on the lives of older adults living in Uganda.</jats:p>\n\t  </jats:sec>\n\t  <jats:sec id=\"S1041610220004081_as2\">\n\t    <jats:title>Design:</jats:title>\n\t    <jats:p>Qualitative semi-structured interview study.</jats:p>\n\t  </jats:sec>\n\t  <jats:sec id=\"S1041610220004081_as3\">\n\t    <jats:title>Setting:</jats:title>\n\t    <jats:p>Participants\u2019 homes.</jats:p>\n\t  </jats:sec>\n\t  <jats:sec id=\"S1041610220004081_as4\">\n\t    <jats:title>Participants:</jats:title>\n\t    <jats:p>Older adults living in Uganda (aged 60+).</jats:p>\n\t  </jats:sec>\n\t  <jats:sec id=\"S1041610220004081_as5\">\n\t    <jats:title>Measurements:</jats:title>\n\t    <jats:p>Older adults in Uganda were interviewed over the phone and asked about their lives before and since COVID-19, and how public health restrictions have affected their lives. Semi-structured interviews were audio-recorded, transcribed and translated into English. Transcripts were thematically analyzed and themes generated in discussion.</jats:p>\n\t  </jats:sec>\n\t  <jats:sec id=\"S1041610220004081_as6\">\n\t    <jats:title>Results:</jats:title>\n\t    <jats:p>In total, 30 older adults participated in the study. Five themes were identified: (1) economic impacts; (2) lack of access to basic necessities; (3) impact on healthcare utilization; (4) social impacts and (5) violent reinforcement of public health restrictions. COVID-19 public health restrictions had severe impacts on their lives, with many people having not enough food to eat due to lack of income, and being unable to pay their grandchildren\u2019s school fees. Steep rises in public transport fares and an overall avoidance of transport also resulted in a lack of access to healthcare services and difficulty in getting food. Restrictions were violently reinforced by security guards.</jats:p>\n\t  </jats:sec>\n\t  <jats:sec id=\"S1041610220004081_as7\">\n\t    <jats:title>Conclusions:</jats:title>\n\t    <jats:p>Public health restrictions have a severe impact not only on older adults but also on the whole family in Uganda. Governmental strategies to contain the virus need to provide more support to enable people to get basic necessities and live as normal a life as possible.</jats:p>\n\t  </jats:sec>",
+            "DOI": "10.1017/s1041610220004081",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        17
+                    ]
+                ],
+                "date-time": "2020-12-17T09:58:02Z",
+                "timestamp": 1608199082000
+            },
+            "page": "1-8",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Impact of COVID-19 public health restrictions on older people in Uganda: \u201chunger is really one of those problems brought by this COVID\u201d",
+            "prefix": "10.1017",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Bwire",
+                    "family": "Ivan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Philomena",
+                    "family": "Burger",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Isaac",
+                    "family": "Ddumba",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "56",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        17
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "S1041610220004081_ref8",
+                    "DOI": "10.1007/s10067-020-05159-4",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref16",
+                    "DOI": "10.1111/jgs.16472",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref4",
+                    "DOI": "10.1136/bmj.m1091",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref9",
+                    "author": "Hsiao",
+                    "year": "2019",
+                    "article-title": "Effect of corruption on perceived difficulties in healthcare access in sub-Saharan Africa",
+                    "journal-title": "PLoS One"
+                },
+                {
+                    "key": "S1041610220004081_ref18",
+                    "year": "2018",
+                    "volume-title": "Ageing in sub-Saharan Africa in the Context of Global Development: The Multiple Indicator Survey Project (MISA)"
+                },
+                {
+                    "key": "S1041610220004081_ref10",
+                    "DOI": "10.3402/gha.v3i0.5302",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref19",
+                    "year": "2005",
+                    "volume-title": "Living Arrangements of Older Persons Around the World"
+                },
+                {
+                    "key": "S1041610220004081_ref20",
+                    "DOI": "10.1017/S1041610220001441",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref25",
+                    "DOI": "10.1016/S0140-6736(20)30566-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref7",
+                    "DOI": "10.1017/S0144686X15001051",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref6",
+                    "DOI": "10.1080/13607863.2020.1822292",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref14",
+                    "DOI": "10.1155/2018/4147509",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref1",
+                    "DOI": "10.1016/S0140-6736(14)61602-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref13",
+                    "DOI": "10.1136/bmj.m1052",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref24",
+                    "first-page": "683",
+                    "article-title": "Are we all in this together? Longitudinal assessment of cumulative adversities by socioeconomic position in the first 3 weeks of lockdown in the UK",
+                    "volume": "74",
+                    "author": "Wright",
+                    "year": "2020",
+                    "journal-title": "Journal of Epidemiology and Community Health"
+                },
+                {
+                    "key": "S1041610220004081_ref11",
+                    "DOI": "10.1080/03050060902920518",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref12",
+                    "DOI": "10.1016/j.ijedudev.2012.02.013",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref22",
+                    "DOI": "10.1007/s12126-017-9305-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref23",
+                    "unstructured": "World Health Organisation Global Health Observatory. (2020). Available at: https://www.who.int/countries/uga/; last accessed 28 October 2020"
+                },
+                {
+                    "key": "S1041610220004081_ref2",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref3",
+                    "DOI": "10.1017/S1041610220000757",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220004081_ref17",
+                    "year": "2017",
+                    "volume-title": "World Population Prospects: The 2017 Revision, Key Findings and Advance Tables"
+                }
+            ],
+            "container-title": "International Psychogeriatrics",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1041610220004081",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        15
+                    ]
+                ],
+                "date-time": "2021-02-15T11:29:01Z",
+                "timestamp": 1613388541000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        17
+                    ]
+                ]
+            },
+            "references-count": 22,
+            "alternative-id": [
+                "S1041610220004081"
+            ],
+            "URL": "http://dx.doi.org/10.1017/S1041610220004081",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1041-6102",
+                "1741-203X"
+            ],
+            "subject": [
+                "Gerontology",
+                "Clinical Psychology",
+                "Geriatrics and Gerontology",
+                "Psychiatry and Mental health"
+            ],
+            "container-title-short": "Int. Psychogeriatr."
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Ageing",
+                        "COVID-19",
+                        "Developing countries",
+                        "public health"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "33327989",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "02",
+                    "Day": "17"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "12",
+                            "Day": "17"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1017/S1041610220004081"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1741-203X",
+                        "JournalIssue": {
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Dec",
+                                "Day": "17"
+                            }
+                        },
+                        "Title": "International psychogeriatrics",
+                        "ISOAbbreviation": "Int Psychogeriatr"
+                    },
+                    "ArticleTitle": "Impact of COVID-19 public health restrictions on older people in Uganda: \"hunger is really one of those problems brought by this COVID\".",
+                    "Pagination": {
+                        "MedlinePgn": "1-8"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "To explore the impact of COVID-19 public health restrictions on the lives of older adults living in Uganda.",
+                            "Qualitative semi-structured interview study.",
+                            "Participants' homes.",
+                            "Older adults living in Uganda (aged 60+).",
+                            "Older adults in Uganda were interviewed over the phone and asked about their lives before and since COVID-19, and how public health restrictions have affected their lives. Semi-structured interviews were audio-recorded, transcribed and translated into English. Transcripts were thematically analyzed and themes generated in discussion.",
+                            "In total, 30 older adults participated in the study. Five themes were identified: (1) economic impacts; (2) lack of access to basic necessities; (3) impact on healthcare utilization; (4) social impacts and (5) violent reinforcement of public health restrictions. COVID-19 public health restrictions had severe impacts on their lives, with many people having not enough food to eat due to lack of income, and being unable to pay their grandchildren's school fees. Steep rises in public transport fares and an overall avoidance of transport also resulted in a lack of access to healthcare services and difficulty in getting food. Restrictions were violently reinforced by security guards.",
+                            "Public health restrictions have a severe impact not only on older adults but also on the whole family in Uganda. Governmental strategies to contain the virus need to provide more support to enable people to get basic necessities and live as normal a life as possible."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC North West Coast, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "African Research Centre for Ageing and Dementia, Mukono, Uganda."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ivan",
+                            "ForeName": "Bwire",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Chicago, Chicago, IL, USA."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Burger",
+                            "ForeName": "Philomena",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "African Research Centre for Ageing and Dementia, Mukono, Uganda."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ddumba",
+                            "ForeName": "Isaac",
+                            "Initials": "I"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Int Psychogeriatr",
+                    "NlmUniqueID": "9007918",
+                    "ISSNLinking": "1041-6102"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Clin Rheumatol. 2020 Jul;39(7):2039-2042",
+                                "ArticleIdList": [
+                                    "32462422"
+                                ]
+                            },
+                            {
+                                "Citation": "J Am Geriatr Soc. 2020 May;68(5):926-929",
+                                "ArticleIdList": [
+                                    "32255507"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2020 Mar 28;395(10229):1054-1062",
+                                "ArticleIdList": [
+                                    "32171076"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2015 Feb 14;385(9968):e9-e11",
+                                "ArticleIdList": [
+                                    "25468150"
+                                ]
+                            },
+                            {
+                                "Citation": "Aging Ment Health. 2020 Sep 21;:1-8",
+                                "ArticleIdList": [
+                                    "32954794"
+                                ]
+                            },
+                            {
+                                "Citation": "Curr Gerontol Geriatr Res. 2018 May 16;2018:4147509",
+                                "ArticleIdList": [
+                                    "29861722"
+                                ]
+                            },
+                            {
+                                "Citation": "Int Psychogeriatr. 2020 Oct;32(10):1129-1133",
+                                "ArticleIdList": [
+                                    "32349826"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2019 Aug 21;14(8):e0220583",
+                                "ArticleIdList": [
+                                    "31433821"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2020 Mar 26;368:m1091",
+                                "ArticleIdList": [
+                                    "32217556"
+                                ]
+                            },
+                            {
+                                "Citation": "Int Psychogeriatr. 2020 Oct;32(10):1125-1127",
+                                "ArticleIdList": [
+                                    "32635958"
+                                ]
+                            },
+                            {
+                                "Citation": "Ageing Int. 2017;42(4):429-446",
+                                "ArticleIdList": [
+                                    "29213158"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2020 Mar 13;368:m1052",
+                                "ArticleIdList": [
+                                    "32169830"
+                                ]
+                            },
+                            {
+                                "Citation": "Glob Health Action. 2010 Sep 27;3:",
+                                "ArticleIdList": [
+                                    "20959878"
+                                ]
+                            },
+                            {
+                                "Citation": "J Epidemiol Community Health. 2020 Sep;74(9):683-688",
+                                "ArticleIdList": [
+                                    "32503892"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "18",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "18",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "17",
+                        "Hour": "5",
+                        "Minute": "30"
+                    }
+                ],
+                "PublicationStatus": "aheadofprint",
+                "ArticleIdList": [
+                    "33327989",
+                    "S1041610220004081",
+                    "10.1017/S1041610220004081",
+                    "PMC7884720"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1017/S1041610220004081)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1017%2FS1041610220004081%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1017%2FS1041610220004081%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098176351"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098176351?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85098176351&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85098176351&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85098176351",
+                        "dc:identifier": "SCOPUS_ID:85098176351",
+                        "eid": "2-s2.0-85098176351",
+                        "dc:title": "Impact of COVID-19 public health restrictions on older people in Uganda: 'Hunger is really one of those problems brought by this COVID",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "International Psychogeriatrics",
+                        "prism:issn": "10416102",
+                        "prism:eIssn": "1741203X",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-01-01",
+                        "prism:coverDisplayDate": "2020",
+                        "prism:doi": "10.1017/S1041610220004081",
+                        "pii": "S1041610220004081",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR ARC NWC",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "16200",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherhybridgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Hybrid Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "6ATYN9NT.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33327989"
+            }
+        },
+        "title": "Impact of COVID-19 public health restrictions on older people in Uganda: \"hunger is really one of those problems brought by this COVID\".",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Ivan B",
+                "family": "Ivan",
+                "given": "Bwire",
+                "affiliation": {
+                    "name": "African Research Centre for Ageing and Dementia, Mukono, Uganda."
+                }
+            },
+            {
+                "clean": "Burger P",
+                "family": "Burger",
+                "given": "Philomena",
+                "affiliation": {
+                    "name": "University of Chicago, Chicago, IL, USA."
+                }
+            },
+            {
+                "clean": "Ddumba I",
+                "family": "Ddumba",
+                "given": "Isaac",
+                "affiliation": {
+                    "name": "African Research Centre for Ageing and Dementia, Mukono, Uganda."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "Ageing",
+                "COVID-19",
+                "Developing countries",
+                "public health"
+            ]
+        },
+        "journal": {
+            "journal_name": "Int Psychogeriatr",
+            "volume": "",
+            "issue": ""
+        },
+        "abstract": "['To explore the impact of COVID-19 public health restrictions on the lives of older adults living in Uganda.', 'Qualitative semi-structured interview study.', \"Participants' homes.\", 'Older adults living in Uganda (aged 60+).', 'Older adults in Uganda were interviewed over the phone and asked about their lives before and since COVID-19, and how public health restrictions have affected their lives. Semi-structured interviews were audio-recorded, transcribed and translated into English. Transcripts were thematically analyzed and themes generated in discussion.', \"In total, 30 older adults participated in the study. Five themes were identified: (1) economic impacts; (2) lack of access to basic necessities; (3) impact on healthcare utilization; (4) social impacts and (5) violent reinforcement of public health restrictions. COVID-19 public health restrictions had severe impacts on their lives, with many people having not enough food to eat due to lack of income, and being unable to pay their grandchildren's school fees. Steep rises in public transport fares and an overall avoidance of transport also resulted in a lack of access to healthcare services and difficulty in getting food. Restrictions were violently reinforced by security guards.\", 'Public health restrictions have a severe impact not only on older adults but also on the whole family in Uganda. Governmental strategies to contain the virus need to provide more support to enable people to get basic necessities and live as normal a life as possible.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Primary Care & Mental Health, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

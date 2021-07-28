@@ -1,0 +1,1955 @@
+{
+    "IDs": {
+        "zotero": "MJXD5MSL",
+        "DOI": "10.1002/14651858.CD001909.pub3",
+        "DOI_filename": "89dd44199def907cddd1818b04db2c1b",
+        "PMID": "32196639",
+        "scopus": "2-s2.0-85082146779",
+        "hash": "d2d33fd18b441c3cae396a24bff4bf2f"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "MJXD5MSL",
+            "version": 991,
+            "itemType": "journalArticle",
+            "title": "Lamotrigine add-on therapy for drug-resistant focal epilepsy",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Mariangela",
+                    "lastName": "Panebianco"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rebecca",
+                    "lastName": "Bresnahan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sridharan",
+                    "lastName": "Ramaratnam"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2020-03-20",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD001909.pub3",
+            "ISSN": "14651858",
+            "shortTitle": "",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1002/14651858.CD001909.pub3",
+            "accessDate": "2021-07-23T16:46:04Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32196639",
+            "tags": [
+                {
+                    "tag": "PCCC"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:04Z",
+            "dateModified": "2021-07-27T12:02:38Z",
+            "pmid": "32196639"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        22
+                    ]
+                ],
+                "date-time": "2021-04-22T08:04:08Z",
+                "timestamp": 1619078648553
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2020,
+                                3,
+                                20
+                            ]
+                        ],
+                        "date-time": "2020-03-20T00:00:00Z",
+                        "timestamp": 1584662400000
+                    },
+                    "DOI": "10.1002/14651858.cd001909.pub2",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 80,
+            "publisher": "Wiley",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd001909.pub3",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        20
+                    ]
+                ],
+                "date-time": "2020-03-20T18:30:32Z",
+                "timestamp": 1584729032000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 4,
+            "title": "Lamotrigine add-on therapy for drug-resistant focal epilepsy",
+            "prefix": "10.1002",
+            "author": [
+                {
+                    "given": "Mariangela",
+                    "family": "Panebianco",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Liverpool UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rebecca",
+                    "family": "Bresnahan",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Liverpool UK L9 7LJ"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sridharan",
+                    "family": "Ramaratnam",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "The Nerve Centre; Department of Neurology; 5/1 Rajachar Street T Nagar Chennai Tamil Nadu India 600017"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Institute of Translational Medicine, University of Liverpool; Department of Molecular and Clinical Pharmacology; Clinical Sciences Centre for Research and Education, Lower Lane Liverpool UK L9 7LJ"
+                        },
+                        {
+                            "name": "The Walton Centre NHS Foundation Trust; Liverpool UK"
+                        },
+                        {
+                            "name": "Liverpool Health Partners; Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        20
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0001|cit1",
+                    "unstructured": "Baulac M Leon T O'Brien TJ Whalen E Barrett J A comparison of pregabalin, lamotrigine, and placebo as adjunctive therapy in patients with refractory partial-onset seizures Epilepsy Research 2010 10 9",
+                    "DOI": "10.1016/j.eplepsyres.2010.05.008",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0002|cit2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "222",
+                    "DOI": "10.1016/0920-1211(89)90007-7",
+                    "article-title": "Double-blind crossover trial of lamotrigine (Lamictal) as add-on therapy in intractable epilepsy",
+                    "volume": "4",
+                    "author": "Binnie",
+                    "year": "1989",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0003|cit3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "247",
+                    "DOI": "10.1111/j.1600-0404.1996.tb07060.x",
+                    "article-title": "Controlled trial of lamotrigine (Lamictal) for treatment-resistant partial seizures",
+                    "volume": "94",
+                    "author": "Boas",
+                    "year": "1996",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1724",
+                    "DOI": "10.1212/WNL.53.8.1724",
+                    "article-title": "A placebo-controlled trial of lamotrigine add-on therapy for partial seizures in children",
+                    "volume": "53",
+                    "author": "Duchowny",
+                    "year": "1999",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0005|cit5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "356",
+                    "DOI": "10.1111/j.1528-1157.1989.tb05309.x",
+                    "article-title": "Controlled trial of lamotrigine (lamictal) for refractory partial seizures",
+                    "volume": "30",
+                    "author": "Jawad",
+                    "year": "1989",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0006|cit6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "136",
+                    "DOI": "10.1016/0920-1211(90)90099-H",
+                    "article-title": "A randomised double-blind placebo-controlled crossover add-on trial of lamotrigine in patients with treatment-resistant partial seizures",
+                    "volume": "7",
+                    "author": "Loiseau",
+                    "year": "1990",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0007|cit7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2284",
+                    "DOI": "10.1212/WNL.43.11.2284",
+                    "article-title": "Placebo-controlled study of the efficacy and safety of lamotrigine in patients with partial seizures. US Lamotrigine Protocol 0.5 Clinical Trial Group",
+                    "volume": "43",
+                    "author": "Matsuo",
+                    "year": "1993",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0008|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "113",
+                    "DOI": "10.1111/j.1528-1157.1994.tb02920.x",
+                    "article-title": "Lamotrigine therapy for partial seizures: a multicenter, placebo-controlled, double-blind, cross-over trial",
+                    "volume": "35",
+                    "author": "Messenheimer",
+                    "year": "1994",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0009|cit9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1610",
+                    "DOI": "10.1212/01.wnl.0000277698.33743.8b",
+                    "article-title": "Lamotrigine extended-release as adjunctive therapy for partial seizures",
+                    "volume": "69",
+                    "author": "Naritoku",
+                    "year": "2007",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0010|cit10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2099",
+                    "DOI": "10.1212/01.wnl.0000285493.08622.35",
+                    "article-title": "Adjunctive lamotrigine for partial seizures in patients aged 1 to 24 months",
+                    "volume": "70",
+                    "author": "Pi\u00f1a-Garza",
+                    "year": "2008",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0011|cit11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "201",
+                    "DOI": "10.1016/0896-6974(95)00034-B",
+                    "article-title": "Lamotrigine: a six-month, placebo-controlled, safety and tolerance study",
+                    "volume": "8",
+                    "author": "Schachter",
+                    "year": "1995",
+                    "journal-title": "Journal of Epilepsy"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0012|cit12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "448",
+                    "DOI": "10.1136/jnnp.56.5.448",
+                    "article-title": "Double-blind, placebo controlled, crossover study of lamotrigine in treatment resistant partial seizures",
+                    "volume": "56",
+                    "author": "Schapel",
+                    "year": "1993",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0013|cit13",
+                    "first-page": "66",
+                    "article-title": "Add-on treatment with lamotrigine for intractable partial epilepsy: a placebo-controlled, cross-over trial",
+                    "volume": "34 Suppl",
+                    "author": "Schmidt",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0014|cit14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "312",
+                    "DOI": "10.1111/j.1528-1157.1993.tb02417.x",
+                    "article-title": "Outcomes of add-on treatment with lamotrigine in partial epilepsy",
+                    "volume": "34",
+                    "author": "Smith",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 1",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0015|cit15",
+                    "first-page": "321, Abstract n",
+                    "article-title": "Equivalence among generic AEDs (equigen)-single-dose study",
+                    "volume": "15",
+                    "author": "Berg",
+                    "year": "2015",
+                    "journal-title": "Epilepsy Currents"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0016|cit16",
+                    "unstructured": "Berg M Welty TE Gidal BE Diaz FJ Krebill R Szaflarski JP Bioequivalence between generic and branded lamotrigine in people with epilepsy: the EQUIGEN randomized clinical trial JAMA Neurology 2017 919 26 10.1001/jamaneurol.2017.0497",
+                    "DOI": "10.1001/jamaneurol.2017.0497",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0017|cit17",
+                    "unstructured": "Biton V Di Memmo J Shukla R Lee YY Poverennova I Demchenko V Adjunctive lamotrigine XR for primary generalized tonic-clonic seizures in a randomized, placebo-controlled study Epilepsy & Behavior 2010 352 8",
+                    "DOI": "10.1016/j.yebeh.2010.07.022",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0018|cit18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "359",
+                    "DOI": "10.1007/s40261-013-0070-4",
+                    "article-title": "Long-term tolerability and safety of lamotrigine extended-release: pooled analysis of three clinical trials",
+                    "volume": "33",
+                    "author": "Biton",
+                    "year": "2013",
+                    "journal-title": "Clinical Drug Investigation"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0019|cit19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "693",
+                    "DOI": "10.1111/j.1365-2710.2012.01351.x",
+                    "article-title": "Impact of age, weight and concomitant treatment on lamotrigine pharmacokinetics",
+                    "volume": "37",
+                    "author": "Brzakovic",
+                    "year": "2012",
+                    "journal-title": "Journal of Clinical Pharmacy & Therapeutics"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0020|cit20",
+                    "first-page": "135",
+                    "article-title": "Controlled trial of lamotrigine for the treatment of refractory partial seizures",
+                    "volume": "45 Suppl 3",
+                    "author": "Carignani",
+                    "year": "2004",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0021|cit21",
+                    "first-page": "124",
+                    "article-title": "Controlled trial of lamotrigine for the treatment of refractory partial seizures",
+                    "volume": "47 Suppl 3",
+                    "author": "Carignani",
+                    "year": "2006",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0022|cit22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e6",
+                    "DOI": "10.4081/ni.2009.e6",
+                    "article-title": "Cognitive effects of lamotrigine versus topiramate as adjunctive therapy in older adults with epilepsy",
+                    "volume": "1",
+                    "author": "Chung",
+                    "year": "2009",
+                    "journal-title": "Neurology International"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0023|cit23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "79",
+                    "DOI": "10.1016/j.eplepsyres.2016.02.012",
+                    "article-title": "Intrapatient variation in antiepileptic drug plasma concentration after generic substitution vs stable brand-name drug regimes",
+                    "volume": "122",
+                    "author": "Contin",
+                    "year": "2016",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0024|cit24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "91",
+                    "DOI": "10.1111/ane.12086",
+                    "article-title": "Indirect comparison of clobazam and other therapies for Lennox-Gastaut Syndrome",
+                    "volume": "128",
+                    "author": "Cramer",
+                    "year": "2013",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "issue": "1-2",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0025|cit25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "141",
+                    "DOI": "10.1016/j.eplepsyres.2012.03.015",
+                    "article-title": "Analysis of three lamotrigine extended-release clinical trials: comparison of pragmatic ITT and LOCF methodologies",
+                    "volume": "101",
+                    "author": "French",
+                    "year": "2012",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0026|cit26",
+                    "first-page": "e144",
+                    "article-title": "The EpiNet-first trials now recruiting patients with newly diagnosed epilepsy",
+                    "volume": "357",
+                    "author": "Frith",
+                    "year": "2015",
+                    "journal-title": "Journal of the Neurological Sciences"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0027|cit27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "95",
+                    "DOI": "10.1590/S1984-82502012000100011",
+                    "article-title": "Interchangeability among therapeutic equivalents of lamotrigine: evaluation of quality of life",
+                    "volume": "48",
+                    "author": "Girolineto",
+                    "year": "2012",
+                    "journal-title": "Brazilian Journal of Pharmaceutical Sciences"
+                },
+                {
+                    "issue": "Suppl 7",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0028|cit28",
+                    "first-page": "100",
+                    "article-title": "Pragmatic intent-to-treat analysis for lamotrigine extended release adjunctive therapy in patients with intractable partial seizures",
+                    "volume": "49",
+                    "author": "Hammer",
+                    "year": "2008",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0029|cit29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "707",
+                    "DOI": "10.2165/11634260-000000000-00000",
+                    "article-title": "Generic substitution of lamotrigine among medicaid patients with diverse indications: a cohort-crossover study",
+                    "volume": "26",
+                    "author": "Hartung",
+                    "year": "2012",
+                    "journal-title": "CNS Drugs"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0030|cit30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "182",
+                    "DOI": "10.1016/j.yebeh.2012.11.052",
+                    "article-title": "The longer-term cognitive effects of adjunctive antiepileptic treatment with lacosamide in comparison with lamotrigine and topiramate in a naturalistic outpatient setting",
+                    "volume": "26",
+                    "author": "Helmstaedter",
+                    "year": "2013",
+                    "journal-title": "Epilepsy & Behaviour"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0031|cit31",
+                    "unstructured": "IRCT2013021211560N3 Epilepsy management in elderly http://www.irct.ir/searchresult.php?id=11560&number=3 2013"
+                },
+                {
+                    "issue": "17",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0032|cit32",
+                    "first-page": "1174",
+                    "article-title": "Efficacy and safety of the combined therapy of valproic acid and lamotrigine for epileptics",
+                    "volume": "92",
+                    "author": "Kang",
+                    "year": "2012",
+                    "journal-title": "Zhonghua yi xue za zhi"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0033|cit33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "17",
+                    "DOI": "10.1016/j.seizure.2017.12.008",
+                    "article-title": "Unblinded, randomized multicenter trial comparing lamotrigine and valproate combination with controlled-release carbamazepine monotherapy as initial drug regimen in untreated epilepsy",
+                    "volume": "55",
+                    "author": "Lee",
+                    "year": "2018",
+                    "journal-title": "Seizure"
+                },
+                {
+                    "issue": "10",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0034|cit34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1899",
+                    "DOI": "10.1111/epi.14554",
+                    "article-title": "Impact of carbamazepine, lamotrigine, and levetiracetam on vascular risk markers and lipid-lowering agents in the elderly",
+                    "volume": "59",
+                    "author": "Mintzer",
+                    "year": "2018",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 6",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0035|cit35",
+                    "first-page": "369",
+                    "article-title": "An analysis of the efficacy of lamotrigine extended-release adjunctive therapy in subjects with partial epilepsy by number of concomitant AEDs",
+                    "volume": "48",
+                    "author": "Montouris",
+                    "year": "2007",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0036|cit36",
+                    "unstructured": "NCT00208520 Second-line treatment choice for epilepsy http://ClinicalTrials.gov/show/NCT00208520"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0037|cit37",
+                    "unstructured": "NCT00292461 A study for evaluating the efficacy and safety of Zonisamide and Lamotrigine (Lamictal) for subjects with refractory simple partial, complex partial or partial with secondary generalized seizures https://ClinicalTrials.gov/show/NCT00292461"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0038|cit38",
+                    "unstructured": "NCT00807989 The efficacy and safety of low dose combination of LTG and VPA compared to CBZ monotherapy https://ClinicalTrials.gov/show/NCT00807989"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0039|cit39",
+                    "unstructured": "NCT01891890 Cognitive AED outcomes in pediatric localization related epilepsy (COPE) https://ClinicalTrials.gov/show/NCT01891890"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0040|cit40",
+                    "unstructured": "NCT02100644 Valproate dose reduction and its clinical evaluation by introducing Lamotrigine in Japanese women with epilepsy - single arm, multicenter, and open-label study https://ClinicalTrials.gov/show/NCT02100644"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0041|cit41",
+                    "unstructured": "NCT02429596 A trial of generic substitution of antiepileptic drugs https://ClinicalTrials.gov/show/NCT02429596"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0042|cit42",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "425",
+                    "DOI": "10.3805/jjes.25.425",
+                    "article-title": "Single-blind and controlled comparative study of lamotrigine with zonisamide for refractory pediatric epilepsy",
+                    "volume": "25",
+                    "author": "Ohtahara",
+                    "year": "2008",
+                    "journal-title": "Journal of the Japan Epilepsy Society"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0043|cit43",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "585",
+                    "DOI": "10.3389/fnins.2017.00585",
+                    "article-title": "The effect of lamotrigine and levetiracetam on TMS-evoked EEG responses depends on stimulation intensity",
+                    "volume": "11",
+                    "author": "Premoli",
+                    "year": "2017",
+                    "journal-title": "Frontiers in Neuroscience"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0044|cit44",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "365",
+                    "DOI": "10.1016/S1474-4422(16)00014-4",
+                    "article-title": "Generic-to-generic lamotrigine switches in people with epilepsy: the randomised controlled EQUIGEN trial",
+                    "volume": "15",
+                    "author": "Privitera",
+                    "year": "2016",
+                    "journal-title": "Lancet Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0045|cit45",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "221",
+                    "DOI": "10.1016/0920-1211(90)90077-9",
+                    "article-title": "A randomised double-blind placebo-controlled add-on trial of lamotrigine in patients with severe epilepsy",
+                    "volume": "6",
+                    "author": "Sander",
+                    "year": "1990",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0046|cit46",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "165",
+                    "DOI": "10.1684/epd.2014.0650",
+                    "article-title": "Early add-on treatment vs alternative monotherapy in patients with partial epilepsy",
+                    "volume": "16",
+                    "author": "Semah",
+                    "year": "2014",
+                    "journal-title": "Epileptic Disorders"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0047|cit47",
+                    "first-page": "359",
+                    "article-title": "Gabapentin and lamotrigine in Indian patients of partial epilepsy refractory to carbamazepine",
+                    "volume": "50",
+                    "author": "Sethi",
+                    "year": "2002",
+                    "journal-title": "Neurology India"
+                },
+                {
+                    "issue": "13",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0048|cit48",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1108",
+                    "DOI": "10.1212/WNL.0000000000001971",
+                    "article-title": "Long-term outcomes of generalized tonic-clonic seizures in a childhood absence epilepsy trial",
+                    "volume": "85",
+                    "author": "Shinnar",
+                    "year": "2015",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0049|cit49",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "921",
+                    "DOI": "10.1136/jnnp.57.8.921",
+                    "article-title": "Vigabatrin and lamotrigine in refractory epilepsy",
+                    "volume": "57",
+                    "author": "Stolarek",
+                    "year": "1994",
+                    "journal-title": "Journal of Neurology, Neurosurgery, and Psychiatry"
+                },
+                {
+                    "issue": "23",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0050|cit50",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.3310/hta22230",
+                    "article-title": "Antiepileptic drug monitoring in pregnancy (EMPiRE): a double-blind randomised trial on effectiveness and acceptability of monitoring strategies",
+                    "volume": "22",
+                    "author": "Thangaratinam",
+                    "year": "2018",
+                    "journal-title": "Health Technology Assessment (Winchester, England)"
+                },
+                {
+                    "issue": "9",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0051|cit51",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1415",
+                    "DOI": "10.1111/epi.13095",
+                    "article-title": "Generic lamotrigine versus brand-nameLamictal bioequivalence in patients with epilepsy: a field test of the FDA bioequivalence standard",
+                    "volume": "56",
+                    "author": "Ting",
+                    "year": "2015",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "Suppl 5",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0052|cit52",
+                    "first-page": "118",
+                    "article-title": "Evaluation of sudden unexpected death in epilepsy (SUDEP) occurring in lamotrigine (LTG) clinical trials",
+                    "volume": "53",
+                    "author": "Tomson",
+                    "year": "2012",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0053|cit53",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "135",
+                    "DOI": "10.1111/j.1528-1167.2012.03689.x",
+                    "article-title": "Sudden unexpected death in epilepsy in lamotrigine randomized-controlled trials",
+                    "volume": "54",
+                    "author": "Tomson",
+                    "year": "2013",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0054|cit54",
+                    "first-page": "97",
+                    "article-title": "Use of lamotrigine as adjunctive therapy in patients with mental retardation and epilepsy; an interim analysis of a double blind study with evaluation of behavioural effects",
+                    "volume": "41(Suppl Floren",
+                    "author": "Veendrick-Meekes",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "7",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0055|cit55",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1344",
+                    "DOI": "10.1111/epi.14450",
+                    "article-title": "The effects of oxcarbazepine, levetiracetam, and lamotrigine on semen quality, sexual function, and sex hormones in male adults with epilepsy",
+                    "volume": "59",
+                    "author": "Wu",
+                    "year": "2018",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0056|cit56",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "487",
+                    "DOI": "10.1248/bpb.35.487",
+                    "article-title": "Influence of concomitant antiepileptic drugs on plasma lamotrigine concentration in adult Japanese epilepsy patients",
+                    "volume": "35",
+                    "author": "Yamamoto",
+                    "year": "2012",
+                    "journal-title": "Biological & Pharmaceutical Bulletin"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0057|cit57",
+                    "unstructured": "NCT03689114 Low vs. standard daily doses of antiepileptic drugs in newly diagnosed, previously untreated epilepsy (STANDLOW) https://ClinicalTrials.gov/show/NCT03689114"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0058|cit58",
+                    "first-page": "230",
+                    "article-title": "Neuropsychological assessment in lamotrigine treated epileptic patients",
+                    "volume": "28",
+                    "author": "Banks",
+                    "year": "1991",
+                    "journal-title": "Clinical and Experimental Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0059|cit59",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "295",
+                    "DOI": "10.1007/978-94-017-8914-1_24",
+                    "article-title": "What are the arguments for and against rational therapy for epilepsy?",
+                    "volume": "813",
+                    "author": "Barker-Haliski",
+                    "year": "2014",
+                    "journal-title": "Advances in Experimental Medicine & Biology"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0060|cit60",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "140",
+                    "DOI": "10.1016/S0140-6736(95)91208-8",
+                    "article-title": "Remission of epilepsy: results from the national general practice study of epilepsy",
+                    "volume": "346",
+                    "author": "Cockerell",
+                    "year": "1995",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0061|cit61",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "389",
+                    "DOI": "10.1111/j.1528-1157.1989.tb05316.x",
+                    "article-title": "Proposal for revised classification of epilepsies and epileptic syndromes",
+                    "volume": "30",
+                    "author": "Commission on Classification and Terminology of the International League Against Epilepsy",
+                    "year": "1989",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0062|cit62",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "470",
+                    "DOI": "10.1111/j.0013-9580.2005.66104.x",
+                    "article-title": "Epileptic seizures and epilepsy: definitions proposed by the International League A Epilepsy (ILAE) and the International Bureau for Epilepsy (IBE)",
+                    "volume": "46",
+                    "author": "Fisher",
+                    "year": "2005",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0063|cit63",
+                    "unstructured": "McMaster University GRADEpro 2014"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0064|cit64",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "453",
+                    "DOI": "10.1111/j.1528-1157.1993.tb02586.x",
+                    "article-title": "Incidence of epilepsy and unprovoked seizures in Rochester, Minnesota: 1935 -1984",
+                    "volume": "34",
+                    "author": "Hauser",
+                    "year": "1993",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0065|cit65",
+                    "unstructured": "Higgins JP Thomas J Chandler J Cumpston M Li T Page MJ et al (editors) Cochrane Handbook for Systematic Reviews of Interventions version 6.0 (updated July 2019). Cochrane, 2019 Available from www.training.cochrane.org/handbook",
+                    "DOI": "10.1002/9781119536604",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0066|cit66",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "c365",
+                    "DOI": "10.1136/bmj.c365",
+                    "article-title": "The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews",
+                    "volume": "340",
+                    "author": "Kirkham",
+                    "year": "2010",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0067|cit67",
+                    "author": "Leach",
+                    "year": "1995",
+                    "article-title": "Lamotrigine",
+                    "volume-title": "Mechanisms of Action in Antiepileptic Drugs"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0068|cit68",
+                    "unstructured": "Lefebvre C Glanville J Briscoe S Littlewood A Marshall C Metzendorf M-I Technical Supplement to Chapter 4: Searching for and selecting studies. In: Higgins JPT, Thomas J, Chandler J, Cumpston MS, Li T, Page MJ, Welch VA (eds). Cochrane Handbook for Systematic Reviews of Interventions Version 6. Cochrane, 2019 Available from www.training.cochrane.org/handbook"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0069|cit69",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "113",
+                    "DOI": "10.1016/S0165-6147(00)01974-X",
+                    "article-title": "Current status and future directions in the pharmacotherapy of epilepsy",
+                    "volume": "23",
+                    "author": "Loscher",
+                    "year": "2002",
+                    "journal-title": "Trends in Pharmacological Sciences"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0070|cit70",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1543",
+                    "DOI": "10.1517/14656566.2014.922544",
+                    "article-title": "Pharmacotherapy of focal epilepsy",
+                    "volume": "15",
+                    "author": "Lyer",
+                    "year": "2014",
+                    "journal-title": "Expert Opinion on Pharmacotherapy"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0071|cit71",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1213",
+                    "DOI": "10.1517/14656566.2012.665875",
+                    "article-title": "Lamotrigine use in pregnancy",
+                    "volume": "13",
+                    "author": "Moore",
+                    "year": "2012",
+                    "journal-title": "Expert Opinion on Pharmacotherapy"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0072|cit72",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "87",
+                    "DOI": "10.1517/14728214.2013.750294",
+                    "article-title": "Emerging drugs for focal epilepsy",
+                    "volume": "18",
+                    "author": "Mula",
+                    "year": "2013",
+                    "journal-title": "Expert Opinion on Emerging Drugs"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0073|cit73",
+                    "author": "Panebianco",
+                    "issue": "4",
+                    "year": "2015",
+                    "article-title": "Vagus nerve stimulation for partial seizures",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD002896.pub2",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0074|cit74",
+                    "author": "Panebianco",
+                    "issue": "10",
+                    "year": "2018",
+                    "article-title": "Gabapentin add-on treatment for drug-resistant focal epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001415.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0075|cit75",
+                    "unstructured": "The Nordic Cochrane Centre, The Cochrane Collaboration Review Manager (RevMan) 2014"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0076|cit76",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "512",
+                    "DOI": "10.1111/epi.13709",
+                    "article-title": "ILAE classification of the epilepsies: position paper of the ILAE Commission for Classification and Terminology",
+                    "volume": "58",
+                    "author": "Scheffer",
+                    "year": "2017",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0077|cit77",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "13",
+                    "DOI": "10.1016/j.jocn.2012.05.024",
+                    "article-title": "Lamotrigine in epilepsy, pregnancy and psychiatry - a drug for all seasons?",
+                    "volume": "20",
+                    "author": "Vajda",
+                    "year": "2013",
+                    "journal-title": "Journal of Clinical Neuroscience"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0078|cit78",
+                    "author": "West",
+                    "issue": "6",
+                    "year": "2019",
+                    "article-title": "Surgery for epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD010541.pub3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0079|cit79",
+                    "author": "Ramaratnam",
+                    "issue": "3",
+                    "year": "2001",
+                    "article-title": "Lamotrigine add-on for drug-resistant partial epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001909",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD001909.pub3-BIB0080|cit80",
+                    "author": "Ramaratnam",
+                    "issue": "6",
+                    "year": "2016",
+                    "article-title": "Lamotrigine add-on for drug-resistant partial epilepsy",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD001909.pub2",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        21
+                    ]
+                ],
+                "date-time": "2021-04-21T22:19:35Z",
+                "timestamp": 1619043575000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        20
+                    ]
+                ]
+            },
+            "references-count": 80,
+            "URL": "http://dx.doi.org/10.1002/14651858.CD001909.pub3",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32196639",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "07",
+                    "Day": "31"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "20"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "03",
+                            "Day": "20"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD001909.pub3"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "3",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "03",
+                                "Day": "20"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Lamotrigine add-on therapy for drug-resistant focal epilepsy.",
+                    "Pagination": {
+                        "MedlinePgn": "CD001909"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "This is an updated version of the Cochrane Review previously published in 2016. Epilepsy is a common neurological disorder, affecting 0.5% to 1% of the population. For nearly 30% of these people, their epilepsy is resistant to currently available drugs. Pharmacological treatment remains the first choice to control epilepsy. Lamotrigine is one of the newer antiepileptic drugs. Lamotrigine, in combination with other antiepileptic drugs (add-on), can reduce seizures, but with some adverse effects.",
+                            "To determine the effects of lamotrigine on (1) seizures, (2) adverse-effect profile, and (3) cognition and quality of life, compared to placebo, when used as an add-on treatment for people with drug-resistant focal epilepsy.",
+                            "For the latest update of the review, we searched the following databases on 9 March 2020: Cochrane Register of Studies (CRS Web), MEDLINE (Ovid, 1946 to March 06, 2020). CRS Web includes randomized or quasi-randomized, controlled trials from PubMed, EMBASE, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform (ICTRP), the Cochrane Central Register of Controlled Trials (CENTRAL), and the Specialized Registers of Cochrane Review Groups including Epilepsy. No language restrictions were imposed.",
+                            "Randomised placebo-controlled trials of people with drug-resistant focal epilepsy of any age, in which an adequate method of concealment of randomisation was used. The studies were double-, single- or unblinded, placebo-controlled. For cross-over studies, the first treatment period was treated as a parallel trial. Eligible participants were adults or children with drug-resistant focal epilepsy.",
+                            "For this update, two review authors independently assessed the trials for inclusion, and extracted data. Outcomes included 50% or greater reduction in seizure frequency, treatment withdrawal (any reason), adverse effects, effects on cognition and quality of life. Primary analyses were by intention-to-treat. Sensitivity best- and worse-case analyses were undertaken to account for missing outcome data. Pooled risk ratios (RRs) with 95% confidence intervals (95% Cls) were estimated for the primary outcomes of seizure frequency and treatment withdrawal. For adverse effects, we calculated pooled RRs and 99% Cls.",
+                            "We did not identify any new studies for this update, therefore, the results and conclusions are unchanged. In previous updates of this review, the authors found five parallel add-on studies, eight cross-over studies in adults or children with drug-resistant focal epilepsy, and one parallel add-on study with a responder-enriched design in infants. In total, these 14 studies included 1806 eligible participants (38 infants, 199 children, 1569 adults). Baseline phases ranged from four to 12 weeks; treatment phases from eight to 36 weeks. Overall, 11 studies (1243 participants) were rated as having low risk of bias, and three (697 participants) had unclear risk of bias due to lack of reported information around study design. Effective blinding of studies was reported in four studies (563 participants). The overall risk ratio (RR) for 50% or greater reduction in seizure frequency was 1.80 (95% CI 1.45 to 2.23; 12 trials, 1322 participants (adults and children); moderate-certainty evidence) indicating that lamotrigine was significantly more effective than placebo in reducing seizure frequency. The overall RR for treatment withdrawal (for any reason) was 1.11 (95% CI 0.91 to 1.37; 14 trials; 1806 participants; moderate-certainty evidence). The adverse events significantly associated with lamotrigine were: ataxia, dizziness, diplopia (double vision), and nausea. The RR of these adverse effects were as follows: ataxia 3.34 (99% Cl 2.01 to 5.55; 12 trials; 1525 participants; high-certainty evidence); dizziness 2.00 (99% Cl 1.52 to 2.64;13 trials; 1768 participants; moderate-certainty evidence); diplopia 3.79 (99% Cl 2.15 to 6.68; 3 trials, 944 participants; high-certainty evidence); nausea 1.81 (99% Cl 1.22 to 2.68; 12 studies,1486 participants; moderate-certainty evidence). The limited data available precluded any conclusions about effects on cognition and quality of life. No important heterogeneity between studies was found for any of the outcomes. Overall, we assessed the evidence as high to moderate certainty, due to incomplete data for some outcomes.",
+                            "Lamotrigine as an add-on treatment for drug-resistant focal seizures appears to be effective in reducing seizure frequency, and seems to be fairly well-tolerated. However, the trials were of relatively short duration and provided no evidence for the long term. Further trials are needed to assess the long-term effects of lamotrigine, and to compare lamotrigine with other add-on drugs."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational Medicine, University of Liverpool, Department of Molecular and Clinical Pharmacology, Clinical Sciences Centre for Research and Education, Lower Lane, Liverpool, UK, L9 7LJ."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Panebianco",
+                            "ForeName": "Mariangela",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational Medicine, University of Liverpool, Department of Molecular and Clinical Pharmacology, Clinical Sciences Centre for Research and Education, Lower Lane, Liverpool, UK, L9 7LJ."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bresnahan",
+                            "ForeName": "Rebecca",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Nerve Centre, Department of Neurology, 5/1 Rajachar Street, T Nagar, Chennai, Tamil Nadu, India, 600017."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Ramaratnam",
+                            "ForeName": "Sridharan",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Translational Medicine, University of Liverpool, Department of Molecular and Clinical Pharmacology, Clinical Sciences Centre for Research and Education, Lower Lane, Liverpool, UK, L9 7LJ."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Walton Centre NHS Foundation Trust, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Health Partners, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "16/114/26",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Anticonvulsants"
+                    },
+                    {
+                        "RegistryNumber": "U3H27498KS",
+                        "NameOfSubstance": "Lamotrigine"
+                    }
+                ],
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2016 Jun 22;(6):CD001909",
+                        "PMID": "27329345"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "administration & dosage",
+                            "adverse effects"
+                        ],
+                        "DescriptorName": "Anticonvulsants",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "chemically induced",
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Ataxia",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug effects"
+                        ],
+                        "DescriptorName": "Cognition",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cross-Over Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "chemically induced",
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Diplopia",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "chemically induced",
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Dizziness",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Drug Resistance",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Drug Resistant Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Drug Therapy, Combination",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy"
+                        ],
+                        "DescriptorName": "Epilepsies, Partial",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "chemically induced",
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Fatigue",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "administration & dosage",
+                            "adverse effects"
+                        ],
+                        "DescriptorName": "Lamotrigine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "chemically induced",
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "Nausea",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Patient Dropouts",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Quality of Life",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "prevention & control"
+                        ],
+                        "DescriptorName": "Seizures",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Treatment Outcome",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Epilepsia. 1993 Mar-Apr;34(2):312-22",
+                                "ArticleIdList": [
+                                    "8453943"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Neurol. 2016 Apr;15(4):365-72",
+                                "ArticleIdList": [
+                                    "26875743"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2019 Jun 25;6:CD010541",
+                                "ArticleIdList": [
+                                    "31237346"
+                                ]
+                            },
+                            {
+                                "Citation": "Biol Pharm Bull. 2012;35(4):487-93",
+                                "ArticleIdList": [
+                                    "22466551"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Drug Investig. 2013 May;33(5):359-64",
+                                "ArticleIdList": [
+                                    "23475541"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2008 May 27;70(22 Pt 2):2099-108",
+                                "ArticleIdList": [
+                                    "18077797"
+                                ]
+                            },
+                            {
+                                "Citation": "CNS Drugs. 2012 Aug 1;26(8):707-16",
+                                "ArticleIdList": [
+                                    "22731934"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1990 Aug;6(3):221-6",
+                                "ArticleIdList": [
+                                    "2272345"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2007 Oct 16;69(16):1610-8",
+                                "ArticleIdList": [
+                                    "17938371"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2015 Sep 29;85(13):1108-14",
+                                "ArticleIdList": [
+                                    "26311751"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Neurosci. 2013 Jan;20(1):13-6",
+                                "ArticleIdList": [
+                                    "23036173"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 2013 Aug;128(2):91-9",
+                                "ArticleIdList": [
+                                    "23410109"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1993 Nov;43(11):2284-91",
+                                "ArticleIdList": [
+                                    "8232944"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2013 Jan;54(1):135-40",
+                                "ArticleIdList": [
+                                    "23030403"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1994 Aug;57(8):921-4",
+                                "ArticleIdList": [
+                                    "8057114"
+                                ]
+                            },
+                            {
+                                "Citation": "Seizure. 2018 Feb;55:17-24",
+                                "ArticleIdList": [
+                                    "29324401"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2016 May;122:79-83",
+                                "ArticleIdList": [
+                                    "26987080"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1989 Nov-Dec;4(3):222-9",
+                                "ArticleIdList": [
+                                    "2612495"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurol Int. 2009 Nov 16;1(1):e6",
+                                "ArticleIdList": [
+                                    "21577364"
+                                ]
+                            },
+                            {
+                                "Citation": "Front Neurosci. 2017 Oct 20;11:585",
+                                "ArticleIdList": [
+                                    "29104528"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 1996 Oct;94(4):247-52",
+                                "ArticleIdList": [
+                                    "8937535"
+                                ]
+                            },
+                            {
+                                "Citation": "JAMA Neurol. 2017 Aug 1;74(8):919-926",
+                                "ArticleIdList": [
+                                    "28654954"
+                                ]
+                            },
+                            {
+                                "Citation": "Trends Pharmacol Sci. 2002 Mar;23(3):113-8",
+                                "ArticleIdList": [
+                                    "11879677"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1994 Jan-Feb;35(1):113-21",
+                                "ArticleIdList": [
+                                    "8112232"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2017 Apr;58(4):512-521",
+                                "ArticleIdList": [
+                                    "28276062"
+                                ]
+                            },
+                            {
+                                "Citation": "Epileptic Disord. 2014 Jun;16(2):165-74",
+                                "ArticleIdList": [
+                                    "24776953"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2018 Oct;59(10):1899-1907",
+                                "ArticleIdList": [
+                                    "30178473"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2010 Sep;91(1):10-9",
+                                "ArticleIdList": [
+                                    "20696552"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2018 Oct 24;10:CD001415",
+                                "ArticleIdList": [
+                                    "30357813"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2001;(3):CD001909",
+                                "ArticleIdList": [
+                                    "11687001"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Pharm Ther. 2012 Dec;37(6):693-7",
+                                "ArticleIdList": [
+                                    "22583007"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1989 Jul-Aug;30(4):389-99",
+                                "ArticleIdList": [
+                                    "2502382"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurol Neurosurg Psychiatry. 1993 May;56(5):448-53",
+                                "ArticleIdList": [
+                                    "8505632"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2005 Apr;46(4):470-2",
+                                "ArticleIdList": [
+                                    "15816939"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Exp Neurol. 1991;28:230-7",
+                                "ArticleIdList": [
+                                    "1821833"
+                                ]
+                            },
+                            {
+                                "Citation": "Zhonghua Yi Xue Za Zhi. 2012 May 8;92(17):1174-8",
+                                "ArticleIdList": [
+                                    "22883004"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2016 Jun 22;(6):CD001909",
+                                "ArticleIdList": [
+                                    "27329345"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 1999 Nov 10;53(8):1724-31",
+                                "ArticleIdList": [
+                                    "10563619"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 2012 Aug;101(1-2):141-7",
+                                "ArticleIdList": [
+                                    "22497754"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1993 May-Jun;34(3):453-68",
+                                "ArticleIdList": [
+                                    "8504780"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2010 Nov;19(3):352-8",
+                                "ArticleIdList": [
+                                    "20937567"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1989 May-Jun;30(3):356-63",
+                                "ArticleIdList": [
+                                    "2498073"
+                                ]
+                            },
+                            {
+                                "Citation": "Expert Opin Pharmacother. 2014 Aug;15(11):1543-51",
+                                "ArticleIdList": [
+                                    "24856909"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2015 Sep;56(9):1415-24",
+                                "ArticleIdList": [
+                                    "26201987"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurol India. 2002 Sep;50(3):359-63",
+                                "ArticleIdList": [
+                                    "12391470"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Feb 15;340:c365",
+                                "ArticleIdList": [
+                                    "20156912"
+                                ]
+                            },
+                            {
+                                "Citation": "Expert Opin Pharmacother. 2012 Jun;13(8):1213-6",
+                                "ArticleIdList": [
+                                    "22594849"
+                                ]
+                            },
+                            {
+                                "Citation": "Expert Opin Emerg Drugs. 2013 Mar;18(1):87-95",
+                                "ArticleIdList": [
+                                    "23176519"
+                                ]
+                            },
+                            {
+                                "Citation": "Adv Exp Med Biol. 2014;813:295-308",
+                                "ArticleIdList": [
+                                    "25012386"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1990 Nov;7(2):136-45",
+                                "ArticleIdList": [
+                                    "2127016"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1995 Jul 15;346(8968):140-4",
+                                "ArticleIdList": [
+                                    "7603228"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Technol Assess. 2018 May;22(23):1-152",
+                                "ArticleIdList": [
+                                    "29737274"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2018 Jul;59(7):1344-1350",
+                                "ArticleIdList": [
+                                    "29889310"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2013 Feb;26(2):182-7",
+                                "ArticleIdList": [
+                                    "23318473"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2015 Apr 03;(4):CD002896",
+                                "ArticleIdList": [
+                                    "25835947"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "3",
+                        "Day": "21",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "3",
+                        "Day": "21",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "8",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "32196639",
+                    "10.1002/14651858.CD001909.pub3",
+                    "PMC7083514"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32196639)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832196639%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832196639%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85082146779"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85082146779?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85082146779&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85082146779&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85082146779",
+                        "dc:identifier": "SCOPUS_ID:85082146779",
+                        "eid": "2-s2.0-85082146779",
+                        "dc:title": "Lamotrigine add-on therapy for drug-resistant focal epilepsy",
+                        "dc:creator": "Panebianco M.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:eIssn": "1469493X",
+                        "prism:volume": "2020",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-03-20",
+                        "prism:coverDisplayDate": "20 March 2020",
+                        "prism:doi": "10.1002/14651858.CD001909.pub3",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32196639",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD001909",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "MJXD5MSL.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32196639"
+            }
+        },
+        "title": "Lamotrigine add-on therapy for drug-resistant focal epilepsy.",
+        "full_author_list": [
+            {
+                "clean": "Panebianco M",
+                "family": "Panebianco",
+                "given": "Mariangela",
+                "affiliation": {
+                    "name": "Institute of Translational Medicine, University of Liverpool, Department of Molecular and Clinical Pharmacology, Clinical Sciences Centre for Research and Education, Lower Lane, Liverpool, UK, L9 7LJ."
+                }
+            },
+            {
+                "clean": "Bresnahan R",
+                "family": "Bresnahan",
+                "given": "Rebecca",
+                "affiliation": {
+                    "name": "Institute of Translational Medicine, University of Liverpool, Department of Molecular and Clinical Pharmacology, Clinical Sciences Centre for Research and Education, Lower Lane, Liverpool, UK, L9 7LJ."
+                }
+            },
+            {
+                "clean": "Ramaratnam S",
+                "family": "Ramaratnam",
+                "given": "Sridharan",
+                "affiliation": {
+                    "name": "The Nerve Centre, Department of Neurology, 5/1 Rajachar Street, T Nagar, Chennai, Tamil Nadu, India, 600017."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": "Institute of Translational Medicine, University of Liverpool, Department of Molecular and Clinical Pharmacology, Clinical Sciences Centre for Research and Education, Lower Lane, Liverpool, UK, L9 7LJ."
+                }
+            }
+        ],
+        "first_author": "Panebianco M",
+        "zotero_tags": [
+            {
+                "tag": "PCCC"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Anticonvulsants",
+                    "major": "N"
+                },
+                {
+                    "term": "Ataxia",
+                    "major": "N"
+                },
+                {
+                    "term": "Child",
+                    "major": "N"
+                },
+                {
+                    "term": "Cognition",
+                    "major": "N"
+                },
+                {
+                    "term": "Cross-Over Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Diplopia",
+                    "major": "N"
+                },
+                {
+                    "term": "Dizziness",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Resistance",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Resistant Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Drug Therapy, Combination",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsies, Partial",
+                    "major": "N"
+                },
+                {
+                    "term": "Fatigue",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Lamotrigine",
+                    "major": "N"
+                },
+                {
+                    "term": "Nausea",
+                    "major": "N"
+                },
+                {
+                    "term": "Patient Dropouts",
+                    "major": "N"
+                },
+                {
+                    "term": "Quality of Life",
+                    "major": "N"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Seizures",
+                    "major": "N"
+                },
+                {
+                    "term": "Treatment Outcome",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "3",
+            "issue": ""
+        },
+        "abstract": "['This is an updated version of the Cochrane Review previously published in 2016. Epilepsy is a common neurological disorder, affecting 0.5% to 1% of the population. For nearly 30% of these people, their epilepsy is resistant to currently available drugs. Pharmacological treatment remains the first choice to control epilepsy. Lamotrigine is one of the newer antiepileptic drugs. Lamotrigine, in combination with other antiepileptic drugs (add-on), can reduce seizures, but with some adverse effects.', 'To determine the effects of lamotrigine on (1) seizures, (2) adverse-effect profile, and (3) cognition and quality of life, compared to placebo, when used as an add-on treatment for people with drug-resistant focal epilepsy.', 'For the latest update of the review, we searched the following databases on 9 March 2020: Cochrane Register of Studies (CRS Web), MEDLINE (Ovid, 1946 to March 06, 2020). CRS Web includes randomized or quasi-randomized, controlled trials from PubMed, EMBASE, ClinicalTrials.gov, the World Health Organization International Clinical Trials Registry Platform (ICTRP), the Cochrane Central Register of Controlled Trials (CENTRAL), and the Specialized Registers of Cochrane Review Groups including Epilepsy. No language restrictions were imposed.', 'Randomised placebo-controlled trials of people with drug-resistant focal epilepsy of any age, in which an adequate method of concealment of randomisation was used. The studies were double-, single- or unblinded, placebo-controlled. For cross-over studies, the first treatment period was treated as a parallel trial. Eligible participants were adults or children with drug-resistant focal epilepsy.', 'For this update, two review authors independently assessed the trials for inclusion, and extracted data. Outcomes included 50% or greater reduction in seizure frequency, treatment withdrawal (any reason), adverse effects, effects on cognition and quality of life. Primary analyses were by intention-to-treat. Sensitivity best- and worse-case analyses were undertaken to account for missing outcome data. Pooled risk ratios (RRs) with 95% confidence intervals (95% Cls) were estimated for the primary outcomes of seizure frequency and treatment withdrawal. For adverse effects, we calculated pooled RRs and 99% Cls.', 'We did not identify any new studies for this update, therefore, the results and conclusions are unchanged. In previous updates of this review, the authors found five parallel add-on studies, eight cross-over studies in adults or children with drug-resistant focal epilepsy, and one parallel add-on study with a responder-enriched design in infants. In total, these 14 studies included 1806 eligible participants (38 infants, 199 children, 1569 adults). Baseline phases ranged from four to 12 weeks; treatment phases from eight to 36 weeks. Overall, 11 studies (1243 participants) were rated as having low risk of bias, and three (697 participants) had unclear risk of bias due to lack of reported information around study design. Effective blinding of studies was reported in four studies (563 participants). The overall risk ratio (RR) for 50% or greater reduction in seizure frequency was 1.80 (95% CI 1.45 to 2.23; 12 trials, 1322 participants (adults and children); moderate-certainty evidence) indicating that lamotrigine was significantly more effective than placebo in reducing seizure frequency. The overall RR for treatment withdrawal (for any reason) was 1.11 (95% CI 0.91 to 1.37; 14 trials; 1806 participants; moderate-certainty evidence). The adverse events significantly associated with lamotrigine were: ataxia, dizziness, diplopia (double vision), and nausea. The RR of these adverse effects were as follows: ataxia 3.34 (99% Cl 2.01 to 5.55; 12 trials; 1525 participants; high-certainty evidence); dizziness 2.00 (99% Cl 1.52 to 2.64;13 trials; 1768 participants; moderate-certainty evidence); diplopia 3.79 (99% Cl 2.15 to 6.68; 3 trials, 944 participants; high-certainty evidence); nausea 1.81 (99% Cl 1.22 to 2.68; 12 studies,1486 participants; moderate-certainty evidence). The limited data available precluded any conclusions about effects on cognition and quality of life. No important heterogeneity between studies was found for any of the outcomes. Overall, we assessed the evidence as high to moderate certainty, due to incomplete data for some outcomes.', 'Lamotrigine as an add-on treatment for drug-resistant focal seizures appears to be effective in reducing seizure frequency, and seems to be fairly well-tolerated. However, the trials were of relatively short duration and provided no evidence for the long term. Further trials are needed to assess the long-term effects of lamotrigine, and to compare lamotrigine with other add-on drugs.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Translational Medicine, University of Liverpool, Department of Molecular and Clinical Pharmacology, Clinical Sciences Centre for Research and Education, Lower Lane, Liverpool, UK, L9 7LJ.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

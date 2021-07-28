@@ -1,0 +1,736 @@
+{
+    "IDs": {
+        "zotero": "TG8YFWRT",
+        "DOI": "10.12968/bjcn.2020.25.12.616",
+        "DOI_filename": "cbf00a2a02c725e2ce790a24d4f521d5",
+        "PMID": "33275503",
+        "scopus": "2-s2.0-85097310592",
+        "hash": "47b01ad79c1daa72523c8a835857b936"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "TG8YFWRT",
+            "version": 1002,
+            "itemType": "journalArticle",
+            "title": "Weight loss interventions as an option for a lifestyle treatment in urinary incontinence",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "James Edward",
+                    "lastName": "Hill"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Danielle",
+                    "lastName": "Christian"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kelly",
+                    "lastName": "Shaw"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Clegg"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "British Journal of Community Nursing",
+            "volume": "25",
+            "issue": "12",
+            "pages": "616-619",
+            "date": "2020-12-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Br J Community Nurs",
+            "language": "en",
+            "DOI": "10.12968/bjcn.2020.25.12.616",
+            "ISSN": "1462-4753, 2052-2215",
+            "shortTitle": "",
+            "url": "http://www.magonlinelibrary.com/doi/10.12968/bjcn.2020.25.12.616",
+            "accessDate": "2021-07-23T16:46:17Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33275503",
+            "tags": [
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:40Z",
+            "dateModified": "2021-07-27T12:14:36Z",
+            "pmid": "33275503"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        4
+                    ]
+                ],
+                "date-time": "2020-12-04T18:33:28Z",
+                "timestamp": 1607106808040
+            },
+            "reference-count": 22,
+            "publisher": "Mark Allen Group",
+            "issue": "12",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        2
+                    ]
+                ]
+            },
+            "DOI": "10.12968/bjcn.2020.25.12.616",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        4
+                    ]
+                ],
+                "date-time": "2020-12-04T17:48:24Z",
+                "timestamp": 1607104104000
+            },
+            "page": "616-619",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Weight loss interventions as an option for a lifestyle treatment in urinary incontinence",
+            "prefix": "10.12968",
+            "volume": "25",
+            "author": [
+                {
+                    "given": "James Edward",
+                    "family": "Hill",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Senior Research Fellow, University of Central Lancashire, Preston"
+                        }
+                    ]
+                },
+                {
+                    "given": "Danielle",
+                    "family": "Christian",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Senior Research Assistant, Stroke Research Team, University of Central Lancashire, Preston"
+                        }
+                    ]
+                },
+                {
+                    "given": "Kelly",
+                    "family": "Shaw",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Specialist Physiotherapist in Women's Health, Lancashire Teaching Hospitals"
+                        }
+                    ]
+                },
+                {
+                    "given": "Andrew",
+                    "family": "Clegg",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Professor of Health Services Research, Health Technology Assessment Group University of Central Lancashire, Preston"
+                        }
+                    ]
+                }
+            ],
+            "member": "5130",
+            "reference": [
+                {
+                    "issue": "12",
+                    "key": "B1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1424",
+                    "DOI": "10.1111/1471-0528.15897",
+                    "volume": "126",
+                    "author": "Aune D",
+                    "year": "2019",
+                    "journal-title": "BJOG"
+                },
+                {
+                    "issue": "5",
+                    "key": "B2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1010",
+                    "DOI": "10.1016/j.juro.2017.04.097",
+                    "volume": "198",
+                    "author": "Bradley CS",
+                    "year": "2017",
+                    "journal-title": "J Urol"
+                },
+                {
+                    "issue": "6",
+                    "key": "B4",
+                    "first-page": "345",
+                    "volume": "37",
+                    "author": "Demaagd GA",
+                    "year": "2012",
+                    "journal-title": "PT"
+                },
+                {
+                    "issue": "2",
+                    "key": "B5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e12294",
+                    "DOI": "10.1111/cob.12294",
+                    "volume": "9",
+                    "author": "Finkelstein EA",
+                    "year": "2019",
+                    "journal-title": "Clin Obes"
+                },
+                {
+                    "issue": "8",
+                    "key": "B6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1071",
+                    "DOI": "10.1038/ijo.2010.246",
+                    "volume": "35",
+                    "author": "Forster M",
+                    "year": "2011",
+                    "journal-title": "Int J Obesity"
+                },
+                {
+                    "key": "B7",
+                    "DOI": "10.1007/s00192-012-1829-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B8",
+                    "DOI": "10.1136/bmj.39490.551019.BE",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B10",
+                    "author": "Imamura M",
+                    "volume": "12",
+                    "first-page": "CD003505",
+                    "year": "2015",
+                    "journal-title": "Cochrane Database Syst Rev"
+                },
+                {
+                    "key": "B11",
+                    "DOI": "10.1111/j.1464-410X.2010.09993.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B12",
+                    "author": "Kawahara T",
+                    "year": "2020",
+                    "journal-title": "Int J Urol"
+                },
+                {
+                    "issue": "12",
+                    "key": "B13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1735",
+                    "DOI": "10.1111/obr.12756",
+                    "volume": "19",
+                    "author": "Lamerton TJ",
+                    "year": "2018",
+                    "journal-title": "Obes Rev"
+                },
+                {
+                    "issue": "6",
+                    "key": "B14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "589",
+                    "DOI": "10.1097/WON.0000000000000064",
+                    "volume": "41",
+                    "author": "Lobchuk MM",
+                    "year": "2018",
+                    "journal-title": "J Wound Ostomy Continence Nurs"
+                },
+                {
+                    "key": "B15",
+                    "DOI": "10.3310/hta15020",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "16",
+                    "key": "B16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1592",
+                    "DOI": "10.1001/jama.2017.12137",
+                    "volume": "318",
+                    "author": "Lukacz ES",
+                    "year": "2017",
+                    "journal-title": "JAMA"
+                },
+                {
+                    "issue": "10",
+                    "key": "B17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1116",
+                    "DOI": "10.1093/aje/kwq065",
+                    "volume": "171",
+                    "author": "Maserejian NN",
+                    "year": "2010",
+                    "journal-title": "Am J Epidemiol"
+                },
+                {
+                    "key": "B18",
+                    "DOI": "10.1016/j.eururo.2013.08.031",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B19",
+                    "DOI": "10.1080/13697137.2018.1543263",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B22",
+                    "author": "Nitti VW.",
+                    "volume": "3",
+                    "first-page": "S2",
+                    "year": "2001",
+                    "journal-title": "Rev Urol"
+                },
+                {
+                    "issue": "15",
+                    "key": "B23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1389",
+                    "DOI": "10.3109/09638288.2010.532284",
+                    "volume": "33",
+                    "author": "Sims J",
+                    "year": "2011",
+                    "journal-title": "Disabil Rehabil"
+                },
+                {
+                    "issue": "4",
+                    "key": "B24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1394",
+                    "DOI": "10.1016/j.juro.2010.05.095",
+                    "volume": "184",
+                    "author": "Thom DH",
+                    "year": "2010",
+                    "journal-title": "J Urol"
+                },
+                {
+                    "issue": "6",
+                    "key": "B25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2303",
+                    "DOI": "10.1016/j.juro.2011.02.040",
+                    "volume": "185",
+                    "author": "von Gontard A",
+                    "year": "2011",
+                    "journal-title": "J Urol"
+                },
+                {
+                    "issue": "9",
+                    "key": "B26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1097",
+                    "DOI": "10.1089/jwh.2017.6891",
+                    "volume": "27",
+                    "author": "Yang E",
+                    "year": "2018",
+                    "journal-title": "J Womens Health (Larchmt)"
+                }
+            ],
+            "container-title": "British Journal of Community Nursing",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://www.magonlinelibrary.com/doi/pdf/10.12968/bjcn.2020.25.12.616",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        4
+                    ]
+                ],
+                "date-time": "2020-12-04T17:48:32Z",
+                "timestamp": 1607104112000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 22,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            12,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "12"
+            },
+            "alternative-id": [
+                "10.12968/bjcn.2020.25.12.616"
+            ],
+            "URL": "http://dx.doi.org/10.12968/bjcn.2020.25.12.616",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1462-4753",
+                "2052-2215"
+            ],
+            "subject": [
+                "Community and Home Care",
+                "General Medicine"
+            ],
+            "container-title-short": "Br J Community Nurs"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "N"
+                ],
+                "PMID": "33275503",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "01",
+                    "Day": "28"
+                },
+                "Article": {
+                    "ArticleDate": [],
+                    "ELocationID": [
+                        "10.12968/bjcn.2020.25.12.616"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1462-4753",
+                        "JournalIssue": {
+                            "Volume": "25",
+                            "Issue": "12",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Dec",
+                                "Day": "02"
+                            }
+                        },
+                        "Title": "British journal of community nursing",
+                        "ISOAbbreviation": "Br J Community Nurs"
+                    },
+                    "ArticleTitle": "Weight loss interventions as an option for a lifestyle treatment in urinary incontinence.",
+                    "Pagination": {
+                        "MedlinePgn": "616-619"
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Senior Research Fellow, University of Central Lancashire, Preston."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hill",
+                            "ForeName": "James Edward",
+                            "Initials": "JE"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Senior Research Assistant, Stroke Research Team, University of Central Lancashire, Preston."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Christian",
+                            "ForeName": "Danielle",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Specialist Physiotherapist in Women's Health, Lancashire Teaching Hospitals."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shaw",
+                            "ForeName": "Kelly",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Professor of Health Services Research, Health Technology Assessment Group University of Central Lancashire, Preston."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Clegg",
+                            "ForeName": "Andrew",
+                            "Initials": "A"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Br J Community Nurs",
+                    "NlmUniqueID": "9815827",
+                    "ISSNLinking": "1462-4753"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "4",
+                        "Hour": "17",
+                        "Minute": "8"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "5",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "5",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "33275503",
+                    "10.12968/bjcn.2020.25.12.616"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33275503)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833275503%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833275503%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097310592"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097310592?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097310592&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097310592&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097310592",
+                        "dc:identifier": "SCOPUS_ID:85097310592",
+                        "eid": "2-s2.0-85097310592",
+                        "dc:title": "Weight loss interventions as an option for a lifestyle treatment in urinary incontinence",
+                        "dc:creator": "Hill J.E.",
+                        "prism:publicationName": "British Journal of Community Nursing",
+                        "prism:issn": "14624753",
+                        "prism:eIssn": "20522207",
+                        "prism:volume": "25",
+                        "prism:issueIdentifier": "12",
+                        "prism:pageRange": "616-619",
+                        "prism:coverDate": "2020-12-02",
+                        "prism:coverDisplayDate": "2 December 2020",
+                        "prism:doi": "10.12968/bjcn.2020.25.12.616",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33275503",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "27158",
+                        "openaccess": "0",
+                        "openaccessFlag": false,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "TG8YFWRT.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33275503"
+            }
+        },
+        "title": "Weight loss interventions as an option for a lifestyle treatment in urinary incontinence.",
+        "full_author_list": [
+            {
+                "clean": "Hill J",
+                "family": "Hill",
+                "given": "James Edward",
+                "affiliation": {
+                    "name": "Senior Research Fellow, University of Central Lancashire, Preston."
+                }
+            },
+            {
+                "clean": "Christian D",
+                "family": "Christian",
+                "given": "Danielle",
+                "affiliation": {
+                    "name": "Senior Research Assistant, Stroke Research Team, University of Central Lancashire, Preston."
+                }
+            },
+            {
+                "clean": "Shaw K",
+                "family": "Shaw",
+                "given": "Kelly",
+                "affiliation": {
+                    "name": "Specialist Physiotherapist in Women's Health, Lancashire Teaching Hospitals."
+                }
+            },
+            {
+                "clean": "Clegg A",
+                "family": "Clegg",
+                "given": "Andrew",
+                "affiliation": {
+                    "name": "Professor of Health Services Research, Health Technology Assessment Group University of Central Lancashire, Preston."
+                }
+            }
+        ],
+        "first_author": "Hill J",
+        "zotero_tags": [
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Br J Community Nurs",
+            "volume": "25",
+            "issue": "12"
+        },
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Senior Research Fellow, University of Central Lancashire, Preston.",
+            "clean_institute": "University of Central Lancashire",
+            "country": "United Kingdom",
+            "latitude": "53.759444444444",
+            "longitude": "-2.6980555555556"
+        }
+    }
+}

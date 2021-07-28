@@ -1,0 +1,1111 @@
+{
+    "IDs": {
+        "zotero": "9KK2KRKC",
+        "DOI": "10.1186/s12884-020-03096-3",
+        "DOI_filename": "79397ca16574033cd4891c68e66e0e4e",
+        "PMID": "32650735",
+        "scopus": "2-s2.0-85088202605",
+        "hash": "8e6c124577f82cc513122237ff661805"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "9KK2KRKC",
+            "version": 977,
+            "itemType": "journalArticle",
+            "title": "A qualitative study of healthcare professionals\u2019 experiences of providing maternity care for Muslim women in the UK",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Shaima Mohamed",
+                    "lastName": "Hassan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Conan",
+                    "lastName": "Leavey"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jane S.",
+                    "lastName": "Rooney"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Shuby",
+                    "lastName": "Puthussery"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              A growing Muslim population in the UK suggests the need for healthcare professionals (HCPs) to gain a better understanding of how the Islamic faith influences health related perceptions and healthcare seeking behaviour. Although some researchers have explored the experiences of Muslim women as recipients of healthcare, little attention has been paid to the challenges HCPs face as service providers on a day-to-day basis whilst caring for Muslim women. The aim of this study was to investigate HPCs lived experiences of providing maternity care for Muslim women.\n            \n            \n              Method\n              Data was collected through twelve semi-structured one-to-one qualitative interviews with HCPs in a large National Health Service (NHS) maternity unit located in the North West of England. Interview participants included Community and specialist clinic (e.g. clinic for non-English speakers), Midwives in a variety of specialist roles (7), Gynaecology Nurses (2), Breastfeeding Support Workers (2) and a Sonographer (1). The audio-recorded interviews were transcribed and analysed thematically.\n            \n            \n              Results\n              The majority of participants expressed an understanding of some religious values and practices related to Muslim women, such as fasting the month of Ramadhan and that pregnant and breastfeeding women are exempt from this. However, HCPs articulated the challenges they faced when dealing with certain religious values and practices, and how they tried to respond to Muslim women\u2019s specific needs. Emerging themes included: 1) HCPs perceptions about Muslim women; 2) HCPs understanding and awareness of religious practices; 3) HCPs approaches in addressing and supporting Muslim women\u2019s religious needs; 4) Importance of training in providing culturally and religiously appropriate woman-centred care.\n            \n            \n              Conclusion\n              Through this study we gained insight into the day-to-day experiences of HCPs providing care provision for Muslim women. HCPs showed an understanding of the importance of religious and cultural practices in addressing the needs of Muslim women as part of their role as maternity care providers. However, they also identified a need to develop training programmes that focus on cultural and religious practices and their impact on women\u2019s health care needs. This will help support HCPs in overcoming the challenges faced when dealing with needs of women from different backgrounds.",
+            "publicationTitle": "BMC Pregnancy and Childbirth",
+            "volume": "20",
+            "issue": "1",
+            "pages": "400",
+            "date": "12/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Pregnancy Childbirth",
+            "language": "en",
+            "DOI": "10.1186/s12884-020-03096-3",
+            "ISSN": "1471-2393",
+            "shortTitle": "",
+            "url": "https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-020-03096-3",
+            "accessDate": "2021-07-23T16:46:13Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32650735",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:28Z",
+            "dateModified": "2021-07-27T11:48:35Z",
+            "pmid": "32650735"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        10
+                    ]
+                ],
+                "date-time": "2020-07-10T09:40:58Z",
+                "timestamp": 1594374058124
+            },
+            "reference-count": 28,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                7,
+                                10
+                            ]
+                        ],
+                        "date-time": "2020-07-10T00:00:00Z",
+                        "timestamp": 1594339200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                7,
+                                10
+                            ]
+                        ],
+                        "date-time": "2020-07-10T00:00:00Z",
+                        "timestamp": 1594339200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        12
+                    ]
+                ]
+            },
+            "DOI": "10.1186/s12884-020-03096-3",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        10
+                    ]
+                ],
+                "date-time": "2020-07-10T09:03:44Z",
+                "timestamp": 1594371824000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "A qualitative study of healthcare professionals\u2019 experiences of providing maternity care for Muslim women in the UK",
+            "prefix": "10.1186",
+            "volume": "20",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-7840-3342",
+                    "authenticated-orcid": false,
+                    "given": "Shaima Mohamed",
+                    "family": "Hassan",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Conan",
+                    "family": "Leavey",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jane S.",
+                    "family": "Rooney",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Shuby",
+                    "family": "Puthussery",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        10
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "3096_CR1",
+                    "unstructured": "England NHS. Better births: improving outcomes of maternity services in England \u2013 a five year forward view for maternity care. Natl Mat Rev. 2016; \nhttps://www.england.nhs.uk/wp-content/uploads/2016/02/national-maternity-review-report.pdf\n\n."
+                },
+                {
+                    "key": "3096_CR2",
+                    "author": "Patient Survey Programme",
+                    "year": "2019",
+                    "unstructured": "Patient Survey Programme. 2018 survey of women\u2019s experiences of maternity care: Statistical release. 2019. \nhttps://www.cqc.org.uk/sites/default/files/20190424_mat18_statisticalrelease.pdf\n\n.",
+                    "volume-title": "2018 survey of women\u2019s experiences of maternity care: Statistical release"
+                },
+                {
+                    "key": "3096_CR3",
+                    "author": "NHS England",
+                    "year": "2019",
+                    "unstructured": "NHS England. The NHS long term plan. 2019. \nhttps://www.longtermplan.nhs.uk/wp-content/uploads/2019/01/nhs-long-term-plan-june-2019.pdf\n\n.",
+                    "volume-title": "The NHS long term plan"
+                },
+                {
+                    "key": "3096_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "39",
+                    "DOI": "10.1016/j.bpobgyn.2015.09.003",
+                    "volume": "32",
+                    "author": "S Puthussery",
+                    "year": "2016",
+                    "unstructured": "Puthussery S. Perinatal outcomes among migrant mothers in the United Kingdom: is it a matter of biology, behaviour, policy, social determinants or access to health care? Best Pract Res Clin Obstet Gynaecol. 2016;32:39\u201349. \nhttps://doi.org/10.1016/j.bpobgyn.2015.09.003\n\n.",
+                    "journal-title": "Best Pract Res Clin Obstet Gynaecol"
+                },
+                {
+                    "key": "3096_CR5",
+                    "unstructured": "Knight M, Bunch K, Tuffnell D, Shakespeare J, Kotnis R, Kenyon S, Kurinczuk JJ. Saving lives, improving mothers\u2019 care: lessons learned to inform maternity care from the UK and Ireland confidential enquiries into maternal deaths and morbidity 2015-17: MBRRACE-UK; 2019. \nhttps://www.npeu.ox.ac.uk/downloads/files/mbrrace-uk/reports/MBRRACE-UK%20Maternal%20Report%202019%20-%20WEB%20VERSION.pdf\n\n."
+                },
+                {
+                    "key": "3096_CR6",
+                    "unstructured": "Henderson J, Gao H, Redshaw M. Experiencing maternity care: the care received and perceptions of women from different ethnic groups. BMC Pregnancy Childbirth. 2013;13(196). \nhttps://doi.org/10.1186/1471-2393-13-196\n\n.",
+                    "DOI": "10.1186/1471-2393-13-196",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "3096_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "156",
+                    "DOI": "10.1258/jhsrp.2009.009067",
+                    "volume": "15",
+                    "author": "S Puthussery",
+                    "year": "2010",
+                    "unstructured": "Puthussery S, Twamley K, Macfarlane A. \u2018You need that loving tender care\u2019: maternity care experiences and expectations of ethnic minority women born in the United Kingdom. J Health Serv Res Policy. 2010;15:156\u201362 \n10.1258%2Fjhsrp.2009.009067\n\n.",
+                    "journal-title": "J Health Serv Res Policy"
+                },
+                {
+                    "issue": "2",
+                    "key": "3096_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "181",
+                    "DOI": "10.1016/j.midw.2007.02.002",
+                    "volume": "25",
+                    "author": "L Straus",
+                    "year": "2009",
+                    "unstructured": "Straus L, McEwen A, Hussein FM. Somali women\u2019s experience of childbirth in the UK: perspectives from Somali health workers. Midwifery. 2009;25(2):181\u20136. \nhttps://doi.org/10.1016/j.midw.2007.02.002\n\n.",
+                    "journal-title": "Midwifery."
+                },
+                {
+                    "issue": "4",
+                    "key": "3096_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "124",
+                    "DOI": "10.1111/j.1369-7625.2012.00770.x",
+                    "volume": "16",
+                    "author": "A McFadden",
+                    "year": "2013",
+                    "unstructured": "McFadden A, Renfrew MJ, Atkin K. Does cultural context make a difference to women\u2019s experiences of maternity care? A qualitative study comparing the perspectives of breast-feeding women of Bangladeshi origin and health practitioners. Health Expect. 2013;16(4):124\u201335. \nhttps://doi.org/10.1111/j.1369-7625.2012.00770.x\n\n.",
+                    "journal-title": "Health Expect"
+                },
+                {
+                    "key": "3096_CR10",
+                    "first-page": "1",
+                    "volume": "36",
+                    "author": "H Connolly",
+                    "year": "2006",
+                    "unstructured": "Connolly H, White A. The different experiences of the United Kingdom\u2019s ethnic and religious populations. Social Trends. 2006;36:1\u20138.",
+                    "journal-title": "Social Trends"
+                },
+                {
+                    "key": "3096_CR11",
+                    "author": "WHO",
+                    "year": "2003",
+                    "unstructured": "WHO. Working with individuals, families and communities to improve MNH. Geneva: World Health Organization; 2003. \nhttps://apps.who.int/iris/bitstream/handle/10665/83795/WHO_FCH_RHR_03.11.pdf\n\n.",
+                    "volume-title": "Working with individuals, families and communities to improve MNH"
+                },
+                {
+                    "key": "3096_CR12",
+                    "author": "Office of National Statics",
+                    "year": "2011",
+                    "unstructured": "Office of National Statics. Ethnicity and National Identity in England and Wales:2011. \nhttps://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/articles/ethnicityandnationalidentityinenglandandwales/2012-12-11\n\n.",
+                    "volume-title": "Ethnicity and National Identity in England and Wales"
+                },
+                {
+                    "key": "3096_CR13",
+                    "author": "GH Rassool",
+                    "year": "2014",
+                    "unstructured": "Rassool GH. Cultural competence in caring for Muslim patients. Basingstoke: Palgrave Macmillan; 2014.",
+                    "volume-title": "Cultural competence in caring for Muslim patients",
+                    "DOI": "10.1007/978-1-137-35841-7",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "3096_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "156",
+                    "DOI": "10.1186/s12884-019-2302-y",
+                    "volume": "19",
+                    "author": "SM Hassan",
+                    "year": "2019",
+                    "unstructured": "Hassan SM, Rooney J, Leavey C. Exploring English speaking Muslim women\u2019s first-time maternity experiences: a qualitative longitudinal interview study. BMC Pregnancy Childbirth. 2019;19:156. \nhttps://doi.org/10.1186/s12884-019-2302-y\n\n.",
+                    "journal-title": "BMC Pregnancy Childbirth"
+                },
+                {
+                    "key": "3096_CR15",
+                    "unstructured": "Attum B, Shamoon Z. Cultural competence in care of Muslim patients and their families. StatPearls. 2020.\u00a0\nhttps://www.ncbi.nlm.nih.gov/books/NBK499933/\n\n."
+                },
+                {
+                    "key": "3096_CR16",
+                    "author": "SM Hassan",
+                    "year": "2017",
+                    "unstructured": "Hassan, S.M. A qualitative study exploring British Muslim women\u2019s experiences of motherhood while engaging with NHS maternity services. 2017. PhD thesis.",
+                    "volume-title": "A qualitative study exploring British Muslim women\u2019s experiences of motherhood while engaging with NHS maternity services"
+                },
+                {
+                    "key": "3096_CR17",
+                    "author": "J Green",
+                    "year": "2004",
+                    "unstructured": "Green J, Thorogood N. Qualitative methods for Health Research. London: SAGE; 2004.",
+                    "volume-title": "Qualitative methods for Health Research"
+                },
+                {
+                    "key": "3096_CR18",
+                    "author": "N Mack",
+                    "year": "2005",
+                    "unstructured": "Mack N, Woodsong C, MacQueen KM, Guest G, Namey E. Qualitative research methods: a data collector\u2019s field guide. USA: Family Health International; 2005.",
+                    "volume-title": "Qualitative research methods: a data collector\u2019s field guide"
+                },
+                {
+                    "key": "3096_CR19",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "77",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "volume": "3",
+                    "author": "V Braun",
+                    "year": "2006",
+                    "unstructured": "Braun V, Clarke V. Using thematic analysis in psychology. Qual Res Psychol. 2006;3:77\u2013101. \nhttps://doi.org/10.1191/1478088706qp063oa\n\n.",
+                    "journal-title": "Qual Res Psychol"
+                },
+                {
+                    "key": "3096_CR20",
+                    "unstructured": "Malterud K, Siersma VD, Guassora AD. Sample Size in Qualitative Interview Studies: Guided by Information Power. Qual Health Res. 2016;26(13). \nhttps://doi.org/10.1177/1049732315617444\n\n.",
+                    "DOI": "10.1177/1049732315617444",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "28",
+                    "key": "3096_CR21",
+                    "first-page": "14",
+                    "volume": "106",
+                    "author": "P Sartori",
+                    "year": "2010",
+                    "unstructured": "Sartori P. Spirituality 1: should spiritual and religious beliefs be part of patient care? Nurs Times. 2010;106(28):14\u20137.",
+                    "journal-title": "Nurs Times"
+                },
+                {
+                    "issue": "8",
+                    "key": "3096_CR22",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "489",
+                    "DOI": "10.12968/bjom.2011.19.8.489",
+                    "volume": "19",
+                    "author": "S Esegbona-Adeigbe",
+                    "year": "2011",
+                    "unstructured": "Esegbona-Adeigbe S. Acquiring cultural competency in caring for black African women. Br J Midwifery. 2011;19(8):489\u201396. \nhttps://doi.org/10.12968/bjom.2011.19.8.489\n\n.",
+                    "journal-title": "Br J Midwifery"
+                },
+                {
+                    "key": "3096_CR23",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "267",
+                    "DOI": "10.1186/s12884-017-1449-7",
+                    "volume": "17",
+                    "author": "E Jones",
+                    "year": "2017",
+                    "unstructured": "Jones E, Lattof SR, Coast E. Interventions to provide culturally-appropriate maternity care services: factors affecting implementation. BMC Pregnancy Childbirth. 2017;17:267. \nhttps://doi.org/10.1186/s12884-017-1449-7\n\n.",
+                    "journal-title": "BMC Pregnancy Childbirth"
+                },
+                {
+                    "key": "3096_CR24",
+                    "author": "NMC",
+                    "year": "2015",
+                    "unstructured": "NMC. The Code: Professional standards of practice and behaviour for nurses and midwives. 2015. \nhttps://www.nmc.org.uk/globalassets/sitedocuments/nmc-publications/nmc-old-code-2015.pdf\n\n.",
+                    "volume-title": "The Code: Professional standards of practice and behaviour for nurses and midwives"
+                },
+                {
+                    "issue": "1",
+                    "key": "3096_CR25",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "73",
+                    "DOI": "10.1089/jwh.2010.2197",
+                    "volume": "20",
+                    "author": "M Hasnain",
+                    "year": "2011",
+                    "unstructured": "Hasnain M, Connell K, J Menon U, Tranmer PA. Patient- centred care for Muslim women; provider and patient perspectives. J Women's Health. 2011;20(1):73\u201383. \nhttps://doi.org/10.1089/jwh.2010.2197\n\n.",
+                    "journal-title": "J Women's Health"
+                },
+                {
+                    "key": "3096_CR26",
+                    "unstructured": "Lehman D, Fenza P, Hollinger-Simth L. Diversity and cultural competency in health care settings. Mather Lifeways (Orange Paper). 2012. \nhttps://www.ecald.com/assets/Resources/Diversity-and-Cultural-Competency.pdf\n\n."
+                },
+                {
+                    "issue": "2",
+                    "key": "3096_CR27",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "16",
+                    "DOI": "10.1624/105812410X495514",
+                    "volume": "19",
+                    "author": "LC Callister",
+                    "year": "2010",
+                    "unstructured": "Callister LC, Khalaf I. Spirituality in childbearing women. J Perinat Educ. 2010;19(2):16\u201324. \nhttps://doi.org/10.1624/105812410X495514\n\n.",
+                    "journal-title": "J Perinat Educ"
+                },
+                {
+                    "issue": "1",
+                    "key": "3096_CR28",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "108",
+                    "DOI": "10.1503/cmaj.080848",
+                    "volume": "179",
+                    "author": "D Gardner",
+                    "year": "2008",
+                    "unstructured": "Gardner D. Numbers are nice, but stories matter. Can Med Assoc J. 2008;179(1):108. \nhttps://doi.org/10.1503/cmaj.080848\n\n.",
+                    "journal-title": "Can Med Assoc J"
+                }
+            ],
+            "container-title": "BMC Pregnancy and Childbirth",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12884-020-03096-3.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s12884-020-03096-3/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12884-020-03096-3.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        10
+                    ]
+                ],
+                "date-time": "2020-07-10T09:04:43Z",
+                "timestamp": 1594371883000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        10
+                    ]
+                ]
+            },
+            "references-count": 28,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "3096"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12884-020-03096-3",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1471-2393"
+            ],
+            "subject": [
+                "Obstetrics and Gynaecology"
+            ],
+            "container-title-short": "BMC Pregnancy Childbirth",
+            "assertion": [
+                {
+                    "value": "21 March 2019",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "6 July 2020",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "10 July 2020",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "Ethical approval was obtained from the NHS Research Ethics Committee (through the Integrated Research Application System (IRAS) prior to commencing data collection. Written consent was obtained from all participants in the study.",
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "Not applicable.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "The authors declare that they have no competing interests.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "400"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Cultural competency",
+                        "Exploratory study",
+                        "Healthcare professionals",
+                        "Maternity services",
+                        "Muslim women"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32650735",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "01"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "01"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "07",
+                            "Day": "10"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12884-020-03096-3"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1471-2393",
+                        "JournalIssue": {
+                            "Volume": "20",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Jul",
+                                "Day": "10"
+                            }
+                        },
+                        "Title": "BMC pregnancy and childbirth",
+                        "ISOAbbreviation": "BMC Pregnancy Childbirth"
+                    },
+                    "ArticleTitle": "A qualitative study of healthcare professionals' experiences of providing maternity care for Muslim women in the UK.",
+                    "Pagination": {
+                        "MedlinePgn": "400"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "A growing Muslim population in the UK suggests the need for healthcare professionals (HCPs) to gain a better understanding of how the Islamic faith influences health related perceptions and healthcare seeking behaviour. Although some researchers have explored the experiences of Muslim women as recipients of healthcare, little attention has been paid to the challenges HCPs face as service providers on a day-to-day basis whilst caring for Muslim women. The aim of this study was to investigate HPCs lived experiences of providing maternity care for Muslim women.",
+                            "Data was collected through twelve semi-structured one-to-one qualitative interviews with HCPs in a large National Health Service (NHS) maternity unit located in the North West of England. Interview participants included Community and specialist clinic (e.g. clinic for non-English speakers), Midwives in a variety of specialist roles (7), Gynaecology Nurses (2), Breastfeeding Support Workers (2) and a Sonographer (1). The audio-recorded interviews were transcribed and analysed thematically.",
+                            "The majority of participants expressed an understanding of some religious values and practices related to Muslim women, such as fasting the month of Ramadhan and that pregnant and breastfeeding women are exempt from this. However, HCPs articulated the challenges they faced when dealing with certain religious values and practices, and how they tried to respond to Muslim women's specific needs. Emerging themes included: 1) HCPs perceptions about Muslim women; 2) HCPs understanding and awareness of religious practices; 3) HCPs approaches in addressing and supporting Muslim women's religious needs; 4) Importance of training in providing culturally and religiously appropriate woman-centred care.",
+                            "Through this study we gained insight into the day-to-day experiences of HCPs providing care provision for Muslim women. HCPs showed an understanding of the importance of religious and cultural practices in addressing the needs of Muslim women as part of their role as maternity care providers. However, they also identified a need to develop training programmes that focus on cultural and religious practices and their impact on women's health care needs. This will help support HCPs in overcoming the challenges faced when dealing with needs of women from different backgrounds."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK. s.m.hassan@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0001-7840-3342"
+                            ],
+                            "LastName": "Hassan",
+                            "ForeName": "Shaima Mohamed",
+                            "Initials": "SM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Education, Health and Community, Public Health Institute. Liverpool John Moores University, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Leavey",
+                            "ForeName": "Conan",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Education, Health and Community. School of Nursing and Allied Health, Liverpool John Moores University, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rooney",
+                            "ForeName": "Jane S",
+                            "Initials": "JS"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Maternal and Child Health Research Centre, Institute for Health Research, University of Bedfordshire, Luton, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Puthussery",
+                            "ForeName": "Shuby",
+                            "Initials": "S"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Pregnancy Childbirth",
+                    "NlmUniqueID": "100967799",
+                    "ISSNLinking": "1471-2393"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Attitude of Health Personnel",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Culturally Competent Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology"
+                        ],
+                        "DescriptorName": "Health Personnel",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Islam",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Maternal Health Services",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Pregnancy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Qualitative Research",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "BMC Pregnancy Childbirth. 2013 Oct 22;13:196",
+                                "ArticleIdList": [
+                                    "24148317"
+                                ]
+                            },
+                            {
+                                "Citation": "Midwifery. 2009 Apr;25(2):181-6",
+                                "ArticleIdList": [
+                                    "17600598"
+                                ]
+                            },
+                            {
+                                "Citation": "J Womens Health (Larchmt). 2011 Jan;20(1):73-83",
+                                "ArticleIdList": [
+                                    "21190484"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Pregnancy Childbirth. 2017 Aug 31;17(1):267",
+                                "ArticleIdList": [
+                                    "28854901"
+                                ]
+                            },
+                            {
+                                "Citation": "J Perinat Educ. 2010 Spring;19(2):16-24",
+                                "ArticleIdList": [
+                                    "20498751"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Pregnancy Childbirth. 2019 May 6;19(1):156",
+                                "ArticleIdList": [
+                                    "31060520"
+                                ]
+                            },
+                            {
+                                "Citation": "Best Pract Res Clin Obstet Gynaecol. 2016 Apr;32:39-49",
+                                "ArticleIdList": [
+                                    "26527304"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Serv Res Policy. 2010 Jul;15(3):156-62",
+                                "ArticleIdList": [
+                                    "20466754"
+                                ]
+                            },
+                            {
+                                "Citation": "CMAJ. 2008 Jul 1;179(1):108",
+                                "ArticleIdList": [
+                                    "18591541"
+                                ]
+                            },
+                            {
+                                "Citation": "Nurs Times. 2010 Jul 20-26;106(28):14-7",
+                                "ArticleIdList": [
+                                    "20715648"
+                                ]
+                            },
+                            {
+                                "Citation": "Qual Health Res. 2016 Nov;26(13):1753-1760",
+                                "ArticleIdList": [
+                                    "26613970"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2013 Dec;16(4):e124-35",
+                                "ArticleIdList": [
+                                    "22429489"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "03",
+                        "Day": "21"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "07",
+                        "Day": "06"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "7",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "7",
+                        "Day": "12",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "3",
+                        "Day": "2",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "32650735",
+                    "10.1186/s12884-020-03096-3",
+                    "10.1186/s12884-020-03096-3",
+                    "PMC7350705"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32650735)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832650735%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832650735%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088202605"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088202605?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85088202605&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85088202605&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85088202605",
+                        "dc:identifier": "SCOPUS_ID:85088202605",
+                        "eid": "2-s2.0-85088202605",
+                        "dc:title": "A qualitative study of healthcare professionals' experiences of providing maternity care for Muslim women in the UK",
+                        "dc:creator": "Hassan S.M.",
+                        "prism:publicationName": "BMC Pregnancy and Childbirth",
+                        "prism:eIssn": "14712393",
+                        "prism:volume": "20",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-07-10",
+                        "prism:coverDisplayDate": "10 July 2020",
+                        "prism:doi": "10.1186/s12884-020-03096-3",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32650735",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "03096",
+                        "source-id": "12550",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "9KK2KRKC.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32650735"
+            }
+        },
+        "title": "A qualitative study of healthcare professionals' experiences of providing maternity care for Muslim women in the UK.",
+        "full_author_list": [
+            {
+                "clean": "Hassan S",
+                "family": "Hassan",
+                "given": "Shaima Mohamed",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK. s.m.hassan@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Leavey C",
+                "family": "Leavey",
+                "given": "Conan",
+                "affiliation": {
+                    "name": "Faculty of Education, Health and Community, Public Health Institute. Liverpool John Moores University, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Rooney J",
+                "family": "Rooney",
+                "given": "Jane S",
+                "affiliation": {
+                    "name": "Faculty of Education, Health and Community. School of Nursing and Allied Health, Liverpool John Moores University, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Puthussery S",
+                "family": "Puthussery",
+                "given": "Shuby",
+                "affiliation": {
+                    "name": "Maternal and Child Health Research Centre, Institute for Health Research, University of Bedfordshire, Luton, UK."
+                }
+            }
+        ],
+        "first_author": "Hassan S",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Attitude of Health Personnel",
+                    "major": "N"
+                },
+                {
+                    "term": "Culturally Competent Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Personnel",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Islam",
+                    "major": "Y"
+                },
+                {
+                    "term": "Maternal Health Services",
+                    "major": "Y"
+                },
+                {
+                    "term": "Pregnancy",
+                    "major": "N"
+                },
+                {
+                    "term": "Qualitative Research",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "Cultural competency",
+                "Exploratory study",
+                "Healthcare professionals",
+                "Maternity services",
+                "Muslim women"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMC Pregnancy Childbirth",
+            "volume": "20",
+            "issue": "1"
+        },
+        "abstract": "['A growing Muslim population in the UK suggests the need for healthcare professionals (HCPs) to gain a better understanding of how the Islamic faith influences health related perceptions and healthcare seeking behaviour. Although some researchers have explored the experiences of Muslim women as recipients of healthcare, little attention has been paid to the challenges HCPs face as service providers on a day-to-day basis whilst caring for Muslim women. The aim of this study was to investigate HPCs lived experiences of providing maternity care for Muslim women.', 'Data was collected through twelve semi-structured one-to-one qualitative interviews with HCPs in a large National Health Service (NHS) maternity unit located in the North West of England. Interview participants included Community and specialist clinic (e.g. clinic for non-English speakers), Midwives in a variety of specialist roles (7), Gynaecology Nurses (2), Breastfeeding Support Workers (2) and a Sonographer (1). The audio-recorded interviews were transcribed and analysed thematically.', \"The majority of participants expressed an understanding of some religious values and practices related to Muslim women, such as fasting the month of Ramadhan and that pregnant and breastfeeding women are exempt from this. However, HCPs articulated the challenges they faced when dealing with certain religious values and practices, and how they tried to respond to Muslim women's specific needs. Emerging themes included: 1) HCPs perceptions about Muslim women; 2) HCPs understanding and awareness of religious practices; 3) HCPs approaches in addressing and supporting Muslim women's religious needs; 4) Importance of training in providing culturally and religiously appropriate woman-centred care.\", \"Through this study we gained insight into the day-to-day experiences of HCPs providing care provision for Muslim women. HCPs showed an understanding of the importance of religious and cultural practices in addressing the needs of Muslim women as part of their role as maternity care providers. However, they also identified a need to develop training programmes that focus on cultural and religious practices and their impact on women's health care needs. This will help support HCPs in overcoming the challenges faced when dealing with needs of women from different backgrounds.\"]",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "NIHR ARC NWC, Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK. s.m.hassan@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

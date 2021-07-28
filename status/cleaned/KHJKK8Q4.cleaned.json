@@ -1,0 +1,1604 @@
+{
+    "IDs": {
+        "zotero": "KHJKK8Q4",
+        "DOI": "10.1002/14651858.CD010682.pub3",
+        "DOI_filename": "2d9609af82eb3649fef4cb681289df9d",
+        "PMID": "33860531",
+        "scopus": "2-s2.0-85104320074",
+        "hash": "9ee2b929401ec5ff1fd6489866f67aad"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "KHJKK8Q4",
+            "version": 980,
+            "itemType": "journalArticle",
+            "title": "Antidepressants for people with epilepsy and depression",
+            "creators": [
+                {
+                    "creatorType": "editor",
+                    "name": "Cochrane Epilepsy Group"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Melissa J",
+                    "lastName": "Maguire"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anthony G",
+                    "lastName": "Marson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah J",
+                    "lastName": "Nevitt"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Cochrane Database of Systematic Reviews",
+            "volume": "2021",
+            "issue": "4",
+            "pages": "",
+            "date": "2021-04-16",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1002/14651858.CD010682.pub3",
+            "ISSN": "14651858",
+            "shortTitle": "",
+            "url": "http://doi.wiley.com/10.1002/14651858.CD010682.pub3",
+            "accessDate": "2021-07-23T16:46:07Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33860531",
+            "tags": [
+                {
+                    "tag": "PCCC"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:13Z",
+            "dateModified": "2021-07-27T11:50:35Z",
+            "pmid": "33860531"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        21
+                    ]
+                ],
+                "date-time": "2021-06-21T04:40:02Z",
+                "timestamp": 1624250402426
+            },
+            "update-to": [
+                {
+                    "updated": {
+                        "date-parts": [
+                            [
+                                2021,
+                                4,
+                                16
+                            ]
+                        ],
+                        "date-time": "2021-04-16T00:00:00Z",
+                        "timestamp": 1618531200000
+                    },
+                    "DOI": "10.1002/14651858.cd010682.pub2",
+                    "type": "new_version",
+                    "label": "New version"
+                }
+            ],
+            "reference-count": 57,
+            "publisher": "Wiley",
+            "issue": "4",
+            "content-domain": {
+                "domain": [
+                    "wiley.com",
+                    "cochranelibrary.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1002/14651858.cd010682.pub3",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        16
+                    ]
+                ],
+                "date-time": "2021-04-16T21:49:00Z",
+                "timestamp": 1618609740000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "Antidepressants for people with epilepsy and depression",
+            "prefix": "10.1002",
+            "volume": "2021",
+            "author": [
+                {
+                    "given": "Melissa J",
+                    "family": "Maguire",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Neurology; Leeds General Infirmary; Leeds UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anthony G",
+                    "family": "Marson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Molecular and Clinical Pharmacology; Institute of Translational Medicine, University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sarah J",
+                    "family": "Nevitt",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Health Data Science; University of Liverpool; Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        16
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0001|cit1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "552",
+                    "DOI": "10.1002/ana.25561",
+                    "article-title": "A trial of sertraline or cognitive behavior therapy for depression in epilepsy",
+                    "volume": "86",
+                    "author": "Gilliam",
+                    "year": "2019",
+                    "journal-title": "Annals of Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0002|cit2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "444",
+                    "DOI": "10.1006/ebeh.2000.0123",
+                    "article-title": "Treatment of interictal depression with citalopram in patients with epilepsy",
+                    "volume": "1",
+                    "author": "Hovorka",
+                    "year": "2000",
+                    "journal-title": "Epilepsy and Behavior"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0003|cit3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "100",
+                    "DOI": "10.1006/ebeh.2000.0050",
+                    "article-title": "The use of sertraline in patients with epilepsy: is it safe?",
+                    "volume": "1",
+                    "author": "Kanner",
+                    "year": "2000",
+                    "journal-title": "Epilepsy and Behavior"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0004|cit4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "674",
+                    "DOI": "10.1016/j.yebeh.2003.08.009",
+                    "article-title": "Antidepressive treatment in patients with temporal lobe epilepsy and major depression: a prospective study with three different antidepressants",
+                    "volume": "4",
+                    "author": "Kuhn",
+                    "year": "2003",
+                    "journal-title": "Epilepsy and Behavior"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0005|cit5",
+                    "first-page": "20",
+                    "article-title": "A randomized controlled trial to evaluate the efficacy of paroxetine and doxepin in treating epileptic patients with depression",
+                    "volume": "9",
+                    "author": "Li",
+                    "year": "2005",
+                    "journal-title": "Chinese Journal of Clinical Rehabilitation"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0006|cit6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "176",
+                    "DOI": "10.1016/j.yebeh.2015.07.033",
+                    "article-title": "Treatment of depression in patients with temporal lobe epilepsy: a pilot study of cognitive behavioral therapy vs. selective serotonin reuptake inhibitors",
+                    "volume": "51",
+                    "author": "Orjuela-Rojas",
+                    "year": "2015",
+                    "journal-title": "Epilepsy & Behavior"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0007|cit7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "127",
+                    "DOI": "10.1016/0165-0327(85)90091-6",
+                    "article-title": "The treatment of depression in patients with epilepsy: a double blind trial",
+                    "volume": "9",
+                    "author": "Robertson",
+                    "year": "1985",
+                    "journal-title": "Journal of Affective Disorders"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0008|cit8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "133",
+                    "DOI": "10.1097/00002826-200405000-00009",
+                    "article-title": "Citalopram as treatment of depression in patients with epilepsy",
+                    "volume": "27",
+                    "author": "Specchio",
+                    "year": "2004",
+                    "journal-title": "Clinical Neuropharmacology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0009|cit9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "417",
+                    "DOI": "10.1016/j.yebeh.2007.01.004",
+                    "article-title": "Sertraline and fluoxetine: safe treatments for children and adolescents with epilepsy and depression",
+                    "volume": "10",
+                    "author": "Thome-Souza",
+                    "year": "2007",
+                    "journal-title": "Epilepsy & Behavior"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0010|cit10",
+                    "first-page": "101",
+                    "article-title": "Short-term efficacy of venlafaxine treating the depression in epilepsy patients",
+                    "volume": "19",
+                    "author": "Zhu",
+                    "year": "2004",
+                    "journal-title": "Chinese Journal of Rehabilitation"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0011|cit11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "3",
+                    "DOI": "10.4088/JCP.v58n0101",
+                    "article-title": "Antidepressant and double antidepressant treatment for the affective disorder of epilepsy",
+                    "volume": "58",
+                    "author": "Blumer",
+                    "year": "1997",
+                    "journal-title": "Journal of Clinical Psychiatry"
+                },
+                {
+                    "issue": "8711",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0012|cit12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "386",
+                    "DOI": "10.1016/0140-6736(90)91938-7",
+                    "article-title": "Fluvoxamine: an antidepressant with low (or no) epileptogenic effect",
+                    "volume": "336",
+                    "author": "Harmant",
+                    "year": "1990",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0013|cit13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "509",
+                    "DOI": "10.1016/j.yebeh.2010.06.045",
+                    "article-title": "Cholesterol concentrations and clinical response to sertraline in patients with epilepsy: preliminary results",
+                    "volume": "19",
+                    "author": "Machado",
+                    "year": "2010",
+                    "journal-title": "Epilepsy & Behavior"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0014|cit14",
+                    "unstructured": "Escitalopram treatment of major depression in patients with temporal lobe epilepsy clinicaltrials.gov/ct/show/NCT00595699"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0015|cit15",
+                    "unstructured": "Lexapro for major depression in patients with epilepsy clinicaltrials.gov/show/NCT01244724"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0016|cit16",
+                    "unstructured": "Anxiety and depression in epilepsy: a treatment study clinicaltrials.gov/ct2/show/record/NCT03464383"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0017|cit17",
+                    "unstructured": "Effects of the antidepressive therapy with agomelatin and escitalopram in people with depression and epilepsy www.clinicaltrialsregister.eu/ctr-search/search?query=2017-000990-35"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0018|cit18",
+                    "unstructured": "Effect of mirtazapine on seizure frequency in epileptic patients with vagal nerve stimulation device www.clinicaltrialsregister.eu/ctr-search/search?query=2018-003464-32"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0019|cit19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "464",
+                    "DOI": "10.1192/bjp.bp.107.046664",
+                    "article-title": "Neuropsychiatric morbidity in focal epilepsy",
+                    "volume": "192",
+                    "author": "Adams",
+                    "year": "2008",
+                    "journal-title": "British Journal of Psychiatry"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0020|cit20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "345",
+                    "DOI": "10.1016/j.biopsych.2006.09.023",
+                    "article-title": "Seizure incidence in psychopharmacological clinical trials: an analysis of Food and Drug Administration (FDA) summary basis of approval reports",
+                    "volume": "62",
+                    "author": "Alper",
+                    "year": "2007",
+                    "journal-title": "Biological Psychiatry"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0021|cit21",
+                    "author": "American Psychiatric Association",
+                    "year": "2000",
+                    "volume-title": "Diagnostic and Statistical Manual"
+                },
+                {
+                    "issue": "4",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0022|cit22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "857",
+                    "DOI": "10.1111/j.1471-4159.2006.04277.x",
+                    "article-title": "Serotonin and epilepsy",
+                    "volume": "100",
+                    "author": "Bagdy",
+                    "year": "2007",
+                    "journal-title": "Journal of Neurochemistry"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0023|cit23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "29",
+                    "DOI": "10.1016/0920-1211(96)00017-4",
+                    "article-title": "The associations of psychopathology in epilepsy: a community study",
+                    "volume": "25",
+                    "author": "Baker",
+                    "year": "1996",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0024|cit24",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "258",
+                    "DOI": "10.1212/01.WNL.0000103282.62353.85",
+                    "article-title": "Depression but not seizure frequency predicts quality of life in treatment-resistant epilepsy",
+                    "volume": "62",
+                    "author": "Boylan",
+                    "year": "2004",
+                    "journal-title": "Neurology"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0025|cit25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "419",
+                    "DOI": "10.1016/j.yebeh.2010.08.018",
+                    "article-title": "Depression in epilepsy: why aren't we treating?",
+                    "volume": "19",
+                    "author": "Cotterman-Hart",
+                    "year": "2010",
+                    "journal-title": "Epilepsy & Behavior"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0026|cit26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "d4551",
+                    "DOI": "10.1136/bmj.d4551",
+                    "article-title": "Antidepressant use and risk of adverse outcomes in older people: population based cohort study",
+                    "volume": "343",
+                    "author": "Coupland",
+                    "year": "2011",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0027|cit27",
+                    "unstructured": "Dell'osso MC Caserta A Baroni S Nisita C Marazziti D The relationship between epilepsy and depression: an update Current Medicinal Chemistry 23521673"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0028|cit28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "129",
+                    "DOI": "10.1097/01.wco.0000162853.29650.ec",
+                    "article-title": "Diagnosis and treatment of mood disorders in persons with epilepsy",
+                    "volume": "18",
+                    "author": "Gilliam",
+                    "year": "2005",
+                    "journal-title": "Current Opinion in Neurology"
+                },
+                {
+                    "issue": "7650",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0029|cit29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "924",
+                    "DOI": "10.1136/bmj.39489.470347.AD",
+                    "article-title": "GRADE: an emerging consensus on rating quality of evidence and strength of recommendations",
+                    "volume": "336",
+                    "author": "Guyatt",
+                    "year": "2008",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0030|cit30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "261",
+                    "DOI": "10.1016/j.yebeh.2012.10.009",
+                    "article-title": "Should antidepressant drugs of the selective serotonin reuptake inhibitor family be tested as antiepileptic drugs?",
+                    "volume": "26",
+                    "author": "Hamid",
+                    "year": "2013",
+                    "journal-title": "Epilepsy & Behavior"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0031|cit31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S31",
+                    "DOI": "10.1111/j.1528-1157.2000.tb01522.x",
+                    "article-title": "Psychiatric comorbidity in chronic epilepsy: identification, consequences, and treatment of major depression",
+                    "volume": "41",
+                    "author": "Hermann",
+                    "year": "2000",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0032|cit32",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "246",
+                    "DOI": "10.1002/1531-8249(200002)47:2<246::AID-ANA17>3.0.CO;2-E",
+                    "article-title": "Major depression is a risk factor for seizures in older adults",
+                    "volume": "47",
+                    "author": "Hesdorffer",
+                    "year": "2000",
+                    "journal-title": "Annals of Neurology"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0033|cit33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "35",
+                    "DOI": "10.1002/ana.20685",
+                    "article-title": "Depression and suicide attempt as risk factors for incident unprovoked seizures",
+                    "volume": "59",
+                    "author": "Hesdorffer",
+                    "year": "2006",
+                    "journal-title": "Annals of Neurology"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0034|cit34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "978",
+                    "DOI": "10.1111/j.1528-1167.2009.02012.x",
+                    "article-title": "The FDA alert on suicidality and antiepileptic drugs: fire or false alarm?",
+                    "volume": "50",
+                    "author": "Hesdorffer",
+                    "year": "2009",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0035|cit35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "184",
+                    "DOI": "10.1002/ana.23601",
+                    "article-title": "Epilepsy, suicidality, and psychiatric disorders: a bidirectional association",
+                    "volume": "72",
+                    "author": "Hesdorffer",
+                    "year": "2012",
+                    "journal-title": "Annals of Neurology"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0036|cit36",
+                    "unstructured": "Higgins JPT Green S Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011 Available from training.cochrane.org/handbook/archive/v5.1/"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0037|cit37",
+                    "unstructured": "Higgins JP Thomas J Chandler J Cumpston M Li T Page MJ Cochrane Handbook for Systematic Reviews of Interventions version 6.1 (updated September 2020). Cochrane, 2020 Available from www.training.cochrane.org/handbook",
+                    "DOI": "10.1002/9781119536604",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0038|cit38",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "45",
+                    "DOI": "10.1016/0920-1211(92)90090-G",
+                    "article-title": "Interictal depression in epilepsy",
+                    "volume": "12",
+                    "author": "Indaco",
+                    "year": "1992",
+                    "journal-title": "Epilepsy Research"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0039|cit39",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "148",
+                    "DOI": "10.1111/j.1528-1157.1996.tb00006.x",
+                    "article-title": "The clinical course of epilepsy and its psychological correlates: finding from a U.K. community study",
+                    "volume": "37",
+                    "author": "Jacoby",
+                    "year": "1996",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0040|cit40",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "c365",
+                    "DOI": "10.1136/bmj.c365",
+                    "article-title": "The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews",
+                    "volume": "340",
+                    "author": "Kirkham",
+                    "year": "2010",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0041|cit41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1158",
+                    "DOI": "10.1001/archpsyc.1990.01810240078012",
+                    "article-title": "Treatment of recurrent unipolar major depressive disorder. Commentary on the Pittsburgh study",
+                    "volume": "47",
+                    "author": "Klerman",
+                    "year": "1990",
+                    "journal-title": "Archives of General Psychiatry"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0042|cit42",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "75",
+                    "DOI": "10.1111/j.1600-0404.2008.01088.x",
+                    "article-title": "Don't be afraid to treat depression in patients with epilepsy!",
+                    "volume": "119",
+                    "author": "Kondziella",
+                    "year": "2009",
+                    "journal-title": "Acta Neurologica Scandinavica"
+                },
+                {
+                    "issue": "Suppl 10",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0043|cit43",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "s21",
+                    "DOI": "10.1111/j.1528-1157.1999.tb00884.x",
+                    "article-title": "Depression in epilepsy: etiology, phenomenology, and treatment",
+                    "volume": "40",
+                    "author": "Lambert",
+                    "year": "1999",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "9848",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0044|cit44",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1180",
+                    "DOI": "10.1016/S0140-6736(12)61455-X",
+                    "article-title": "Uncovering the neurobehavioural comorbidities of epilepsy over the lifespan",
+                    "volume": "380",
+                    "author": "Lin",
+                    "year": "2012",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0045|cit45",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "766",
+                    "DOI": "10.1001/archneur.1986.00520080014012",
+                    "article-title": "Depression in epilepsy: significance and phenomenology",
+                    "volume": "43",
+                    "author": "Mendez",
+                    "year": "1986",
+                    "journal-title": "Archives of Neurology"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0046|cit46",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "337",
+                    "DOI": "10.1177/1756285609337340",
+                    "article-title": "Depression in epilepsy: mechanisms and therapeutic approach",
+                    "volume": "2",
+                    "author": "Mula",
+                    "year": "2009",
+                    "journal-title": "Therapeutic Advances in Neurological Disorders"
+                },
+                {
+                    "issue": "1",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0047|cit47",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "199",
+                    "DOI": "10.1111/j.1528-1167.2012.03688.x",
+                    "article-title": "Antiepileptic drugs and suicidality: an expert consensus statement from the Task Force on Therapeutic Strategies of the ILAE Commission on Neuropsychobiology",
+                    "volume": "54",
+                    "author": "Mula",
+                    "year": "2013",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "5",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0048|cit48",
+                    "first-page": "160",
+                    "article-title": "Tricyclic antidepressant-induced seizures and plasma drug concentration",
+                    "volume": "53",
+                    "author": "Preskorn",
+                    "year": "1992",
+                    "journal-title": "Journal of Clinical Psychiatry"
+                },
+                {
+                    "issue": "6",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0049|cit49",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "483",
+                    "DOI": "10.1016/j.biopsych.2005.08.033",
+                    "article-title": "Determining the duration of antidepressant treatment: application of signal detection methodology and the need for duration adaptive designs (DAD)",
+                    "volume": "59",
+                    "author": "Sackeim",
+                    "year": "2006",
+                    "journal-title": "Biological Psychiatry"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0050|cit50",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "164",
+                    "DOI": "10.4088/JCP.v61n0302",
+                    "article-title": "Blue genes and the mechanism of action of antidepressants",
+                    "volume": "61",
+                    "author": "Stahl",
+                    "year": "2000",
+                    "journal-title": "Journal of Clinical Psychiatry"
+                },
+                {
+                    "issue": "11",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0051|cit51",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1119",
+                    "DOI": "10.1016/S0895-4356(00)00242-0",
+                    "article-title": "Publication and related bias in meta-analysis: power of statistical tests and prevalence in the literature",
+                    "volume": "53",
+                    "author": "Sterne",
+                    "year": "2000",
+                    "journal-title": "Journal of Clinical Epidemiology"
+                },
+                {
+                    "issue": "12",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0052|cit52",
+                    "first-page": "2336",
+                    "article-title": "Psychiatric comorbidity in epilepsy: a population-based analysis",
+                    "volume": "48",
+                    "author": "Tellez-Zenteno",
+                    "year": "2007",
+                    "journal-title": "Epilepsia"
+                },
+                {
+                    "issue": "3",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0053|cit53",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "149",
+                    "DOI": "10.1159/000026531",
+                    "article-title": "New antiepileptic drugs and psychopathology",
+                    "volume": "38",
+                    "author": "Trimble",
+                    "year": "1998",
+                    "journal-title": "Neuropsychobiology"
+                },
+                {
+                    "issue": "2",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0054|cit54",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "124",
+                    "DOI": "10.1097/00004714-199004000-00009",
+                    "article-title": "The incidence of seizures during tricyclic antidepressant drug treatment in a brain-injured population",
+                    "volume": "10",
+                    "author": "Wroblewski",
+                    "year": "1990",
+                    "journal-title": "Journal of Clinical Psychopharmacology"
+                },
+                {
+                    "issue": "8",
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0055|cit55",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "856",
+                    "DOI": "10.1001/archpsyc.63.8.856",
+                    "article-title": "A randomized trial of an N-methyl-D-aspartate antagonist in treatment-resistant major depression",
+                    "volume": "63",
+                    "author": "Singh",
+                    "year": "2006",
+                    "journal-title": "Archives of General Psychiatry"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0056|cit56",
+                    "author": "Maguire",
+                    "issue": "7",
+                    "year": "2013",
+                    "article-title": "Antidepressants for people with epilepsy and depression",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD010682",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "10.1002/14651858.CD010682.pub3-BIB0057|cit57",
+                    "author": "Maguire",
+                    "issue": "12",
+                    "year": "2014",
+                    "article-title": "Antidepressants for people with epilepsy and depression",
+                    "journal-title": "Cochrane Database of Systematic Reviews",
+                    "DOI": "10.1002/14651858.CD010682.pub2",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "Cochrane Database of Systematic Reviews",
+            "original-title": [],
+            "language": "en",
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        21
+                    ]
+                ],
+                "date-time": "2021-06-21T01:03:42Z",
+                "timestamp": 1624237422000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "editor": [
+                {
+                    "name": "Cochrane Epilepsy Group",
+                    "sequence": "first",
+                    "affiliation": []
+                }
+            ],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        16
+                    ]
+                ]
+            },
+            "references-count": 57,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2021,
+                            4
+                        ]
+                    ]
+                },
+                "issue": "4"
+            },
+            "URL": "http://dx.doi.org/10.1002/14651858.CD010682.pub3",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1465-1858"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [],
+                "OtherID": [],
+                "PMID": "33860531",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "31"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "06",
+                    "Day": "22"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "04",
+                            "Day": "16"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1002/14651858.CD010682.pub3"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1469-493X",
+                        "JournalIssue": {
+                            "Volume": "4",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "04",
+                                "Day": "16"
+                            }
+                        },
+                        "Title": "The Cochrane database of systematic reviews",
+                        "ISOAbbreviation": "Cochrane Database Syst Rev"
+                    },
+                    "ArticleTitle": "Antidepressants for people with epilepsy and depression.",
+                    "Pagination": {
+                        "MedlinePgn": "CD010682"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Depressive disorders are the most common psychiatric comorbidity in people with epilepsy, affecting around one-third, with a significant negative impact on quality of life. There is concern that people may not be receiving appropriate treatment for their depression because of uncertainty regarding which antidepressant or class works best, and the perceived risk of exacerbating seizures. This review aimed to address these issues, and inform clinical practice and future research. This is an updated version of the original Cochrane Review published in Issue 12, 2014.",
+                            "To evaluate the efficacy and safety of antidepressants in treating depressive symptoms and the effect on seizure recurrence, in people with epilepsy and depression.",
+                            "For this update, we searched CRS Web, MEDLINE, SCOPUS, PsycINFO, and ClinicalTrials.gov (February 2021). We searched the World Health Organization Clinical Trials Registry in October 2019, but were unable to update it because it was inaccessible. There were no language restrictions.",
+                            "We included randomised controlled trials (RCTs)\u00a0and prospective non-randomised studies of interventions (NRSIs), investigating children or adults with epilepsy, who were treated with an antidepressant and compared to\u00a0placebo, comparative antidepressant, psychotherapy, or no treatment\u00a0for depressive symptoms.\u00a0 DATA COLLECTION AND ANALYSIS: The primary outcomes were changes in depression scores (proportion with a greater than 50% improvement, mean difference, and proportion who achieved complete remission) and change in seizure frequency (mean difference, proportion with a seizure recurrence, or episode of status epilepticus). Secondary outcomes included the number of participants who withdrew from the study and reasons for withdrawal, quality of life, cognitive functioning, and\u00a0adverse events. Two review authors independently extracted data for each included study. We then cross-checked the data extraction. We assessed risk of bias using the Cochrane tool for RCTs, and the ROBINS-I for NRSIs. We presented binary outcomes as risk ratios (RRs) with 95% confidence intervals (CIs) or 99% CIs for specific adverse events. We presented continuous outcomes as standardised mean differences (SMDs) with 95% CIs, and mean differences (MDs) with 95% CIs.\u00a0 MAIN RESULTS: We included 10 studies in the review (four RCTs and six NRSIs), with 626 participants with epilepsy and depression, examining the effects of antidepressants. One RCT was a multi-centre study comparing an antidepressant with cognitive behavioural therapy (CBT). The other three RCTs were single-centre studies comparing an antidepressant with an active control, placebo, or no treatment. The NRSIs reported on outcomes mainly in participants with focal epilepsy before and after treatment for\u00a0depression with a selective serotonin reuptake inhibitor (SSRI); one NRSI compared SSRIs to CBT.\u00a0 We rated one RCT at low risk of bias, three RCTs\u00a0at unclear risk of bias, and all six NRSIs at serious risk of bias.\u00a0We were unable to conduct any meta-analysis of RCT data due to heterogeneity of\u00a0treatment comparisons.\u00a0We judged the certainty of evidence to be moderate to very low across comparisons, because single studies contributed limited outcome data, and because of risk of bias, particularly for NRSIs, which did not adjust for confounding variables. More than 50% improvement in depressive symptoms ranged from 43% to 82% in RCTs, and\u00a0from 24% to 97% in NRSIs, depending on the antidepressant given.\u00a0Venlafaxine improved depressive symptoms by more than 50% compared to no treatment (mean difference (MD) -7.59 (95% confidence interval (CI) -11.52 to -3.66; 1 study, 64 participants; low-certainty evidence); the results between other comparisons were inconclusive. Two studies comparing\u00a0SSRIs to CBT reported\u00a0inconclusive results for the proportion of participants who achieved complete remission of depressive symptoms.\u00a0 Seizure frequency data did not suggest an increased risk of seizures with antidepressants compared to control treatments\u00a0or baseline. Two studies measured quality of life; antidepressants did not appear to improve quality of life over control. No studies reported on cognitive functioning. Two RCTs and one NRSI\u00a0reported comparative data\u00a0on adverse events; antidepressants did not appear to increase the severity or number of adverse events compared to controls.\u00a0The\u00a0NSRIs reported higher rates of withdrawals due to adverse events than lack of efficacy.\u00a0Reported adverse events for antidepressants included nausea, dizziness, sedation, headache, gastrointestinal disturbance, insomnia, and sexual dysfunction.\u00a0 AUTHORS' CONCLUSIONS: Existing evidence on the effectiveness of antidepressants in treating depressive symptoms associated with epilepsy is still very limited. Rates of response to antidepressants were highly variable. There is\u00a0low certainty evidence from one small RCT\u00a0(64 participants) that venlafaxine\u00a0may improve depressive symptoms more than no treatment; this evidence is\u00a0limited to treatment between 8 and 16 weeks, and does not inform longer-term effects. Moderate to low evidence suggests neither an increase nor exacerbation of seizures with SSRIs.\u00a0 There are no available comparative data to inform the choice of antidepressant drug or classes of drug for efficacy or safety for treating people with epilepsy and depression. RCTs of antidepressants utilising interventions from other treatment classes besides SSRIs, in large samples of patients with epilepsy and depression, are needed to better inform treatment policy. Future studies should\u00a0assess interventions across a longer treatment duration to account for delayed onset of action, sustainability of treatment responses, and to provide a better understanding of the impact on\u00a0seizure control."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2021 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Neurology, Leeds General Infirmary, Leeds, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Maguire",
+                            "ForeName": "Melissa J",
+                            "Initials": "MJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Marson",
+                            "ForeName": "Anthony G",
+                            "Initials": "AG"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Health Data Science, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Nevitt",
+                            "ForeName": "Sarah J",
+                            "Initials": "SJ"
+                        }
+                    ],
+                    "DataBankList": [
+                        {
+                            "DataBankName": "ClinicalTrials.gov",
+                            "AccessionNumberList": [
+                                "NCT00026637",
+                                "NCT02262156"
+                            ]
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Research Support, Non-U.S. Gov't",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Cochrane Database Syst Rev",
+                    "NlmUniqueID": "100909747",
+                    "ISSNLinking": "1361-6137"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Antidepressive Agents"
+                    },
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Serotonin Uptake Inhibitors"
+                    }
+                ],
+                "CommentsCorrectionsList": [
+                    {
+                        "RefSource": "Cochrane Database Syst Rev. 2014 Dec 03;(12):CD010682",
+                        "PMID": "25464360"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adolescent",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Antidepressive Agents",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Bias",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Child",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Cognitive Behavioral Therapy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "drug therapy",
+                            "etiology"
+                        ],
+                        "DescriptorName": "Depression",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "chemically induced",
+                            "drug therapy",
+                            "psychology"
+                        ],
+                        "DescriptorName": "Epilepsy",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Non-Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Prospective Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Quality of Life",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "adverse effects",
+                            "therapeutic use"
+                        ],
+                        "DescriptorName": "Serotonin Uptake Inhibitors",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Young Adult",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Neuropsychobiology. 1998 Oct;38(3):149-51",
+                                "ArticleIdList": [
+                                    "9778603"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Neurol. 2019 Oct;86(4):552-560",
+                                "ArticleIdList": [
+                                    "31359460"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2008 Apr 26;336(7650):924-6",
+                                "ArticleIdList": [
+                                    "18436948"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Neurol. 1986 Aug;43(8):766-70",
+                                "ArticleIdList": [
+                                    "3729756"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1996 Sep;25(1):29-39",
+                                "ArticleIdList": [
+                                    "8886659"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Neuropharmacol. 2004 May-Jun;27(3):133-6",
+                                "ArticleIdList": [
+                                    "15190237"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2011 Aug 02;343:d4551",
+                                "ArticleIdList": [
+                                    "21810886"
+                                ]
+                            },
+                            {
+                                "Citation": "Acta Neurol Scand. 2009 Feb;119(2):75-80",
+                                "ArticleIdList": [
+                                    "18759799"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2010 Nov;19(3):419-21",
+                                "ArticleIdList": [
+                                    "20851689"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Psychopharmacol. 1990 Apr;10(2):124-8",
+                                "ArticleIdList": [
+                                    "2341586"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Epidemiol. 2000 Nov;53(11):1119-29",
+                                "ArticleIdList": [
+                                    "11106885"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2000 Dec;1(6):444-447",
+                                "ArticleIdList": [
+                                    "12737834"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2003 Dec;4(6):674-9",
+                                "ArticleIdList": [
+                                    "14698701"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Gen Psychiatry. 1990 Dec;47(12):1158-62",
+                                "ArticleIdList": [
+                                    "2244800"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Neurol. 2006 Jan;59(1):35-41",
+                                "ArticleIdList": [
+                                    "16217743"
+                                ]
+                            },
+                            {
+                                "Citation": "Curr Opin Neurol. 2005 Apr;18(2):129-33",
+                                "ArticleIdList": [
+                                    "15791142"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2009 May;50(5):978-86",
+                                "ArticleIdList": [
+                                    "19496806"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 1990 Aug 11;336(8711):386",
+                                "ArticleIdList": [
+                                    "1975375"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Psychiatry. 2000 Mar;61(3):164-5",
+                                "ArticleIdList": [
+                                    "10817098"
+                                ]
+                            },
+                            {
+                                "Citation": "Arch Gen Psychiatry. 2006 Aug;63(8):856-64",
+                                "ArticleIdList": [
+                                    "16894061"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Psychiatry. 1997 Jan;58(1):3-11",
+                                "ArticleIdList": [
+                                    "9055830"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2007 Dec;48(12):2336-44",
+                                "ArticleIdList": [
+                                    "17662062"
+                                ]
+                            },
+                            {
+                                "Citation": "Biol Psychiatry. 2006 Mar 15;59(6):483-92",
+                                "ArticleIdList": [
+                                    "16517241"
+                                ]
+                            },
+                            {
+                                "Citation": "Curr Med Chem. 2013;20(23):2861-7",
+                                "ArticleIdList": [
+                                    "23521673"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2013 Mar;26(3):261-5",
+                                "ArticleIdList": [
+                                    "23395350"
+                                ]
+                            },
+                            {
+                                "Citation": "Cochrane Database Syst Rev. 2014 Dec 03;(12):CD010682",
+                                "ArticleIdList": [
+                                    "25464360"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1999;40 Suppl 10:S21-47",
+                                "ArticleIdList": [
+                                    "10609603"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Neurol. 2000 Feb;47(2):246-9",
+                                "ArticleIdList": [
+                                    "10665498"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2000 Apr;1(2):100-105",
+                                "ArticleIdList": [
+                                    "12609138"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2013 Jan;54(1):199-203",
+                                "ArticleIdList": [
+                                    "22994856"
+                                ]
+                            },
+                            {
+                                "Citation": "Neurology. 2004 Jan 27;62(2):258-61",
+                                "ArticleIdList": [
+                                    "14745064"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2015 Oct;51:176-81",
+                                "ArticleIdList": [
+                                    "26284748"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2007 May;10(3):417-25",
+                                "ArticleIdList": [
+                                    "17306625"
+                                ]
+                            },
+                            {
+                                "Citation": "J Affect Disord. 1985 Sep;9(2):127-36",
+                                "ArticleIdList": [
+                                    "2932485"
+                                ]
+                            },
+                            {
+                                "Citation": "Ther Adv Neurol Disord. 2009 Sep;2(5):337-44",
+                                "ArticleIdList": [
+                                    "21180624"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Res. 1992 Jun;12(1):45-50",
+                                "ArticleIdList": [
+                                    "1526228"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2012 Sep 29;380(9848):1180-92",
+                                "ArticleIdList": [
+                                    "23021287"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Psychiatry. 1992 May;53(5):160-2",
+                                "ArticleIdList": [
+                                    "1592842"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 1996 Feb;37(2):148-61",
+                                "ArticleIdList": [
+                                    "8635425"
+                                ]
+                            },
+                            {
+                                "Citation": "Biol Psychiatry. 2007 Aug 15;62(4):345-54",
+                                "ArticleIdList": [
+                                    "17223086"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2010 Feb 15;340:c365",
+                                "ArticleIdList": [
+                                    "20156912"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsia. 2000;41 Suppl 2:S31-41",
+                                "ArticleIdList": [
+                                    "10885738"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Neurol. 2012 Aug;72(2):184-91",
+                                "ArticleIdList": [
+                                    "22887468"
+                                ]
+                            },
+                            {
+                                "Citation": "Epilepsy Behav. 2010 Nov;19(3):509-12",
+                                "ArticleIdList": [
+                                    "20888305"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Psychiatry. 2008 Jun;192(6):464-9",
+                                "ArticleIdList": [
+                                    "18515901"
+                                ]
+                            },
+                            {
+                                "Citation": "J Neurochem. 2007 Feb;100(4):857-73",
+                                "ArticleIdList": [
+                                    "17212700"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2022",
+                        "Month": "04",
+                        "Day": "16"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "4",
+                        "Day": "16",
+                        "Hour": "6",
+                        "Minute": "50"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "4",
+                        "Day": "17",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "6",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "33860531",
+                    "10.1002/14651858.CD010682.pub3",
+                    "PMC8094735"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33860531)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833860531%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833860531%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104320074"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104320074?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85104320074&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85104320074&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85104320074",
+                        "dc:identifier": "SCOPUS_ID:85104320074",
+                        "eid": "2-s2.0-85104320074",
+                        "dc:title": "Antidepressants for people with epilepsy and depression",
+                        "dc:creator": "Maguire M.J.",
+                        "prism:publicationName": "Cochrane Database of Systematic Reviews",
+                        "prism:issn": "14651858",
+                        "prism:volume": "2021",
+                        "prism:issueIdentifier": "4",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-04-16",
+                        "prism:coverDisplayDate": "16 April 2021",
+                        "prism:doi": "10.1002/14651858.CD010682.pub3",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Leeds General Infirmary",
+                                "affiliation-city": "Leeds",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33860531",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "article-number": "CD010682",
+                        "source-id": "29775",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "KHJKK8Q4.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33860531"
+            }
+        },
+        "title": "Antidepressants for people with epilepsy and depression.",
+        "full_author_list": [
+            {
+                "clean": "Maguire M",
+                "family": "Maguire",
+                "given": "Melissa J",
+                "affiliation": {
+                    "name": "Department of Neurology, Leeds General Infirmary, Leeds, UK."
+                }
+            },
+            {
+                "clean": "Marson A",
+                "family": "Marson",
+                "given": "Anthony G",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Nevitt S",
+                "family": "Nevitt",
+                "given": "Sarah J",
+                "affiliation": {
+                    "name": "Department of Health Data Science, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Maguire M",
+        "zotero_tags": [
+            {
+                "tag": "PCCC"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adolescent",
+                    "major": "N"
+                },
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Antidepressive Agents",
+                    "major": "N"
+                },
+                {
+                    "term": "Bias",
+                    "major": "N"
+                },
+                {
+                    "term": "Child",
+                    "major": "N"
+                },
+                {
+                    "term": "Cognitive Behavioral Therapy",
+                    "major": "N"
+                },
+                {
+                    "term": "Depression",
+                    "major": "N"
+                },
+                {
+                    "term": "Epilepsy",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Non-Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Prospective Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Quality of Life",
+                    "major": "N"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Serotonin Uptake Inhibitors",
+                    "major": "N"
+                },
+                {
+                    "term": "Young Adult",
+                    "major": "N"
+                }
+            ],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "Cochrane Database Syst Rev",
+            "volume": "4",
+            "issue": ""
+        },
+        "abstract": "['Depressive disorders are the most common psychiatric comorbidity in people with epilepsy, affecting around one-third, with a significant negative impact on quality of life. There is concern that people may not be receiving appropriate treatment for their depression because of uncertainty regarding which antidepressant or class works best, and the perceived risk of exacerbating seizures. This review aimed to address these issues, and inform clinical practice and future research. This is an updated version of the original Cochrane Review published in Issue 12, 2014.', 'To evaluate the efficacy and safety of antidepressants in treating depressive symptoms and the effect on seizure recurrence, in people with epilepsy and depression.', 'For this update, we searched CRS Web, MEDLINE, SCOPUS, PsycINFO, and ClinicalTrials.gov (February 2021). We searched the World Health Organization Clinical Trials Registry in October 2019, but were unable to update it because it was inaccessible. There were no language restrictions.', \"We included randomised controlled trials (RCTs)\\xa0and prospective non-randomised studies of interventions (NRSIs), investigating children or adults with epilepsy, who were treated with an antidepressant and compared to\\xa0placebo, comparative antidepressant, psychotherapy, or no treatment\\xa0for depressive symptoms.\\xa0 DATA COLLECTION AND ANALYSIS: The primary outcomes were changes in depression scores (proportion with a greater than 50% improvement, mean difference, and proportion who achieved complete remission) and change in seizure frequency (mean difference, proportion with a seizure recurrence, or episode of status epilepticus). Secondary outcomes included the number of participants who withdrew from the study and reasons for withdrawal, quality of life, cognitive functioning, and\\xa0adverse events. Two review authors independently extracted data for each included study. We then cross-checked the data extraction. We assessed risk of bias using the Cochrane tool for RCTs, and the ROBINS-I for NRSIs. We presented binary outcomes as risk ratios (RRs) with 95% confidence intervals (CIs) or 99% CIs for specific adverse events. We presented continuous outcomes as standardised mean differences (SMDs) with 95% CIs, and mean differences (MDs) with 95% CIs.\\xa0 MAIN RESULTS: We included 10 studies in the review (four RCTs and six NRSIs), with 626 participants with epilepsy and depression, examining the effects of antidepressants. One RCT was a multi-centre study comparing an antidepressant with cognitive behavioural therapy (CBT). The other three RCTs were single-centre studies comparing an antidepressant with an active control, placebo, or no treatment. The NRSIs reported on outcomes mainly in participants with focal epilepsy before and after treatment for\\xa0depression with a selective serotonin reuptake inhibitor (SSRI); one NRSI compared SSRIs to CBT.\\xa0 We rated one RCT at low risk of bias, three RCTs\\xa0at unclear risk of bias, and all six NRSIs at serious risk of bias.\\xa0We were unable to conduct any meta-analysis of RCT data due to heterogeneity of\\xa0treatment comparisons.\\xa0We judged the certainty of evidence to be moderate to very low across comparisons, because single studies contributed limited outcome data, and because of risk of bias, particularly for NRSIs, which did not adjust for confounding variables. More than 50% improvement in depressive symptoms ranged from 43% to 82% in RCTs, and\\xa0from 24% to 97% in NRSIs, depending on the antidepressant given.\\xa0Venlafaxine improved depressive symptoms by more than 50% compared to no treatment (mean difference (MD) -7.59 (95% confidence interval (CI) -11.52 to -3.66; 1 study, 64 participants; low-certainty evidence); the results between other comparisons were inconclusive. Two studies comparing\\xa0SSRIs to CBT reported\\xa0inconclusive results for the proportion of participants who achieved complete remission of depressive symptoms.\\xa0 Seizure frequency data did not suggest an increased risk of seizures with antidepressants compared to control treatments\\xa0or baseline. Two studies measured quality of life; antidepressants did not appear to improve quality of life over control. No studies reported on cognitive functioning. Two RCTs and one NRSI\\xa0reported comparative data\\xa0on adverse events; antidepressants did not appear to increase the severity or number of adverse events compared to controls.\\xa0The\\xa0NSRIs reported higher rates of withdrawals due to adverse events than lack of efficacy.\\xa0Reported adverse events for antidepressants included nausea, dizziness, sedation, headache, gastrointestinal disturbance, insomnia, and sexual dysfunction.\\xa0 AUTHORS' CONCLUSIONS: Existing evidence on the effectiveness of antidepressants in treating depressive symptoms associated with epilepsy is still very limited. Rates of response to antidepressants were highly variable. There is\\xa0low certainty evidence from one small RCT\\xa0(64 participants) that venlafaxine\\xa0may improve depressive symptoms more than no treatment; this evidence is\\xa0limited to treatment between 8 and 16 weeks, and does not inform longer-term effects. Moderate to low evidence suggests neither an increase nor exacerbation of seizures with SSRIs.\\xa0 There are no available comparative data to inform the choice of antidepressant drug or classes of drug for efficacy or safety for treating people with epilepsy and depression. RCTs of antidepressants utilising interventions from other treatment classes besides SSRIs, in large samples of patients with epilepsy and depression, are needed to better inform treatment policy. Future studies should\\xa0assess interventions across a longer treatment duration to account for delayed onset of action, sustainability of treatment responses, and to provide a better understanding of the impact on\\xa0seizure control.\"]",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Neurology, Leeds General Infirmary, Leeds, UK.",
+            "clean_institute": "Leeds General Infirmary",
+            "country": "United Kingdom",
+            "latitude": "53.8021",
+            "longitude": "-1.55083"
+        }
+    }
+}

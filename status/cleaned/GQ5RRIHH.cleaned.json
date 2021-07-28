@@ -1,0 +1,2199 @@
+{
+    "IDs": {
+        "zotero": "GQ5RRIHH",
+        "DOI": "10.1136/bmjopen-2020-048317",
+        "DOI_filename": "88076a0c028a5cddc0ce6a0f810d595f",
+        "PMID": "33737446",
+        "scopus": "2-s2.0-85102988275",
+        "hash": "8b7088df90227de76de1e974168a2c75"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "GQ5RRIHH",
+            "version": 996,
+            "itemType": "journalArticle",
+            "title": "Prospective observational study of SARS-CoV-2 infection, transmission and immunity in a cohort of households in Liverpool City Region, UK (COVID-LIV): a study protocol",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Wega",
+                    "lastName": "Setiabudi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Daniel",
+                    "lastName": "Hungerford"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Krishanthi",
+                    "lastName": "Subramaniam"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Natasha Marcella",
+                    "lastName": "Vaselli"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Victoria E",
+                    "lastName": "Shaw"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Moon",
+                    "lastName": "Wilton"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Roberto",
+                    "lastName": "Vivancos"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stephen",
+                    "lastName": "Aston"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Gareth",
+                    "lastName": "Platt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tracy",
+                    "lastName": "Moitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ashley P",
+                    "lastName": "Jones"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mark",
+                    "lastName": "Gabbay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Iain",
+                    "lastName": "Buchan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Enitan D",
+                    "lastName": "Carrol"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Miren",
+                    "lastName": "Iturriza-Gomara"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tom",
+                    "lastName": "Solomon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "William",
+                    "lastName": "Greenhalf"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dean J",
+                    "lastName": "Naisbitt"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Emily R",
+                    "lastName": "Adams"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Nigel A",
+                    "lastName": "Cunliffe"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lance",
+                    "lastName": "Turtle"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Neil",
+                    "lastName": "French"
+                }
+            ],
+            "abstractNote": "Introduction\n              The emergence and rapid spread of COVID-19 have caused widespread and catastrophic public health and economic impact, requiring governments to restrict societal activity to reduce the spread of the disease. The role of household transmission in the population spread of SARS-CoV-2, and of host immunity in limiting transmission, is poorly understood. This paper describes a protocol for a prospective observational study of a cohort of households in Liverpool City Region, UK, which addresses the transmission of SARS-CoV-2 between household members and how immunological response to the infection changes over time.\n            \n            \n              Methods and analysis\n              Households in the Liverpool City Region, in which members have not previously tested positive for SARS-CoV-2 with a nucleic acid amplification test, are followed up for an initial period of 12 weeks. Participants are asked to provide weekly self-throat and nasal swabs and record their activity and presence of symptoms. Incidence of infection and household secondary attack rates of COVID-19 are measured. Transmission of SARS-CoV-2 will be investigated against a range of demographic and behavioural variables. Blood and faecal samples are collected at several time points to evaluate immune responses to SARS-CoV-2 infection and prevalence and risk factors for faecal shedding of SARS-CoV-2, respectively.\n            \n            \n              Ethics and dissemination\n              The study has received approval from the National Health Service Research Ethics Committee; REC Reference: 20/HRA/2297, IRAS Number: 283 464. Results will be disseminated through scientific conferences and peer-reviewed open access publications. A report of the findings will also be shared with participants. The study will quantify the scale and determinants of household transmission of SARS-CoV-2. Additionally, immunological responses before and during the different stages of infection will be analysed, adding to the understanding of the range of immunological response by infection severity.",
+            "publicationTitle": "BMJ Open",
+            "volume": "11",
+            "issue": "3",
+            "pages": "e048317",
+            "date": "03/2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMJ Open",
+            "language": "en",
+            "DOI": "10.1136/bmjopen-2020-048317",
+            "ISSN": "2044-6055, 2044-6055",
+            "shortTitle": "Prospective observational study of SARS-CoV-2 infection, transmission and immunity in a cohort of households in Liverpool City Region, UK (COVID-LIV)",
+            "url": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2020-048317",
+            "accessDate": "2021-07-23T16:46:11Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33737446",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:23Z",
+            "dateModified": "2021-07-27T12:07:49Z",
+            "pmid": "33737446"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        18
+                    ]
+                ],
+                "date-time": "2021-03-18T04:53:52Z",
+                "timestamp": 1616043232634
+            },
+            "reference-count": 23,
+            "publisher": "BMJ",
+            "issue": "3",
+            "license": [
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                3,
+                                17
+                            ]
+                        ],
+                        "date-time": "2021-03-17T00:00:00Z",
+                        "timestamp": 1615939200000
+                    },
+                    "delay-in-days": 16,
+                    "content-version": "unspecified"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/100004440",
+                    "name": "Wellcome",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "205228/Z/16/Z"
+                    ]
+                },
+                {
+                    "name": "National Institute for Health Research Health Protection Research Unit (NIHR HPRU) in Emerging and Zoonotic Infections",
+                    "award": [
+                        "Not applicable"
+                    ]
+                },
+                {
+                    "name": "Alder Hey Charity",
+                    "award": [
+                        "Not applicable"
+                    ]
+                },
+                {
+                    "name": "National Institute for Health Research Health Protection Research Unit (NIHR HPRU) in Gastrointestinal Infections",
+                    "award": [
+                        "Not applicable"
+                    ]
+                },
+                {
+                    "name": "Centre of Excellence in Infectious Disease Research",
+                    "award": [
+                        "Not applicable"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        3
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Introduction</jats:title><jats:p>The emergence and rapid spread of COVID-19 have caused widespread and catastrophic public health and economic impact, requiring governments to restrict societal activity to reduce the spread of the disease. The role of household transmission in the population spread of SARS-CoV-2, and of host immunity in limiting transmission, is poorly understood. This paper describes a protocol for a prospective observational study of a cohort of households in Liverpool City Region, UK, which addresses the transmission of SARS-CoV-2 between household members and how immunological response to the infection changes over time.</jats:p></jats:sec><jats:sec><jats:title>Methods and analysis</jats:title><jats:p>Households in the Liverpool City Region, in which members have not previously tested positive for SARS-CoV-2 with a nucleic acid amplification test, are followed up for an initial period of 12 weeks. Participants are asked to provide weekly self-throat and nasal swabs and record their activity and presence of symptoms. Incidence of infection and household secondary attack rates of COVID-19 are measured. Transmission of SARS-CoV-2 will be investigated against a range of demographic and behavioural variables. Blood and faecal samples are collected at several time points to evaluate immune responses to SARS-CoV-2 infection and prevalence and risk factors for faecal shedding of SARS-CoV-2, respectively.</jats:p></jats:sec><jats:sec><jats:title>Ethics and dissemination</jats:title><jats:p>The study has received approval from the National Health Service Research Ethics Committee; REC Reference: 20/HRA/2297, IRAS Number: 283 464. Results will be disseminated through scientific conferences and peer-reviewed open access publications. A report of the findings will also be shared with participants. The study will quantify the scale and determinants of household transmission of SARS-CoV-2. Additionally, immunological responses before and during the different stages of infection will be analysed, adding to the understanding of the range of immunological response by infection severity.</jats:p></jats:sec>",
+            "DOI": "10.1136/bmjopen-2020-048317",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        18
+                    ]
+                ],
+                "date-time": "2021-03-18T04:10:54Z",
+                "timestamp": 1616040654000
+            },
+            "page": "e048317",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Prospective observational study of SARS-CoV-2 infection, transmission and immunity in a cohort of households in Liverpool City Region, UK (COVID-LIV): a study protocol",
+            "prefix": "10.1136",
+            "volume": "11",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-2510-0318",
+                    "authenticated-orcid": false,
+                    "given": "Wega",
+                    "family": "Setiabudi",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-9770-0163",
+                    "authenticated-orcid": false,
+                    "given": "Daniel",
+                    "family": "Hungerford",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Krishanthi",
+                    "family": "Subramaniam",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Natasha Marcella",
+                    "family": "Vaselli",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Victoria E",
+                    "family": "Shaw",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Moon",
+                    "family": "Wilton",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Roberto",
+                    "family": "Vivancos",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0701-8364",
+                    "authenticated-orcid": false,
+                    "given": "Stephen",
+                    "family": "Aston",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Gareth",
+                    "family": "Platt",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Tracy",
+                    "family": "Moitt",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ashley P",
+                    "family": "Jones",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mark",
+                    "family": "Gabbay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0003-3392-1650",
+                    "authenticated-orcid": false,
+                    "given": "Iain",
+                    "family": "Buchan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Enitan D",
+                    "family": "Carrol",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Miren",
+                    "family": "Iturriza-Gomara",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Tom",
+                    "family": "Solomon",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "William",
+                    "family": "Greenhalf",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Dean J",
+                    "family": "Naisbitt",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Emily R",
+                    "family": "Adams",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Nigel A",
+                    "family": "Cunliffe",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Lance",
+                    "family": "Turtle",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Neil",
+                    "family": "French",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        17
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2021031721101976000_11.3.e048317.1",
+                    "unstructured": "Walker PG , Whittaker C , Watson O . The global impact of COVID-19 and strategies for mitigation and suppression. Imperial College COVID-19 Response Team 2020:19."
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.2",
+                    "unstructured": "Coronavirus disease (COVID-19). Available: https://www.who.int/emergencies/diseases/novel-coronavirus-2019 [Accessed 3 Nov 2020]."
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "517",
+                    "DOI": "10.1056/NEJMoa2016638",
+                    "article-title": "A randomized trial of hydroxychloroquine as postexposure prophylaxis for Covid-19",
+                    "volume": "383",
+                    "author": "Boulware",
+                    "year": "2020",
+                    "journal-title": "N Engl J Med Overseas Ed"
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.4",
+                    "unstructured": "UK medicines regulator gives approval for first UK COVID-19 vaccine - GOV.UK. Available: https://www.gov.uk/government/news/uk-medicines-regulator-gives-approval-for-first-uk-covid-19-vaccine [Accessed 16 Dec 2020]."
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.5",
+                    "unstructured": "Coronavirus: The world in lockdown in maps and charts - BBC News. Available: https://www.bbc.co.uk/news/world-52103747 [Accessed 3 Nov 2020]."
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "257",
+                    "DOI": "10.1038/s41586-020-2405-7",
+                    "article-title": "Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe",
+                    "volume": "584",
+                    "author": "Flaxman",
+                    "year": "2020",
+                    "journal-title": "Nature"
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.7",
+                    "unstructured": "The global economic outlook during the COVID-19 pandemic: a changed world. Available: https://www.worldbank.org/en/news/feature/2020/06/08/the-global-economic-outlook-during-the-covid-19-pandemic-a-changed-world [Accessed 3 Nov 2020]."
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.8",
+                    "DOI": "10.1001/jama.2020.9740",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.9",
+                    "volume": "396",
+                    "first-page": "1102",
+                    "year": "2020",
+                    "article-title": "Lancet COVID-19 Commission statement on the occasion of the 75th session of the un General assembly",
+                    "journal-title": "Lancet",
+                    "DOI": "10.1016/S0140-6736(20)31927-9",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.10",
+                    "author": "Madewell",
+                    "volume": "3",
+                    "year": "2020",
+                    "article-title": "Household transmission of SARS-CoV-2: a systematic review and meta-analysis",
+                    "journal-title": "JAMA Netw Open",
+                    "DOI": "10.1001/jamanetworkopen.2020.31756",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.11",
+                    "unstructured": "Stay at home: guidance for households with possible or confirmed coronavirus (COVID-19) infection - GOV.UK. Available: https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection [Accessed 15 Dec 2020]."
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.12",
+                    "DOI": "10.1371/journal.pone.0240205",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.13",
+                    "unstructured": "Liverpool City Region to move into \u201cvery high\u201d local COVID Alert Level following rise in coronavirus infections - GOV.UK. Available: https://www.gov.uk/government/news/liverpool-city-region-to-move-into-very-high-local-covid-alert-level-following-rise-in-coronavirus-infections [Accessed 5 Nov 2020]."
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.14",
+                    "unstructured": "Liverpool to be regularly tested for coronavirus in first whole city testing pilot - GOV.UK. Available: https://www.gov.uk/government/news/liverpool-to-be-regularly-tested-for-coronavirus-in-first-whole-city-testing-pilot [Accessed 16 Dec 2020]."
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.15",
+                    "unstructured": "Liverpool City Council . The index of multiple deprivation 2019 a Liverpool analysis executive summary, 2019. Available: https://liverpool.gov.uk/media/1359213/imd-2019-liverpool-analysis-main-report.pdf"
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.16",
+                    "DOI": "10.1136/bmjopen-2018-022820",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.17",
+                    "unstructured": "Quick J . nCoV-2019 sequencing protocol. protocols.io 2020.",
+                    "DOI": "10.17504/protocols.io.bbmuik6w",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "127",
+                    "DOI": "10.1016/j.remle.2020.05.007",
+                    "article-title": "COVID-19 and post-mortem microbiological studies",
+                    "volume": "46",
+                    "author": "Fern\u00e1ndez-Rodr\u00edguez",
+                    "year": "2020",
+                    "journal-title": "Spanish Journal of Legal Medicine"
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.19",
+                    "unstructured": "ISARIC4C Consortium. Available: https://isaric4c.net/ [Accessed 12 Feb 2021]."
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.20",
+                    "DOI": "10.1371/journal.pmed.0040296",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.21",
+                    "DOI": "10.1016/S0140-6736(20)30462-1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.22",
+                    "DOI": "10.15585/mmwr.mm6909e1",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021031721101976000_11.3.e048317.23",
+                    "DOI": "10.1016/s1473-3099(20)30287-5",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "BMJ Open",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2020-048317",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        18
+                    ]
+                ],
+                "date-time": "2021-03-18T04:11:10Z",
+                "timestamp": 1616040670000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        3
+                    ]
+                ]
+            },
+            "references-count": 23,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2021,
+                            3,
+                            17
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            3
+                        ]
+                    ]
+                },
+                "issue": "3"
+            },
+            "alternative-id": [
+                "10.1136/bmjopen-2020-048317"
+            ],
+            "URL": "http://dx.doi.org/10.1136/bmjopen-2020-048317",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2044-6055",
+                "2044-6055"
+            ],
+            "subject": [
+                "General Medicine"
+            ],
+            "container-title-short": "BMJ Open"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "COVID-19",
+                        "epidemiology",
+                        "immunology",
+                        "respiratory infections",
+                        "virology"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "33737446",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "03",
+                    "Day": "23"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "19"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "03",
+                            "Day": "17"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1136/bmjopen-2020-048317"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "2044-6055",
+                        "JournalIssue": {
+                            "Volume": "11",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "03",
+                                "Day": "17"
+                            }
+                        },
+                        "Title": "BMJ open",
+                        "ISOAbbreviation": "BMJ Open"
+                    },
+                    "ArticleTitle": "Prospective observational study of SARS-CoV-2 infection, transmission and immunity in a cohort of households in Liverpool City Region, UK (COVID-LIV): a study protocol.",
+                    "Pagination": {
+                        "MedlinePgn": "e048317"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "The emergence and rapid spread of COVID-19 have caused widespread and catastrophic public health and economic impact, requiring governments to restrict societal activity to reduce the spread of the disease. The role of household transmission in the population spread of SARS-CoV-2, and of host immunity in limiting transmission, is poorly understood. This paper describes a protocol for a prospective observational study of a cohort of households in Liverpool City Region, UK, which addresses the transmission of SARS-CoV-2 between household members and how immunological response to the infection changes over time.",
+                            "Households in the Liverpool City Region, in which members have not previously tested positive for SARS-CoV-2 with a nucleic acid amplification test, are followed up for an initial period of 12 weeks. Participants are asked to provide weekly self-throat and nasal swabs and record their activity and presence of symptoms. Incidence of infection and household secondary attack rates of COVID-19 are measured. Transmission of SARS-CoV-2 will be investigated against a range of demographic and behavioural variables. Blood and faecal samples are collected at several time points to evaluate immune responses to SARS-CoV-2 infection and prevalence and risk factors for faecal shedding of SARS-CoV-2, respectively.",
+                            "The study has received approval from the National Health Service Research Ethics Committee; REC Reference: 20/HRA/2297, IRAS Number: 283 464. Results will be disseminated through scientific conferences and peer-reviewed open access publications. A report of the findings will also be shared with participants. The study will quantify the scale and determinants of household transmission of SARS-CoV-2. Additionally, immunological responses before and during the different stages of infection will be analysed, adding to the understanding of the range of immunological response by infection severity."
+                        ],
+                        "CopyrightInformation": "\u00a9 Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY. Published by BMJ."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0003-2510-0318"
+                            ],
+                            "LastName": "Setiabudi",
+                            "ForeName": "Wega",
+                            "Initials": "W"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Gastrointestinal Infections, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-9770-0163"
+                            ],
+                            "LastName": "Hungerford",
+                            "ForeName": "Daniel",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Subramaniam",
+                            "ForeName": "Krishanthi",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Vaselli",
+                            "ForeName": "Natasha Marcella",
+                            "Initials": "NM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Experimental Cancer Medicines Centre, Institute of Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Shaw",
+                            "ForeName": "Victoria E",
+                            "Initials": "VE"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Psychology, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wilton",
+                            "ForeName": "Moon",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Gastrointestinal Infections, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Field Epidemiology North West, Field Service, National Infection Service, Public Health England, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Vivancos",
+                            "ForeName": "Roberto",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-0701-8364"
+                            ],
+                            "LastName": "Aston",
+                            "ForeName": "Stephen",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Platt",
+                            "ForeName": "Gareth",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Clinical Trial Centre, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Moitt",
+                            "ForeName": "Tracy",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Clinical Trial Centre, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Jones",
+                            "ForeName": "Ashley P",
+                            "Initials": "AP"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care and Mental Health, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gabbay",
+                            "ForeName": "Mark",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Gastrointestinal Infections, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health and Policy, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0003-3392-1650"
+                            ],
+                            "LastName": "Buchan",
+                            "ForeName": "Iain",
+                            "Initials": "I"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Carrol",
+                            "ForeName": "Enitan D",
+                            "Initials": "ED"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Gastrointestinal Infections, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Iturriza-Gomara",
+                            "ForeName": "Miren",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Neurology, Walton Centre, NHS Foundation Trust, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Solomon",
+                            "ForeName": "Tom",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Liverpool Experimental Cancer Medicines Centre, Institute of Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Greenhalf",
+                            "ForeName": "William",
+                            "Initials": "W"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Naisbitt",
+                            "ForeName": "Dean J",
+                            "Initials": "DJ"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Tropical Disease Biology, Liverpool School of Tropical Medicine, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Adams",
+                            "ForeName": "Emily R",
+                            "Initials": "ER"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Gastrointestinal Infections, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cunliffe",
+                            "ForeName": "Nigel A",
+                            "Initials": "NA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Turtle",
+                            "ForeName": "Lance",
+                            "Initials": "L"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK french@liverpool.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "French",
+                            "ForeName": "Neil",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [],
+                            "Identifier": [],
+                            "CollectiveName": "COVID-LIV Study Group"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMJ Open",
+                    "NlmUniqueID": "101552874",
+                    "ISSNLinking": "2044-6055"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "epidemiology",
+                            "immunology",
+                            "transmission"
+                        ],
+                        "DescriptorName": "COVID-19",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Observational Studies as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Prospective Studies",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Research Design",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "State Medicine",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "epidemiology"
+                        ],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ],
+                "CoiStatement": "Competing interests: MW is funded under a grant from Astra Zeneca and University of Liverpool for an unrelated project.",
+                "InvestigatorList": [
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Turtle",
+                        "ForeName": "Lance",
+                        "Initials": "L"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Hungerford",
+                        "ForeName": "Daniel",
+                        "Initials": "D"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Subramaniam",
+                        "ForeName": "Krishanthi",
+                        "Initials": "K"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Vivancos",
+                        "ForeName": "Roberto",
+                        "Initials": "R"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Gabbay",
+                        "ForeName": "Mark",
+                        "Initials": "M"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Buchan",
+                        "ForeName": "Iain",
+                        "Initials": "I"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Carrol",
+                        "ForeName": "Enitan D",
+                        "Initials": "ED"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Iturriza-Gomara",
+                        "ForeName": "Miren",
+                        "Initials": "M"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Solomon",
+                        "ForeName": "Tom",
+                        "Initials": "T"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Cunliffe",
+                        "ForeName": "Nigel A",
+                        "Initials": "NA"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Adams",
+                        "ForeName": "Emily R",
+                        "Initials": "ER"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Gamble",
+                        "ForeName": "Carrol",
+                        "Initials": "C"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Crossley",
+                        "ForeName": "Lynnette",
+                        "Initials": "L"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Joseph",
+                        "ForeName": "Neil",
+                        "Initials": "N"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Setiabudi",
+                        "ForeName": "Wega",
+                        "Initials": "W"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Vaselli",
+                        "ForeName": "Natasha Marcella",
+                        "Initials": "NM"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Wilton",
+                        "ForeName": "Moon",
+                        "Initials": "M"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Troughton",
+                        "ForeName": "Lee D",
+                        "Initials": "LD"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Kilada",
+                        "ForeName": "Samantha",
+                        "Initials": "S"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Abba",
+                        "ForeName": "Katharine",
+                        "Initials": "K"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Simpson",
+                        "ForeName": "Victoria",
+                        "Initials": "V"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Tulloch",
+                        "ForeName": "John S P",
+                        "Initials": "JSP"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Goodwin",
+                        "ForeName": "Lynsey",
+                        "Initials": "L"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Daws",
+                        "ForeName": "Rachael",
+                        "Initials": "R"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Forootan",
+                        "ForeName": "Shiva S",
+                        "Initials": "SS"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Dobson",
+                        "ForeName": "Susan",
+                        "Initials": "S"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Press",
+                        "ForeName": "Rachel",
+                        "Initials": "R"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Spaine",
+                        "ForeName": "Vida",
+                        "Initials": "V"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Hands",
+                        "ForeName": "Lesley",
+                        "Initials": "L"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Bradfield",
+                        "ForeName": "Kate",
+                        "Initials": "K"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "McNally",
+                        "ForeName": "Carol",
+                        "Initials": "C"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Moitt",
+                        "ForeName": "Tracy",
+                        "Initials": "T"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Balabanova",
+                        "ForeName": "Silviya",
+                        "Initials": "S"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Donohue",
+                        "ForeName": "Chloe",
+                        "Initials": "C"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Finnetty",
+                        "ForeName": "Lynsey",
+                        "Initials": "L"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Marsh",
+                        "ForeName": "Laura",
+                        "Initials": "L"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Greenhalf",
+                        "ForeName": "William",
+                        "Initials": "W"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Naisbitt",
+                        "ForeName": "Dean J",
+                        "Initials": "DJ"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Shaw",
+                        "ForeName": "Victoria E",
+                        "Initials": "VE"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Aston",
+                        "ForeName": "Stephen",
+                        "Initials": "S"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Platt",
+                        "ForeName": "Gareth",
+                        "Initials": "G"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Thomson",
+                        "ForeName": "Paul J",
+                        "Initials": "PJ"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Ogese",
+                        "ForeName": "Monday",
+                        "Initials": "M"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Hammond",
+                        "ForeName": "Sean",
+                        "Initials": "S"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Adair",
+                        "ForeName": "Kareena",
+                        "Initials": "K"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Farrell",
+                        "ForeName": "Liam",
+                        "Initials": "L"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Gardner",
+                        "ForeName": "Joshua",
+                        "Initials": "J"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Jaruthamsophon",
+                        "ForeName": "Kanoot",
+                        "Initials": "K"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Ali",
+                        "ForeName": "Serat-E",
+                        "Initials": "SE"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Lister",
+                        "ForeName": "Adam",
+                        "Initials": "A"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Booth",
+                        "ForeName": "Laura",
+                        "Initials": "L"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Ashworth",
+                        "ForeName": "Milton",
+                        "Initials": "M"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Bullock",
+                        "ForeName": "Katie",
+                        "Initials": "K"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Catterall",
+                        "ForeName": "Benjamin W A",
+                        "Initials": "BWA"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Foster",
+                        "ForeName": "Terry",
+                        "Initials": "T"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Lavelle-Langham",
+                        "ForeName": "Lara",
+                        "Initials": "L"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Middleton",
+                        "ForeName": "Joanna",
+                        "Initials": "J"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Reynolds",
+                        "ForeName": "William",
+                        "Initials": "W"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Cass",
+                        "ForeName": "Emily",
+                        "Initials": "E"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Carracedo",
+                        "ForeName": "Alejandra Doce",
+                        "Initials": "AD"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Davies",
+                        "ForeName": "Lianne",
+                        "Initials": "L"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Flaherty",
+                        "ForeName": "Lisa",
+                        "Initials": "L"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Oates",
+                        "ForeName": "Melanie",
+                        "Initials": "M"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Maziere",
+                        "ForeName": "Nicole",
+                        "Initials": "N"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Lloyd",
+                        "ForeName": "Jennifer",
+                        "Initials": "J"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Jones",
+                        "ForeName": "Christopher",
+                        "Initials": "C"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Massey",
+                        "ForeName": "Hannah",
+                        "Initials": "H"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Holmes",
+                        "ForeName": "Anthony",
+                        "Initials": "A"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Carlucci",
+                        "ForeName": "Nicola",
+                        "Initials": "N"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Brammah",
+                        "ForeName": "Vanessa",
+                        "Initials": "V"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Ramos",
+                        "ForeName": "Yasmyn",
+                        "Initials": "Y"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Allen",
+                        "ForeName": "Daniel",
+                        "Initials": "D"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Armstrong",
+                        "ForeName": "Jane",
+                        "Initials": "J"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Howarth",
+                        "ForeName": "Debbie",
+                        "Initials": "D"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Wilcock",
+                        "ForeName": "Eve",
+                        "Initials": "E"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Lowe",
+                        "ForeName": "Jena",
+                        "Initials": "J"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Jones",
+                        "ForeName": "Jayne",
+                        "Initials": "J"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Wright",
+                        "ForeName": "Paula",
+                        "Initials": "P"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Slack",
+                        "ForeName": "Iain",
+                        "Initials": "I"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "McLaughlin",
+                        "ForeName": "Simone",
+                        "Initials": "S"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Mason",
+                        "ForeName": "Jessica",
+                        "Initials": "J"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Edwards",
+                        "ForeName": "Thomas",
+                        "Initials": "T"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "McKeown",
+                        "ForeName": "Claudia",
+                        "Initials": "C"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Hendrick",
+                        "ForeName": "Elysse",
+                        "Initials": "E"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Williams",
+                        "ForeName": "Chris",
+                        "Initials": "C"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Byrne",
+                        "ForeName": "Rachel",
+                        "Initials": "R"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Buist",
+                        "ForeName": "Kate",
+                        "Initials": "K"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Garrod",
+                        "ForeName": "Gala",
+                        "Initials": "G"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Owen",
+                        "ForeName": "Sophie",
+                        "Initials": "S"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Jones",
+                        "ForeName": "Ashley P",
+                        "Initials": "AP"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "Gkioni",
+                        "ForeName": "Efstathia",
+                        "Initials": "E"
+                    },
+                    {
+                        "AffiliationInfo": [],
+                        "Identifier": [],
+                        "LastName": "French",
+                        "ForeName": "Neil",
+                        "Initials": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Lancet. 2020 Oct 10;396(10257):1102-1124",
+                                "ArticleIdList": [
+                                    "32941825"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS Med. 2007 Oct 16;4(10):e296",
+                                "ArticleIdList": [
+                                    "17941714"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet. 2020 Mar 14;395(10227):e47",
+                                "ArticleIdList": [
+                                    "32113505"
+                                ]
+                            },
+                            {
+                                "Citation": "Lancet Infect Dis. 2020 Aug;20(8):911-919",
+                                "ArticleIdList": [
+                                    "32353347"
+                                ]
+                            },
+                            {
+                                "Citation": "N Engl J Med. 2020 Aug 6;383(6):517-525",
+                                "ArticleIdList": [
+                                    "32492293"
+                                ]
+                            },
+                            {
+                                "Citation": "Nature. 2020 Aug;584(7820):257-261",
+                                "ArticleIdList": [
+                                    "32512579"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ Open. 2019 Jan 6;9(1):e022820",
+                                "ArticleIdList": [
+                                    "30613026"
+                                ]
+                            },
+                            {
+                                "Citation": "JAMA Netw Open. 2020 Dec 1;3(12):e2031756",
+                                "ArticleIdList": [
+                                    "33315116"
+                                ]
+                            },
+                            {
+                                "Citation": "MMWR Morb Mortal Wkly Rep. 2020 Mar 06;69(9):245-246",
+                                "ArticleIdList": [
+                                    "32134909"
+                                ]
+                            },
+                            {
+                                "Citation": "JAMA. 2020 Jul 7;324(1):93-94",
+                                "ArticleIdList": [
+                                    "32492088"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2020 Oct 8;15(10):e0240205",
+                                "ArticleIdList": [
+                                    "33031427"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2021",
+                        "Month": "3",
+                        "Day": "19",
+                        "Hour": "6",
+                        "Minute": "36"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "3",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "3",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "33737446",
+                    "bmjopen-2020-048317",
+                    "10.1136/bmjopen-2020-048317",
+                    "PMC7977072"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33737446)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833737446%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833737446%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102988275"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102988275?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102988275&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102988275&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102988275",
+                        "dc:identifier": "SCOPUS_ID:85102988275",
+                        "eid": "2-s2.0-85102988275",
+                        "dc:title": "Prospective observational study of SARS-CoV-2 infection, transmission and immunity in a cohort of households in Liverpool City Region, UK (COVID-LIV): A study protocol",
+                        "dc:creator": "Setiabudi W.",
+                        "prism:publicationName": "BMJ Open",
+                        "prism:eIssn": "20446055",
+                        "prism:volume": "11",
+                        "prism:issueIdentifier": "3",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-03-17",
+                        "prism:coverDisplayDate": "17 March 2021",
+                        "prism:doi": "10.1136/bmjopen-2020-048317",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33737446",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "e048317",
+                        "source-id": "19800188003",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "GQ5RRIHH.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33737446"
+            }
+        },
+        "title": "Prospective observational study of SARS-CoV-2 infection, transmission and immunity in a cohort of households in Liverpool City Region, UK (COVID-LIV): a study protocol.",
+        "full_author_list": [
+            {
+                "clean": "Setiabudi W",
+                "family": "Setiabudi",
+                "given": "Wega",
+                "affiliation": {
+                    "name": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Hungerford D",
+                "family": "Hungerford",
+                "given": "Daniel",
+                "affiliation": {
+                    "name": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Subramaniam K",
+                "family": "Subramaniam",
+                "given": "Krishanthi",
+                "affiliation": {
+                    "name": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Vaselli N",
+                "family": "Vaselli",
+                "given": "Natasha Marcella",
+                "affiliation": {
+                    "name": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Shaw V",
+                "family": "Shaw",
+                "given": "Victoria E",
+                "affiliation": {
+                    "name": "Liverpool Experimental Cancer Medicines Centre, Institute of Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wilton M",
+                "family": "Wilton",
+                "given": "Moon",
+                "affiliation": {
+                    "name": "Department of Psychology, Institute of Population Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Vivancos R",
+                "family": "Vivancos",
+                "given": "Roberto",
+                "affiliation": {
+                    "name": "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Aston S",
+                "family": "Aston",
+                "given": "Stephen",
+                "affiliation": {
+                    "name": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Platt G",
+                "family": "Platt",
+                "given": "Gareth",
+                "affiliation": {
+                    "name": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Moitt T",
+                "family": "Moitt",
+                "given": "Tracy",
+                "affiliation": {
+                    "name": "Liverpool Clinical Trial Centre, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Jones A",
+                "family": "Jones",
+                "given": "Ashley P",
+                "affiliation": {
+                    "name": "Liverpool Clinical Trial Centre, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Gabbay M",
+                "family": "Gabbay",
+                "given": "Mark",
+                "affiliation": {
+                    "name": "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Buchan I",
+                "family": "Buchan",
+                "given": "Iain",
+                "affiliation": {
+                    "name": "NIHR Health Protection Research Unit in Gastrointestinal Infections, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Carrol E",
+                "family": "Carrol",
+                "given": "Enitan D",
+                "affiliation": {
+                    "name": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Iturriza-Gomara M",
+                "family": "Iturriza-Gomara",
+                "given": "Miren",
+                "affiliation": {
+                    "name": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Solomon T",
+                "family": "Solomon",
+                "given": "Tom",
+                "affiliation": {
+                    "name": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Greenhalf W",
+                "family": "Greenhalf",
+                "given": "William",
+                "affiliation": {
+                    "name": "Liverpool Experimental Cancer Medicines Centre, Institute of Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Naisbitt D",
+                "family": "Naisbitt",
+                "given": "Dean J",
+                "affiliation": {
+                    "name": "Department of Molecular and Clinical Pharmacology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Adams E",
+                "family": "Adams",
+                "given": "Emily R",
+                "affiliation": {
+                    "name": "NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Cunliffe N",
+                "family": "Cunliffe",
+                "given": "Nigel A",
+                "affiliation": {
+                    "name": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Turtle L",
+                "family": "Turtle",
+                "given": "Lance",
+                "affiliation": {
+                    "name": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "French N",
+                "family": "French",
+                "given": "Neil",
+                "affiliation": {
+                    "name": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK french@liverpool.ac.uk."
+                }
+            }
+        ],
+        "first_author": "Setiabudi W",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "COVID-19",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Observational Studies as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Prospective Studies",
+                    "major": "N"
+                },
+                {
+                    "term": "Research Design",
+                    "major": "N"
+                },
+                {
+                    "term": "State Medicine",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "COVID-19",
+                "epidemiology",
+                "immunology",
+                "respiratory infections",
+                "virology"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMJ Open",
+            "volume": "11",
+            "issue": "3"
+        },
+        "abstract": "['The emergence and rapid spread of COVID-19 have caused widespread and catastrophic public health and economic impact, requiring governments to restrict societal activity to reduce the spread of the disease. The role of household transmission in the population spread of SARS-CoV-2, and of host immunity in limiting transmission, is poorly understood. This paper describes a protocol for a prospective observational study of a cohort of households in Liverpool City Region, UK, which addresses the transmission of SARS-CoV-2 between household members and how immunological response to the infection changes over time.', 'Households in the Liverpool City Region, in which members have not previously tested positive for SARS-CoV-2 with a nucleic acid amplification test, are followed up for an initial period of 12 weeks. Participants are asked to provide weekly self-throat and nasal swabs and record their activity and presence of symptoms. Incidence of infection and household secondary attack rates of COVID-19 are measured. Transmission of SARS-CoV-2 will be investigated against a range of demographic and behavioural variables. Blood and faecal samples are collected at several time points to evaluate immune responses to SARS-CoV-2 infection and prevalence and risk factors for faecal shedding of SARS-CoV-2, respectively.', 'The study has received approval from the National Health Service Research Ethics Committee; REC Reference: 20/HRA/2297, IRAS Number: 283 464. Results will be disseminated through scientific conferences and peer-reviewed open access publications. A report of the findings will also be shared with participants. The study will quantify the scale and determinants of household transmission of SARS-CoV-2. Additionally, immunological responses before and during the different stages of infection will be analysed, adding to the understanding of the range of immunological response by infection severity.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Clinical Infection Microbiology and Immunology, Institute of Infection, Veterinary & Ecological Sciences, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

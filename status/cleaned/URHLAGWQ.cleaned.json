@@ -1,0 +1,646 @@
+{
+    "IDs": {
+        "zotero": "URHLAGWQ",
+        "DOI": "10.12968/bjnn.2020.16.Sup5.S18",
+        "DOI_filename": "5830b21f15771bf7a8e48fe0291cb765",
+        "PMID": "",
+        "scopus": "",
+        "hash": "e35d8d2484d36f51e1ee40c95a835d13"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "URHLAGWQ",
+            "version": 992,
+            "itemType": "journalArticle",
+            "title": "Mediators, confounders and effectiveness of interventions for medication adherence after stroke",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "James",
+                    "lastName": "Hill"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Joanna",
+                    "lastName": "Harrison"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sonia",
+                    "lastName": "Raj"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Bindu",
+                    "lastName": "Gregary"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anne-Marie",
+                    "lastName": "Timoroksa"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Josephine",
+                    "lastName": "Gibson"
+                }
+            ],
+            "abstractNote": "After a stroke, people are left with an increased risk of recurrence. One of the primary methods of prevention is the use of a range of medications, but adherence to these is often low. This article evaluates and summarises three systematic reviews that investigate possible underlying reasons for this and how to overcome these barriers.",
+            "publicationTitle": "British Journal of Neuroscience Nursing",
+            "volume": "16",
+            "issue": "Sup5",
+            "pages": "S18-S24",
+            "date": "2020-10-01",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "British Journal of Neuroscience Nursing",
+            "language": "en",
+            "DOI": "10.12968/bjnn.2020.16.Sup5.S18",
+            "ISSN": "1747-0307, 2052-2800",
+            "shortTitle": "",
+            "url": "http://www.magonlinelibrary.com/doi/10.12968/bjnn.2020.16.Sup5.S18",
+            "accessDate": "2021-07-23T16:46:16Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:38Z",
+            "dateModified": "2021-07-27T12:03:29Z"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        31
+                    ]
+                ],
+                "date-time": "2020-10-31T13:11:09Z",
+                "timestamp": 1604149869684
+            },
+            "reference-count": 34,
+            "publisher": "Mark Allen Group",
+            "issue": "Sup5",
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        1
+                    ]
+                ]
+            },
+            "abstract": "<jats:p> After a stroke, people are left with an increased risk of recurrence. One of the primary methods of prevention is the use of a range of medications, but adherence to these is often low. This article evaluates and summarises three systematic reviews that investigate possible underlying reasons for this and how to overcome these barriers. </jats:p>",
+            "DOI": "10.12968/bjnn.2020.16.sup5.s18",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        31
+                    ]
+                ],
+                "date-time": "2020-10-31T12:56:42Z",
+                "timestamp": 1604149002000
+            },
+            "page": "S18-S24",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Mediators, confounders and effectiveness of interventions for medication adherence after stroke",
+            "prefix": "10.12968",
+            "volume": "16",
+            "author": [
+                {
+                    "given": "James",
+                    "family": "Hill",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Health Technology Assessment Group, University of Central Lancashire;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Joanna",
+                    "family": "Harrison",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Health Technology Assessment Group, University of Central Lancashire;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sonia",
+                    "family": "Raj",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "NIHR Lancashire Clinical Research Facility, Royal Preston Hospital;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Bindu",
+                    "family": "Gregary",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "NIHR Lancashire Clinical Research Facility, Royal Preston Hospital;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Anne-Marie",
+                    "family": "Timoroksa",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "NIHR Lancashire Clinical Research Facility, Royal Preston Hospital;"
+                        }
+                    ]
+                },
+                {
+                    "given": "Josephine",
+                    "family": "Gibson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Stroke Research Unit, University of Central Lancashire"
+                        }
+                    ]
+                }
+            ],
+            "member": "5130",
+            "reference": [
+                {
+                    "issue": "2",
+                    "key": "B1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "65",
+                    "DOI": "10.1177/2396987316647187",
+                    "volume": "1",
+                    "author": "AlShaikh S",
+                    "year": "2016",
+                    "journal-title": "Eur Stroke J."
+                },
+                {
+                    "key": "B2",
+                    "DOI": "10.1097/01376517-200112000-00005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "5",
+                    "key": "B3",
+                    "first-page": "CD009103",
+                    "volume": "5",
+                    "author": "Bridgwood B",
+                    "year": "2018",
+                    "journal-title": "Cochrane Database Syst Rev"
+                },
+                {
+                    "key": "B4",
+                    "DOI": "10.1016/j.jclinepi.2005.11.010",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "5",
+                    "key": "B5",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "641",
+                    "DOI": "10.1212/01.wnl.0000201253.93811.f6",
+                    "volume": "66",
+                    "author": "Dhamoon MS",
+                    "year": "2006",
+                    "journal-title": "Neurology."
+                },
+                {
+                    "issue": "29",
+                    "key": "B6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "E954",
+                    "DOI": "10.1503/cmaj.161142",
+                    "volume": "189",
+                    "author": "Edwards JD",
+                    "year": "2017",
+                    "journal-title": "CMAJ."
+                },
+                {
+                    "key": "B7",
+                    "author": "Feigin VL",
+                    "volume": "120",
+                    "first-page": "439",
+                    "year": "2017",
+                    "journal-title": "Circulation Research",
+                    "DOI": "10.1161/CIRCRESAHA.116.308413",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "7",
+                    "key": "B8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "588",
+                    "DOI": "10.1212/WNL.0b013e3181cff776",
+                    "volume": "74",
+                    "author": "Feng W",
+                    "year": "2010",
+                    "journal-title": "Neurology."
+                },
+                {
+                    "issue": "1",
+                    "key": "B9",
+                    "first-page": "4",
+                    "volume": "37",
+                    "author": "Gibson JME",
+                    "year": "2019",
+                    "journal-title": "Fam Pract."
+                },
+                {
+                    "key": "B10",
+                    "DOI": "10.1161/STROKEAHA.106.475525",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2",
+                    "key": "B11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "178",
+                    "DOI": "10.1016/S1474-4422(13)70255-2",
+                    "volume": "13",
+                    "author": "Hankey GJ",
+                    "year": "2014",
+                    "journal-title": "Lancet Neurol."
+                },
+                {
+                    "key": "B12",
+                    "DOI": "10.1136/bmj.d5928",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "3",
+                    "key": "B14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "157",
+                    "DOI": "10.1111/j.1747-4949.2010.00424.x",
+                    "volume": "5",
+                    "author": "Hornnes N",
+                    "year": "2010",
+                    "journal-title": "J Stroke."
+                },
+                {
+                    "issue": "9",
+                    "key": "B16",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e1000094",
+                    "DOI": "10.1371/journal.pmed.1000094",
+                    "volume": "6",
+                    "author": "Kavanagh B",
+                    "year": "2009",
+                    "journal-title": "PLoS Medicine."
+                },
+                {
+                    "issue": "1",
+                    "key": "B17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "3",
+                    "DOI": "10.3892/etm.2012.560",
+                    "volume": "4",
+                    "author": "Kikuchi K",
+                    "year": "2012",
+                    "journal-title": "Exp Ther Med"
+                },
+                {
+                    "key": "B18",
+                    "author": "Mateen FO",
+                    "volume": "5",
+                    "first-page": "89",
+                    "year": "2013",
+                    "journal-title": "J Clin Epidemiol.",
+                    "DOI": "10.2147/CLEP.S43118",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "6",
+                    "key": "B19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "924",
+                    "DOI": "10.1016/j.ahj.2014.08.001",
+                    "volume": "168",
+                    "author": "McAlister F",
+                    "year": "2014",
+                    "journal-title": "Am Heart J"
+                },
+                {
+                    "key": "B20",
+                    "DOI": "10.1016/j.apmr.2004.12.026",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B21",
+                    "author": "Noblit GW",
+                    "year": "1988",
+                    "volume-title": "Meta-ethnography: synthesising qualitative studies",
+                    "DOI": "10.4135/9781412985000",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "3",
+                    "key": "B22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S5",
+                    "DOI": "10.1212/WNL.0b013e3182762397",
+                    "volume": "80",
+                    "author": "Norrving B",
+                    "year": "2013",
+                    "journal-title": "Neurol."
+                },
+                {
+                    "key": "B23",
+                    "DOI": "10.1007/s12160-013-9515-5",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B24",
+                    "DOI": "10.1016/S0140-6736(10)60834-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "5",
+                    "key": "B25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "439",
+                    "DOI": "10.1016/S1474-4422(19)30034-1",
+                    "volume": "18",
+                    "author": "Owens Johnson C",
+                    "year": "2019",
+                    "journal-title": "Lancet Neurol"
+                },
+                {
+                    "issue": "1",
+                    "key": "B26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "90",
+                    "DOI": "10.1016/j.jns.2015.05.028",
+                    "volume": "355",
+                    "author": "Park JH",
+                    "year": "2015",
+                    "journal-title": "J Neurol Sci."
+                },
+                {
+                    "issue": "2",
+                    "key": "B27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "515",
+                    "DOI": "10.1161/STROKEAHA.113.001424",
+                    "volume": "45",
+                    "author": "Peng B",
+                    "year": "2014",
+                    "journal-title": "Stroke"
+                },
+                {
+                    "issue": "1",
+                    "key": "B28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "233",
+                    "DOI": "10.1186/s13643-017-0629-x",
+                    "volume": "6",
+                    "author": "Rathbone J",
+                    "year": "2017",
+                    "journal-title": "Syst Rev"
+                },
+                {
+                    "issue": "10159",
+                    "key": "B29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1736",
+                    "DOI": "10.1016/S0140-6736(18)32203-7",
+                    "volume": "392",
+                    "author": "Roth G",
+                    "year": "2019",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "issue": "7",
+                    "key": "B30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "16",
+                    "DOI": "10.1186/1472-6947-7-16",
+                    "volume": "15",
+                    "author": "Schardt C",
+                    "year": "2007",
+                    "journal-title": "BMC Med Inform Decis Mak."
+                },
+                {
+                    "issue": "6",
+                    "key": "B31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "633",
+                    "DOI": "10.2165/00003495-200969060-00001",
+                    "volume": "69",
+                    "author": "Toyoda K",
+                    "year": "2009",
+                    "journal-title": "Drugs."
+                },
+                {
+                    "key": "B32",
+                    "DOI": "10.1186/s12874-019-0782-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "B33",
+                    "DOI": "10.1016/j.midw.2005.05.004",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "9",
+                    "key": "B34",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2259",
+                    "DOI": "10.1016/j.jstrokecerebrovasdis.2016.05.010",
+                    "volume": "25",
+                    "author": "Wan L",
+                    "year": "2016",
+                    "journal-title": "J Stroke Cerebrovasc Dis"
+                },
+                {
+                    "key": "B35",
+                    "author": "Wells GS",
+                    "year": "2019",
+                    "volume-title": "The Newcastle-Ottawa Scale (NOS) for assessing the quality of nonrandomised studies in meta-analyses"
+                },
+                {
+                    "key": "B36",
+                    "DOI": "10.1016/S0140-6736(05)66734-7",
+                    "doi-asserted-by": "publisher"
+                }
+            ],
+            "container-title": "British Journal of Neuroscience Nursing",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://www.magonlinelibrary.com/doi/pdf/10.12968/bjnn.2020.16.Sup5.S18",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        31
+                    ]
+                ],
+                "date-time": "2020-10-31T12:57:22Z",
+                "timestamp": 1604149042000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        1
+                    ]
+                ]
+            },
+            "references-count": 34,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            10,
+                            1
+                        ]
+                    ]
+                },
+                "issue": "Sup5"
+            },
+            "alternative-id": [
+                "10.12968/bjnn.2020.16.Sup5.S18"
+            ],
+            "URL": "http://dx.doi.org/10.12968/bjnn.2020.16.Sup5.S18",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1747-0307",
+                "2052-2800"
+            ],
+            "subject": [
+                "General Nursing",
+                "Clinical Neurology"
+            ],
+            "container-title-short": "British Journal of Neuroscience Nursing"
+        },
+        "pmid_data": {},
+        "scopus_data": null
+    },
+    "filename": "URHLAGWQ.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {}
+        },
+        "title": "Mediators, confounders and effectiveness of interventions for medication adherence after stroke",
+        "full_author_list": [
+            {
+                "clean": "Hill J",
+                "family": "Hill",
+                "given": "James",
+                "affiliation": {
+                    "name": "Health Technology Assessment Group, University of Central Lancashire;"
+                }
+            },
+            {
+                "clean": "Harrison J",
+                "family": "Harrison",
+                "given": "Joanna",
+                "affiliation": {
+                    "name": "Health Technology Assessment Group, University of Central Lancashire;"
+                }
+            },
+            {
+                "clean": "Raj S",
+                "family": "Raj",
+                "given": "Sonia",
+                "affiliation": {
+                    "name": "NIHR Lancashire Clinical Research Facility, Royal Preston Hospital;"
+                }
+            },
+            {
+                "clean": "Gregary B",
+                "family": "Gregary",
+                "given": "Bindu",
+                "affiliation": {
+                    "name": "NIHR Lancashire Clinical Research Facility, Royal Preston Hospital;"
+                }
+            },
+            {
+                "clean": "Timoroksa A",
+                "family": "Timoroksa",
+                "given": "Anne-Marie",
+                "affiliation": {
+                    "name": "NIHR Lancashire Clinical Research Facility, Royal Preston Hospital;"
+                }
+            },
+            {
+                "clean": "Gibson J",
+                "family": "Gibson",
+                "given": "Josephine",
+                "affiliation": {
+                    "name": "Stroke Research Unit, University of Central Lancashire"
+                }
+            }
+        ],
+        "first_author": "Hill J",
+        "zotero_tags": [
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": []
+        },
+        "journal": {
+            "journal_name": "British Journal of Neuroscience Nursing",
+            "volume": "16",
+            "issue": "Sup5"
+        },
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {}
+        },
+        "location": {
+            "candidate_institute": "Health Technology Assessment Group, University of Central Lancashire;",
+            "clean_institute": "University of Central Lancashire",
+            "country": "United Kingdom",
+            "latitude": "53.759444444444",
+            "longitude": "-2.6980555555556"
+        }
+    }
+}

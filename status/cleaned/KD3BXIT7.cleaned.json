@@ -1,0 +1,1404 @@
+{
+    "IDs": {
+        "zotero": "KD3BXIT7",
+        "DOI": "10.1016/j.apmr.2020.09.391",
+        "DOI_filename": "e488e9821323c921598c9046cabcf3ee",
+        "PMID": "33250142",
+        "scopus": "2-s2.0-85096996480",
+        "hash": "0263758de1950ffdfd182d0dbf96efb6"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "KD3BXIT7",
+            "version": 999,
+            "itemType": "journalArticle",
+            "title": "Systematic Review and Meta-Analysis of the Effectiveness of Mental Practice for the Upper Limb After Stroke: Imagined or Real Benefit?",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Rachel C.",
+                    "lastName": "Stockley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kathryn",
+                    "lastName": "Jarvis"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul",
+                    "lastName": "Boland"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew J.",
+                    "lastName": "Clegg"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Archives of Physical Medicine and Rehabilitation",
+            "volume": "102",
+            "issue": "5",
+            "pages": "1011-1027",
+            "date": "05/2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Archives of Physical Medicine and Rehabilitation",
+            "language": "en",
+            "DOI": "10.1016/j.apmr.2020.09.391",
+            "ISSN": "00039993",
+            "shortTitle": "Systematic Review and Meta-Analysis of the Effectiveness of Mental Practice for the Upper Limb After Stroke",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0003999320311515",
+            "accessDate": "2021-07-23T16:46:09Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33250142",
+            "tags": [
+                {
+                    "tag": "CHI"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:17Z",
+            "dateModified": "2021-07-27T12:10:39Z",
+            "pmid": "33250142"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        29
+                    ]
+                ],
+                "date-time": "2021-04-29T18:55:45Z",
+                "timestamp": 1619722545364
+            },
+            "reference-count": 67,
+            "publisher": "Elsevier BV",
+            "issue": "5",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                5,
+                                1
+                            ]
+                        ],
+                        "date-time": "2021-05-01T00:00:00Z",
+                        "timestamp": 1619827200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                },
+                {
+                    "name": "ARC",
+                    "award": []
+                },
+                {
+                    "name": "NWC",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "clinicalkey.jp",
+                    "clinicalkey.com",
+                    "archives-pmr.org",
+                    "clinicalkey.es",
+                    "clinicalkey.com.au",
+                    "clinicalkey.fr",
+                    "elsevier.com",
+                    "sciencedirect.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        5
+                    ]
+                ]
+            },
+            "DOI": "10.1016/j.apmr.2020.09.391",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        23
+                    ]
+                ],
+                "date-time": "2020-10-23T09:05:29Z",
+                "timestamp": 1603443929000
+            },
+            "page": "1011-1027",
+            "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Systematic Review and Meta-Analysis of the Effectiveness of Mental Practice for the Upper Limb After Stroke: Imagined or Real Benefit?",
+            "prefix": "10.1016",
+            "volume": "102",
+            "author": [
+                {
+                    "given": "Rachel C.",
+                    "family": "Stockley",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Kathryn",
+                    "family": "Jarvis",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Paul",
+                    "family": "Boland",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Andrew J.",
+                    "family": "Clegg",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "78",
+            "reference": [
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib1",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "245",
+                    "DOI": "10.1016/S0140-6736(13)61953-4",
+                    "article-title": "Global and regional burden of stroke during 1990-2010: findings from the Global Burden of Disease Study 2010",
+                    "volume": "383",
+                    "author": "Feigin",
+                    "year": "2014",
+                    "journal-title": "Lancet"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "357",
+                    "DOI": "10.1080/096382899297459",
+                    "article-title": "The long-term outcome of arm function after stroke: results of a follow-up study",
+                    "volume": "21",
+                    "author": "Broeks",
+                    "year": "1999",
+                    "journal-title": "Disabil Rehabil"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "118",
+                    "DOI": "10.1186/s12955-015-0314-5",
+                    "article-title": "Potential predictors for health-related quality of life in stroke patients undergoing inpatient rehabilitation",
+                    "volume": "13",
+                    "author": "Chen",
+                    "year": "2015",
+                    "journal-title": "Health Qual Life Outcomes"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "525",
+                    "DOI": "10.1080/10749357.2020.1738662",
+                    "article-title": "Does upper limb strength play a prominent role in health-related quality of life in stroke patients discharged from inpatient rehabilitation?",
+                    "volume": "27",
+                    "author": "van Lieshout",
+                    "year": "2020",
+                    "journal-title": "Top Stroke Rehabil"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib5",
+                    "author": "Rudd",
+                    "year": "2016",
+                    "series-title": "National Clinical Guideline for Stroke"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib6",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "459",
+                    "DOI": "10.1177/1747493016643553",
+                    "article-title": "Canadian stroke best practice recommendations: Stroke rehabilitation practice guidelines, update 2015",
+                    "volume": "11",
+                    "author": "Hebert",
+                    "year": "2016",
+                    "journal-title": "Int J Stroke"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "224",
+                    "DOI": "10.1111/j.2044-8295.2011.02068.x",
+                    "article-title": "Re-imagining motor imagery: building bridges between cognitive neuroscience and sport psychology",
+                    "volume": "103",
+                    "author": "Moran",
+                    "year": "2012",
+                    "journal-title": "Br J Psychol"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib8",
+                    "first-page": "CD005950",
+                    "article-title": "Mental practice for treating upper extremity deficits in individuals with hemiparesis after stroke",
+                    "volume": "2011",
+                    "author": "Barclay-Goddard",
+                    "year": "2011",
+                    "journal-title": "Cochrane Database Syst Rev"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib9",
+                    "first-page": "CD005950",
+                    "article-title": "Mental practice for treating upper extremity deficits in individuals with hemiparesis after stroke",
+                    "volume": "5",
+                    "author": "Barclay",
+                    "year": "2020",
+                    "journal-title": "Cochrane Database Syst Rev"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "790",
+                    "DOI": "10.3389/fnhum.2013.00790",
+                    "article-title": "Motor imagery ability in stroke patients: the relationship between implicit and explicit motor imagery measures",
+                    "volume": "7",
+                    "author": "de Vries",
+                    "year": "2013",
+                    "journal-title": "Front Hum Neurosci"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1",
+                    "DOI": "10.1080/21520704.2011.639853",
+                    "article-title": "Perfecting practice: applying the PETTLEP model of motor imagery",
+                    "volume": "3",
+                    "author": "Wakefield",
+                    "year": "2012",
+                    "journal-title": "J Sport Psychol Action"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "75",
+                    "DOI": "10.1186/1741-7015-9-75",
+                    "article-title": "Best practice for motor imagery: a systematic literature review on motor imagery training elements in five different disciplines",
+                    "volume": "9",
+                    "author": "Schuster",
+                    "year": "2011",
+                    "journal-title": "BMC Med"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "247",
+                    "DOI": "10.1177/1545968314543308",
+                    "article-title": "Predicting the performance of motor imagery in stroke patients: multivariate pattern analysis of functional MRI data",
+                    "volume": "29",
+                    "author": "Park",
+                    "year": "2015",
+                    "journal-title": "Neurorehabil Neural Repair"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib14",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "72",
+                    "DOI": "10.3389/fnhum.2017.00072",
+                    "article-title": "Does motor simulation theory explain the cognitive mechanisms underlying motor imagery? A critical review",
+                    "volume": "11",
+                    "author": "O\u2019Shea",
+                    "year": "2017",
+                    "journal-title": "Front Hum Neurosci"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "727",
+                    "DOI": "10.1016/0959-4388(95)80099-9",
+                    "article-title": "Mental motor imagery: a window into the representational stages of action",
+                    "volume": "5",
+                    "author": "Jeannerod",
+                    "year": "1995",
+                    "journal-title": "Curr Opin Neurobiol"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib16",
+                    "first-page": "4653256",
+                    "article-title": "Motor imagery impairment in postacute stroke patients",
+                    "volume": "2017",
+                    "author": "Braun",
+                    "year": "2017",
+                    "journal-title": "Neural Plast. Published online"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1941",
+                    "DOI": "10.1161/01.STR.0000226902.43357.fc",
+                    "article-title": "Motor imagery: a backdoor to the motor system after stroke?",
+                    "volume": "37",
+                    "author": "Sharma",
+                    "year": "2006",
+                    "journal-title": "Stroke"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "S2",
+                    "DOI": "10.1016/j.apmr.2006.08.326",
+                    "article-title": "Mental practice with motor imagery: evidence for motor recovery and cortical reorganization after stroke",
+                    "volume": "87",
+                    "author": "Butler",
+                    "year": "2006",
+                    "journal-title": "Arch Phys Med Rehabil"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1771",
+                    "DOI": "10.4103/1673-5374.238616",
+                    "article-title": "Motor imagery training induces changes in brain neural networks in stroke patients",
+                    "volume": "13",
+                    "author": "Li",
+                    "year": "2018",
+                    "journal-title": "Nerual Regen"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib20",
+                    "first-page": "283840",
+                    "article-title": "Recovery of motor imagery ability in stroke patients",
+                    "volume": "2011",
+                    "author": "de Vries",
+                    "year": "2011",
+                    "journal-title": "Rehabil Res Pract"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib21",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "821",
+                    "DOI": "10.1080/00207454.2019.1567509",
+                    "article-title": "Motor imagery in stroke patients: a descriptive review on a multidimensional ability",
+                    "volume": "129",
+                    "author": "Santoro",
+                    "year": "2019",
+                    "journal-title": "Int J Neurosci"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib22",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1568",
+                    "DOI": "10.3389/fpsyg.2019.01568",
+                    "article-title": "Mental practice ability among stroke survivors: investigation of gender and age",
+                    "volume": "10",
+                    "author": "Storm",
+                    "year": "2019",
+                    "journal-title": "Front Psychol"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2309",
+                    "DOI": "10.1161/STROKEAHA.110.588723",
+                    "article-title": "The EXCITE stroke trial: comparing early and delayed constraint-induced movement therapy",
+                    "volume": "41",
+                    "author": "Wolf",
+                    "year": "2010",
+                    "journal-title": "Stroke"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib24",
+                    "first-page": "CD006073",
+                    "article-title": "Repetitive task training for improving functional ability after stroke",
+                    "volume": "11",
+                    "author": "French",
+                    "year": "2016",
+                    "journal-title": "Cochrane Database Syst Rev"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib25",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "200",
+                    "DOI": "10.1177/153944920002000304",
+                    "article-title": "Imagery improves upper extremity motor function in chronic stroke patients: a pilot study",
+                    "volume": "20",
+                    "author": "Page",
+                    "year": "2000",
+                    "journal-title": "Occup Ther J Res"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib26",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1455",
+                    "DOI": "10.1093/ptj/81.8.1455",
+                    "article-title": "Mental practice combined with physical practice for upper-limb motor deficit in subacute stroke",
+                    "volume": "81",
+                    "author": "Page",
+                    "year": "2001",
+                    "journal-title": "Phys Ther"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib27",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1373",
+                    "DOI": "10.1093/brain/awr077",
+                    "article-title": "Mental practice with motor imagery in stroke recovery: randomized controlled trial of efficacy",
+                    "volume": "134",
+                    "author": "Ietswaart",
+                    "year": "2011",
+                    "journal-title": "Brain"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "205",
+                    "DOI": "10.1097/NPT.0000000000000200",
+                    "article-title": "Motor imagery training after stroke: a systematic review and meta-analysis of randomized controlled trials",
+                    "volume": "41",
+                    "author": "Guerra",
+                    "year": "2017",
+                    "journal-title": "J Neurol Phys Ther"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib29",
+                    "first-page": "43",
+                    "article-title": "Effectiveness of motor imagery or mental practice in functional recovery after stroke: a systematic review",
+                    "volume": "31",
+                    "author": "Carrasco",
+                    "year": "2016",
+                    "journal-title": "Neurologia"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib30",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "313",
+                    "DOI": "10.1111/j.1747-4949.2012.00942.x",
+                    "article-title": "Top 10 research priorities relating to life after stroke--consensus from stroke survivors, caregivers, and health professionals",
+                    "volume": "9",
+                    "author": "Pollock",
+                    "year": "2014",
+                    "journal-title": "Int J Stroke"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "g1687",
+                    "DOI": "10.1136/bmj.g1687",
+                    "article-title": "Better reporting of interventions: template for intervention description and replication (TIDieR) checklist and guide",
+                    "volume": "348",
+                    "author": "Hoffmann",
+                    "year": "2014",
+                    "journal-title": "BMJ"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib32",
+                    "author": "Stockley",
+                    "volume": "9",
+                    "year": "2019",
+                    "article-title": "Current therapy for the upper limb after stroke: a cross-sectional survey of UK therapists",
+                    "journal-title": "BMJ Open",
+                    "DOI": "10.1136/bmjopen-2019-030262",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib33",
+                    "author": "Moher",
+                    "volume": "6",
+                    "year": "2009",
+                    "article-title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+                    "journal-title": "PLoS Med",
+                    "DOI": "10.1371/journal.pmed.1000097",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib34",
+                    "year": "2019",
+                    "series-title": "Cochrane handbook for systematic reviews of interventions"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib35",
+                    "year": "2001",
+                    "series-title": "International classification of functioning, disability and health (ICF)"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib36",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "129",
+                    "DOI": "10.1016/S0004-9514(09)70043-1",
+                    "article-title": "The PEDro scale is a valid measure of the methodological quality of clinical trials: a demographic study",
+                    "volume": "55",
+                    "author": "de Morton",
+                    "year": "2009",
+                    "journal-title": "Aust J Physiother"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "793",
+                    "DOI": "10.1177/1545968317732668",
+                    "article-title": "Agreed definitions and a shared vision for new standards in stroke recovery research: the Stroke Recovery and Rehabilitation Roundtable Taskforce",
+                    "volume": "31",
+                    "author": "Bernhardt",
+                    "year": "2017",
+                    "journal-title": "Neurorehabil Neural Repair"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib38",
+                    "first-page": "162",
+                    "article-title": "Comparing the Immediate effective of auditory and visual mental imagery on reaching and grasping task amony sub acute stroke patients",
+                    "volume": "5",
+                    "author": "Kanwar",
+                    "year": "2011",
+                    "journal-title": "Indian J Physiother Occup Ther"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib39",
+                    "first-page": "876416",
+                    "article-title": "Mental practice combined with physical practice to enhance hand recovery in stroke patients",
+                    "volume": "2014",
+                    "author": "Liu",
+                    "year": "2014",
+                    "journal-title": "Behav Neurol"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib40",
+                    "first-page": "88",
+                    "article-title": "Effect of mental imagery on upper extremity function in stroke patients",
+                    "volume": "6",
+                    "author": "Nayeem",
+                    "year": "2012",
+                    "journal-title": "Indian J Physiother Occup Ther"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib41",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "320",
+                    "DOI": "10.5014/ajot.2012.003475",
+                    "article-title": "Effect of imagery perspective on occupational performance after stroke: A randomized controlled trial",
+                    "volume": "66",
+                    "author": "Nilsen",
+                    "year": "2012",
+                    "journal-title": "Am J Occup Ther"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib42",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "399",
+                    "DOI": "10.1016/j.apmr.2004.10.002",
+                    "article-title": "Effects of mental practice on affected limb use and function in chronic stroke",
+                    "volume": "86",
+                    "author": "Page",
+                    "year": "2005",
+                    "journal-title": "Arch Phys Med Rehabil"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib43",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1293",
+                    "DOI": "10.1161/01.STR.0000260205.67348.2b",
+                    "article-title": "Mental practice in chronic stroke: results of a randomized, placebo-controlled trial",
+                    "volume": "38",
+                    "author": "Page",
+                    "year": "2007",
+                    "journal-title": "Stroke"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib44",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "627",
+                    "DOI": "10.1177/0269215510395793",
+                    "article-title": "Longer versus shorter mental practice sessions for affected upper extremity movement after stroke: a randomized controlled trial",
+                    "volume": "25",
+                    "author": "Page",
+                    "year": "2011",
+                    "journal-title": "Clin Rehabil"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib45",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1075",
+                    "DOI": "10.1589/jpts.27.1075",
+                    "article-title": "Effects of mental practice on stroke patients\u2019 upper extremity function and daily activity performance",
+                    "volume": "27",
+                    "author": "Park",
+                    "year": "2015",
+                    "journal-title": "J Phys Ther Sci"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib46",
+                    "first-page": "19",
+                    "article-title": "Mental practice is effective in upper limb recovery after stroke: a randomized single-blind cross-over study",
+                    "volume": "46",
+                    "author": "Riccio",
+                    "year": "2010",
+                    "journal-title": "Eur J Phys Rehabil Med"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib47",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2289",
+                    "DOI": "10.1589/jpts.27.2289",
+                    "article-title": "Motor imagery training improves upper extremity performance in stroke patients",
+                    "volume": "27",
+                    "author": "Seong-Sik",
+                    "year": "2015",
+                    "journal-title": "J Phys Ther Sci"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib48",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "204",
+                    "DOI": "10.1016/j.jamda.2012.10.010",
+                    "article-title": "Effect of mental practice on the improvement of function and daily activity performance of the upper extremity in patients with subacute stroke: a randomized clinical trial",
+                    "volume": "14",
+                    "author": "Timmermans",
+                    "year": "2013",
+                    "journal-title": "J Am Med Dir Assoc"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib49",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2033",
+                    "DOI": "10.3109/09638288.2011.556208",
+                    "article-title": "Visuomotor imagery as a new tool in the rehabilitation of neglect: a randomised controlled study of feasibility and efficacy",
+                    "volume": "33",
+                    "author": "Welfringer",
+                    "year": "2011",
+                    "journal-title": "Disabil Rehabil"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib50",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1741",
+                    "DOI": "10.1016/j.apmr.2011.06.009",
+                    "article-title": "Retention of motor changes in chronic stroke survivors who were administered mental practice",
+                    "volume": "92",
+                    "author": "Page",
+                    "year": "2011",
+                    "journal-title": "Arch Phys Med Rehabil"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib51",
+                    "first-page": "CD004433",
+                    "article-title": "Constraint-induced movement therapy for upper extremities in people with stroke",
+                    "volume": "2015",
+                    "author": "Corbetta",
+                    "year": "2015",
+                    "journal-title": "Cochrane Database Syst Rev"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib52",
+                    "author": "Geiger",
+                    "volume": "12",
+                    "year": "2017",
+                    "article-title": "Evaluating the effect of cognitive dysfunction on mental imagery in patients with stroke using temporal congruence and the imagined \u2018Timed Up and Go\u2019 Test (iTUG)",
+                    "journal-title": "PLoS One",
+                    "DOI": "10.1371/journal.pone.0170400",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib53",
+                    "first-page": "297217",
+                    "article-title": "Slowing of motor imagery after a right hemispheric stroke",
+                    "volume": "2012",
+                    "author": "Malouin",
+                    "year": "2012",
+                    "journal-title": "Stroke Res Treat"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib54",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "552",
+                    "DOI": "10.1177/1545968317697034",
+                    "article-title": "A short and distinct time window for recovery of arm motor control early after stroke revealed with a global measure of trajectory kinematics",
+                    "volume": "31",
+                    "author": "Cortes",
+                    "year": "2017",
+                    "journal-title": "Neurorehabil Neural Repair"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib55",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "110",
+                    "DOI": "10.1080/165019701750165916",
+                    "article-title": "The responsiveness of the Action Research Arm test and the Fugl-Meyer Assessment scale in chronic stroke patients",
+                    "volume": "33",
+                    "author": "van der Lee",
+                    "year": "2001",
+                    "journal-title": "J Rehabil Med"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib56",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "38",
+                    "DOI": "10.1111/1440-1630.12084",
+                    "article-title": "Meta-analysis on the effect of mental imagery on motor recovery of the hemiplegic upper extremity function",
+                    "volume": "61",
+                    "author": "Kho",
+                    "year": "2014",
+                    "journal-title": "Aust Occup Ther J"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib57",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1092",
+                    "DOI": "10.1177/0269215514566248",
+                    "article-title": "Utilization of motor imagery in upper limb rehabilitation: a systematic scoping review",
+                    "volume": "29",
+                    "author": "Harris",
+                    "year": "2015",
+                    "journal-title": "Clin Rehabil"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib58",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "277",
+                    "DOI": "10.1080/02701367.1988.10609373",
+                    "article-title": "Distribution of practice in motor skill acquisition: learning and performance effects reconsidered",
+                    "volume": "59",
+                    "author": "Lee",
+                    "year": "1988",
+                    "journal-title": "Res Quar Exer Sport"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib59",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2841",
+                    "DOI": "10.1007/s00221-016-4686-5",
+                    "article-title": "Retention of the spacing effect with mental practice in hemiparetic stroke",
+                    "volume": "234",
+                    "author": "Page",
+                    "year": "2016",
+                    "journal-title": "Exp Brain Res"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib60",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "182",
+                    "DOI": "10.1016/j.jphys.2016.08.006",
+                    "article-title": "Increasing the amount of usual rehabilitation improves activity after stroke: a systematic review",
+                    "volume": "62",
+                    "author": "Schneider",
+                    "year": "2016",
+                    "journal-title": "J Physiother"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib61",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "981",
+                    "DOI": "10.1016/j.apmr.2014.10.022",
+                    "article-title": "Comparison of robotics, functional electrical stimulation, and motor learning methods for treatment of persistent upper extremity dysfunction after stroke: a randomized controlled trial",
+                    "volume": "96",
+                    "author": "McCabe",
+                    "year": "2015",
+                    "journal-title": "Arch Phys Med Rehabil"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib62",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "523",
+                    "DOI": "10.1177/1545968319846120",
+                    "article-title": "Long-dose intensive therapy is necessary for strong, clinically significant, upper limb functional gains and retained gains in severe/moderate chronic stroke",
+                    "volume": "33",
+                    "author": "Daly",
+                    "year": "2019",
+                    "journal-title": "Neurorehabil Neural Repair"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib63",
+                    "first-page": "8087372",
+                    "article-title": "Rationale for intervention and dose is lacking in stroke recovery trials: a systematic review",
+                    "volume": "2018",
+                    "author": "Borschmann",
+                    "year": "2018",
+                    "journal-title": "Stroke Res Treat"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib64",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "737",
+                    "DOI": "10.1177/0269215518823248",
+                    "article-title": "Outcome measures in post-stroke arm rehabilitation trials: do existing measures capture outcomes that are important to stroke survivors, carers, and clinicians?",
+                    "volume": "33",
+                    "author": "Duncan Millar",
+                    "year": "2019",
+                    "journal-title": "Clin Rehabil"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib65",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "2299",
+                    "DOI": "10.1161/STROKEAHA.118.024437",
+                    "article-title": "Sex Differences in long-term quality of life among survivors after stroke in the INSTRUCT",
+                    "volume": "50",
+                    "author": "Phan",
+                    "year": "2019",
+                    "journal-title": "Stroke"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib66",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1982",
+                    "DOI": "10.1161/STROKEAHA.111.632547",
+                    "article-title": "Sex Differences in long-term outcomes after stroke: functional outcomes, handicap, and quality of life",
+                    "volume": "43",
+                    "author": "Gall",
+                    "year": "2012",
+                    "journal-title": "Stroke"
+                },
+                {
+                    "key": "10.1016/j.apmr.2020.09.391_bib67",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "939",
+                    "DOI": "10.1016/j.apmr.2010.03.008",
+                    "article-title": "An integrated motor imagery program to improve functional task performance in neurorehabilitation: a single-blind randomized controlled trial",
+                    "volume": "91",
+                    "author": "Bovend\u2019Eerdt",
+                    "year": "2010",
+                    "journal-title": "Arch Phys Med Rehabil"
+                }
+            ],
+            "container-title": "Archives of Physical Medicine and Rehabilitation",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0003999320311515?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0003999320311515?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        23
+                    ]
+                ],
+                "date-time": "2021-04-23T19:36:23Z",
+                "timestamp": 1619206583000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        5
+                    ]
+                ]
+            },
+            "references-count": 67,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            5
+                        ]
+                    ]
+                },
+                "issue": "5"
+            },
+            "alternative-id": [
+                "S0003999320311515"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.apmr.2020.09.391",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0003-9993"
+            ],
+            "subject": [
+                "Physical Therapy, Sports Therapy and Rehabilitation",
+                "Rehabilitation"
+            ],
+            "container-title-short": "Archives of Physical Medicine and Rehabilitation",
+            "assertion": [
+                {
+                    "value": "Elsevier",
+                    "name": "publisher",
+                    "label": "This article is maintained by"
+                },
+                {
+                    "value": "Systematic Review and Meta-Analysis of the Effectiveness of Mental Practice for the Upper Limb After Stroke: Imagined or Real Benefit?",
+                    "name": "articletitle",
+                    "label": "Article Title"
+                },
+                {
+                    "value": "Archives of Physical Medicine and Rehabilitation",
+                    "name": "journaltitle",
+                    "label": "Journal Title"
+                },
+                {
+                    "value": "https://doi.org/10.1016/j.apmr.2020.09.391",
+                    "name": "articlelink",
+                    "label": "CrossRef DOI link to publisher maintained version"
+                },
+                {
+                    "value": "article",
+                    "name": "content_type",
+                    "label": "Content Type"
+                },
+                {
+                    "value": "\u00a9 2020 by the American Congress of Rehabilitation Medicine",
+                    "name": "copyright",
+                    "label": "Copyright"
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "AIM",
+                    "IM"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [
+                    [
+                        "Stroke rehabilitation",
+                        "Systematic review",
+                        "Upper extremity"
+                    ]
+                ],
+                "OtherID": [],
+                "PMID": "33250142",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "06",
+                    "Day": "01"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "06",
+                    "Day": "01"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "10",
+                            "Day": "23"
+                        }
+                    ],
+                    "ELocationID": [
+                        "S0003-9993(20)31151-5",
+                        "10.1016/j.apmr.2020.09.391"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1532-821X",
+                        "JournalIssue": {
+                            "Volume": "102",
+                            "Issue": "5",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "05"
+                            }
+                        },
+                        "Title": "Archives of physical medicine and rehabilitation",
+                        "ISOAbbreviation": "Arch Phys Med Rehabil"
+                    },
+                    "ArticleTitle": "Systematic Review and Meta-Analysis of the Effectiveness of Mental Practice for the Upper Limb After Stroke: Imagined or Real Benefit?",
+                    "Pagination": {
+                        "MedlinePgn": "1011-1027"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "This systematic review sought to determine the effectiveness of mental practice (MP) on the activity limitations of the upper limb in individuals after stroke, as well as when, in whom, and how MP should be delivered.",
+                            "Ten electronic databases were searched from November 2009 to May 2020. Search terms included: Arm, Practice, Stroke rehabilitation, Imagination, Paresis, Recovery of function, and Stroke. Studies from a Cochrane review of MP (up to November 2009) were automatically included. The review was registered with the PROSPERO database of systematic reviews (reference no.: CRD42019126044).",
+                            "Randomized controlled trials of adults after stroke using MP for the upper limb were included if they compared MP to usual care, conventional therapy, or no treatment and reported activity limitations of the upper limb as outcomes. Independent screening was conducted by 2 reviewers.",
+                            "One reviewer extracted data using a tool based on the Template for Intervention Description and Replication. Data extraction was independently verified by a second reviewer. Quality was assessed using the PEDro tool.",
+                            "Fifteen studies (n=486) were included and 12 (n=328) underwent meta-analysis. MP demonstrated significant benefit on upper limb activities compared with usual treatment (standardized mean difference [SMD], 0.6; 95% confidence interval [CI], 0.32-0.88). Subgroup analyses demonstrated that MP was most effective in the first 3 months after stroke (SMD, 1.01; 95% CI, 0.53-1.50) and in individuals with the most severe upper limb deficits (weighted mean difference, 7.33; 95% CI, 0.94-13.72).",
+                            "This review demonstrates that MP is effective in reducing activity limitations of the upper limb after stroke, particularly in the first 3 months after stroke and in individuals with the most severe upper limb dysfunction. There was no clear pattern of the ideal dosage of MP."
+                        ],
+                        "CopyrightInformation": "Copyright \u00a9 2020 American Congress of Rehabilitation Medicine. Published by Elsevier Inc. All rights reserved."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, United Kingdom. Electronic address: rstockley1@uclan.ac.uk."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Stockley",
+                            "ForeName": "Rachel C",
+                            "Initials": "RC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Jarvis",
+                            "ForeName": "Kathryn",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Boland",
+                            "ForeName": "Paul",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, United Kingdom."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Clegg",
+                            "ForeName": "Andrew J",
+                            "Initials": "AJ"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Research Support, Non-U.S. Gov't",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Arch Phys Med Rehabil",
+                    "NlmUniqueID": "2985158R",
+                    "ISSNLinking": "0003-9993"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "physiology"
+                        ],
+                        "DescriptorName": "Imagination",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Practice, Psychological",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Randomized Controlled Trials as Topic",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Recovery of Function",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Stroke Rehabilitation",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "physiopathology"
+                        ],
+                        "DescriptorName": "Upper Extremity",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "06",
+                        "Day": "02"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "09",
+                        "Day": "10"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "09",
+                        "Day": "27"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "12",
+                        "Day": "1",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "6",
+                        "Day": "2",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "11",
+                        "Day": "30",
+                        "Hour": "5",
+                        "Minute": "30"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "33250142",
+                    "S0003-9993(20)31151-5",
+                    "10.1016/j.apmr.2020.09.391"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(33250142)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833250142%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2833250142%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85096996480"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85096996480?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85096996480&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85096996480&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "full-text",
+                                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0003999320311515"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85096996480",
+                        "dc:identifier": "SCOPUS_ID:85096996480",
+                        "eid": "2-s2.0-85096996480",
+                        "dc:title": "Systematic Review and Meta-Analysis of the Effectiveness of Mental Practice for the Upper Limb After Stroke: Imagined or Real Benefit?",
+                        "dc:creator": "Stockley R.C.",
+                        "prism:publicationName": "Archives of Physical Medicine and Rehabilitation",
+                        "prism:issn": "00039993",
+                        "prism:eIssn": "1532821X",
+                        "prism:volume": "102",
+                        "prism:issueIdentifier": "5",
+                        "prism:pageRange": "1011-1027",
+                        "prism:coverDate": "2021-05-01",
+                        "prism:coverDisplayDate": "May 2021",
+                        "prism:doi": "10.1016/j.apmr.2020.09.391",
+                        "pii": "S0003999320311515",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "33250142",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "re",
+                        "subtypeDescription": "Review",
+                        "source-id": "16270",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "KD3BXIT7.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33250142"
+            }
+        },
+        "title": "Systematic Review and Meta-Analysis of the Effectiveness of Mental Practice for the Upper Limb After Stroke: Imagined or Real Benefit?",
+        "full_author_list": [
+            {
+                "clean": "Stockley R",
+                "family": "Stockley",
+                "given": "Rachel C",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, United Kingdom. Electronic address: rstockley1@uclan.ac.uk."
+                }
+            },
+            {
+                "clean": "Jarvis K",
+                "family": "Jarvis",
+                "given": "Kathryn",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, United Kingdom."
+                }
+            },
+            {
+                "clean": "Boland P",
+                "family": "Boland",
+                "given": "Paul",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, United Kingdom."
+                }
+            },
+            {
+                "clean": "Clegg A",
+                "family": "Clegg",
+                "given": "Andrew J",
+                "affiliation": {
+                    "name": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, United Kingdom."
+                }
+            }
+        ],
+        "first_author": "Stockley R",
+        "zotero_tags": [
+            {
+                "tag": "CHI"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Imagination",
+                    "major": "N"
+                },
+                {
+                    "term": "Practice, Psychological",
+                    "major": "Y"
+                },
+                {
+                    "term": "Randomized Controlled Trials as Topic",
+                    "major": "N"
+                },
+                {
+                    "term": "Recovery of Function",
+                    "major": "N"
+                },
+                {
+                    "term": "Stroke Rehabilitation",
+                    "major": "N"
+                },
+                {
+                    "term": "Upper Extremity",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "Stroke rehabilitation",
+                "Systematic review",
+                "Upper extremity"
+            ]
+        },
+        "journal": {
+            "journal_name": "Arch Phys Med Rehabil",
+            "volume": "102",
+            "issue": "5"
+        },
+        "abstract": "['This systematic review sought to determine the effectiveness of mental practice (MP) on the activity limitations of the upper limb in individuals after stroke, as well as when, in whom, and how MP should be delivered.', 'Ten electronic databases were searched from November 2009 to May 2020. Search terms included: Arm, Practice, Stroke rehabilitation, Imagination, Paresis, Recovery of function, and Stroke. Studies from a Cochrane review of MP (up to November 2009) were automatically included. The review was registered with the PROSPERO database of systematic reviews (reference no.: CRD42019126044).', 'Randomized controlled trials of adults after stroke using MP for the upper limb were included if they compared MP to usual care, conventional therapy, or no treatment and reported activity limitations of the upper limb as outcomes. Independent screening was conducted by 2 reviewers.', 'One reviewer extracted data using a tool based on the Template for Intervention Description and Replication. Data extraction was independently verified by a second reviewer. Quality was assessed using the PEDro tool.', 'Fifteen studies (n=486) were included and 12 (n=328) underwent meta-analysis. MP demonstrated significant benefit on upper limb activities compared with usual treatment (standardized mean difference [SMD], 0.6; 95% confidence interval [CI], 0.32-0.88). Subgroup analyses demonstrated that MP was most effective in the first 3 months after stroke (SMD, 1.01; 95% CI, 0.53-1.50) and in individuals with the most severe upper limb deficits (weighted mean difference, 7.33; 95% CI, 0.94-13.72).', 'This review demonstrates that MP is effective in reducing activity limitations of the upper limb after stroke, particularly in the first 3 months after stroke and in individuals with the most severe upper limb dysfunction. There was no clear pattern of the ideal dosage of MP.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Faculty of Health and Wellbeing, University of Central Lancashire, Preston, United Kingdom. Electronic address: rstockley1@uclan.ac.uk.",
+            "clean_institute": "University of Central Lancashire",
+            "country": "United Kingdom",
+            "latitude": "53.759444444444",
+            "longitude": "-2.6980555555556"
+        }
+    }
+}

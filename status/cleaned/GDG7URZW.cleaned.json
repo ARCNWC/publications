@@ -1,0 +1,1150 @@
+{
+    "IDs": {
+        "zotero": "GDG7URZW",
+        "DOI": "10.1093/ageing/afaa158",
+        "DOI_filename": "0a8b32056e37a8b3ec9a21346786cb5d",
+        "PMID": "32946551",
+        "scopus": "2-s2.0-85094684775",
+        "hash": "57cb06f50783cd95c34895c93e307cc9"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "GDG7URZW",
+            "version": 982,
+            "itemType": "journalArticle",
+            "title": "Do home modifications reduce care home admissions for older people? A matched control evaluation of the Care & Repair Cymru service in Wales",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Joe",
+                    "lastName": "Hollinghurst"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard",
+                    "lastName": "Fry"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ashley",
+                    "lastName": "Akbari"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alan",
+                    "lastName": "Watkins"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Neil",
+                    "lastName": "Williams"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah",
+                    "lastName": "Hillcoat-Nall\u00e9tamby"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ronan A",
+                    "lastName": "Lyons"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Clegg"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah E",
+                    "lastName": "Rodgers"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              home advice and modification interventions aim to promote independent living for those living in the community, but quantitative evidence of their effectiveness is limited.\n            \n            \n              Aim\n              assess the risk of care home admissions for people with different frailty levels receiving home advice and modification interventions against a control group who do not.\n            \n            \n              Study design and setting\n              matched control evaluation using linked longitudinal data from the Secure Anonymised Information Linkage (SAIL) Databank, comprising people aged 60\u201395, registered with a SAIL contributing general practice. The intervention group received the Care & Repair Cymru (C & RC) service, a home advice and modification service available to residents in Wales.\n            \n            \n              Methods\n              frailty, age and gender were used in propensity score matching to assess the Hazard Ratio (HR) of care home admissions within a 1-, 3- and 5-year period for the intervention group (N\u00a0=\u200993,863) compared to a matched control group (N\u00a0=\u200993,863). Kaplan\u2013Meier curves were used to investigate time to a care home admission.\n            \n            \n              Results\n              the intervention group had an increased risk of a care home admission at 1-, 3- and 5-years [HR (95%CI)] for those classified as fit [1-year: 2.02 (1.73, 2.36), 3-years: 1.87 (1.72, 2.04), 5-years: 1.99 (1.86, 2.13)] and mildly frail [1-year: 1.25 (1.09, 1.42), 3-years: 1.25 (1.17, 1.34), 5-years: 1.30 (1.23, 1.38)], but a reduced risk of care home admission for moderately [1-year: 0.66 (0.58, 0.75), 3-years: 0.75 (0.70, 0.80), 5-years: 0.83 (0.78, 0.88)] and severely frail individuals [1-year: 0.44 (0.37, 0.54), 3-years: 0.54 (0.49, 0.60), 5-years: 0.60(0.55, 0.66)].\n            \n            \n              Conclusions\n              HRs indicated that the C & RC service helped to prevent care home admissions for moderately and severely frail individuals. The HRs generally increased with follow-up duration.",
+            "publicationTitle": "Age and Ageing",
+            "volume": "49",
+            "issue": "6",
+            "pages": "1056-1061",
+            "date": "2020-10-23",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1093/ageing/afaa158",
+            "ISSN": "0002-0729, 1468-2834",
+            "shortTitle": "Do home modifications reduce care home admissions for older people?",
+            "url": "https://academic.oup.com/ageing/article/49/6/1056/5907944",
+            "accessDate": "2021-07-23T16:46:10Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32946551",
+            "tags": [
+                {
+                    "tag": "CHI"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:20Z",
+            "dateModified": "2021-07-27T11:53:42Z",
+            "pmid": "32946551"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        23
+                    ]
+                ],
+                "date-time": "2020-10-23T14:13:43Z",
+                "timestamp": 1603462423343
+            },
+            "reference-count": 24,
+            "publisher": "Oxford University Press (OUP)",
+            "issue": "6",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                9,
+                                18
+                            ]
+                        ],
+                        "date-time": "2020-09-18T00:00:00Z",
+                        "timestamp": 1600387200000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/100012068",
+                    "name": "Health and Care Research Wales",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "1325",
+                        "HRG-16-1325"
+                    ]
+                },
+                {
+                    "DOI": "10.13039/501100000265",
+                    "name": "Medical Research Council",
+                    "doi-asserted-by": "crossref",
+                    "award": []
+                },
+                {
+                    "DOI": "10.13039/501100000266",
+                    "name": "Engineering and Physical Sciences Research Council",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                },
+                {
+                    "DOI": "10.13039/501100000269",
+                    "name": "Economic and Social Research Council",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                },
+                {
+                    "DOI": "10.13039/501100010756",
+                    "name": "Health and Social Care Research and Development Division",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                },
+                {
+                    "DOI": "10.13039/501100001626",
+                    "name": "Public Health Agency",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                },
+                {
+                    "DOI": "10.13039/501100000274",
+                    "name": "British Heart Foundation",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                },
+                {
+                    "DOI": "10.13039/100010269",
+                    "name": "Wellcome Trust",
+                    "doi-asserted-by": "publisher",
+                    "award": []
+                },
+                {
+                    "name": "Health Data Research UK",
+                    "award": [
+                        "NIWA1"
+                    ]
+                },
+                {
+                    "name": "Department of Health and Social Care",
+                    "award": []
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        23
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>home advice and modification interventions aim to promote independent living for those living in the community, but quantitative evidence of their effectiveness is limited.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Aim</jats:title>\n                  <jats:p>assess the risk of care home admissions for people with different frailty levels receiving home advice and modification interventions against a control group who do not.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Study design and setting</jats:title>\n                  <jats:p>matched control evaluation using linked longitudinal data from the Secure Anonymised Information Linkage (SAIL) Databank, comprising people aged 60\u201395, registered with a SAIL contributing general practice. The intervention group received the Care &amp; Repair Cymru (C &amp; RC) service, a home advice and modification service available to residents in Wales.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>frailty, age and gender were used in propensity score matching to assess the Hazard Ratio (HR) of care home admissions within a 1-, 3- and 5-year period for the intervention group (N\u00a0=\u200993,863) compared to a matched control group (N\u00a0=\u200993,863). Kaplan\u2013Meier curves were used to investigate time to a care home admission.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>the intervention group had an increased risk of a care home admission at 1-, 3- and 5-years [HR (95%CI)] for those classified as fit [1-year: 2.02 (1.73, 2.36), 3-years: 1.87 (1.72, 2.04), 5-years: 1.99 (1.86, 2.13)] and mildly frail [1-year: 1.25 (1.09, 1.42), 3-years: 1.25 (1.17, 1.34), 5-years: 1.30 (1.23, 1.38)], but a reduced risk of care home admission for moderately [1-year: 0.66 (0.58, 0.75), 3-years: 0.75 (0.70, 0.80), 5-years: 0.83 (0.78, 0.88)] and severely frail individuals [1-year: 0.44 (0.37, 0.54), 3-years: 0.54 (0.49, 0.60), 5-years: 0.60(0.55, 0.66)].</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>HRs indicated that the C &amp; RC service helped to prevent care home admissions for moderately and severely frail individuals. The HRs generally increased with follow-up duration.</jats:p>\n               </jats:sec>",
+            "DOI": "10.1093/ageing/afaa158",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        10
+                    ]
+                ],
+                "date-time": "2020-09-10T11:50:21Z",
+                "timestamp": 1599738621000
+            },
+            "page": "1056-1061",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Do home modifications reduce care home admissions for older people? A matched control evaluation of the Care & Repair Cymru service in Wales",
+            "prefix": "10.1093",
+            "volume": "49",
+            "author": [
+                {
+                    "given": "Joe",
+                    "family": "Hollinghurst",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Swansea University, Swansea, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Richard",
+                    "family": "Fry",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Swansea University, Swansea, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Ashley",
+                    "family": "Akbari",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Swansea University, Swansea, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Alan",
+                    "family": "Watkins",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Swansea University, Swansea, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Neil",
+                    "family": "Williams",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Care & Repair Cymru, Cardiff, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sarah",
+                    "family": "Hillcoat-Nall\u00e9tamby",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Swansea University, Swansea, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Ronan A",
+                    "family": "Lyons",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Swansea University, Swansea, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Andrew",
+                    "family": "Clegg",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Leeds, Leeds, UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Sarah E",
+                    "family": "Rodgers",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "University of Liverpool, Liverpool, UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "286",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        18
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020102309311919800_ref1",
+                    "author": "Hamelmann",
+                    "volume-title": "Social return on investment: accounting for value in the context of implementing Health 2020 and the 2030 Agenda for Sustainable Development"
+                },
+                {
+                    "key": "2020102309311919800_ref2",
+                    "author": "World Health Organization",
+                    "year": "2017",
+                    "volume-title": "Global strategy and action plan on ageing and health"
+                },
+                {
+                    "key": "2020102309311919800_ref3",
+                    "author": "World Health Organization.",
+                    "year": "2017"
+                },
+                {
+                    "key": "2020102309311919800_ref4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e307",
+                    "DOI": "10.1016/S2468-2667(17)30091-9",
+                    "article-title": "Forecasted trends in disability and life expectancy in England and Wales up to 2025: a modelling study",
+                    "volume": "2",
+                    "author": "Guzman-Castillo",
+                    "year": "2017",
+                    "journal-title": "Lancet Public Health"
+                },
+                {
+                    "key": "2020102309311919800_ref5",
+                    "year": "2017",
+                    "volume-title": "Competition and Markets Authority. Care Homes Market Study: Final Report, 2017. Competition and Markets Authority, United Kingdom"
+                },
+                {
+                    "key": "2020102309311919800_ref6",
+                    "year": "2005",
+                    "volume-title": "Independence, well-being and choice: our vision for the future of social care for adults in England. Department of Health (UK)"
+                },
+                {
+                    "key": "2020102309311919800_ref7",
+                    "year": "2018",
+                    "volume-title": "Housing for older people: Second Report of Session 2017-19. Communities and Local Government Committee, House of Commons"
+                },
+                {
+                    "key": "2020102309311919800_ref8",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "418",
+                    "DOI": "10.1093/ageing/afu025",
+                    "article-title": "Promoting independence in frail older people: a randomised controlled trial of a restorative care service in New Zealand",
+                    "volume": "43",
+                    "author": "Senior",
+                    "year": "2014",
+                    "journal-title": "Age Ageing"
+                },
+                {
+                    "key": "2020102309311919800_ref9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "61",
+                    "DOI": "10.1146/annurev-publhealth-032315-021353",
+                    "article-title": "Using electronic health Records for Population Health Research: a review of methods and applications",
+                    "volume": "37",
+                    "author": "Casey",
+                    "year": "2016",
+                    "journal-title": "Annu Rev Public Health"
+                },
+                {
+                    "key": "2020102309311919800_ref10",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "3",
+                    "DOI": "10.1186/1472-6947-9-3",
+                    "article-title": "The SAIL databank: linking multiple health and social care datasets",
+                    "volume": "9",
+                    "author": "Lyons",
+                    "year": "2009",
+                    "journal-title": "BMC Med Inform Decis Mak"
+                },
+                {
+                    "key": "2020102309311919800_ref11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "157",
+                    "DOI": "10.1186/1472-6963-9-157",
+                    "article-title": "The SAIL databank: building a national architecture for e-health research and evaluation",
+                    "volume": "9",
+                    "author": "Ford",
+                    "year": "2009",
+                    "journal-title": "BMC Health Serv Res"
+                },
+                {
+                    "key": "2020102309311919800_ref12",
+                    "author": "Jones",
+                    "year": "2014",
+                    "article-title": "A case study of the Secure Anonymous Information Linkage (SAIL) Gateway: a privacy-protecting remote access system for health-related research and evaluation",
+                    "journal-title": "J Biomed Inform",
+                    "DOI": "10.1016/j.jbi.2014.01.003",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020102309311919800_ref13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "582",
+                    "DOI": "10.1093/pubmed/fdp041",
+                    "article-title": "Residential Anonymous Linking Fields (RALFs): a novel information infrastructure to study the interaction between the environment and individuals\u2019 health",
+                    "volume": "31",
+                    "author": "Rodgers",
+                    "year": "2009",
+                    "journal-title": "J Public Health (Oxf)"
+                },
+                {
+                    "key": "2020102309311919800_ref14",
+                    "author": "Hollinghurst",
+                    "year": "2019",
+                    "article-title": "External validation of the electronic Frailty Index using the population of Wales within the Secure Anonymised Information Linkage Databank",
+                    "journal-title": "Age Ageing",
+                    "DOI": "10.1093/ageing/afz110",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020102309311919800_ref15",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "353",
+                    "DOI": "10.1093/ageing/afw039",
+                    "article-title": "Development and validation of an electronic Frailty Index using routine primary care electronic health record data",
+                    "volume": "45",
+                    "author": "Clegg",
+                    "year": "2016",
+                    "journal-title": "Age Ageing"
+                },
+                {
+                    "key": "2020102309311919800_ref16",
+                    "author": "StatsWales. Welsh Index of Multiple Deprivation 2014.",
+                    "year": "2014"
+                },
+                {
+                    "key": "2020102309311919800_ref17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "323",
+                    "DOI": "10.1100/tsw.2001.58",
+                    "article-title": "Accumulation of deficits as a proxy measure of aging",
+                    "volume": "1",
+                    "author": "Mitnitski",
+                    "year": "2001",
+                    "journal-title": "Sci World J"
+                },
+                {
+                    "key": "2020102309311919800_ref18"
+                },
+                {
+                    "key": "2020102309311919800_ref19",
+                    "author": "GeoPlace",
+                    "volume-title": "The Unique Property Reference Number (UPRN)"
+                },
+                {
+                    "key": "2020102309311919800_ref20",
+                    "author": "Burton",
+                    "volume-title": "Identifying who lives in a care home\u2014a challenge to be conquered",
+                    "DOI": "10.1093/ageing/afx200",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020102309311919800_ref21",
+                    "author": "Godden",
+                    "year": "2001",
+                    "article-title": "The use of acute hospital services by elderly residents of nursing and residential care homes",
+                    "journal-title": "Health Soc Care Community",
+                    "DOI": "10.1046/j.1365-2524.2001.00314.x",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020102309311919800_ref22",
+                    "author": "Guthrie",
+                    "year": "2010",
+                    "article-title": "The burden of psychotropic drug prescribing in people with dementia: a population database study",
+                    "journal-title": "Age Ageing",
+                    "DOI": "10.1093/ageing/afq090",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020102309311919800_ref23",
+                    "author": "Housley",
+                    "year": "2018",
+                    "article-title": "Accurate identification of hospital admissions from care homes; development and validation of an automated algorithm",
+                    "journal-title": "Age Ageing",
+                    "DOI": "10.1093/ageing/afx182",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020102309311919800_ref24",
+                    "author": "Burton",
+                    "year": "2019",
+                    "article-title": "Identifying care-home residents in routine healthcare datasets: a diagnostic test accuracy study of five methods",
+                    "journal-title": "Age Ageing",
+                    "DOI": "10.1093/ageing/afy137",
+                    "doi-asserted-by": "crossref"
+                }
+            ],
+            "container-title": "Age and Ageing",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://academic.oup.com/ageing/article-pdf/49/6/1056/33993322/afaa158.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "syndication"
+                },
+                {
+                    "URL": "http://academic.oup.com/ageing/article-pdf/49/6/1056/33993322/afaa158.pdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        23
+                    ]
+                ],
+                "date-time": "2020-10-23T13:33:23Z",
+                "timestamp": 1603460003000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        18
+                    ]
+                ]
+            },
+            "references-count": 24,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2020,
+                            9,
+                            18
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            10,
+                            23
+                        ]
+                    ]
+                },
+                "issue": "6"
+            },
+            "URL": "http://dx.doi.org/10.1093/ageing/afaa158",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0002-0729",
+                "1468-2834"
+            ],
+            "subject": [
+                "Ageing",
+                "Geriatrics and Gerontology",
+                "General Medicine"
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "administrative data",
+                        "care homes",
+                        "frailty",
+                        "interventions",
+                        "older people"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32946551",
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "12",
+                    "Day": "07"
+                },
+                "Article": {
+                    "ArticleDate": [],
+                    "ELocationID": [
+                        "10.1093/ageing/afaa158"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1468-2834",
+                        "JournalIssue": {
+                            "Volume": "49",
+                            "Issue": "6",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "10",
+                                "Day": "23"
+                            }
+                        },
+                        "Title": "Age and ageing",
+                        "ISOAbbreviation": "Age Ageing"
+                    },
+                    "ArticleTitle": "Do home modifications reduce care home admissions for older people? A matched control evaluation of the Care & Repair Cymru service in Wales.",
+                    "Pagination": {
+                        "MedlinePgn": "1056-1061"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "home advice and modification interventions aim to promote independent living for those living in the community, but quantitative evidence of their effectiveness is limited.",
+                            "assess the risk of care home admissions for people with different frailty levels receiving home advice and modification interventions against a control group who do not.",
+                            "matched control evaluation using linked longitudinal data from the Secure Anonymised Information Linkage (SAIL) Databank, comprising people aged 60-95, registered with a SAIL contributing general practice. The intervention group received the Care & Repair Cymru (C & RC) service, a home advice and modification service available to residents in Wales.",
+                            "frailty, age and gender were used in propensity score matching to assess the Hazard Ratio (HR) of care home admissions within a 1-, 3- and 5-year period for the intervention group (N\u00a0=\u200993,863) compared to a matched control group (N\u00a0=\u200993,863). Kaplan-Meier curves were used to investigate time to a care home admission.",
+                            "the intervention group had an increased risk of a care home admission at 1-, 3- and 5-years [HR (95%CI)] for those classified as fit [1-year: 2.02 (1.73, 2.36), 3-years: 1.87 (1.72, 2.04), 5-years: 1.99 (1.86, 2.13)] and mildly frail [1-year: 1.25 (1.09, 1.42), 3-years: 1.25 (1.17, 1.34), 5-years: 1.30 (1.23, 1.38)], but a reduced risk of care home admission for moderately [1-year: 0.66 (0.58, 0.75), 3-years: 0.75 (0.70, 0.80), 5-years: 0.83 (0.78, 0.88)] and severely frail individuals [1-year: 0.44 (0.37, 0.54), 3-years: 0.54 (0.49, 0.60), 5-years: 0.60(0.55, 0.66)].",
+                            "HRs indicated that the C & RC service helped to prevent care home admissions for moderately and severely frail individuals. The HRs generally increased with follow-up duration."
+                        ],
+                        "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press on behalf of the British Geriatrics Society."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea University, Swansea, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hollinghurst",
+                            "ForeName": "Joe",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea University, Swansea, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Fry",
+                            "ForeName": "Richard",
+                            "Initials": "R"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea University, Swansea, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Akbari",
+                            "ForeName": "Ashley",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea University, Swansea, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Watkins",
+                            "ForeName": "Alan",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Care & Repair Cymru, Cardiff, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Williams",
+                            "ForeName": "Neil",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea University, Swansea, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hillcoat-Nall\u00e9tamby",
+                            "ForeName": "Sarah",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Swansea University, Swansea, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Lyons",
+                            "ForeName": "Ronan A",
+                            "Initials": "RA"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Leeds, Leeds, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Clegg",
+                            "ForeName": "Andrew",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rodgers",
+                            "ForeName": "Sarah E",
+                            "Initials": "SE"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Age Ageing",
+                    "NlmUniqueID": "0375655",
+                    "ISSNLinking": "0002-0729"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Lancet Public Health. 2017 May 23;2(7):e307-e313",
+                                "ArticleIdList": [
+                                    "28736759"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2018 May 1;47(3):387-391",
+                                "ArticleIdList": [
+                                    "29267840"
+                                ]
+                            },
+                            {
+                                "Citation": "J Biomed Inform. 2014 Aug;50:196-204",
+                                "ArticleIdList": [
+                                    "24440148"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Soc Care Community. 2001 Nov;9(6):367-74",
+                                "ArticleIdList": [
+                                    "11846815"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2014 May;43(3):418-24",
+                                "ArticleIdList": [
+                                    "24598085"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2019 Nov 1;48(6):922-926",
+                                "ArticleIdList": [
+                                    "31566668"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2016 May;45(3):353-60",
+                                "ArticleIdList": [
+                                    "26944937"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2018 May 01;47(3):322-323",
+                                "ArticleIdList": [
+                                    "29346469"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2019 Jan 1;48(1):114-121",
+                                "ArticleIdList": [
+                                    "30124764"
+                                ]
+                            },
+                            {
+                                "Citation": "Annu Rev Public Health. 2016;37:61-81",
+                                "ArticleIdList": [
+                                    "26667605"
+                                ]
+                            },
+                            {
+                                "Citation": "J Public Health (Oxf). 2009 Dec;31(4):582-8",
+                                "ArticleIdList": [
+                                    "19447812"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Med Inform Decis Mak. 2009 Jan 16;9:3",
+                                "ArticleIdList": [
+                                    "19149883"
+                                ]
+                            },
+                            {
+                                "Citation": "Age Ageing. 2010 Sep;39(5):637-42",
+                                "ArticleIdList": [
+                                    "20625185"
+                                ]
+                            },
+                            {
+                                "Citation": "ScientificWorldJournal. 2001 Aug 08;1:323-36",
+                                "ArticleIdList": [
+                                    "12806071"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2009 Sep 04;9:157",
+                                "ArticleIdList": [
+                                    "19732426"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "12",
+                        "Day": "06"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "9",
+                        "Day": "19",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "9",
+                        "Day": "19",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "9",
+                        "Day": "18",
+                        "Hour": "17",
+                        "Minute": "12"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "32946551",
+                    "5907944",
+                    "10.1093/ageing/afaa158",
+                    "PMC7583515"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32946551)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832946551%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832946551%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094684775"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094684775?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85094684775&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85094684775&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85094684775",
+                        "dc:identifier": "SCOPUS_ID:85094684775",
+                        "eid": "2-s2.0-85094684775",
+                        "dc:title": "Do home modifications reduce care home admissions for older people? A matched control evaluation of the Care &amp; Repair Cymru service in Wales",
+                        "dc:creator": "Hollinghurst J.",
+                        "prism:publicationName": "Age and Ageing",
+                        "prism:issn": "00020729",
+                        "prism:eIssn": "14682834",
+                        "prism:volume": "49",
+                        "prism:issueIdentifier": "6",
+                        "prism:pageRange": "1056-1061",
+                        "prism:coverDate": "2020-11-01",
+                        "prism:coverDisplayDate": "1 November 2020",
+                        "prism:doi": "10.1093/ageing/afaa158",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "Swansea University",
+                                "affiliation-city": "Swansea",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32946551",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "28093",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherhybridgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Hybrid Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "GDG7URZW.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32946551"
+            }
+        },
+        "title": "Do home modifications reduce care home admissions for older people? A matched control evaluation of the Care & Repair Cymru service in Wales.",
+        "full_author_list": [
+            {
+                "clean": "Hollinghurst J",
+                "family": "Hollinghurst",
+                "given": "Joe",
+                "affiliation": {
+                    "name": "Swansea University, Swansea, UK."
+                }
+            },
+            {
+                "clean": "Fry R",
+                "family": "Fry",
+                "given": "Richard",
+                "affiliation": {
+                    "name": "Swansea University, Swansea, UK."
+                }
+            },
+            {
+                "clean": "Akbari A",
+                "family": "Akbari",
+                "given": "Ashley",
+                "affiliation": {
+                    "name": "Swansea University, Swansea, UK."
+                }
+            },
+            {
+                "clean": "Watkins A",
+                "family": "Watkins",
+                "given": "Alan",
+                "affiliation": {
+                    "name": "Swansea University, Swansea, UK."
+                }
+            },
+            {
+                "clean": "Williams N",
+                "family": "Williams",
+                "given": "Neil",
+                "affiliation": {
+                    "name": "Care & Repair Cymru, Cardiff, UK."
+                }
+            },
+            {
+                "clean": "Hillcoat-Nall\u00e9tamby S",
+                "family": "Hillcoat-Nall\u00e9tamby",
+                "given": "Sarah",
+                "affiliation": {
+                    "name": "Swansea University, Swansea, UK."
+                }
+            },
+            {
+                "clean": "Lyons R",
+                "family": "Lyons",
+                "given": "Ronan A",
+                "affiliation": {
+                    "name": "Swansea University, Swansea, UK."
+                }
+            },
+            {
+                "clean": "Clegg A",
+                "family": "Clegg",
+                "given": "Andrew",
+                "affiliation": {
+                    "name": "University of Leeds, Leeds, UK."
+                }
+            },
+            {
+                "clean": "Rodgers S",
+                "family": "Rodgers",
+                "given": "Sarah E",
+                "affiliation": {
+                    "name": "University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Hollinghurst J",
+        "zotero_tags": [
+            {
+                "tag": "CHI"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "administrative data",
+                "care homes",
+                "frailty",
+                "interventions",
+                "older people"
+            ]
+        },
+        "journal": {
+            "journal_name": "Age Ageing",
+            "volume": "49",
+            "issue": "6"
+        },
+        "abstract": "['home advice and modification interventions aim to promote independent living for those living in the community, but quantitative evidence of their effectiveness is limited.', 'assess the risk of care home admissions for people with different frailty levels receiving home advice and modification interventions against a control group who do not.', 'matched control evaluation using linked longitudinal data from the Secure Anonymised Information Linkage (SAIL) Databank, comprising people aged 60-95, registered with a SAIL contributing general practice. The intervention group received the Care & Repair Cymru (C & RC) service, a home advice and modification service available to residents in Wales.', 'frailty, age and gender were used in propensity score matching to assess the Hazard Ratio (HR) of care home admissions within a 1-, 3- and 5-year period for the intervention group (N\\xa0=\\u200993,863) compared to a matched control group (N\\xa0=\\u200993,863). Kaplan-Meier curves were used to investigate time to a care home admission.', 'the intervention group had an increased risk of a care home admission at 1-, 3- and 5-years [HR (95%CI)] for those classified as fit [1-year: 2.02 (1.73, 2.36), 3-years: 1.87 (1.72, 2.04), 5-years: 1.99 (1.86, 2.13)] and mildly frail [1-year: 1.25 (1.09, 1.42), 3-years: 1.25 (1.17, 1.34), 5-years: 1.30 (1.23, 1.38)], but a reduced risk of care home admission for moderately [1-year: 0.66 (0.58, 0.75), 3-years: 0.75 (0.70, 0.80), 5-years: 0.83 (0.78, 0.88)] and severely frail individuals [1-year: 0.44 (0.37, 0.54), 3-years: 0.54 (0.49, 0.60), 5-years: 0.60(0.55, 0.66)].', 'HRs indicated that the C & RC service helped to prevent care home admissions for moderately and severely frail individuals. The HRs generally increased with follow-up duration.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Swansea University, Swansea, UK.",
+            "clean_institute": "Swansea University",
+            "country": "United Kingdom",
+            "latitude": "51.609722222222",
+            "longitude": "-3.9805555555556"
+        }
+    }
+}

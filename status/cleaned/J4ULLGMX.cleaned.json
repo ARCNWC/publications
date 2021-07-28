@@ -1,0 +1,1301 @@
+{
+    "IDs": {
+        "zotero": "J4ULLGMX",
+        "DOI": "10.1186/s40900-020-0183-x",
+        "DOI_filename": "5497b82f8348cd6b5b0adb7f399334b1",
+        "PMID": "32266085",
+        "scopus": "2-s2.0-85082759930",
+        "hash": "e3c00592876d5f8554f8cd50a59ee542"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "J4ULLGMX",
+            "version": 997,
+            "itemType": "journalArticle",
+            "title": "Public involvement in health research: what does \u2018good\u2019 look like in practice?",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Kristin",
+                    "lastName": "Liabo"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kate",
+                    "lastName": "Boddy"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Silvia",
+                    "lastName": "Bortoli"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jenny",
+                    "lastName": "Irvine"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Heather",
+                    "lastName": "Boult"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mary",
+                    "lastName": "Fredlund"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Neil",
+                    "lastName": "Joseph"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Gretchen",
+                    "lastName": "Bjornstad"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Christopher",
+                    "lastName": "Morris"
+                }
+            ],
+            "abstractNote": "Plain English summary\n              \n                Background\n              \n              Patient and public involvement means researchers working with members of the public, patients or carers to jointly plan and carry out research.\n              \n                Aim\n              \n              This article is written by members of three involvement groups, and the university employees that they work with. We wanted to jointly reflect on what enables our collaborative work, and what the challenges are for everyone involved.\n              \n                What we did and how we did it\n              \n              We wanted to establish what the literature defines as \u2018good\u2019 public involvement and compare this with processes and practices in our involvement groups. We therefore carried out a literature review and each group met separately to discuss what characterises good involvement, and what the challenges are. From these discussions we developed a set of descriptions about each group. We compared the literature review findings with what came out of the discussions within the involvement groups.\n              \n                Findings\n              \n              Some of the involvement principles from the literature were similar to the priorities of the involvement groups. In addition, the groups identified characteristics of \u2018good\u2019 involvement practice that were not reported in the literature: passion and enthusiasm, informal and welcoming meeting spaces, and opportunities to share lived experiences. In this article we present examples of how principles for good involvement are practiced in these groups, and difficulties we have experienced.\n            \n            \n              Abstract\n              \n                Background\n              \n              Patient and public involvement is important for producing relevant and accessible health research. Evidence of impact from involvement is growing, but there is also a need for research on how to create conditions for meaningful collaborations between researchers and public advisers.\n              \n                Objective\n              \n              We report on a co-produced self-reflective evaluation of involvement practices in three UK research programmes.\n              \n                Methods\n              \n              A structured review identified research-based principles for \u2018good\u2019 public involvement in research. In parallel, members of three involvement groups co-developed statements on how the groups work, and enablers and challenges to collaborative research. The author team analysed these statements using the findings from the review.\n              \n                Results\n              \n              We identified 11 international articles reporting research-based principles for involvement published between 2013 and 2017. We identified five \u2018values\u2019 and seven \u2018practice principles\u2019 for \u2018good\u2019 involvement. There was convergence between these principles and the priorities of the involvement groups. But the groups also identified additional good involvement practice that were not reported by the literature: passion, enthusiasm, informal and welcoming meeting spaces, and opportunities to share lived experiences. We present examples of how principles for good involvement are practiced in these groups, and highlight principles that have been challenging to implement.\n              \n                Conclusions\n              \n              Ongoing appraisal of public involvement is crucial. We present a process for self-evaluation, illuminate what \u2018good\u2019 means to researchers and public advisers involved in research, and identify areas for improvement. We conclude that provision of resources that enable support to public advisers in turn enable universities and research teams to implement other principles of good involvement.",
+            "publicationTitle": "Research Involvement and Engagement",
+            "volume": "6",
+            "issue": "1",
+            "pages": "11",
+            "date": "12/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Res Involv Engagem",
+            "language": "en",
+            "DOI": "10.1186/s40900-020-0183-x",
+            "ISSN": "2056-7529",
+            "shortTitle": "Public involvement in health research",
+            "url": "https://researchinvolvement.biomedcentral.com/articles/10.1186/s40900-020-0183-x",
+            "accessDate": "2021-07-23T16:46:16Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32266085",
+            "tags": [
+                {
+                    "tag": "EPHC"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:39Z",
+            "dateModified": "2021-07-27T12:08:14Z",
+            "pmid": "32266085"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        30
+                    ]
+                ],
+                "date-time": "2021-03-30T23:43:20Z",
+                "timestamp": 1617147800291
+            },
+            "reference-count": 35,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                3,
+                                31
+                            ]
+                        ],
+                        "date-time": "2020-03-31T00:00:00Z",
+                        "timestamp": 1585612800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                3,
+                                31
+                            ]
+                        ],
+                        "date-time": "2020-03-31T00:00:00Z",
+                        "timestamp": 1585612800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "crossref",
+                    "award": [
+                        "CLAHRC"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec>\n                <jats:title>Plain English summary</jats:title>\n                <jats:p><jats:bold>Background</jats:bold></jats:p>\n                <jats:p>Patient and public involvement means researchers working with members of the public, patients or carers to jointly plan and carry out research.</jats:p>\n                <jats:p><jats:bold>Aim</jats:bold></jats:p>\n                <jats:p>This article is written by members of three involvement groups, and the university employees that they work with. We wanted to jointly reflect on what enables our collaborative work, and what the challenges are for everyone involved.</jats:p>\n                <jats:p><jats:bold>What we did and how we did it</jats:bold></jats:p>\n                <jats:p>We wanted to establish what the literature defines as \u2018good\u2019 public involvement and compare this with processes and practices in our involvement groups. We therefore carried out a literature review and each group met separately to discuss what characterises good involvement, and what the challenges are. From these discussions we developed a set of descriptions about each group. We compared the literature review findings with what came out of the discussions within the involvement groups.</jats:p>\n                <jats:p><jats:bold>Findings</jats:bold></jats:p>\n                <jats:p>Some of the involvement principles from the literature were similar to the priorities of the involvement groups. In addition, the groups identified characteristics of \u2018good\u2019 involvement practice that were not reported in the literature: passion and enthusiasm, informal and welcoming meeting spaces, and opportunities to share lived experiences. In this article we present examples of how principles for good involvement are practiced in these groups, and difficulties we have experienced.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Abstract</jats:title>\n                <jats:p><jats:bold>Background</jats:bold></jats:p>\n                <jats:p>Patient and public involvement is important for producing relevant and accessible health research. Evidence of impact from involvement is growing, but there is also a need for research on how to create conditions for meaningful collaborations between researchers and public advisers.</jats:p>\n                <jats:p><jats:bold>Objective</jats:bold></jats:p>\n                <jats:p>We report on a co-produced self-reflective evaluation of involvement practices in three UK research programmes.</jats:p>\n                <jats:p><jats:bold>Methods</jats:bold></jats:p>\n                <jats:p>A structured review identified research-based principles for \u2018good\u2019 public involvement in research. In parallel, members of three involvement groups co-developed statements on how the groups work, and enablers and challenges to collaborative research. The author team analysed these statements using the findings from the review.</jats:p>\n                <jats:p><jats:bold>Results</jats:bold></jats:p>\n                <jats:p>We identified 11 international articles reporting research-based principles for involvement published between 2013 and 2017. We identified five \u2018values\u2019 and seven \u2018practice principles\u2019 for \u2018good\u2019 involvement. There was convergence between these principles and the priorities of the involvement groups. But the groups also identified additional good involvement practice that were not reported by the literature: passion, enthusiasm, informal and welcoming meeting spaces, and opportunities to share lived experiences. We present examples of how principles for good involvement are practiced in these groups, and highlight principles that have been challenging to implement.</jats:p>\n                <jats:p><jats:bold>Conclusions</jats:bold></jats:p>\n                <jats:p>Ongoing appraisal of public involvement is crucial. We present a process for self-evaluation, illuminate what \u2018good\u2019 means to researchers and public advisers involved in research, and identify areas for improvement. We conclude that provision of resources that enable support to public advisers in turn enable universities and research teams to implement other principles of good involvement.</jats:p>\n              </jats:sec>",
+            "DOI": "10.1186/s40900-020-0183-x",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        31
+                    ]
+                ],
+                "date-time": "2020-03-31T22:28:59Z",
+                "timestamp": 1585693739000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 5,
+            "title": "Public involvement in health research: what does \u2018good\u2019 look like in practice?",
+            "prefix": "10.1186",
+            "volume": "6",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-7052-1261",
+                    "authenticated-orcid": false,
+                    "given": "Kristin",
+                    "family": "Liabo",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Kate",
+                    "family": "Boddy",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Silvia",
+                    "family": "Bortoli",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jenny",
+                    "family": "Irvine",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Heather",
+                    "family": "Boult",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Mary",
+                    "family": "Fredlund",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Neil",
+                    "family": "Joseph",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Gretchen",
+                    "family": "Bjornstad",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Christopher",
+                    "family": "Morris",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        31
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "183_CR1",
+                    "author": "H Roberts",
+                    "year": "1994",
+                    "unstructured": "Roberts H, Rice C, Smith SJ, Bryce C. It's like teaching your child to swim in a pool full of alligators. In: Popay J, Williams G, editors. Researching the People's health. London: Routledge; 1994.",
+                    "volume-title": "Researching the People's health"
+                },
+                {
+                    "issue": "1",
+                    "key": "183_CR2",
+                    "first-page": "25",
+                    "volume": "89",
+                    "author": "K Abbott",
+                    "year": "1993",
+                    "unstructured": "Abbott K, Blair F, Duncan S. Participatory research. Canadian Nurse. 1993;89(1):25\u20137.",
+                    "journal-title": "Canadian Nurse"
+                },
+                {
+                    "issue": "1",
+                    "key": "183_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "3",
+                    "DOI": "10.1017/S0266462300010485",
+                    "volume": "14",
+                    "author": "H Bastian",
+                    "year": "1998",
+                    "unstructured": "Bastian H. Speaking up for ourselves. The evolution of consumer advocacy in health care. Int J Technol Assess Health Care. 1998;14(1):3\u201323.",
+                    "journal-title": "Int J Technol Assess Health Care"
+                },
+                {
+                    "issue": "1",
+                    "key": "183_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "47",
+                    "DOI": "10.1332/030557393782453916",
+                    "volume": "21",
+                    "author": "M Barnes",
+                    "year": "1993",
+                    "unstructured": "Barnes M. Introducing new stakeholders - user and researcher interests in evaluative research. Policy Polit. 1993;21(1):47\u201358.",
+                    "journal-title": "Policy Polit"
+                },
+                {
+                    "issue": "3",
+                    "key": "183_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "129",
+                    "DOI": "10.1258/135581903322029458",
+                    "volume": "8",
+                    "author": "V Entwistle",
+                    "year": "2003",
+                    "unstructured": "Entwistle V, O'Donnell M. Research funding organisations and consumer involvement. J Health Serv Res Policy. 2003;8(3):129\u201331.",
+                    "journal-title": "J Health Serv Res Policy"
+                },
+                {
+                    "key": "183_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1151",
+                    "DOI": "10.1111/hex.12090",
+                    "volume": "18",
+                    "author": "ND Shippee",
+                    "year": "2013",
+                    "unstructured": "Shippee ND, Domecq Garces JP, Lopez P, Wang Z, Elraiyah TA, Nabhan M, et al. Patient and service user engagement in research: a systematic review and synthesized framework. Health Expect. 2013;18:1151\u201366.",
+                    "journal-title": "Health Expect"
+                },
+                {
+                    "key": "183_CR7",
+                    "unstructured": "HTAi. Values and Quality Standards for Patient Involvement in HTA. HTAi; 2014. https://htai.org/wp-content/uploads/2018/02/PCISG-Info-ValuesandStandards-30-Jun14.pdf. Accessed 25 Feb 2020."
+                },
+                {
+                    "key": "183_CR8",
+                    "unstructured": "National Institute for Health Research. National standards for public involvement. 2018. https://www.invo.org.uk/posttypepublication/national-standards-for-public-involvement/;. Accessed 25 Feb 2020."
+                },
+                {
+                    "issue": "2",
+                    "key": "183_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "152",
+                    "DOI": "10.1093/intqhc/mzx177",
+                    "volume": "30",
+                    "author": "TJ Devonport",
+                    "year": "2018",
+                    "unstructured": "Devonport TJ, Nicholls W, Johnston LH, Gutteridge R, Watt A. It's not just 'What' you do, it's also the 'Way' that you do it: patient and public involvement in the development of health research. Int J Qual Health Care. 2018;30(2):152\u20136.",
+                    "journal-title": "Int J Qual Health Care"
+                },
+                {
+                    "issue": "6",
+                    "key": "183_CR10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1183",
+                    "DOI": "10.1111/hex.12825",
+                    "volume": "21",
+                    "author": "M Hughes",
+                    "year": "2018",
+                    "unstructured": "Hughes M, Duffy C. Public inolvement in health and social sciences research: a concept analysis. Health Expect. 2018;21(6):1183\u201390.",
+                    "journal-title": "Health Expect"
+                },
+                {
+                    "issue": "4",
+                    "key": "183_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "256",
+                    "DOI": "10.1017/S0266462316000362",
+                    "volume": "32",
+                    "author": "J Abelson",
+                    "year": "2016",
+                    "unstructured": "Abelson J, Wagner F, DeJean D, Boesveld S, Gauvin FP, Bean S, et al. Public and patient involvement in health technology assessment: a framework for action. Int J Technol Assess Health Care. 2016;32(4):256\u201364.",
+                    "journal-title": "Int J Technol Assess Health Care"
+                },
+                {
+                    "key": "183_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "327",
+                    "DOI": "10.1111/hex.12618",
+                    "volume": "21",
+                    "author": "R Baines",
+                    "year": "2018",
+                    "unstructured": "Baines R, Regan de Bere S. Optimizing patient and public involvement (PPI): identifying its \"essential\" and \"desirable\" principles using a systematic review and modified Delphi methodology. Health Expectations. 2018;21:327\u201335.",
+                    "journal-title": "Health Expectations"
+                },
+                {
+                    "issue": "1",
+                    "key": "183_CR13",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "187",
+                    "DOI": "10.3899/jrheum.141011",
+                    "volume": "43",
+                    "author": "PP Cheung",
+                    "year": "2016",
+                    "unstructured": "Cheung PP, de Wit M, Bingham CO, Kirwan JR, Leong A, March LM, et al. Recommendations for the involvement of patient research partners (PRP) in OMERACT working groups. A report from the OMERACT 2014 working group on PRP. J Rheumatol. 2016;43(1):187\u201392.",
+                    "journal-title": "J Rheumatol"
+                },
+                {
+                    "issue": "6",
+                    "key": "183_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1393",
+                    "DOI": "10.1007/s11136-016-1465-5",
+                    "volume": "26",
+                    "author": "K Haywood",
+                    "year": "2017",
+                    "unstructured": "Haywood K, Lyddiatt A, Brace-McDonnell SJ, Staniszewska S, Salek S. Establishing the values for patient engagement (PE) in health-related quality of life (HRQoL) research: an international, multiple-stakeholder perspective. Qual Life Res. 2017;26(6):1393\u2013404.",
+                    "journal-title": "Qual Life Res"
+                },
+                {
+                    "key": "183_CR15",
+                    "unstructured": "Health and Care Research Wales. Engaging and Involving the Public of Wales in Health and Social Care Research. 2017. https://www.healthandcareresearch.gov.wales/uploads/Policy%20%26%20Strategy/principles_public_involvement_eng.pdf. Accessed 25 Feb 2020."
+                },
+                {
+                    "key": "183_CR16",
+                    "author": "INVOLVE",
+                    "year": "2015",
+                    "unstructured": "INVOLVE. Public involvement in research: values and principles framework. Eastleigh, Hampshire: INVOLVE; 2015.",
+                    "volume-title": "Public involvement in research: values and principles framework"
+                },
+                {
+                    "issue": "1",
+                    "key": "183_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "9",
+                    "DOI": "10.1186/s12961-017-0171-2",
+                    "volume": "15",
+                    "author": "CL Miller",
+                    "year": "2017",
+                    "unstructured": "Miller CL, Mott K, Cousins M, Miller S, Johnson A, Lawson T, et al. Integrating consumer engagement in health and medical research - an Australian framework. Health Research Policy Syst. 2017;15(1):9.",
+                    "journal-title": "Health Research Policy Syst"
+                },
+                {
+                    "key": "183_CR18",
+                    "unstructured": "Sheridan S, Schrandt S, Forsythe L. Advisory Panel on Patient Engagement (2013 inaugural panel), Hilliard TS, Paez KA. The PCORI Engagement Rubric: promising practices for partnering in research. Annals of Family Medicine 2017;15(2):165\u201370.",
+                    "DOI": "10.1370/afm.2042",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "183_CR19",
+                    "author": "PiiAF Study Group",
+                    "year": "2014",
+                    "unstructured": "PiiAF Study Group. Draft standards for good practice in public involvement in research. 2014.",
+                    "volume-title": "Draft standards for good practice in public involvement in research"
+                },
+                {
+                    "key": "183_CR20",
+                    "unstructured": "Wilson P, Mathie E, Keenan J, McNeilly E, Goodman C, Howe A, et al. ReseArch with Patient and Public InvOlvement: A RealisT evaluation - the RAPPORT study. Health Services and Delivery Research. 2015;3(38). https://www.ncbi.nlm.nih.gov/books/NBK315999/. Accessed 25 Feb 2020.",
+                    "DOI": "10.3310/hsdr03380",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "183_CR21",
+                    "unstructured": "Mathie E, Wythe H, Munday D, Millac P, Rhodes G, Roberts N, et al. Reciprocal relationships and the importance of feedback in patient and public involvement: a mixed methods study. Health Expect. 2018;21(5):899\u2013908.",
+                    "DOI": "10.1111/hex.12684",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "1",
+                    "key": "183_CR22",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "143",
+                    "DOI": "10.18546/RFA.02.1.13",
+                    "volume": "2",
+                    "author": "MS Reed",
+                    "year": "2018",
+                    "unstructured": "Reed MS, Duncan S, Manners P, Pound D, Armitage L, Frewer L, et al. A common standard for the evaluation of public engagement with research. Research for All. 2018;2(1):143\u201362.",
+                    "journal-title": "Research for All."
+                },
+                {
+                    "key": "183_CR23",
+                    "unstructured": "Staley K. Exploring impact: public involvement in NHS, public health and social care research. Eastleigh2009 2009."
+                },
+                {
+                    "key": "183_CR24",
+                    "unstructured": "Crocker J, Ricci-Cabello I, Servet M, Parker A, Hirst J, Chant A, et al. Impact of patient and public involvement on enrolment and retention in clinical trials: systematic review and meta-analysis. BMJ. 2018;363(28th November):k4738.",
+                    "DOI": "10.1136/bmj.k4738",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "1",
+                    "key": "183_CR25",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "46",
+                    "DOI": "10.1177/1049732313514482",
+                    "volume": "24",
+                    "author": "J Thompson",
+                    "year": "2014",
+                    "unstructured": "Thompson J, Bissell P, Cooper C, Armitage CJ, Barber R. Exploring the impact of patient and public involvement in a cancer research setting. Qual Health Res. 2014;24(1):46\u201354.",
+                    "journal-title": "Qual Health Res"
+                },
+                {
+                    "key": "183_CR26",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "609",
+                    "DOI": "10.1111/j.1470-6431.2011.01017.x",
+                    "volume": "35",
+                    "author": "R Barber",
+                    "year": "2011",
+                    "unstructured": "Barber R, Beresford P, Boote J, Cooper C, Faulkner A. Evaluating the impact of service user involvement on research: a prospective case study. Int J Consum Stud. 2011;35:609\u201315.",
+                    "journal-title": "Int J Consum Stud"
+                },
+                {
+                    "key": "183_CR27",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "154",
+                    "DOI": "10.1093/fampra/cmn019",
+                    "volume": "25",
+                    "author": "K Wyatt",
+                    "year": "2008",
+                    "unstructured": "Wyatt K, Carter M, Mahtani V, Barnard A, Hawton A, Britten N. The impact of consumer involvement in research: an evaluation of consumer involvement in the London primary care studies Programme. Fam Pract. 2008;25:154\u201361.",
+                    "journal-title": "Fam Pract"
+                },
+                {
+                    "key": "183_CR28",
+                    "unstructured": "Evans D, Coad J, Cottrell K, Dalrymple J, Davies R, Donald C, et al. Public involvement in research: assessing impact through a realist evaluation. Health Services and Delivery Research. 2014;2(36). https://www.ncbi.nlm.nih.gov/books/NBK260168/. Accessed 25 Feb 2020.",
+                    "DOI": "10.3310/hsdr02360",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "183_CR29",
+                    "unstructured": "Gibson A, Welsman J, Britten N. Evaluating patient and public involvement in health research: from theoretical model to practical workshop. Health Expectations. 2017;20(5):826\u201335.",
+                    "DOI": "10.1111/hex.12486",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "issue": "1",
+                    "key": "183_CR30",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "158",
+                    "DOI": "10.18546/RFA.01.1.13",
+                    "volume": "1",
+                    "author": "K Staley",
+                    "year": "2017",
+                    "unstructured": "Staley K. Changing what researchers \"think and do\": is this how involvement impacts on research? Research for All. 2017;1(1):158\u201367.",
+                    "journal-title": "Research for All"
+                },
+                {
+                    "issue": "2",
+                    "key": "183_CR31",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "139",
+                    "DOI": "10.1177/0162243907309632",
+                    "volume": "34",
+                    "author": "M Harvey",
+                    "year": "2009",
+                    "unstructured": "Harvey M. Drama, talk, and emotion: omitted aspects of public participation. Sci Technol Hum Values. 2009;34(2):139\u201361.",
+                    "journal-title": "Sci Technol Hum Values"
+                },
+                {
+                    "issue": "4",
+                    "key": "183_CR32",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1138",
+                    "DOI": "10.1111/padm.12188",
+                    "volume": "93",
+                    "author": "A Komporozos-Athanasiou",
+                    "year": "2015",
+                    "unstructured": "Komporozos-Athanasiou A, Thompson M. The role of emotion in enabling and conditioning public deliberation outcomes: a sociological investigation. Public Adm. 2015;93(4):1138\u201351.",
+                    "journal-title": "Public Adm"
+                },
+                {
+                    "key": "183_CR33",
+                    "unstructured": "Komporozos-Athanasiou A, Fudge N, Adams M, McKevitt C. Citizen participation as political ritual: towards a sociological theorizing of 'health citizenship'. Sociology. 2016;52(4):744\u201361.",
+                    "DOI": "10.1177/0038038516664683",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "183_CR34",
+                    "unstructured": "Bissell P, Thompson J, Gibson B. Exploring difference or just watching the experts at work? Interrogating patient and public involvement (PPI) in a cancer research setting using the work of Jurgen Habermas. Sociology. 2018;52(6):1200\u201316.",
+                    "DOI": "10.1177/0038038517749781",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "183_CR35",
+                    "unstructured": "Renedo A, Komporozos-Athanasiou A, Marston C. Experience as evidence: the dialogic construction of health professional knowledge through patient involvement. Sociology. 2017;52(4):778\u201395.",
+                    "DOI": "10.1177/0038038516682457",
+                    "doi-asserted-by": "crossref"
+                }
+            ],
+            "container-title": "Research Involvement and Engagement",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s40900-020-0183-x.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s40900-020-0183-x/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s40900-020-0183-x.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        30
+                    ]
+                ],
+                "date-time": "2021-03-30T23:13:05Z",
+                "timestamp": 1617145985000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        31
+                    ]
+                ]
+            },
+            "references-count": 35,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "183"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s40900-020-0183-x",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "2056-7529"
+            ],
+            "container-title-short": "Res Involv Engagem",
+            "assertion": [
+                {
+                    "value": "9 September 2019",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "17 February 2020",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "31 March 2020",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "This is a co-produced article and everyone involved in informing the evaluation and the article are co-authors, either as named members of the author team or as members of one of the three involvement groups. For this reason we did not seek ethical approval for doing the work, since we did not collect data but operated as a collaboration to inform understanding of how involvement principles are implemented in our groups. The evaluation workshops and meetings were conducted under Chatham House Rules.",
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "Not applicable.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "The authors declare that they have no competing interests.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "11"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Co-production",
+                        "Evaluation",
+                        "Literature review",
+                        "Patient and public involvement"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [],
+                "PMID": "32266085",
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "09",
+                    "Day": "28"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "03",
+                            "Day": "31"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s40900-020-0183-x"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "2056-7529",
+                        "JournalIssue": {
+                            "Volume": "6",
+                            "PubDate": {
+                                "Year": "2020"
+                            }
+                        },
+                        "Title": "Research involvement and engagement",
+                        "ISOAbbreviation": "Res Involv Engagem"
+                    },
+                    "ArticleTitle": "Public involvement in health research: what does 'good' look like in practice?",
+                    "Pagination": {
+                        "MedlinePgn": "11"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "<b>Background</b> Patient and public involvement means researchers working with members of the public, patients or carers to jointly plan and carry out research.<b>Aim</b> This article is written by members of three involvement groups, and the university employees that they work with. We wanted to jointly reflect on what enables our collaborative work, and what the challenges are for everyone involved.<b>What we did and how we did it</b> We wanted to establish what the literature defines as 'good' public involvement and compare this with processes and practices in our involvement groups. We therefore carried out a literature review and each group met separately to discuss what characterises good involvement, and what the challenges are. From these discussions we developed a set of descriptions about each group. We compared the literature review findings with what came out of the discussions within the involvement groups.<b>Findings</b> Some of the involvement principles from the literature were similar to the priorities of the involvement groups. In addition, the groups identified characteristics of 'good' involvement practice that were not reported in the literature: passion and enthusiasm, informal and welcoming meeting spaces, and opportunities to share lived experiences. In this article we present examples of how principles for good involvement are practiced in these groups, and difficulties we have experienced.",
+                            "<b>Background</b> Patient and public involvement is important for producing relevant and accessible health research. Evidence of impact from involvement is growing, but there is also a need for research on how to create conditions for meaningful collaborations between researchers and public advisers.<b>Objective</b> We report on a co-produced self-reflective evaluation of involvement practices in three UK research programmes.<b>Methods</b> A structured review identified research-based principles for 'good' public involvement in research. In parallel, members of three involvement groups co-developed statements on how the groups work, and enablers and challenges to collaborative research. The author team analysed these statements using the findings from the review.<b>Results</b> We identified 11 international articles reporting research-based principles for involvement published between 2013 and 2017. We identified five 'values' and seven 'practice principles' for 'good' involvement. There was convergence between these principles and the priorities of the involvement groups. But the groups also identified additional good involvement practice that were not reported by the literature: passion, enthusiasm, informal and welcoming meeting spaces, and opportunities to share lived experiences. We present examples of how principles for good involvement are practiced in these groups, and highlight principles that have been challenging to implement.<b>Conclusions</b> Ongoing appraisal of public involvement is crucial. We present a process for self-evaluation, illuminate what 'good' means to researchers and public advisers involved in research, and identify areas for improvement. We conclude that provision of resources that enable support to public advisers in turn enable universities and research teams to implement other principles of good involvement."
+                        ],
+                        "CopyrightInformation": "\u00a9 The Author(s). 2020."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [
+                                        "grid.8391.3",
+                                        "0000 0004 1936 8024"
+                                    ],
+                                    "Affiliation": "1NIHR Applied Research Collaboration South West Peninsula, University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-7052-1261"
+                            ],
+                            "LastName": "Liabo",
+                            "ForeName": "Kristin",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [
+                                        "grid.8391.3",
+                                        "0000 0004 1936 8024"
+                                    ],
+                                    "Affiliation": "1NIHR Applied Research Collaboration South West Peninsula, University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Boddy",
+                            "ForeName": "Kate",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [
+                                        "grid.8391.3",
+                                        "0000 0004 1936 8024"
+                                    ],
+                                    "Affiliation": "2Living Systems Institute, University of Exeter College of Life and Environmental Sciences, Stocker Road, Exeter, EX4 4QD UK."
+                                },
+                                {
+                                    "Identifier": [
+                                        "grid.8391.3",
+                                        "0000 0004 1936 8024"
+                                    ],
+                                    "Affiliation": "3Peninsula Childhood Disability Research Unit (PenCRU), University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bortoli",
+                            "ForeName": "Silvia",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [
+                                        "grid.9835.7",
+                                        "0000 0000 8190 6402"
+                                    ],
+                                    "Affiliation": "4NIHR Collaboration for Leadership in Applied Health Research and Care (CLAHRC) North West Coast, Lancaster University, Lancaster, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Irvine",
+                            "ForeName": "Jenny",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [
+                                        "grid.8391.3",
+                                        "0000 0004 1936 8024"
+                                    ],
+                                    "Affiliation": "5Peninsula Public Involvement Group, NIHR Applied Research Collaboration South West Peninsula, University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Boult",
+                            "ForeName": "Heather",
+                            "Initials": "H"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [
+                                        "grid.8391.3",
+                                        "0000 0004 1936 8024"
+                                    ],
+                                    "Affiliation": "6PenCRU Family Faculty, Peninsula Childhood Disability Research Unit, University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Fredlund",
+                            "ForeName": "Mary",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [
+                                        "grid.9835.7",
+                                        "0000 0000 8190 6402"
+                                    ],
+                                    "Affiliation": "7Public Adviser Forum, NIHR Applied Research Collaboration North West Coast, Lancaster University, Lancaster, LA1 4YX UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Joseph",
+                            "ForeName": "Neil",
+                            "Initials": "N"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [
+                                        "grid.8391.3",
+                                        "0000 0004 1936 8024"
+                                    ],
+                                    "Affiliation": "3Peninsula Childhood Disability Research Unit (PenCRU), University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bjornstad",
+                            "ForeName": "Gretchen",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [
+                                        "grid.8391.3",
+                                        "0000 0004 1936 8024"
+                                    ],
+                                    "Affiliation": "3Peninsula Childhood Disability Research Unit (PenCRU), University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Morris",
+                            "ForeName": "Christopher",
+                            "Initials": "C"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Res Involv Engagem",
+                    "NlmUniqueID": "101708164",
+                    "ISSNLinking": "2056-7529"
+                },
+                "CoiStatement": "Competing interestsThe authors declare that they have no competing interests."
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Health Expect. 2018 Feb;21(1):327-335",
+                                "ArticleIdList": [
+                                    "28929554"
+                                ]
+                            },
+                            {
+                                "Citation": "Ann Fam Med. 2017 Mar;15(2):165-170",
+                                "ArticleIdList": [
+                                    "28289118"
+                                ]
+                            },
+                            {
+                                "Citation": "Can Nurse. 1993 Jan;89(1):25-7",
+                                "ArticleIdList": [
+                                    "8425166"
+                                ]
+                            },
+                            {
+                                "Citation": "Fam Pract. 2008 Jun;25(3):154-61",
+                                "ArticleIdList": [
+                                    "18515813"
+                                ]
+                            },
+                            {
+                                "Citation": "Qual Life Res. 2017 Jun;26(6):1393-1404",
+                                "ArticleIdList": [
+                                    "27933429"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Technol Assess Health Care. 1998 Winter;14(1):3-23",
+                                "ArticleIdList": [
+                                    "9509791"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2018 Dec;21(6):1183-1190",
+                                "ArticleIdList": [
+                                    "30159960"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Res Policy Syst. 2017 Feb 10;15(1):9",
+                                "ArticleIdList": [
+                                    "28187772"
+                                ]
+                            },
+                            {
+                                "Citation": "Qual Health Res. 2014 Jan;24(1):46-54",
+                                "ArticleIdList": [
+                                    "24277776"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Technol Assess Health Care. 2016 Jan;32(4):256-264",
+                                "ArticleIdList": [
+                                    "27670693"
+                                ]
+                            },
+                            {
+                                "Citation": "J Rheumatol. 2016 Jan;43(1):187-93",
+                                "ArticleIdList": [
+                                    "25877496"
+                                ]
+                            },
+                            {
+                                "Citation": "J Health Serv Res Policy. 2003 Jul;8(3):129-31",
+                                "ArticleIdList": [
+                                    "12886902"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2015 Oct;18(5):1151-66",
+                                "ArticleIdList": [
+                                    "23731468"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2017 Oct;20(5):826-835",
+                                "ArticleIdList": [
+                                    "28664563"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Qual Health Care. 2018 Mar 1;30(2):152-156",
+                                "ArticleIdList": [
+                                    "29346582"
+                                ]
+                            },
+                            {
+                                "Citation": "BMJ. 2018 Nov 28;363:k4738",
+                                "ArticleIdList": [
+                                    "30487232"
+                                ]
+                            },
+                            {
+                                "Citation": "Health Expect. 2018 Oct;21(5):899-908",
+                                "ArticleIdList": [
+                                    "29654644"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "09",
+                        "Day": "09"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "02",
+                        "Day": "17"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "4",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "4",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "4",
+                        "Day": "9",
+                        "Hour": "6",
+                        "Minute": "1"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "32266085",
+                    "10.1186/s40900-020-0183-x",
+                    "183",
+                    "PMC7110674"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1186/s40900-020-0183-x)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1186%2Fs40900-020-0183-x%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1186%2Fs40900-020-0183-x%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85082759930"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85082759930?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85082759930&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85082759930&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85082759930",
+                        "dc:identifier": "SCOPUS_ID:85082759930",
+                        "eid": "2-s2.0-85082759930",
+                        "dc:title": "Public involvement in health research: What does 'good' look like in practice?",
+                        "dc:creator": "Liabo K.",
+                        "prism:publicationName": "Research Involvement and Engagement",
+                        "prism:eIssn": "20567529",
+                        "prism:volume": "6",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-03-31",
+                        "prism:coverDisplayDate": "31 March 2020",
+                        "prism:doi": "10.1186/s40900-020-0183-x",
+                        "citedby-count": "9",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Exeter Medical School",
+                                "affiliation-city": "Exeter",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "11",
+                        "source-id": "21100901580",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "J4ULLGMX.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32266085"
+            }
+        },
+        "title": "Public involvement in health research: what does 'good' look like in practice?",
+        "full_author_list": [
+            {
+                "clean": "Liabo K",
+                "family": "Liabo",
+                "given": "Kristin",
+                "affiliation": {
+                    "name": "1NIHR Applied Research Collaboration South West Peninsula, University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK."
+                }
+            },
+            {
+                "clean": "Boddy K",
+                "family": "Boddy",
+                "given": "Kate",
+                "affiliation": {
+                    "name": "1NIHR Applied Research Collaboration South West Peninsula, University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK."
+                }
+            },
+            {
+                "clean": "Bortoli S",
+                "family": "Bortoli",
+                "given": "Silvia",
+                "affiliation": {
+                    "name": "2Living Systems Institute, University of Exeter College of Life and Environmental Sciences, Stocker Road, Exeter, EX4 4QD UK."
+                }
+            },
+            {
+                "clean": "Irvine J",
+                "family": "Irvine",
+                "given": "Jenny",
+                "affiliation": {
+                    "name": "4NIHR Collaboration for Leadership in Applied Health Research and Care (CLAHRC) North West Coast, Lancaster University, Lancaster, UK."
+                }
+            },
+            {
+                "clean": "Boult H",
+                "family": "Boult",
+                "given": "Heather",
+                "affiliation": {
+                    "name": "5Peninsula Public Involvement Group, NIHR Applied Research Collaboration South West Peninsula, University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK."
+                }
+            },
+            {
+                "clean": "Fredlund M",
+                "family": "Fredlund",
+                "given": "Mary",
+                "affiliation": {
+                    "name": "6PenCRU Family Faculty, Peninsula Childhood Disability Research Unit, University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK."
+                }
+            },
+            {
+                "clean": "Joseph N",
+                "family": "Joseph",
+                "given": "Neil",
+                "affiliation": {
+                    "name": "7Public Adviser Forum, NIHR Applied Research Collaboration North West Coast, Lancaster University, Lancaster, LA1 4YX UK."
+                }
+            },
+            {
+                "clean": "Bjornstad G",
+                "family": "Bjornstad",
+                "given": "Gretchen",
+                "affiliation": {
+                    "name": "3Peninsula Childhood Disability Research Unit (PenCRU), University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK."
+                }
+            },
+            {
+                "clean": "Morris C",
+                "family": "Morris",
+                "given": "Christopher",
+                "affiliation": {
+                    "name": "3Peninsula Childhood Disability Research Unit (PenCRU), University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK."
+                }
+            }
+        ],
+        "first_author": "Liabo K",
+        "zotero_tags": [
+            {
+                "tag": "EPHC"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "Co-production",
+                "Evaluation",
+                "Literature review",
+                "Patient and public involvement"
+            ]
+        },
+        "journal": {
+            "journal_name": "Res Involv Engagem",
+            "volume": "6",
+            "issue": ""
+        },
+        "abstract": "[\"<b>Background</b> Patient and public involvement means researchers working with members of the public, patients or carers to jointly plan and carry out research.<b>Aim</b> This article is written by members of three involvement groups, and the university employees that they work with. We wanted to jointly reflect on what enables our collaborative work, and what the challenges are for everyone involved.<b>What we did and how we did it</b> We wanted to establish what the literature defines as 'good' public involvement and compare this with processes and practices in our involvement groups. We therefore carried out a literature review and each group met separately to discuss what characterises good involvement, and what the challenges are. From these discussions we developed a set of descriptions about each group. We compared the literature review findings with what came out of the discussions within the involvement groups.<b>Findings</b> Some of the involvement principles from the literature were similar to the priorities of the involvement groups. In addition, the groups identified characteristics of 'good' involvement practice that were not reported in the literature: passion and enthusiasm, informal and welcoming meeting spaces, and opportunities to share lived experiences. In this article we present examples of how principles for good involvement are practiced in these groups, and difficulties we have experienced.\", \"<b>Background</b> Patient and public involvement is important for producing relevant and accessible health research. Evidence of impact from involvement is growing, but there is also a need for research on how to create conditions for meaningful collaborations between researchers and public advisers.<b>Objective</b> We report on a co-produced self-reflective evaluation of involvement practices in three UK research programmes.<b>Methods</b> A structured review identified research-based principles for 'good' public involvement in research. In parallel, members of three involvement groups co-developed statements on how the groups work, and enablers and challenges to collaborative research. The author team analysed these statements using the findings from the review.<b>Results</b> We identified 11 international articles reporting research-based principles for involvement published between 2013 and 2017. We identified five 'values' and seven 'practice principles' for 'good' involvement. There was convergence between these principles and the priorities of the involvement groups. But the groups also identified additional good involvement practice that were not reported by the literature: passion, enthusiasm, informal and welcoming meeting spaces, and opportunities to share lived experiences. We present examples of how principles for good involvement are practiced in these groups, and highlight principles that have been challenging to implement.<b>Conclusions</b> Ongoing appraisal of public involvement is crucial. We present a process for self-evaluation, illuminate what 'good' means to researchers and public advisers involved in research, and identify areas for improvement. We conclude that provision of resources that enable support to public advisers in turn enable universities and research teams to implement other principles of good involvement.\"]",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "9"
+            }
+        },
+        "location": {
+            "candidate_institute": "1NIHR Applied Research Collaboration South West Peninsula, University of Exeter Medical School, St Luke's Campus, Exeter, EX1 2LU UK.",
+            "clean_institute": "University of Exeter",
+            "country": "United Kingdom",
+            "latitude": "50.7365",
+            "longitude": "-3.53442"
+        }
+    }
+}

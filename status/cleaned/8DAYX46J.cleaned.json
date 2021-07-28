@@ -1,0 +1,1305 @@
+{
+    "IDs": {
+        "zotero": "8DAYX46J",
+        "DOI": "10.1186/s12913-020-5027-8",
+        "DOI_filename": "00bba915c78d82a92dde341ba2be5df0",
+        "PMID": "32143694",
+        "scopus": "2-s2.0-85081256342",
+        "hash": "ec8ca618993b0c01067f07a3c3cb3883"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "8DAYX46J",
+            "version": 985,
+            "itemType": "journalArticle",
+            "title": "Evaluating a young-onset dementia service from two sides of the coin: staff and service user perspectives",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Cassie",
+                    "lastName": "Eastham"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jacqueline",
+                    "lastName": "Cannon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "John",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Janet",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anna",
+                    "lastName": "Pearson"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Background\n              People with young-onset dementia (YOD) can often struggle getting the right treatment. This is because of their frequently different characteristics and needs compared to people with late-onset dementia. The aim of this project was to assess a memory service for its adaptation to the needs and wishes of people with YOD and their carers.\n            \n            \n              Methods\n              This project evaluated a memory service in the North West of England by performing two focus groups with clinical staff and six semi-structured interviews with people with YOD and carers. The focus groups took place on site and lasted one hour each. People with YOD and their carers were identified via the memory clinics caseload and via the local Alzheimer\u2019s Society charity organisation. Both focus groups and interviews were audio-recorded and transcribed, and data were analysed using thematic analysis. The public (a person living with YOD and his carer) were involved from the design stages of the project through to the analysis and dissemination.\n            \n            \n              Results\n              Eleven members of staff with different clinical backgrounds participated in the focus groups and six interviews were held with people with YOD and their carers. Both indicated that whilst the diagnostic process is relatively well conducted at the service, the post-diagnostic service has many gaps. These include limited post-diagnostic support by the service, better enabling peer support, as well as providing meaningful activities, as some activities provided might be more suitable to older adults with dementia.\n            \n            \n              Conclusions\n              Post-diagnostic services and support for people with YOD and their carers need to be improved. The next step will be to implement the findings from this service evaluation in practice and improve service satisfaction and relevance to people with YOD.",
+            "publicationTitle": "BMC Health Services Research",
+            "volume": "20",
+            "issue": "1",
+            "pages": "187",
+            "date": "12/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "BMC Health Serv Res",
+            "language": "en",
+            "DOI": "10.1186/s12913-020-5027-8",
+            "ISSN": "1472-6963",
+            "shortTitle": "Evaluating a young-onset dementia service from two sides of the coin",
+            "url": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-5027-8",
+            "accessDate": "2021-07-23T16:46:15Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32143694",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:32Z",
+            "dateModified": "2021-07-27T11:55:51Z",
+            "pmid": "32143694"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        7
+                    ]
+                ],
+                "date-time": "2021-03-07T03:24:14Z",
+                "timestamp": 1615087454604
+            },
+            "reference-count": 27,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "1",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                3,
+                                6
+                            ]
+                        ],
+                        "date-time": "2020-03-06T00:00:00Z",
+                        "timestamp": 1583452800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                3,
+                                6
+                            ]
+                        ],
+                        "date-time": "2020-03-06T00:00:00Z",
+                        "timestamp": 1583452800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000272",
+                    "name": "National Institute for Health Research",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "ARC NWC"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        12
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n<jats:title>Background</jats:title>\n<jats:p>People with young-onset dementia (YOD) can often struggle getting the right treatment. This is because of their frequently different characteristics and needs compared to people with late-onset dementia. The aim of this project was to assess a memory service for its adaptation to the needs and wishes of people with YOD and their carers.</jats:p>\n</jats:sec><jats:sec>\n<jats:title>Methods</jats:title>\n<jats:p>This project evaluated a memory service in the North West of England by performing two focus groups with clinical staff and six semi-structured interviews with people with YOD and carers. The focus groups took place on site and lasted one hour each. People with YOD and their carers were identified via the memory clinics caseload and via the local Alzheimer\u2019s Society charity organisation. Both focus groups and interviews were audio-recorded and transcribed, and data were analysed using thematic analysis. The public (a person living with YOD and his carer) were involved from the design stages of the project through to the analysis and dissemination.</jats:p>\n</jats:sec><jats:sec>\n<jats:title>Results</jats:title>\n<jats:p>Eleven members of staff with different clinical backgrounds participated in the focus groups and six interviews were held with people with YOD and their carers. Both indicated that whilst the diagnostic process is relatively well conducted at the service, the post-diagnostic service has many gaps. These include limited post-diagnostic support by the service, better enabling peer support, as well as providing meaningful activities, as some activities provided might be more suitable to older adults with dementia.</jats:p>\n</jats:sec><jats:sec>\n<jats:title>Conclusions</jats:title>\n<jats:p>Post-diagnostic services and support for people with YOD and their carers need to be improved. The next step will be to implement the findings from this service evaluation in practice and improve service satisfaction and relevance to people with YOD.</jats:p>\n</jats:sec>",
+            "DOI": "10.1186/s12913-020-5027-8",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        6
+                    ]
+                ],
+                "date-time": "2020-03-06T18:02:57Z",
+                "timestamp": 1583517777000
+            },
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 4,
+            "title": "Evaluating a young-onset dementia service from two sides of the coin: staff and service user perspectives",
+            "prefix": "10.1186",
+            "volume": "20",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Cassie",
+                    "family": "Eastham",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Jacqueline",
+                    "family": "Cannon",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "John",
+                    "family": "Wilson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Janet",
+                    "family": "Wilson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Anna",
+                    "family": "Pearson",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        6
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "5027_CR1",
+                    "unstructured": "Alzheimer\u2019s Disease International. 2015. World Alzheimer Report 2015 \u2013 The Global Impact of Dementia. Alzheimer\u2019s Disease International: London, UK."
+                },
+                {
+                    "key": "5027_CR2",
+                    "unstructured": "Alzheimer\u2019s Society. 2014. Dementia UK: Update. London, England: AS."
+                },
+                {
+                    "issue": "12",
+                    "key": "5027_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1255",
+                    "DOI": "10.1002/gps.1935",
+                    "volume": "22",
+                    "author": "A Arai",
+                    "year": "2007",
+                    "unstructured": "Arai A, Matsumoto T, Ikeda M, Arai Y. Do family caregivers perceive more difficulty when they look after patients with early onset dementia compared to those with late onset dementia? Int J Geriatr Psychiatry. 2007;22(12):1255\u201361.",
+                    "journal-title": "Int J Geriatr Psychiatry"
+                },
+                {
+                    "issue": "3",
+                    "key": "5027_CR4",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1089",
+                    "DOI": "10.1177/1471301217702977",
+                    "volume": "18",
+                    "author": "Helen J Aslett",
+                    "year": "2017",
+                    "unstructured": "Aslett HJ, Huws JC, Woods RT, Kelly-Rhind J. 2017. \u2018This is killing me inside\u2019: the impact of having a parent with young-onset dementia. Dementia, doi: https://doi.org/10.1177/1471301217702977.",
+                    "journal-title": "Dementia"
+                },
+                {
+                    "issue": "1",
+                    "key": "5027_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "37",
+                    "DOI": "10.1016/j.jagp.2012.10.004",
+                    "volume": "21",
+                    "author": "C Bakker",
+                    "year": "2013",
+                    "unstructured": "Bakker C, de Vugt ME, van Vliet D, Verhey FR, Pijnenburg YA, Vernooij-Dassen MJ, Koopmans RT. The use of formal and informal care in early onset dementia: results from the NeedYD study. Am J Geriatr Psychiatry. 2013;21(1):37\u201345.",
+                    "journal-title": "Am J Geriatr Psychiatry"
+                },
+                {
+                    "issue": "8",
+                    "key": "5027_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "634",
+                    "DOI": "10.1177/1533317510385811",
+                    "volume": "25",
+                    "author": "C Bakker",
+                    "year": "2010",
+                    "unstructured": "Bakker C, de Vugt ME, Vernooij-Dassen M, van Vliet D, Verhey FRJ, Koopmans RTCM. Needs in early onset dementia: a qualitative case from the NEEDYD study. Am J Alzheimers Dis Other Dement. 2010;25(8):634\u201340.",
+                    "journal-title": "Am J Alzheimers Dis Other Dement"
+                },
+                {
+                    "issue": "7",
+                    "key": "5027_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "77",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "volume": "3",
+                    "author": "V Braun",
+                    "year": "2006",
+                    "unstructured": "Braun V, Clarke V. Using thematic analysis in psychology. Qual Res Psychol. 2006;3(7):77\u2013101.",
+                    "journal-title": "Qual Res Psychol"
+                },
+                {
+                    "issue": "4",
+                    "key": "5027_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "468",
+                    "DOI": "10.1080/13607863.2016.1257563",
+                    "volume": "22",
+                    "author": "JE Carter",
+                    "year": "2018",
+                    "unstructured": "Carter JE, Oyebode JR, Koopmans RTCM. Young-onset dementia and the need for specialist care: a national and international perspective. Aging Ment Health. 2018;22(4):468\u201373.",
+                    "journal-title": "Aging Ment Health"
+                },
+                {
+                    "issue": "7",
+                    "key": "5027_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e0180935",
+                    "DOI": "10.1371/journal.pone.0180935",
+                    "volume": "12",
+                    "author": "Monica Cations",
+                    "year": "2017",
+                    "unstructured": "Cations M, Withall A, Horsfall R, Denham N, White F, Trollor J, et al. 2017. Why aren\u2019t people with young onset dementia and their supporters using formal services? Results from the INSPIRED study. PLoS One. 12: e0180935, doi: https://doi.org/10.1371/journal.pone.0180935.",
+                    "journal-title": "PLOS ONE"
+                },
+                {
+                    "key": "5027_CR10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "49",
+                    "DOI": "10.1186/s12912-014-0049-3",
+                    "volume": "13",
+                    "author": "F Ducharme",
+                    "year": "2014",
+                    "unstructured": "Ducharme F, Kergoat M-J, Coulombe R, Levesque L, Antoine P, Pasquier F. Unmet support needs of early-onset dementia family caregivers: a mixed design study. BMC Nurs. 2014;13:49.",
+                    "journal-title": "BMC Nurs"
+                },
+                {
+                    "key": "5027_CR11",
+                    "unstructured": "Gelman C, Rahmes K. 2018. \u201cI have to be both mother and father\u201d: the impact of Young-onset dementia on the partner\u2019s parenting and the children\u2019s experience. Dementia doi: https://doi.org/10.1177/1471301218783542.",
+                    "DOI": "10.1177/1471301218783542",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2",
+                    "key": "5027_CR12",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "277",
+                    "DOI": "10.1017/S1041610218000820",
+                    "volume": "31",
+                    "author": "CM Giebel",
+                    "year": "2019",
+                    "unstructured": "Giebel CM, Flanagan E, Sutcliffe C. Finance management in dementia: managing bills and taxes matters. Int Psychogeriatr. 2019;31(2):277\u201386.",
+                    "journal-title": "Int Psychogeriatr"
+                },
+                {
+                    "issue": "1",
+                    "key": "5027_CR13",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "63",
+                    "DOI": "10.1080/13607863.2014.915920",
+                    "volume": "19",
+                    "author": "CM Giebel",
+                    "year": "2015",
+                    "unstructured": "Giebel CM, Sutcliffe C, Challis D. Activities of daily living and quality of life across different stages of dementia: a UK study. Aging Ment Health. 2015;19(1):63\u201371.",
+                    "journal-title": "Aging Ment Health"
+                },
+                {
+                    "key": "5027_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "81",
+                    "DOI": "10.1016/j.socscimed.2016.11.041",
+                    "volume": "173",
+                    "author": "RV Herron",
+                    "year": "2017",
+                    "unstructured": "Herron RV, Rosenberg MW. \u201cNot there yet\u201d: examining community support from the perspective of people with dementia and their partners in care. Soc Sci Med. 2017;173:81\u20137.",
+                    "journal-title": "Soc Sci Med"
+                },
+                {
+                    "issue": "4",
+                    "key": "5027_CR15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "609",
+                    "DOI": "10.1177/1471301214532111",
+                    "volume": "15",
+                    "author": "K Hutchinson",
+                    "year": "2016",
+                    "unstructured": "Hutchinson K, Roberts C, Kurrle S, Daly M. The emotional ell-being of young people having a parent with younger onset dementia. Dementia. 2016;15(4):609\u201328.",
+                    "journal-title": "Dementia"
+                },
+                {
+                    "issue": "1",
+                    "key": "5027_CR16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "159",
+                    "DOI": "10.1016/j.pec.2017.07.013",
+                    "volume": "101",
+                    "author": "B Jones",
+                    "year": "2018",
+                    "unstructured": "Jones B, Gage H, Bakker C, Barrios H, Boucalt S, Mayer J, et al. Availability of information on young onset dementia for patients and carers in six European countries. Patient Educ Couns. 2018;101(1):159\u201365.",
+                    "journal-title": "Patient Educ Couns"
+                },
+                {
+                    "issue": "4",
+                    "key": "5027_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1401",
+                    "DOI": "10.3233/JAD-2010-1337",
+                    "volume": "19",
+                    "author": "E Koedam",
+                    "year": "2010",
+                    "unstructured": "Koedam E, Lauffer V, van der Vlies A, van der Flier W, Scheltens P, Pijnenburg YAL. Early- versus late-onset Alzheimer\u2019s disease: more than age alone. J Alzheimers Dis. 2010;19(4):1401\u20138.",
+                    "journal-title": "J Alzheimers Dis"
+                },
+                {
+                    "issue": "12",
+                    "key": "5027_CR18",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1935",
+                    "DOI": "10.1017/S1041610213002639",
+                    "volume": "26",
+                    "author": "M Lage Barca",
+                    "year": "2014",
+                    "unstructured": "Lage Barca M, Thorsen K, Engedal K, Haugen PK. Nobody asked me how I felt: experiences of adult children of persons with young-onset dementia. Int Psychogeriatr. 2014;26(12):1935\u201344.",
+                    "journal-title": "Int Psychogeriatr"
+                },
+                {
+                    "issue": "5",
+                    "key": "5027_CR19",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "635",
+                    "DOI": "10.1177/1471301212440873",
+                    "volume": "12",
+                    "author": "S Lockeridge",
+                    "year": "2013",
+                    "unstructured": "Lockeridge S, Simpson J. The experience of caring for a partner with young onset dementia: how younger carers cope. Dementia. 2013;12(5):635\u201351.",
+                    "journal-title": "Dementia"
+                },
+                {
+                    "issue": "8",
+                    "key": "5027_CR20",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "927",
+                    "DOI": "10.1080/13607863.2017.1334038",
+                    "volume": "22",
+                    "author": "A Mayrhofer",
+                    "year": "2017",
+                    "unstructured": "Mayrhofer A, Mathie E, McKeown J, Bunn F, Goodman C. Age-appropriate services for people diagnosed with young onset dementia (YOD): a systematic review. Aging Ment Health. 2017;22(8):927\u201335. https://doi.org/10.1080/13607863.2017.1334038.",
+                    "journal-title": "Aging Ment Health"
+                },
+                {
+                    "issue": "12",
+                    "key": "5027_CR21",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1261",
+                    "DOI": "10.1002/gps.4502",
+                    "volume": "31",
+                    "author": "JK Millenaar",
+                    "year": "2016",
+                    "unstructured": "Millenaar JK, Bakker C, Koopmans RTCM, Verhey FRJ, Kurz A, de Vugt ME. The care needs and experiences with the use of services of people with young-onset dementia and their caregivers: a systematic review. Int J Geriatr Psychiatry. 2016;31(12):1261\u201376.",
+                    "journal-title": "Int J Geriatr Psychiatry"
+                },
+                {
+                    "key": "5027_CR22",
+                    "unstructured": "National Institute for Health and Clinical Excellence (NICE). 2018. Dementia: assessment, management and support for people living with dementia and their carers. London, UK: NICE."
+                },
+                {
+                    "key": "5027_CR23",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1051",
+                    "DOI": "10.1017/S0033291714002153",
+                    "volume": "45",
+                    "author": "LL Smits",
+                    "year": "2015",
+                    "unstructured": "Smits LL, van Harten AC, Pijnenburg YAL, et al. Trajectories of cognitive decline in different types of dementia. Psychol Med. 2015;45:1051\u20139.",
+                    "journal-title": "Psychol Med"
+                },
+                {
+                    "issue": "11",
+                    "key": "5027_CR24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1091",
+                    "DOI": "10.1002/gps.2439",
+                    "volume": "25",
+                    "author": "D Van Vliet",
+                    "year": "2010",
+                    "unstructured": "Van Vliet D, de Vugt ME, Bakker C, Koopmans RTCM, Verhey FRJ. Impact of early onset dementia on caregivers: a review. Int J Geriatr Psychiatry. 2010;25(11):1091\u2013100.",
+                    "journal-title": "Int J Geriatr Psychiatry"
+                },
+                {
+                    "key": "5027_CR25",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "88",
+                    "DOI": "10.2174/1745017901309010088",
+                    "volume": "9",
+                    "author": "RT Vieira",
+                    "year": "2013",
+                    "unstructured": "Vieira RT, Caixeta L, Machado S, Silva AC, Nardi AE, Arias-Carrion O, Carta MG. Epidemiology of early-onset dementia: a review of the literature. Clin Pract Epidemiol Public Health. 2013;9:88\u201395.",
+                    "journal-title": "Clin Pract Epidemiol Public Health"
+                },
+                {
+                    "issue": "1",
+                    "key": "5027_CR26",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "26",
+                    "DOI": "10.1080/09638230701529681",
+                    "volume": "18",
+                    "author": "R Willis",
+                    "year": "2009",
+                    "unstructured": "Willis R, Chan J, Murray J, Matthews D, Banerjee S. People with dementia and their family carers\u2019 satisfaction with a memory service: a qualitative evaluation generating quality inficators for dementia care. J Ment Health. 2009;18(1):26\u201337.",
+                    "journal-title": "J Ment Health"
+                },
+                {
+                    "key": "5027_CR27",
+                    "author": "World Health Organization",
+                    "year": "2012",
+                    "unstructured": "World Health Organization. Dementia: a public health priority. Geneva: World Health Organization; 2012.",
+                    "volume-title": "Dementia: a public health priority"
+                }
+            ],
+            "container-title": "BMC Health Services Research",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12913-020-5027-8.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1186/s12913-020-5027-8/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1186/s12913-020-5027-8.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        6
+                    ]
+                ],
+                "date-time": "2021-03-06T00:53:31Z",
+                "timestamp": 1614992011000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        6
+                    ]
+                ]
+            },
+            "references-count": 27,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            12
+                        ]
+                    ]
+                },
+                "issue": "1"
+            },
+            "alternative-id": [
+                "5027"
+            ],
+            "URL": "http://dx.doi.org/10.1186/s12913-020-5027-8",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1472-6963"
+            ],
+            "subject": [
+                "Health Policy"
+            ],
+            "container-title-short": "BMC Health Serv Res",
+            "assertion": [
+                {
+                    "value": "18 January 2019",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "24 February 2020",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "6 March 2020",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "The Health Research Authority decision tool (HRA 2018) was used to determine that the project was a service evaluation and not research. As such, ethical opinion was not sought from a REC, however the service evaluation was registered with the Research and Development Department at North West Boroughs Healthcare NHS Foundation Trust. According to the UK Policy Framework for Health and Social Care Research, service evaluations are not considered research as such and therefore do not require ethical approval from an ethics committee. Participants provided written informed consent prior to the interview.",
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethics approval and consent to participate"
+                    }
+                },
+                {
+                    "value": "N/A",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Consent for publication"
+                    }
+                },
+                {
+                    "value": "None.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Competing interests"
+                    }
+                }
+            ],
+            "article-number": "187"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Focus groups",
+                        "Post-diagnostic support",
+                        "Service access",
+                        "Service evaluation",
+                        "Young onset dementia"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32143694",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "11",
+                    "Day": "13"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "11",
+                    "Day": "13"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "03",
+                            "Day": "06"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1186/s12913-020-5027-8"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1472-6963",
+                        "JournalIssue": {
+                            "Volume": "20",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Mar",
+                                "Day": "06"
+                            }
+                        },
+                        "Title": "BMC health services research",
+                        "ISOAbbreviation": "BMC Health Serv Res"
+                    },
+                    "ArticleTitle": "Evaluating a young-onset dementia service from two sides of the coin: staff and service user perspectives.",
+                    "Pagination": {
+                        "MedlinePgn": "187"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "People with young-onset dementia (YOD) can often struggle getting the right treatment. This is because of their frequently different characteristics and needs compared to people with late-onset dementia. The aim of this project was to assess a memory service for its adaptation to the needs and wishes of people with YOD and their carers.",
+                            "This project evaluated a memory service in the North West of England by performing two focus groups with clinical staff and six semi-structured interviews with people with YOD and carers. The focus groups took place on site and lasted one hour each. People with YOD and their carers were identified via the memory clinics caseload and via the local Alzheimer's Society charity organisation. Both focus groups and interviews were audio-recorded and transcribed, and data were analysed using thematic analysis. The public (a person living with YOD and his carer) were involved from the design stages of the project through to the analysis and dissemination.",
+                            "Eleven members of staff with different clinical backgrounds participated in the focus groups and six interviews were held with people with YOD and their carers. Both indicated that whilst the diagnostic process is relatively well conducted at the service, the post-diagnostic service has many gaps. These include limited post-diagnostic support by the service, better enabling peer support, as well as providing meaningful activities, as some activities provided might be more suitable to older adults with dementia.",
+                            "Post-diagnostic services and support for people with YOD and their carers need to be improved. The next step will be to implement the findings from this service evaluation in practice and improve service satisfaction and relevance to people with YOD."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, 1st floor B Block Waterhouse Building, Liverpool L69 3GL, England, UK. Clarissa.giebel@liverpool.ac.uk."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK. Clarissa.giebel@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "North West Boroughs NHS Foundation Trust, Warrington, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Eastham",
+                            "ForeName": "Cassie",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "The Lewy Body Society, Wigan, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cannon",
+                            "ForeName": "Jacqueline",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wilson",
+                            "ForeName": "John",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wilson",
+                            "ForeName": "Janet",
+                            "Initials": "J"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "North West Boroughs NHS Foundation Trust, Warrington, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Pearson",
+                            "ForeName": "Anna",
+                            "Initials": "A"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "ARC NWC",
+                            "Agency": "National Institute for Health Research",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "BMC Health Serv Res",
+                    "NlmUniqueID": "101088677",
+                    "ISSNLinking": "1472-6963"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Age of Onset",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "psychology",
+                            "statistics & numerical data"
+                        ],
+                        "DescriptorName": "Caregivers",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "therapy"
+                        ],
+                        "DescriptorName": "Dementia",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "England",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Focus Groups",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Services Research",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Male",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Int Psychogeriatr. 2019 Feb;31(2):277-286",
+                                "ArticleIdList": [
+                                    "30099977"
+                                ]
+                            },
+                            {
+                                "Citation": "Int Psychogeriatr. 2014 Dec;26(12):1935-44",
+                                "ArticleIdList": [
+                                    "24423756"
+                                ]
+                            },
+                            {
+                                "Citation": "PLoS One. 2017 Jul 19;12(7):e0180935",
+                                "ArticleIdList": [
+                                    "28723931"
+                                ]
+                            },
+                            {
+                                "Citation": "Aging Ment Health. 2015 Jan;19(1):63-71",
+                                "ArticleIdList": [
+                                    "24831511"
+                                ]
+                            },
+                            {
+                                "Citation": "Soc Sci Med. 2017 Jan;173:81-87",
+                                "ArticleIdList": [
+                                    "27930919"
+                                ]
+                            },
+                            {
+                                "Citation": "Clin Pract Epidemiol Ment Health. 2013 Jun 14;9:88-95",
+                                "ArticleIdList": [
+                                    "23878613"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Geriatr Psychiatry. 2013 Jan;21(1):37-45",
+                                "ArticleIdList": [
+                                    "23290201"
+                                ]
+                            },
+                            {
+                                "Citation": "Dementia (London). 2019 Apr;18(3):1089-1107",
+                                "ArticleIdList": [
+                                    "28871812"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Geriatr Psychiatry. 2016 Dec;31(12):1261-1276",
+                                "ArticleIdList": [
+                                    "27271788"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Geriatr Psychiatry. 2010 Nov;25(11):1091-100",
+                                "ArticleIdList": [
+                                    "20957692"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Nurs. 2014 Dec 19;13(1):49",
+                                "ArticleIdList": [
+                                    "25550685"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychol Med. 2015 Apr;45(5):1051-9",
+                                "ArticleIdList": [
+                                    "25229325"
+                                ]
+                            },
+                            {
+                                "Citation": "Am J Alzheimers Dis Other Demen. 2010 Dec;25(8):634-40",
+                                "ArticleIdList": [
+                                    "21131669"
+                                ]
+                            },
+                            {
+                                "Citation": "Dementia (London). 2013 Sep;12(5):635-51",
+                                "ArticleIdList": [
+                                    "24337334"
+                                ]
+                            },
+                            {
+                                "Citation": "Dementia (London). 2016 Jul;15(4):609-28",
+                                "ArticleIdList": [
+                                    "24784939"
+                                ]
+                            },
+                            {
+                                "Citation": "Patient Educ Couns. 2018 Jan;101(1):159-165",
+                                "ArticleIdList": [
+                                    "28843442"
+                                ]
+                            },
+                            {
+                                "Citation": "Dementia (London). 2020 Apr;19(3):676-690",
+                                "ArticleIdList": [
+                                    "29996672"
+                                ]
+                            },
+                            {
+                                "Citation": "J Alzheimers Dis. 2010;19(4):1401-8",
+                                "ArticleIdList": [
+                                    "20061618"
+                                ]
+                            },
+                            {
+                                "Citation": "Int J Geriatr Psychiatry. 2007 Dec;22(12):1255-61",
+                                "ArticleIdList": [
+                                    "18000948"
+                                ]
+                            },
+                            {
+                                "Citation": "Aging Ment Health. 2018 Apr;22(4):468-473",
+                                "ArticleIdList": [
+                                    "28290708"
+                                ]
+                            },
+                            {
+                                "Citation": "Aging Ment Health. 2018 Aug;22(8):927-935",
+                                "ArticleIdList": [
+                                    "28621549"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "01",
+                        "Day": "18"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "02",
+                        "Day": "24"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "3",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "3",
+                        "Day": "8",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "11",
+                        "Day": "18",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "epublish",
+                "ArticleIdList": [
+                    "32143694",
+                    "10.1186/s12913-020-5027-8",
+                    "10.1186/s12913-020-5027-8",
+                    "PMC7060597"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32143694)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832143694%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832143694%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081256342"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081256342?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85081256342&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85081256342&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85081256342",
+                        "dc:identifier": "SCOPUS_ID:85081256342",
+                        "eid": "2-s2.0-85081256342",
+                        "dc:title": "Evaluating a young-onset dementia service from two sides of the coin: Staff and service user perspectives",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "BMC Health Services Research",
+                        "prism:eIssn": "14726963",
+                        "prism:volume": "20",
+                        "prism:issueIdentifier": "1",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-03-06",
+                        "prism:coverDisplayDate": "6 March 2020",
+                        "prism:doi": "10.1186/s12913-020-5027-8",
+                        "citedby-count": "5",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            },
+                            {
+                                "@_fa": "true",
+                                "affilname": "NIHR ARC NWC",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32143694",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "article-number": "187",
+                        "source-id": "28098",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "8DAYX46J.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32143694"
+            }
+        },
+        "title": "Evaluating a young-onset dementia service from two sides of the coin: staff and service user perspectives.",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences, University of Liverpool, 1st floor B Block Waterhouse Building, Liverpool L69 3GL, England, UK. Clarissa.giebel@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Eastham C",
+                "family": "Eastham",
+                "given": "Cassie",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Cannon J",
+                "family": "Cannon",
+                "given": "Jacqueline",
+                "affiliation": {
+                    "name": "The Lewy Body Society, Wigan, UK."
+                }
+            },
+            {
+                "clean": "Wilson J",
+                "family": "Wilson",
+                "given": "John",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Wilson J",
+                "family": "Wilson",
+                "given": "Janet",
+                "affiliation": {
+                    "name": "NIHR ARC NWC, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Pearson A",
+                "family": "Pearson",
+                "given": "Anna",
+                "affiliation": {
+                    "name": "North West Boroughs NHS Foundation Trust, Warrington, UK."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Age of Onset",
+                    "major": "N"
+                },
+                {
+                    "term": "Caregivers",
+                    "major": "N"
+                },
+                {
+                    "term": "Dementia",
+                    "major": "N"
+                },
+                {
+                    "term": "England",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Focus Groups",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Services Research",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Male",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "Focus groups",
+                "Post-diagnostic support",
+                "Service access",
+                "Service evaluation",
+                "Young onset dementia"
+            ]
+        },
+        "journal": {
+            "journal_name": "BMC Health Serv Res",
+            "volume": "20",
+            "issue": "1"
+        },
+        "abstract": "['People with young-onset dementia (YOD) can often struggle getting the right treatment. This is because of their frequently different characteristics and needs compared to people with late-onset dementia. The aim of this project was to assess a memory service for its adaptation to the needs and wishes of people with YOD and their carers.', \"This project evaluated a memory service in the North West of England by performing two focus groups with clinical staff and six semi-structured interviews with people with YOD and carers. The focus groups took place on site and lasted one hour each. People with YOD and their carers were identified via the memory clinics caseload and via the local Alzheimer's Society charity organisation. Both focus groups and interviews were audio-recorded and transcribed, and data were analysed using thematic analysis. The public (a person living with YOD and his carer) were involved from the design stages of the project through to the analysis and dissemination.\", 'Eleven members of staff with different clinical backgrounds participated in the focus groups and six interviews were held with people with YOD and their carers. Both indicated that whilst the diagnostic process is relatively well conducted at the service, the post-diagnostic service has many gaps. These include limited post-diagnostic support by the service, better enabling peer support, as well as providing meaningful activities, as some activities provided might be more suitable to older adults with dementia.', 'Post-diagnostic services and support for people with YOD and their carers need to be improved. The next step will be to implement the findings from this service evaluation in practice and improve service satisfaction and relevance to people with YOD.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "5"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Population Health Sciences, University of Liverpool, 1st floor B Block Waterhouse Building, Liverpool L69 3GL, England, UK. Clarissa.giebel@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

@@ -1,0 +1,881 @@
+{
+    "IDs": {
+        "zotero": "PSC6A3WW",
+        "DOI": "10.1111/hex.13261",
+        "DOI_filename": "dd4a107ec2f87e84004eeb07a1d56445",
+        "PMID": "33949751",
+        "scopus": "2-s2.0-85105045039",
+        "hash": "d039872c0f5d4fa075e8357639bf5306"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "PSC6A3WW",
+            "version": 976,
+            "itemType": "journalArticle",
+            "title": "A qualitative evaluation of coproduction of research: \u2018If you do it properly, you will get turbulence\u2019",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Joanne Deborah",
+                    "lastName": "Worsley"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mick",
+                    "lastName": "McKeown"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Timothy",
+                    "lastName": "Wilson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Rhiannon",
+                    "lastName": "Corcoran"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Health Expectations",
+            "volume": "",
+            "issue": "",
+            "pages": "hex.13261",
+            "date": "2021-05-05",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Health Expect",
+            "language": "en",
+            "DOI": "10.1111/hex.13261",
+            "ISSN": "1369-6513, 1369-7625",
+            "shortTitle": "A qualitative evaluation of coproduction of research",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1111/hex.13261",
+            "accessDate": "2021-07-23T16:46:09Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33949751",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:19Z",
+            "dateModified": "2021-07-27T11:47:53Z",
+            "pmid": "33949751"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        7
+                    ]
+                ],
+                "date-time": "2021-05-07T11:31:56Z",
+                "timestamp": 1620387116990
+            },
+            "reference-count": 24,
+            "publisher": "Wiley",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                5,
+                                5
+                            ]
+                        ],
+                        "date-time": "2021-05-05T00:00:00Z",
+                        "timestamp": 1620172800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                },
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                5,
+                                5
+                            ]
+                        ],
+                        "date-time": "2021-05-05T00:00:00Z",
+                        "timestamp": 1620172800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "onlinelibrary.wiley.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1111/hex.13261",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        5
+                    ]
+                ],
+                "date-time": "2021-05-05T13:48:05Z",
+                "timestamp": 1620222485000
+            },
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "A qualitative evaluation of coproduction of research: \u2018If you do it properly, you will get turbulence\u2019",
+            "prefix": "10.1111",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-6285-5870",
+                    "authenticated-orcid": false,
+                    "given": "Joanne Deborah",
+                    "family": "Worsley",
+                    "sequence": "first",
+                    "affiliation": [
+                        {
+                            "name": "Department of Primary Care and Mental Health University of Liverpool Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Mick",
+                    "family": "McKeown",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "School of Nursing University of Central Lancashire Preston UK"
+                        },
+                        {
+                            "name": "Applied Research Collaboration North West Coast (ARC NWC) Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Timothy",
+                    "family": "Wilson",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Applied Research Collaboration North West Coast (ARC NWC) Liverpool UK"
+                        }
+                    ]
+                },
+                {
+                    "given": "Rhiannon",
+                    "family": "Corcoran",
+                    "sequence": "additional",
+                    "affiliation": [
+                        {
+                            "name": "Department of Primary Care and Mental Health University of Liverpool Liverpool UK"
+                        },
+                        {
+                            "name": "Applied Research Collaboration North West Coast (ARC NWC) Liverpool UK"
+                        }
+                    ]
+                }
+            ],
+            "member": "311",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        5
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "e_1_2_9_2_1",
+                    "author": "National Institute for Health Research RDS",
+                    "year": "2014",
+                    "volume-title": "Patient and Public Involvement in Health and Social Care Research: A Handbook for Researchers"
+                },
+                {
+                    "key": "e_1_2_9_3_1",
+                    "DOI": "10.1111/hex.12007",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_4_1",
+                    "unstructured": "BrettJ StaniszewskaS MockfordC SeersK Herron\u2010MarxS BaylissH.The PIRICOM study: a systematic review of the conceptualisation measurement impact and outcomes of patients and public involvement in health and social care research.2010.https://www.ukcrc.org/wp\u2010content/uploads/2014/03/Piricom+Review+Final+2010.pdf. Accessed December 4 2020."
+                },
+                {
+                    "key": "e_1_2_9_5_1",
+                    "author": "Staley K",
+                    "year": "2009",
+                    "volume-title": "Exploring impact: Public Involvement in NHS, Public Health and Social Care Research"
+                },
+                {
+                    "key": "e_1_2_9_6_1",
+                    "DOI": "10.1017/S0033291712001663",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_7_1",
+                    "DOI": "10.3109/09638237.2015.1101424",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_8_1",
+                    "DOI": "10.1007/s40271-014-0065-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_9_1",
+                    "DOI": "10.1017/S1474746402000222",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_10_1",
+                    "author": "Beresford P",
+                    "year": "2012",
+                    "volume-title": "User Controlled Research. A Scoping Review"
+                },
+                {
+                    "key": "e_1_2_9_11_1",
+                    "DOI": "10.1093/oso/9780190658663.001.0001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_12_1",
+                    "DOI": "10.1080/09581596.2020.1770694",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_13_1",
+                    "DOI": "10.1111/j.1369-7625.2007.00436.x",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_14_1",
+                    "DOI": "10.1186/s12961-019-0432-3",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_15_1",
+                    "unstructured": "Department of Health.Going the extra mile: improving the nation\u2019s health and wellbeing through public involvement in research.2015.https://www.nihr.ac.uk/documents/about\u2010us/our\u2010contribution\u2010to\u2010research/how\u2010we\u2010involve\u2010patients\u2010carers\u2010and\u2010the\u2010public/Going\u2010the\u2010Extra\u2010Mile.pdf. Accessed December 8 2020."
+                },
+                {
+                    "key": "e_1_2_9_16_1",
+                    "DOI": "10.1186/s40900-016-0042-y",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_17_1",
+                    "DOI": "10.1191/1478088706qp063oa",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_18_1",
+                    "DOI": "10.1108/MHRJ-01-2017-0011",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_19_1",
+                    "unstructured": "PoursanidouD.When you make your trauma a crucial aspect of your identity it becomes harder to heal from it.2015.https://asylummagazine.org/2015/08/when\u2010you\u2010make\u2010your\u2010trauma\u2010a\u2010crucial\u2010aspect\u2010of\u2010your\u2010identity\u2010it\u2010becomes\u2010harder\u2010to\u2010heal\u2010from\u2010it/. Accessed December 8 2020."
+                },
+                {
+                    "key": "e_1_2_9_20_1",
+                    "author": "Clarke J",
+                    "year": "2007",
+                    "volume-title": "Creating Citizen\u2010Consumers: Changing Publics and Changing Public Services"
+                },
+                {
+                    "key": "e_1_2_9_21_1",
+                    "DOI": "10.1177/0038038516664683",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_22_1",
+                    "author": "Papoulias S",
+                    "first-page": "1",
+                    "year": "2021",
+                    "article-title": "'A limpet on a ship': spatio\u2010temporal dynamics of patient and public involvement in research",
+                    "journal-title": "Health Expect"
+                },
+                {
+                    "key": "e_1_2_9_23_1",
+                    "DOI": "10.7870/cjcmh-1996-0009",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_24_1",
+                    "DOI": "10.1332/policypress/9781847428233.001.0001",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "e_1_2_9_25_1",
+                    "author": "McKeown M",
+                    "year": "2021",
+                    "volume-title": "Co\u2010Production in Mental Health: Lighting Up Dark Places"
+                }
+            ],
+            "container-title": "Health Expectations",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/hex.13261",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/hex.13261",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/hex.13261",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        5
+                    ]
+                ],
+                "date-time": "2021-05-05T13:48:24Z",
+                "timestamp": 1620222504000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        5
+                    ]
+                ]
+            },
+            "references-count": 24,
+            "alternative-id": [
+                "10.1111/hex.13261"
+            ],
+            "URL": "http://dx.doi.org/10.1111/hex.13261",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1369-6513",
+                "1369-7625"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health"
+            ],
+            "container-title-short": "Health Expect",
+            "assertion": [
+                {
+                    "value": "2021-02-24",
+                    "order": 0,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2021-04-06",
+                    "order": 1,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                },
+                {
+                    "value": "2021-05-05",
+                    "order": 2,
+                    "name": "published",
+                    "label": "Published",
+                    "group": {
+                        "name": "publication_history",
+                        "label": "Publication History"
+                    }
+                }
+            ],
+            "article-number": "hex.13261"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [
+                    [
+                        "coproduction",
+                        "involvement",
+                        "lived experience",
+                        "power",
+                        "trust"
+                    ]
+                ],
+                "OtherID": [],
+                "PMID": "33949751",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "05"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "05",
+                            "Day": "05"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1111/hex.13261"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1369-7625",
+                        "JournalIssue": {
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "May",
+                                "Day": "05"
+                            }
+                        },
+                        "Title": "Health expectations : an international journal of public participation in health care and health policy",
+                        "ISOAbbreviation": "Health Expect"
+                    },
+                    "ArticleTitle": "A qualitative evaluation of coproduction of research: 'If you do it properly, you will get turbulence'.",
+                    "Abstract": {
+                        "AbstractText": [
+                            "Patients and public members are increasingly involved across the different stages of the research process. Their involvement is particularly important in the conception and design of applied health research where it enables people with lived experience to influence the aims, content, focus and methods.",
+                            "To evaluate the process of coproducing a mental health-related research proposal suitable for funding through a national health research funding body.",
+                            "Reflections from members of the public (n\u00a0=\u00a03) and academic researchers (n\u00a0=\u00a03) were collected through semi-structured interviews. Data were thematically analysed.",
+                            "Thematic analysis identified five overarching themes: valuing the lived experience perspective; matching ambitions to the funded research process; 'Us and them': power, relationships and trust; challenges; and benefits of coproduction.",
+                            "Our findings suggest that for successful coproduction of a research funding application, an open and trusting atmosphere, where equal relationships are established and a shared common goal agreed is essential. Although relationships with research professionals were framed by trust and mutual respect for some public advisors, others felt a sense of 'us and them'. With various tensions played out through interpersonal conflict, difficult conversations and disagreements, coproduction was not a positive experience for all stakeholders involved. Among the learning was that when collaboration of this kind is constrained by time or funding, genuine, impactful coproduction can be more challenging than is generally acknowledged."
+                        ],
+                        "CopyrightInformation": "\u00a9 2021 The Authors. Health Expectations published by John Wiley & Sons Ltd."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0001-6285-5870"
+                            ],
+                            "LastName": "Worsley",
+                            "ForeName": "Joanne Deborah",
+                            "Initials": "JD"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Nursing, University of Central Lancashire, Preston, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Applied Research Collaboration North West Coast (ARC NWC), Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "McKeown",
+                            "ForeName": "Mick",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Applied Research Collaboration North West Coast (ARC NWC), Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Wilson",
+                            "ForeName": "Timothy",
+                            "Initials": "T"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Applied Research Collaboration North West Coast (ARC NWC), Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Corcoran",
+                            "ForeName": "Rhiannon",
+                            "Initials": "R"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "Agency": "Liverpool Clinical Commissioning Group Research Capability Fund (LCCG RCF)",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Health Expect",
+                    "NlmUniqueID": "9815926",
+                    "ISSNLinking": "1369-6513"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "National Institute for Health Research RDS. Patient and Public Involvement in Health and Social Care Research: A Handbook for Researchers. 2014. https://www.rds-yh.nihr.ac.uk/wp-content/uploads/2015/01/RDS_PPI-Handbook_2014-v8-FINAL-11.pdf"
+                            },
+                            {
+                                "Citation": "Boote J, Wong R, Booth A. 'Talking the talk or walking the walk?' A bibliometric review of the literature on public involvement in health research published between 1995 and 2009. Health Expect. 2015;18(1):44-57"
+                            },
+                            {
+                                "Citation": "Brett J, Staniszewska S, Mockford C, Seers K, Herron-Marx S, Bayliss H. The PIRICOM study: a systematic review of the conceptualisation, measurement, impact and outcomes of patients and public involvement in health and social care research. 2010. https://www.ukcrc.org/wp-content/uploads/2014/03/Piricom+Review+Final+2010.pdf. Accessed December 4, 2020."
+                            },
+                            {
+                                "Citation": "Staley K. Exploring impact: Public Involvement in NHS, Public Health and Social Care Research. London, UK: National Institute for Health Research; 2009."
+                            },
+                            {
+                                "Citation": "Staley K, Kabir T, Szmukler G. Service users as collaborators in mental health research: less stick, more carrot. Psychol Med. 2013;43(6):1121-1125."
+                            },
+                            {
+                                "Citation": "Ashcroft J, Wykes T, Crowther A, Taylor J, Szmukler G. Impact on the individual: what do patients and carers gain, lose and expect from being involved in research? J Ment Health. 2016;25(1):28-35."
+                            },
+                            {
+                                "Citation": "Brett J, Staniszewska S, Mockford C, et al. A systematic review of the impact of patient and public involvement on service users, researchers and communities. Patient. 2014;7(4):387-395."
+                            },
+                            {
+                                "Citation": "Beresford P. User involvement in research and evaluation: liberation or regulation? Soc Pol Soc. 2002;1(2):95-105."
+                            },
+                            {
+                                "Citation": "Beresford P, Croft S. User Controlled Research. A Scoping Review. London, UK: NIHR School for Social Care Research; 2012."
+                            },
+                            {
+                                "Citation": "Dzur AW. Democracy Inside: Participatory Innovation in Unlikely Places. New York, NY: Oxford University Press; 2019."
+                            },
+                            {
+                                "Citation": "Groot B, Abma T, Haveman A. Relational, ethically sound co-production in mental health care research: epistemic injustice and the need for an ethics of care. Crit Public Health. 2020;1-11."
+                            },
+                            {
+                                "Citation": "Staniszewska S, Jones N, Newburn M, Marshall S. User involvement in the development of a research bid: barriers, enablers and impacts. Health Expect. 2007;10(2):173-183."
+                            },
+                            {
+                                "Citation": "Oliver K, Kothari A, Mays N. The dark side of coproduction: do the costs outweigh the benefits for health research? Health Res Policy Syst. 2019;17(1):1-10."
+                            },
+                            {
+                                "Citation": "Department of Health. Going the extra mile: improving the nation\u2019s health and wellbeing through public involvement in research. 2015. https://www.nihr.ac.uk/documents/about-us/our-contribution-to-research/how-we-involve-patients-carers-and-the-public/Going-the-Extra-Mile.pdf. Accessed December 8, 2020."
+                            },
+                            {
+                                "Citation": "Green G. Power to the people: to what extent has public involvement in applied health research achieved this? Res Involv Engagem. 2016;2(1):28."
+                            },
+                            {
+                                "Citation": "Braun V, Clarke V. Using thematic analysis in psychology. Qual Res Psychol. 2006;3(2):77-101."
+                            },
+                            {
+                                "Citation": "Spandler H, McKeown M. Exploring the case for truth and reconciliation in mental health services. Ment Health Rev J. 2017;22(2):83-94."
+                            },
+                            {
+                                "Citation": "Poursanidou D. When you make your trauma a crucial aspect of your identity, it becomes harder to heal from it. 2015. https://asylummagazine.org/2015/08/when-you-make-your-trauma-a-crucial-aspect-of-your-identity-it-becomes-harder-to-heal-from-it/. Accessed December 8, 2020."
+                            },
+                            {
+                                "Citation": "Clarke J, Newman J, Smith N, Vidler E, Westmarland L. Creating Citizen-Consumers: Changing Publics and Changing Public Services. London, UK: SAGE Publications Ltd; 2007."
+                            },
+                            {
+                                "Citation": "Komporozos-Athanasiou A, Fudge N, Adams M, McKevitt C. Citizen participation as political ritual: towards a sociological theorizing of \u2018health citizenship\u2019. Sociology. 2018;52(4):744-761."
+                            },
+                            {
+                                "Citation": "Papoulias S, Callard F. 'A limpet on a ship': spatio-temporal dynamics of patient and public involvement in research. Health Expect. 2021:1-9. https://doi.org/10.1111/hex.13215"
+                            },
+                            {
+                                "Citation": "Church K. Beyond, \u201cbad manners\u201d: the power relations of \u201cconsumer participation\u201d in Ontario's community mental health system. Can J Commun Ment Health. 2009;15(2):27-44."
+                            },
+                            {
+                                "Citation": "Barnes M. Care in Everyday Life: An Ethic of Care in Practice. Bristol, UK: Policy Press; 2012."
+                            },
+                            {
+                                "Citation": "McKeown M, Dzur AW, Fisher P. Coproducing democratic relationships. In: Raffay J, McKeown M, Thorton T, eds. Co-Production in Mental Health: Lighting Up Dark Places. Monmouth, UK: PCCS Books; 2021"
+                            }
+                        ],
+                        "Title": "REFERENCES"
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2021",
+                        "Month": "03",
+                        "Day": "31"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "02",
+                        "Day": "24"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "04",
+                        "Day": "06"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "5",
+                        "Day": "5",
+                        "Hour": "9",
+                        "Minute": "18"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "5",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "5",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "aheadofprint",
+                "ArticleIdList": [
+                    "33949751",
+                    "10.1111/hex.13261"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1111/hex.13261)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1111%2Fhex.13261%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1111%2Fhex.13261%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105045039"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105045039?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105045039&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85105045039&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85105045039",
+                        "dc:identifier": "SCOPUS_ID:85105045039",
+                        "eid": "2-s2.0-85105045039",
+                        "dc:title": "A qualitative evaluation of coproduction of research: \u2018If you do it properly, you will get turbulence\u2019",
+                        "dc:creator": "Worsley J.D.",
+                        "prism:publicationName": "Health Expectations",
+                        "prism:issn": "13696513",
+                        "prism:eIssn": "13697625",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2021-01-01",
+                        "prism:coverDisplayDate": "2021",
+                        "prism:doi": "10.1111/hex.13261",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "cp",
+                        "subtypeDescription": "Conference Paper",
+                        "source-id": "20885",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfullgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryam"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "PSC6A3WW.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33949751"
+            }
+        },
+        "title": "A qualitative evaluation of coproduction of research: 'If you do it properly, you will get turbulence'.",
+        "full_author_list": [
+            {
+                "clean": "Worsley J",
+                "family": "Worsley",
+                "given": "Joanne Deborah",
+                "affiliation": {
+                    "name": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "McKeown M",
+                "family": "McKeown",
+                "given": "Mick",
+                "affiliation": {
+                    "name": "School of Nursing, University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Wilson T",
+                "family": "Wilson",
+                "given": "Timothy",
+                "affiliation": {
+                    "name": "Applied Research Collaboration North West Coast (ARC NWC), Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Corcoran R",
+                "family": "Corcoran",
+                "given": "Rhiannon",
+                "affiliation": {
+                    "name": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Worsley J",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "coproduction",
+                "involvement",
+                "lived experience",
+                "power",
+                "trust"
+            ]
+        },
+        "journal": {
+            "journal_name": "Health Expect",
+            "volume": "",
+            "issue": ""
+        },
+        "abstract": "['Patients and public members are increasingly involved across the different stages of the research process. Their involvement is particularly important in the conception and design of applied health research where it enables people with lived experience to influence the aims, content, focus and methods.', 'To evaluate the process of coproducing a mental health-related research proposal suitable for funding through a national health research funding body.', 'Reflections from members of the public (n\\xa0=\\xa03) and academic researchers (n\\xa0=\\xa03) were collected through semi-structured interviews. Data were thematically analysed.', \"Thematic analysis identified five overarching themes: valuing the lived experience perspective; matching ambitions to the funded research process; 'Us and them': power, relationships and trust; challenges; and benefits of coproduction.\", \"Our findings suggest that for successful coproduction of a research funding application, an open and trusting atmosphere, where equal relationships are established and a shared common goal agreed is essential. Although relationships with research professionals were framed by trust and mutual respect for some public advisors, others felt a sense of 'us and them'. With various tensions played out through interpersonal conflict, difficult conversations and disagreements, coproduction was not a positive experience for all stakeholders involved. Among the learning was that when collaboration of this kind is constrained by time or funding, genuine, impactful coproduction can be more challenging than is generally acknowledged.\"]",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Primary Care and Mental Health, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

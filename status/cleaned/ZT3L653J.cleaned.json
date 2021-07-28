@@ -1,0 +1,1202 @@
+{
+    "IDs": {
+        "zotero": "ZT3L653J",
+        "DOI": "10.1007/s00520-020-05542-6",
+        "DOI_filename": "bda6152abe670c254ccae1f7033a0680",
+        "PMID": "32500207",
+        "scopus": "2-s2.0-85085987501",
+        "hash": "99a65e6d700696402d855aee740632fb"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "ZT3L653J",
+            "version": 1000,
+            "itemType": "journalArticle",
+            "title": "The patient needs assessment in cancer care: identifying barriers and facilitators to implementation in the UK and Canada",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Susan",
+                    "lastName": "Williamson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Thomas F.",
+                    "lastName": "Hack"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Munirah",
+                    "lastName": "Bangee"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Valerio",
+                    "lastName": "Benedetto"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kinta",
+                    "lastName": "Beaver"
+                }
+            ],
+            "abstractNote": "Abstract\n            \n              Purpose\n              Personalised information and support can be provided to cancer survivors using a structured approach. Needs assessment tools such as the Holistic Needs Assessment (HNA) in the UK and the Comprehensive Problem and Symptom Screening (COMPASS) questionnaire in Canada are recommended for use in practice; however, they are not widely embedded into practice. The study aimed to determine the extent to which nurses working in cancer care in the UK and Manitoba value NA and identify any barriers and facilitators they experience.\n            \n            \n              Method\n              \n                Oncology nurses involved in the care of cancer patients in the UK (\n                n\n                \u00a0=\u2009110) and Manitoba (\n                n\n                \u00a0=\u2009221) were emailed a link to an online survey by lead cancer nurses in the participating institutions. A snowball technique was used to increase participation across the UK resulting in 306 oncology nurses completing the survey in the UK and 116 in Canada.\n              \n            \n            \n              Results\n              Participants expressed concerns that these assessments were becoming bureaucratic \u201ctick-box exercises\u201d which did not meet patients\u2019 needs. Barriers to completion were time, staff shortages, lack of confidence, privacy, and resources. Facilitators were privacy for confidential discussions, training, confidence in knowledge and skills, and referral to resources.\n            \n            \n              Conclusion\n              Many busy oncology nurses completed this survey demonstrating the importance they attach to HNAs and COMPASS. The challenges faced with implementing these assessments into everyday practice require training, time, support services, and an appropriate environment. It is vital that the HNA and COMPASS are conducted at optimum times for patients to fully utilise time and resources.",
+            "publicationTitle": "Supportive Care in Cancer",
+            "volume": "29",
+            "issue": "2",
+            "pages": "805-812",
+            "date": "02/2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Support Care Cancer",
+            "language": "en",
+            "DOI": "10.1007/s00520-020-05542-6",
+            "ISSN": "0941-4355, 1433-7339",
+            "shortTitle": "The patient needs assessment in cancer care",
+            "url": "https://link.springer.com/10.1007/s00520-020-05542-6",
+            "accessDate": "2021-07-23T16:46:04Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32500207",
+            "tags": [
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:05Z",
+            "dateModified": "2021-07-27T12:11:57Z",
+            "pmid": "32500207"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        4
+                    ]
+                ],
+                "date-time": "2021-06-04T00:21:21Z",
+                "timestamp": 1622766081456
+            },
+            "reference-count": 31,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "2",
+            "license": [
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                6,
+                                4
+                            ]
+                        ],
+                        "date-time": "2020-06-04T00:00:00Z",
+                        "timestamp": 1591228800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                6,
+                                4
+                            ]
+                        ],
+                        "date-time": "2020-06-04T00:00:00Z",
+                        "timestamp": 1591228800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "name": "Rosemere Cancer Foundation",
+                    "award": [
+                        "not applicable"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        2
+                    ]
+                ]
+            },
+            "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Purpose</jats:title>\n                <jats:p>Personalised information and support can be provided to cancer survivors using a structured approach. Needs assessment tools such as the Holistic Needs Assessment (HNA) in the UK and the Comprehensive Problem and Symptom Screening (COMPASS) questionnaire in Canada are recommended for use in practice; however, they are not widely embedded into practice. The study aimed to determine the extent to which nurses working in cancer care in the UK and Manitoba value NA and identify any barriers and facilitators they experience.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Method</jats:title>\n                <jats:p>Oncology nurses involved in the care of cancer patients in the UK (<jats:italic>n</jats:italic>\u00a0=\u2009110) and Manitoba (<jats:italic>n</jats:italic>\u00a0=\u2009221) were emailed a link to an online survey by lead cancer nurses in the participating institutions. A snowball technique was used to increase participation across the UK resulting in 306 oncology nurses completing the survey in the UK and 116 in Canada.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>Participants expressed concerns that these assessments were becoming bureaucratic \u201ctick-box exercises\u201d which did not meet patients\u2019 needs. Barriers to completion were time, staff shortages, lack of confidence, privacy, and resources. Facilitators were privacy for confidential discussions, training, confidence in knowledge and skills, and referral to resources.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusion</jats:title>\n                <jats:p>Many busy oncology nurses completed this survey demonstrating the importance they attach to HNAs and COMPASS. The challenges faced with implementing these assessments into everyday practice require training, time, support services, and an appropriate environment. It is vital that the HNA and COMPASS are conducted at optimum times for patients to fully utilise time and resources.</jats:p>\n              </jats:sec>",
+            "DOI": "10.1007/s00520-020-05542-6",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        4
+                    ]
+                ],
+                "date-time": "2020-06-04T23:02:46Z",
+                "timestamp": 1591311766000
+            },
+            "page": "805-812",
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "The patient needs assessment in cancer care: identifying barriers and facilitators to implementation in the UK and Canada",
+            "prefix": "10.1007",
+            "volume": "29",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-9635-4473",
+                    "authenticated-orcid": false,
+                    "given": "Susan",
+                    "family": "Williamson",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Thomas F.",
+                    "family": "Hack",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Munirah",
+                    "family": "Bangee",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Valerio",
+                    "family": "Benedetto",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Kinta",
+                    "family": "Beaver",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        4
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "5542_CR1",
+                    "unstructured": "Canadian Cancer Statistics Advisory Committee (2019) Canadian Cancer Statistics 2019. Canadian Cancer Society, Toronto, ON. Available at: http://www.cancer.ca/en/region-selector-page/?url=%2fen%2fcancer-information%2fcancer-101%2fcanadian-cancer-statistics-publication%2f (accessed January, 2020)"
+                },
+                {
+                    "key": "5542_CR2",
+                    "unstructured": "http://www.macmillan.org.uk/documents/aboutus/research/keystats/statisticsfactsheet.pdf (accessed June 2017)"
+                },
+                {
+                    "key": "5542_CR3",
+                    "unstructured": "National Cancer Survivorship Initiative (NCSI) (2010) www.dh.gov.uk"
+                },
+                {
+                    "key": "5542_CR4",
+                    "unstructured": "Achieving World-Class Cancer Outcomes. A strategy for England 2015-2020. A report of the Independent Cancer Taskforce July 2015"
+                },
+                {
+                    "key": "5542_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "541e547",
+                    "DOI": "10.1038/sj.bjc.6605148",
+                    "volume": "101",
+                    "author": "J Maddams",
+                    "year": "2009",
+                    "unstructured": "Maddams J, Brewster D, Gavin A, Steward J, Elliot J, Utley M et al (2009) Cancer prevalence in the United Kingdom: estimates for 2008. Br J Cancer 101:541e547",
+                    "journal-title": "Br J Cancer"
+                },
+                {
+                    "key": "5542_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "463",
+                    "DOI": "10.1002/pon.1932",
+                    "volume": "20",
+                    "author": "BD Bultz",
+                    "year": "2011",
+                    "unstructured": "Bultz BD, Groff SL, Fitch M, Blais MC, Howes J, Levy K, Mayer C (2011) Implementing screening for distress, the 6th vital sign: a Canadian strategy for changing practice. Psychooncology 20:463\u2013469",
+                    "journal-title": "Psychooncology"
+                },
+                {
+                    "key": "5542_CR7",
+                    "unstructured": "Cancer Action Team (2007) Holistic Common Assessment of Supportive and Palliative"
+                },
+                {
+                    "key": "5542_CR8",
+                    "author": "D Howell",
+                    "year": "2015",
+                    "unstructured": "Howell D, Keshavarz H, Esplen MJ, Hack T, Hamel M, Howes J, Jones J, Li M, Manii D, McLeod D, Mayer C, Sellick S, Riahizadeh S, Noroozi H, Ali M, On behalf of the cancer journey advisory group of the Canadian Partnership Against Cancer (2015) A Pan Canadian Practice Guideline: Screening, Assessment and care of psychosocial distress, Depression, and Anxiety in Adults with cancer. Canadian Partnership Against Cancer and the Canadian Association of Psychosocial Oncology, Toronto",
+                    "volume-title": "A Pan Canadian Practice Guideline: Screening, Assessment and care of psychosocial distress, Depression, and Anxiety in Adults with cancer"
+                },
+                {
+                    "key": "5542_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "6",
+                    "DOI": "10.1177/082585979100700202",
+                    "volume": "7",
+                    "author": "E Bruera",
+                    "year": "1991",
+                    "unstructured": "Bruera E, Kuehn N, Miller MJ, Selmser P, Macmillan K (1991) The Edmonton Symptom Assessment System (ESAS): a simple method for the assessment of palliative care patients. J Palliat Care 7:6\u20139",
+                    "journal-title": "J Palliat Care"
+                },
+                {
+                    "key": "5542_CR10",
+                    "unstructured": "Comprehensive Problem and Symptom Screening (COMPASS). Retrieved from https://www.cancercare.mb.ca/export/sites/default/Patient-Family/.galleries/files/your-first-visit-files/COMPASS.pdf"
+                },
+                {
+                    "key": "5542_CR11",
+                    "unstructured": "Department of Health (2007) Cancer reform Strategy"
+                },
+                {
+                    "key": "5542_CR12",
+                    "unstructured": "NHS England, Cancer Patient Experience Survey (2014) Quality health"
+                },
+                {
+                    "key": "5542_CR13",
+                    "unstructured": "Macmillan (2011) Cancer Clinical Nurse Specialist: An evidence review"
+                },
+                {
+                    "key": "5542_CR14",
+                    "unstructured": "National Cancer Action Team (2011) www.cquins.nhs.uk/.../NCAT_NCPR_National_Report_2011-12.pdf"
+                },
+                {
+                    "key": "5542_CR15",
+                    "unstructured": "Richardson A Finding the time for teams to undertake holistic needs assessment. Poster presentation from Southampton University Hospitals NHS Trust. (Available at http://ncat.nhs.uk/sites/default/files/NCAT%20Poster%20-%20HNA%20and%20lean.pdf)"
+                },
+                {
+                    "key": "5542_CR16",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "65",
+                    "DOI": "10.1186/1472-6963-8-65",
+                    "volume": "8",
+                    "author": "C Tarrant",
+                    "year": "2008",
+                    "unstructured": "Tarrant C, Sinfield P, Agarwal S, Baker P (2008) Is seeing a specialist nurse associated with positive experiences of care? The role and value of specialist nurses in prostate cancer care. BMC Health Serv Res 8:65. https://doi.org/10.1186/1472-6963-8-65",
+                    "journal-title": "BMC Health Serv Res"
+                },
+                {
+                    "key": "5542_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1160",
+                    "DOI": "10.1200/JCO.2011.39.5509",
+                    "volume": "30",
+                    "author": "LE Carlson",
+                    "year": "2012",
+                    "unstructured": "Carlson LE, Waller A, Mitchell AJ (2012) Screening for distress and unmet needs in patients with cancer: review and recommendations. J Clin Oncol 30:1160\u20131177",
+                    "journal-title": "J Clin Oncol"
+                },
+                {
+                    "key": "5542_CR18",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "277",
+                    "DOI": "10.1007/s10269-011-2026-8",
+                    "volume": "13",
+                    "author": "L Fillion",
+                    "year": "2011",
+                    "unstructured": "Fillion L, Cook S, Blais MC et al (2011) Implementation of screening for distress with professional cancer navigators. Oncologie 13:277\u2013289",
+                    "journal-title": "Oncologie"
+                },
+                {
+                    "key": "5542_CR19",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "18",
+                    "DOI": "10.1016/j.jpsychores.2013.04.002",
+                    "volume": "75",
+                    "author": "BD Bultz",
+                    "year": "2013",
+                    "unstructured": "Bultz BD, Carlson LE (2013) A commentary on \u201cEffects of screening for psychological distress on patient outcomes in cancer: a systematic review.\u201d. J Psychosom Res 75:18\u201319",
+                    "journal-title": "J Psychosom Res"
+                },
+                {
+                    "key": "5542_CR20",
+                    "author": "JM Morse",
+                    "year": "1998",
+                    "edition": "2\u2019nd",
+                    "unstructured": "Morse JM, Field PA (1998) Nursing research: the application of qualitative approaches, 2\u2019nd edn. Stanley Thornes, Cheltenham",
+                    "volume-title": "Nursing research: the application of qualitative approaches"
+                },
+                {
+                    "key": "5542_CR21",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "748",
+                    "DOI": "10.1111/ecc.12370",
+                    "volume": "24",
+                    "author": "M Wells",
+                    "year": "2015",
+                    "unstructured": "Wells M, Cunningham M, Lang H, Swartzman S, Philip J, Taylor L, Thomson J (2015) Distress, concerns and unmet needs in survivors of head and neck cancer: a cross-sectional survey. Eur J Cancer Care 24:748\u2013760",
+                    "journal-title": "Eur J Cancer Care"
+                },
+                {
+                    "key": "5542_CR22",
+                    "unstructured": "http://www.macmillan.org.uk/documents/aboutus/research/researchandevaluationreports/throwinglightontheconsequencesofcanceranditstreatment.pdf (accessed June 2017)"
+                },
+                {
+                    "key": "5542_CR23",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "300",
+                    "DOI": "10.1007/s11764-013-0272-z",
+                    "volume": "7",
+                    "author": "S Simard",
+                    "year": "2013",
+                    "unstructured": "Simard S, Thewes B, Humphris G, Dixon M, Hayden C, Mireskandari S, Ozakinci G (2013) Fear of cancer recurrence in adult cancer survivors: a systematic review of quantitative studies. J Cancer Surviv 7:300\u2013322",
+                    "journal-title": "J Cancer Surviv"
+                },
+                {
+                    "key": "5542_CR24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "279",
+                    "DOI": "10.1002/pon.4444",
+                    "volume": "27",
+                    "author": "SC Reed",
+                    "year": "2017",
+                    "unstructured": "Reed SC, Bell JF, Whitney R, Lash R, Kim KK, Bold RJ (2017) Psychosocial outcomes in active treatment through survivorship. Psychooncology. 27:279\u2013285. https://doi.org/10.1002/pon.4444",
+                    "journal-title": "Psychooncology."
+                },
+                {
+                    "key": "5542_CR25",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "2289",
+                    "DOI": "10.1002/pon.4831",
+                    "volume": "27",
+                    "author": "D McLeod",
+                    "year": "2018",
+                    "unstructured": "McLeod D, Esplen MJ, Wong J, Hack TF, Fillion L, Howell D, Fitch M, Dufresne J (2018) Enhancing clinical practice in the management of distress: the Therapeutic Practices for Distress Management (TPDM) project. Psycho-Oncology 27:2289\u20132295",
+                    "journal-title": "Psycho-Oncology"
+                },
+                {
+                    "key": "5542_CR26",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "59",
+                    "DOI": "10.1016/j.ejon.2016.04.004",
+                    "volume": "23",
+                    "author": "L Biddle",
+                    "year": "2016",
+                    "unstructured": "Biddle L, Paramasivan S, Harris S, Campbell R, Brennan J, Hollingworth W (2016) Patients' and clinicians' experiences of holistic needs assessment using a cancer distress thermometer and problem list: a qualitative study. Eur J Oncol Nurs 23:59\u201365",
+                    "journal-title": "Eur J Oncol Nurs"
+                },
+                {
+                    "issue": "4",
+                    "key": "5542_CR27",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "S17",
+                    "DOI": "10.12968/bjon.2015.24.Sup4.S17",
+                    "volume": "24",
+                    "author": "J Young",
+                    "year": "2015",
+                    "unstructured": "Young J, Cund A, Renshaw M, Quigley A, Snowden A (2015) Improving the care of cancer patients: holistic needs assessment. Br J Nurs 24(4):S17\u2013S20. https://doi.org/10.12968/bjon.2015.24.Sup4.S17",
+                    "journal-title": "Br J Nurs"
+                },
+                {
+                    "issue": "19",
+                    "key": "5542_CR28",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "2916",
+                    "DOI": "10.1111/j.1365-2702.2010.03197.x",
+                    "volume": "19",
+                    "author": "K Beaver",
+                    "year": "2010",
+                    "unstructured": "Beaver K, Williamson S, Chalmers K (2010) Telephone follow-up after treatment for breast cancer: views and experiences of patients and specialist breast care nurses. J Clin Nurs 19(19):2916\u20132924",
+                    "journal-title": "J Clin Nurs"
+                },
+                {
+                    "key": "5542_CR29",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "237",
+                    "DOI": "10.1016/j.ejon.2014.11.006",
+                    "volume": "19",
+                    "author": "S Williamson",
+                    "year": "2015",
+                    "unstructured": "Williamson S, Chalmers K, Beaver K (2015) Patient experiences of nurse-led telephone follow-up following treatment for colorectal cancer. Eur J Oncol Nurs 19:237\u2013224",
+                    "journal-title": "Eur J Oncol Nurs"
+                },
+                {
+                    "key": "5542_CR30",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "61",
+                    "DOI": "10.1016/j.ejon.2018.02.005",
+                    "volume": "34",
+                    "author": "S Williamson",
+                    "year": "2018",
+                    "unstructured": "Williamson S, Beaver K, Gardner A, Martin-Hirsch P (2018) Telephone follow-up after treatment for endometrial cancer: a qualitative study of patients\u2019 and clinical nurse specialists\u2019 experiences in the ENDCAT trial. Eur J Oncol Nurs 34:61\u201367",
+                    "journal-title": "Eur J Oncol Nurs"
+                },
+                {
+                    "issue": "1",
+                    "key": "5542_CR31",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1077",
+                    "DOI": "10.1186/s12885-018-4962-9",
+                    "volume": "18",
+                    "author": "P Butow",
+                    "year": "2018",
+                    "unstructured": "Butow P, Shaw J, Shepherd HL et al (2018) Comparison of implementation strategies to influence adherence to the clinical pathway for screening, assessment and management of anxiety and depression in adult cancer patients (ADAPT CP): study protocol of a cluster randomised controlled trial. BMC Cancer 18(1):1077. https://doi.org/10.1186/s12885-018-4962-9",
+                    "journal-title": "BMC Cancer"
+                }
+            ],
+            "container-title": "Supportive Care in Cancer",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://link.springer.com/content/pdf/10.1007/s00520-020-05542-6.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://link.springer.com/article/10.1007/s00520-020-05542-6/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://link.springer.com/content/pdf/10.1007/s00520-020-05542-6.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        3
+                    ]
+                ],
+                "date-time": "2021-06-03T23:47:25Z",
+                "timestamp": 1622764045000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        4
+                    ]
+                ]
+            },
+            "references-count": 31,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            2
+                        ]
+                    ]
+                },
+                "issue": "2"
+            },
+            "alternative-id": [
+                "5542"
+            ],
+            "URL": "http://dx.doi.org/10.1007/s00520-020-05542-6",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0941-4355",
+                "1433-7339"
+            ],
+            "subject": [
+                "Oncology"
+            ],
+            "container-title-short": "Support Care Cancer",
+            "assertion": [
+                {
+                    "value": "12 February 2020",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "19 May 2020",
+                    "order": 2,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "4 June 2020",
+                    "order": 3,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Compliance with ethical standards"
+                    }
+                },
+                {
+                    "value": "The authors declare no conflict of interest, have control of all primary data, and will allow the journal to review the data if requested.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Conflict of interest"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [
+                    [
+                        "COMPASS",
+                        "Cancer",
+                        "Cancer survivorship",
+                        "Holistic needs assessment",
+                        "Recovery package"
+                    ]
+                ],
+                "OtherID": [],
+                "PMID": "32500207",
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "02",
+                    "Day": "18"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "02",
+                    "Day": "18"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "06",
+                            "Day": "04"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1007/s00520-020-05542-6"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1433-7339",
+                        "JournalIssue": {
+                            "Volume": "29",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "Feb"
+                            }
+                        },
+                        "Title": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+                        "ISOAbbreviation": "Support Care Cancer"
+                    },
+                    "ArticleTitle": "The patient needs assessment in cancer care: identifying barriers and facilitators to implementation in the UK and Canada.",
+                    "Pagination": {
+                        "MedlinePgn": "805-812"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "Personalised information and support can be provided to cancer survivors using a structured approach. Needs assessment tools such as the Holistic Needs Assessment (HNA) in the UK and the Comprehensive Problem and Symptom Screening (COMPASS) questionnaire in Canada are recommended for use in practice; however, they are not widely embedded into practice. The study aimed to determine the extent to which nurses working in cancer care in the UK and Manitoba value NA and identify any barriers and facilitators they experience.",
+                            "Oncology nurses involved in the care of cancer patients in the UK (n\u00a0=\u2009110) and Manitoba (n\u00a0=\u2009221) were emailed a link to an online survey by lead cancer nurses in the participating institutions. A snowball technique was used to increase participation across the UK resulting in 306 oncology nurses completing the survey in the UK and 116 in Canada.",
+                            "Participants expressed concerns that these assessments were becoming bureaucratic \"tick-box exercises\" which did not meet patients' needs. Barriers to completion were time, staff shortages, lack of confidence, privacy, and resources. Facilitators were privacy for confidential discussions, training, confidence in knowledge and skills, and referral to resources.",
+                            "Many busy oncology nurses completed this survey demonstrating the importance they attach to HNAs and COMPASS. The challenges faced with implementing these assessments into everyday practice require training, time, support services, and an appropriate environment. It is vital that the HNA and COMPASS are conducted at optimum times for patients to fully utilise time and resources."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK. swilliamson2@uclan.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0002-9635-4473"
+                            ],
+                            "LastName": "Williamson",
+                            "ForeName": "Susan",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "College of Nursing, Rady Faculty of Health Sciences, University of Manitoba, Winnipeg, Canada."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Hack",
+                            "ForeName": "Thomas F",
+                            "Initials": "TF"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Bangee",
+                            "ForeName": "Munirah",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Benedetto",
+                            "ForeName": "Valerio",
+                            "Initials": "V"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "University of Central Lancashire, Preston, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Beaver",
+                            "ForeName": "Kinta",
+                            "Initials": "K"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "not applicable",
+                            "Agency": "Rosemere Cancer Foundation",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Germany",
+                    "MedlineTA": "Support Care Cancer",
+                    "NlmUniqueID": "9302957",
+                    "ISSNLinking": "0941-4355"
+                },
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Adult",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Canada",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Female",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Resources",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Health Services Accessibility",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Middle Aged",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Needs Assessment",
+                        "MajorTopicYN": "Y"
+                    },
+                    {
+                        "QualifierName": [
+                            "nursing",
+                            "therapy"
+                        ],
+                        "DescriptorName": "Neoplasms",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Oncology Nursing",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Palliative Care",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Surveys and Questionnaires",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "United Kingdom",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [
+                    {
+                        "ReferenceList": [],
+                        "Reference": [
+                            {
+                                "Citation": "Br J Nurs. 2015 Feb 26-Mar 11;24(4):S17-20",
+                                "ArticleIdList": [
+                                    "25723367"
+                                ]
+                            },
+                            {
+                                "Citation": "J Psychosom Res. 2013 Jul;75(1):18-9",
+                                "ArticleIdList": [
+                                    "23751232"
+                                ]
+                            },
+                            {
+                                "Citation": "Br J Cancer. 2009 Aug 4;101(3):541-7",
+                                "ArticleIdList": [
+                                    "19568236"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Nurs. 2010 Oct;19(19-20):2916-24",
+                                "ArticleIdList": [
+                                    "20649914"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychooncology. 2011 May;20(5):463-9",
+                                "ArticleIdList": [
+                                    "21456060"
+                                ]
+                            },
+                            {
+                                "Citation": "J Clin Oncol. 2012 Apr 10;30(11):1160-77",
+                                "ArticleIdList": [
+                                    "22412146"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Cancer Care (Engl). 2015 Sep;24(5):748-60",
+                                "ArticleIdList": [
+                                    "26250705"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychooncology. 2018 Jan;27(1):279-285",
+                                "ArticleIdList": [
+                                    "28429466"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Health Serv Res. 2008 Mar 27;8:65",
+                                "ArticleIdList": [
+                                    "18371192"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Oncol Nurs. 2015 Jun;19(3):237-43",
+                                "ArticleIdList": [
+                                    "25529937"
+                                ]
+                            },
+                            {
+                                "Citation": "BMC Cancer. 2018 Nov 7;18(1):1077",
+                                "ArticleIdList": [
+                                    "30404619"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Oncol Nurs. 2018 Jun;34:61-67",
+                                "ArticleIdList": [
+                                    "29784140"
+                                ]
+                            },
+                            {
+                                "Citation": "J Cancer Surviv. 2013 Sep;7(3):300-22",
+                                "ArticleIdList": [
+                                    "23475398"
+                                ]
+                            },
+                            {
+                                "Citation": "J Palliat Care. 1991 Summer;7(2):6-9",
+                                "ArticleIdList": [
+                                    "1714502"
+                                ]
+                            },
+                            {
+                                "Citation": "Psychooncology. 2018 Sep;27(9):2289-2295",
+                                "ArticleIdList": [
+                                    "29956392"
+                                ]
+                            },
+                            {
+                                "Citation": "Eur J Oncol Nurs. 2016 Aug;23:59-65",
+                                "ArticleIdList": [
+                                    "27456376"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "02",
+                        "Day": "12"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "05",
+                        "Day": "19"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "2",
+                        "Day": "20",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "32500207",
+                    "10.1007/s00520-020-05542-6",
+                    "10.1007/s00520-020-05542-6",
+                    "PMC7767902"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32500207)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832500207%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832500207%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085987501"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085987501?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085987501&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085987501&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085987501",
+                        "dc:identifier": "SCOPUS_ID:85085987501",
+                        "eid": "2-s2.0-85085987501",
+                        "dc:title": "The patient needs assessment in cancer care: identifying barriers and facilitators to implementation in the UK and Canada",
+                        "dc:creator": "Williamson S.",
+                        "prism:publicationName": "Supportive Care in Cancer",
+                        "prism:issn": "09414355",
+                        "prism:eIssn": "14337339",
+                        "prism:volume": "29",
+                        "prism:issueIdentifier": "2",
+                        "prism:pageRange": "805-812",
+                        "prism:coverDate": "2021-02-01",
+                        "prism:coverDisplayDate": "February 2021",
+                        "prism:doi": "10.1007/s00520-020-05542-6",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32500207",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "13147",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherhybridgold"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Hybrid Gold"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "ZT3L653J.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32500207"
+            }
+        },
+        "title": "The patient needs assessment in cancer care: identifying barriers and facilitators to implementation in the UK and Canada.",
+        "full_author_list": [
+            {
+                "clean": "Williamson S",
+                "family": "Williamson",
+                "given": "Susan",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK. swilliamson2@uclan.ac.uk."
+                }
+            },
+            {
+                "clean": "Hack T",
+                "family": "Hack",
+                "given": "Thomas F",
+                "affiliation": {
+                    "name": "College of Nursing, Rady Faculty of Health Sciences, University of Manitoba, Winnipeg, Canada."
+                }
+            },
+            {
+                "clean": "Bangee M",
+                "family": "Bangee",
+                "given": "Munirah",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Benedetto V",
+                "family": "Benedetto",
+                "given": "Valerio",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            },
+            {
+                "clean": "Beaver K",
+                "family": "Beaver",
+                "given": "Kinta",
+                "affiliation": {
+                    "name": "University of Central Lancashire, Preston, UK."
+                }
+            }
+        ],
+        "first_author": "Williamson S",
+        "zotero_tags": [
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Adult",
+                    "major": "N"
+                },
+                {
+                    "term": "Canada",
+                    "major": "N"
+                },
+                {
+                    "term": "Female",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Resources",
+                    "major": "N"
+                },
+                {
+                    "term": "Health Services Accessibility",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Middle Aged",
+                    "major": "N"
+                },
+                {
+                    "term": "Needs Assessment",
+                    "major": "Y"
+                },
+                {
+                    "term": "Neoplasms",
+                    "major": "N"
+                },
+                {
+                    "term": "Oncology Nursing",
+                    "major": "N"
+                },
+                {
+                    "term": "Palliative Care",
+                    "major": "N"
+                },
+                {
+                    "term": "Surveys and Questionnaires",
+                    "major": "N"
+                },
+                {
+                    "term": "United Kingdom",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "COMPASS",
+                "Cancer",
+                "Cancer survivorship",
+                "Holistic needs assessment",
+                "Recovery package"
+            ]
+        },
+        "journal": {
+            "journal_name": "Support Care Cancer",
+            "volume": "29",
+            "issue": "2"
+        },
+        "abstract": "['Personalised information and support can be provided to cancer survivors using a structured approach. Needs assessment tools such as the Holistic Needs Assessment (HNA) in the UK and the Comprehensive Problem and Symptom Screening (COMPASS) questionnaire in Canada are recommended for use in practice; however, they are not widely embedded into practice. The study aimed to determine the extent to which nurses working in cancer care in the UK and Manitoba value NA and identify any barriers and facilitators they experience.', 'Oncology nurses involved in the care of cancer patients in the UK (n\\xa0=\\u2009110) and Manitoba (n\\xa0=\\u2009221) were emailed a link to an online survey by lead cancer nurses in the participating institutions. A snowball technique was used to increase participation across the UK resulting in 306 oncology nurses completing the survey in the UK and 116 in Canada.', 'Participants expressed concerns that these assessments were becoming bureaucratic \"tick-box exercises\" which did not meet patients\\' needs. Barriers to completion were time, staff shortages, lack of confidence, privacy, and resources. Facilitators were privacy for confidential discussions, training, confidence in knowledge and skills, and referral to resources.', 'Many busy oncology nurses completed this survey demonstrating the importance they attach to HNAs and COMPASS. The challenges faced with implementing these assessments into everyday practice require training, time, support services, and an appropriate environment. It is vital that the HNA and COMPASS are conducted at optimum times for patients to fully utilise time and resources.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "University of Central Lancashire, Preston, UK. swilliamson2@uclan.ac.uk.",
+            "clean_institute": "University of Central Lancashire",
+            "country": "United Kingdom",
+            "latitude": "53.759444444444",
+            "longitude": "-2.6980555555556"
+        }
+    }
+}

@@ -1,0 +1,1564 @@
+{
+    "IDs": {
+        "zotero": "9DX38V34",
+        "DOI": "10.1007/s00330-020-06661-8",
+        "DOI_filename": "3b89517e066e9ca78d8a1359042902f1",
+        "PMID": "32060716",
+        "scopus": "2-s2.0-85079483272",
+        "hash": "0e42b25724ec40f75edb941e3e17f9fb"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "9DX38V34",
+            "version": 982,
+            "itemType": "journalArticle",
+            "title": "Dynamic contrast\u2013enhanced computed tomography for the diagnosis of solitary pulmonary nodules: a systematic review and meta-analysis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jonathan R.",
+                    "lastName": "Weir-McCall"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stella",
+                    "lastName": "Joyce"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Clegg"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "James W.",
+                    "lastName": "MacKay"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Gabrielle",
+                    "lastName": "Baxter"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Lena-Marie",
+                    "lastName": "Dendl"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Robert C.",
+                    "lastName": "Rintoul"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Nagmi R.",
+                    "lastName": "Qureshi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ken",
+                    "lastName": "Miles"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Fiona J.",
+                    "lastName": "Gilbert"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "European Radiology",
+            "volume": "30",
+            "issue": "6",
+            "pages": "3310-3323",
+            "date": "06/2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Eur Radiol",
+            "language": "en",
+            "DOI": "10.1007/s00330-020-06661-8",
+            "ISSN": "0938-7994, 1432-1084",
+            "shortTitle": "Dynamic contrast\u2013enhanced computed tomography for the diagnosis of solitary pulmonary nodules",
+            "url": "http://link.springer.com/10.1007/s00330-020-06661-8",
+            "accessDate": "2021-07-23T16:46:05Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32060716",
+            "tags": [
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:06Z",
+            "dateModified": "2021-07-27T11:54:16Z",
+            "pmid": "32060716"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        14
+                    ]
+                ],
+                "date-time": "2021-02-14T11:16:57Z",
+                "timestamp": 1613301417041
+            },
+            "reference-count": 47,
+            "publisher": "Springer Science and Business Media LLC",
+            "issue": "6",
+            "license": [
+                {
+                    "URL": "http://www.springer.com/tdm",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                2,
+                                15
+                            ]
+                        ],
+                        "date-time": "2020-02-15T00:00:00Z",
+                        "timestamp": 1581724800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "tdm"
+                },
+                {
+                    "URL": "http://www.springer.com/tdm",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                2,
+                                15
+                            ]
+                        ],
+                        "date-time": "2020-02-15T00:00:00Z",
+                        "timestamp": 1581724800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "vor"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100000664",
+                    "name": "Health Technology Assessment Programme",
+                    "doi-asserted-by": "publisher",
+                    "award": [
+                        "09 22 117"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "link.springer.com"
+                ],
+                "crossmark-restriction": false
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        6
+                    ]
+                ]
+            },
+            "DOI": "10.1007/s00330-020-06661-8",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        15
+                    ]
+                ],
+                "date-time": "2020-02-15T02:02:41Z",
+                "timestamp": 1581732161000
+            },
+            "page": "3310-3323",
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "source": "Crossref",
+            "is-referenced-by-count": 1,
+            "title": "Dynamic contrast\u2013enhanced computed tomography for the diagnosis of solitary pulmonary nodules: a systematic review and meta-analysis",
+            "prefix": "10.1007",
+            "volume": "30",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0001-5842-842X",
+                    "authenticated-orcid": false,
+                    "given": "Jonathan R.",
+                    "family": "Weir-McCall",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Stella",
+                    "family": "Joyce",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Andrew",
+                    "family": "Clegg",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "James W.",
+                    "family": "MacKay",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Gabrielle",
+                    "family": "Baxter",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Lena-Marie",
+                    "family": "Dendl",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Robert C.",
+                    "family": "Rintoul",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Nagmi R.",
+                    "family": "Qureshi",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Ken",
+                    "family": "Miles",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Fiona J.",
+                    "family": "Gilbert",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "297",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        15
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "issue": "1",
+                    "key": "6661_CR1",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "5",
+                    "DOI": "10.3322/caac.21254",
+                    "volume": "65",
+                    "author": "Rebecca L. Siegel",
+                    "year": "2015",
+                    "unstructured": "Siegel RL, Miller KD, Jemal A (2015) Cancer statistics, 2015. CA Cancer J Clin 65:5\u201329. https://doi.org/10.3322/caac.21254",
+                    "journal-title": "CA: A Cancer Journal for Clinicians"
+                },
+                {
+                    "issue": "5",
+                    "key": "6661_CR2",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "602",
+                    "DOI": "10.1164/rccm.201705-0914OC",
+                    "volume": "196",
+                    "author": "Nichole T. Tanner",
+                    "year": "2017",
+                    "unstructured": "Tanner NT, Dai L, Bade BC, Gebregziabher M, Silvestri GA (2017) Assessing the generalizability of the national lung screening trial: comparison of patients with stage 1 disease. Am J Respir Crit Care Med 196:602\u2013608. https://doi.org/10.1164/rccm.201705-0914OC",
+                    "journal-title": "American Journal of Respiratory and Critical Care Medicine"
+                },
+                {
+                    "issue": "1",
+                    "key": "6661_CR3",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "53",
+                    "DOI": "10.1378/chest.08-0529",
+                    "volume": "137",
+                    "author": "Paul G. Barnett",
+                    "year": "2010",
+                    "unstructured": "Barnett PG, Ananth L, Gould MK (2010) Cost and outcomes of patients with solitary pulmonary nodules managed with PET scans. Chest 137:53\u201359. https://doi.org/10.1378/chest.08-0529",
+                    "journal-title": "Chest"
+                },
+                {
+                    "key": "6661_CR4",
+                    "unstructured": "National Lung Screening Trial Research Team, Aberle DR, Adams AM et al (2011) Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 365:395\u2013409. https://doi.org/10.1056/NEJMoa1102873",
+                    "DOI": "10.1056/NEJMoa1102873",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "2",
+                    "key": "6661_CR5",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "395",
+                    "DOI": "10.1148/radiol.2372041887",
+                    "volume": "237",
+                    "author": "Heber MacMahon",
+                    "year": "2005",
+                    "unstructured": "MacMahon H, Austin JHM, Gamsu G et al (2005) Guidelines for management of small pulmonary nodules detected on CT scans: a statement from the Fleischner society. Radiology 237:395\u2013400. https://doi.org/10.1148/radiol.2372041887",
+                    "journal-title": "Radiology"
+                },
+                {
+                    "issue": "1",
+                    "key": "6661_CR6",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "228",
+                    "DOI": "10.1148/radiol.2017161659",
+                    "volume": "284",
+                    "author": "Heber MacMahon",
+                    "year": "2017",
+                    "unstructured": "MacMahon H, Naidich DP, Goo JM et al (2017) Guidelines for management of incidental pulmonary nodules detected on CT images: from the Fleischner society 2017. Radiology 284:228\u2013243. https://doi.org/10.1148/radiol.2017161659",
+                    "journal-title": "Radiology"
+                },
+                {
+                    "issue": "Suppl 2",
+                    "key": "6661_CR7",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "ii1",
+                    "DOI": "10.1136/thoraxjnl-2015-207168",
+                    "volume": "70",
+                    "author": "M E J Callister",
+                    "year": "2015",
+                    "unstructured": "Callister MEJ, Baldwin DR, Akram AR et al (2015) British Thoracic Society guidelines for the investigation and management of pulmonary nodules. Thorax 70(Suppl 2):ii1\u2013ii54. https://doi.org/10.1136/thoraxjnl-2015-207168",
+                    "journal-title": "Thorax"
+                },
+                {
+                    "issue": "5",
+                    "key": "6661_CR8",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e0126036",
+                    "DOI": "10.1371/journal.pone.0126036",
+                    "volume": "10",
+                    "author": "Masatoshi Matsumoto",
+                    "year": "2015",
+                    "unstructured": "Matsumoto M, Koike S, Kashima S, Awai K (2015) Geographic distribution of CT, MRI and PET devices in Japan: a longitudinal analysis based on national census data. PLoS One 10:1\u201312. https://doi.org/10.1371/journal.pone.0126036",
+                    "journal-title": "PLOS ONE"
+                },
+                {
+                    "issue": "4",
+                    "key": "6661_CR9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1034",
+                    "DOI": "10.2214/AJR.09.3528",
+                    "volume": "194",
+                    "author": "Laurence Parker",
+                    "year": "2010",
+                    "unstructured": "Parker L, Levin DC, Frangos A, Rao VM (2010) Geographic variation in the utilization of noninvasive diagnostic imaging: national Medicare data, 1998-2007. AJR Am J Roentgenol 194:1034\u20131039. https://doi.org/10.2214/AJR.09.3528",
+                    "journal-title": "American Journal of Roentgenology"
+                },
+                {
+                    "key": "6661_CR10",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "563",
+                    "DOI": "10.1148/radiol.14132289",
+                    "volume": "274",
+                    "author": "Y Ohno",
+                    "year": "2015",
+                    "unstructured": "Ohno Y, Nishio M, Koyama H et al (2015) Solitary pulmonary nodules: comparison of dynamic first-pass contrast-enhanced perfusion area-detector CT, dynamic first-pass contrast-enhanced MR imaging, and FDG PET/CT. Radiology 274:563\u2013575. https://doi.org/10.1148/radiol.14132289",
+                    "journal-title": "Radiology"
+                },
+                {
+                    "key": "6661_CR11",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "191",
+                    "DOI": "10.1148/radiol.2331031535",
+                    "volume": "233",
+                    "author": "CA Yi",
+                    "year": "2004",
+                    "unstructured": "Yi CA, Lee KS, Kim EA et al (2004) Solitary pulmonary nodules: dynamic enhanced multi\u2013detector row CT study and comparison with vascular endothelial growth factor and microvessel density. Radiology 233:191\u2013199. https://doi.org/10.1148/radiol.2331031535",
+                    "journal-title": "Radiology"
+                },
+                {
+                    "key": "6661_CR12",
+                    "unstructured": "Bai RJ1, Cheng XG, Qu H, Shen BZ, Han MJ, Wu ZH (2009) Solitary pulmonary nodules: comparison of multi-slice computed tomography perfusion study with vascular endothelial growth factor and microvessel density. Chin Med J (Engl) 122:541\u2013547. https://doi.org/10.3760/cma.j.issn.0366-6999.2009.05.011",
+                    "DOI": "10.3760/cma.j.issn.0366-6999.2009.05.011",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "6661_CR13",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "772",
+                    "DOI": "10.1148/radiol.2463062148",
+                    "volume": "246",
+                    "author": "P Cronin",
+                    "year": "2008",
+                    "unstructured": "Cronin P, Dwamena BA, Kelly AM, Carlos RC (2008) Solitary pulmonary nodules: meta-analytic comparison of cross-sectional imaging modalities for diagnosis of malignancy. Radiology 246:772\u2013782. https://doi.org/10.1148/radiol.2463062148",
+                    "journal-title": "Radiology"
+                },
+                {
+                    "issue": "4",
+                    "key": "6661_CR14",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "388",
+                    "DOI": "10.1001/jama.2017.19163",
+                    "volume": "319",
+                    "author": "Matthew D. F. McInnes",
+                    "year": "2018",
+                    "unstructured": "McInnes MDF, Moher D, Thombs BD et al (2018) Preferred reporting items for a systematic review and meta-analysis of diagnostic test accuracy studies: the PRISMA-DTA statement. JAMA 319:388\u2013396. https://doi.org/10.1001/jama.2017.19163",
+                    "journal-title": "JAMA"
+                },
+                {
+                    "issue": "8",
+                    "key": "6661_CR15",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "529",
+                    "DOI": "10.7326/0003-4819-155-8-201110180-00009",
+                    "volume": "155",
+                    "author": "Penny F. Whiting",
+                    "year": "2011",
+                    "unstructured": "Whiting PF, Rutjes AWS, Westwood ME et al (2011) QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies. Ann Intern Med 155:529\u2013536. https://doi.org/10.7326/0003-4819-155-8-201110180-00009",
+                    "journal-title": "Annals of Internal Medicine"
+                },
+                {
+                    "key": "6661_CR16",
+                    "unstructured": "Bates D, M\u00e4chler M, Bolker B, Walker S (2015) Fitting linear mixed-effects models using lme4. J Stat Softw 67. https://doi.org/10.18637/jss.v067.i01",
+                    "DOI": "10.18637/jss.v067.i01",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "issue": "20",
+                    "key": "6661_CR17",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "3443",
+                    "DOI": "10.1002/sim.2380",
+                    "volume": "25",
+                    "author": "Roger M. Harbord",
+                    "year": "2006",
+                    "unstructured": "Harbord RM, Egger M, Sterne JAC (2006) A modified test for small-study effects in meta-analyses of controlled trials with binary endpoints. Stat Med 25:3443\u20133457. https://doi.org/10.1002/sim.2380",
+                    "journal-title": "Statistics in Medicine"
+                },
+                {
+                    "issue": "2",
+                    "key": "6661_CR18",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "343",
+                    "DOI": "10.1148/radiology.182.2.1732947",
+                    "volume": "182",
+                    "author": "S J Swensen",
+                    "year": "1992",
+                    "unstructured": "Swensen SJ, Morin RL, Schueler BA et al (1992) Solitary pulmonary nodule: CT evaluation of enhancement with iodinated contrast material - a preliminary report. Radiology 182:343\u2013347",
+                    "journal-title": "Radiology"
+                },
+                {
+                    "issue": "2",
+                    "key": "6661_CR19",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "393",
+                    "DOI": "10.1148/radiology.194.2.7824716",
+                    "volume": "194",
+                    "author": "S J Swensen",
+                    "year": "1995",
+                    "unstructured": "Swensen SJ, Brown LR, Colby TV, Weaver AL (1995) Pulmonary nodules: CT evaluation of enhancement with iodinated contrast material. Radiology 194(2):393\u2013398",
+                    "journal-title": "Radiology"
+                },
+                {
+                    "key": "6661_CR20",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "399",
+                    "DOI": "10.1148/radiology.194.2.7824717",
+                    "volume": "194",
+                    "author": "K Yamashita",
+                    "year": "1995",
+                    "unstructured": "Yamashita K, Matsunobe S, Tsuda T et al (1995) Solitary pulmonary nodule: preliminary study of evaluation with incremental dynamic CT. Radiology 194:399\u2013405. https://doi.org/10.1148/radiology.194.2.7824717",
+                    "journal-title": "Radiology"
+                },
+                {
+                    "issue": "2",
+                    "key": "6661_CR21",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "447",
+                    "DOI": "10.1148/radiology.201.2.8888239",
+                    "volume": "201",
+                    "author": "S J Swensen",
+                    "year": "1996",
+                    "unstructured": "Swensen SJ, Brown LR, Colby TV, Weaver AL, Midthun DE (1996) Lung nodule enhancement at CT: prospective findings. Radiology 201:447\u2013455. https://doi.org/10.1148/radiology.201.2.8888239",
+                    "journal-title": "Radiology"
+                },
+                {
+                    "key": "6661_CR22",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "39",
+                    "DOI": "10.1016/S0895-6111(96)00071-7",
+                    "volume": "21",
+                    "author": "G Potente",
+                    "year": "1997",
+                    "unstructured": "Potente G, Iacari V, Caimi M (1997) The challenge of solitary pulmonary nodules: HRCT evaluation. Comput Med Imaging Graph 21:39\u201346",
+                    "journal-title": "Comput Med Imaging Graph"
+                },
+                {
+                    "key": "6661_CR23",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "471",
+                    "DOI": "10.1148/radiology.205.2.9356631",
+                    "volume": "205",
+                    "author": "M Zhang",
+                    "year": "1997",
+                    "unstructured": "Zhang M, Kono M (1997) Solitary pulmonary nodules: evaluation of blood flow patterns with dynamic CT. Radiology 205:471\u2013478. https://doi.org/10.1148/radiology.205.2.9356631",
+                    "journal-title": "Radiology"
+                },
+                {
+                    "key": "6661_CR24",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "73",
+                    "DOI": "10.1148/radiology.214.1.r00ja1473",
+                    "volume": "214",
+                    "author": "SJ Swensen",
+                    "year": "2000",
+                    "unstructured": "Swensen SJ, Viggiano RW, Midthun DE et al (2000) Lung nodule enhancement at CT: multicenter study. Radiology 214:73\u201380. https://doi.org/10.1148/radiology.214.1.r00ja1473",
+                    "journal-title": "Radiology"
+                },
+                {
+                    "issue": "6",
+                    "key": "6661_CR25",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "766",
+                    "DOI": "10.1097/00004728-200411000-00007",
+                    "volume": "28",
+                    "author": "Jeong Ho Kim",
+                    "year": "2004",
+                    "unstructured": "Kim JH, Kim HJ, Lee KH, Kim KH, Lee HL (2004) Solitary pulmonary nodules: a comparative study evaluated with contrast-enhanced dynamic MR imaging and CT. J Comput Assist Tomogr 28:766\u2013775",
+                    "journal-title": "Journal of Computer Assisted Tomography"
+                },
+                {
+                    "key": "6661_CR26",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "157",
+                    "DOI": "10.1007/s11547-007-0132-x",
+                    "volume": "112",
+                    "author": "A Orlacchio",
+                    "year": "2007",
+                    "unstructured": "Orlacchio A, Schillaci O, Antonelli L et al (2007) Nodulo polmonare solitario: Caratterizzazione morfologico-metabolica mediante imaging integrato TCms/FDG-PET. Radiol Med 112:157\u2013173. https://doi.org/10.1007/s11547-007-0132-x",
+                    "journal-title": "Radiol Med"
+                },
+                {
+                    "key": "6661_CR27",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1516",
+                    "DOI": "10.1378/chest.06-2526",
+                    "volume": "131",
+                    "author": "KS Lee",
+                    "year": "2007",
+                    "unstructured": "Lee KS, Yi CA, Jeong SY et al (2007) Solid or partly solid solitary pulmonary nodules: their characterization using contrast wash-in and morphologic features at helical CT. Chest 131:1516\u20131525. https://doi.org/10.1378/chest.06-2526",
+                    "journal-title": "Chest"
+                },
+                {
+                    "key": "6661_CR28",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1284",
+                    "DOI": "10.1002/jmri.21348",
+                    "volume": "27",
+                    "author": "Y Ohno",
+                    "year": "2008",
+                    "unstructured": "Ohno Y, Koyama H, Takenaka D et al (2008) Dynamic MRI, dynamic multidetector-row computed tomography (MDCT), and coregistered 2-[fluorine-18]-fluoro-2-deoxy-D-glucose-positron emission tomography (FDG-PET)/CT: comparative study of capability for management of pulmonary nodules. J Magn Reson Imaging 27:1284\u20131295. https://doi.org/10.1002/jmri.21348",
+                    "journal-title": "J Magn Reson Imaging"
+                },
+                {
+                    "issue": "5",
+                    "key": "6661_CR29",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "401",
+                    "DOI": "10.3348/kjr.2008.9.5.401",
+                    "volume": "9",
+                    "author": "Eun Jung Choi",
+                    "year": "2008",
+                    "unstructured": "Choi EJ, Jin GY, Han YM, Lee YS, Kweon KS (2008) Solitary pulmonary nodule on helical dynamic CT scans: analysis of the enhancement patterns using a computer-aided diagnosis (CAD) system. Korean J Radiol 9:401\u2013408. https://doi.org/10.3348/kjr.2008.9.5.401",
+                    "journal-title": "Korean Journal of Radiology"
+                },
+                {
+                    "key": "6661_CR30",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "222",
+                    "DOI": "10.1097/RCT.0b013e318136e29d",
+                    "volume": "32",
+                    "author": "S Bayraktaroglu",
+                    "year": "2008",
+                    "unstructured": "Bayraktaroglu S, Sava\u015f R, Basoglu \u00d6K et al (2008) Dynamic computed tomography in solitary pulmonary nodules. J Comput Assist Tomogr 32:222\u2013227. https://doi.org/10.1097/RCT.0b013e318136e29d",
+                    "journal-title": "J Comput Assist Tomogr"
+                },
+                {
+                    "key": "6661_CR31",
+                    "unstructured": "Jiang NC, Han P, Zhou CK, Zheng JL, Shi HS, Xiao J (2009) Dynamic enhancement patterns of solitary pulmonary nodules at multi-detector row CT and correlation with vascular endothelial growth factor and microvessel density. Ai Zheng 28:164\u2013169"
+                },
+                {
+                    "key": "6661_CR32",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "91",
+                    "DOI": "10.1159/000213760",
+                    "volume": "79",
+                    "author": "M Dabrowska",
+                    "year": "2010",
+                    "unstructured": "Dabrowska M, Zukowska M, Krenke R et al (2010) Simplified method of dynamic contrast-enhanced computed tomography in the evaluation of indeterminate pulmonary nodules. Respiration 79:91\u201396. https://doi.org/10.1159/000213760",
+                    "journal-title": "Respiration"
+                },
+                {
+                    "issue": "993",
+                    "key": "6661_CR33",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "785",
+                    "DOI": "10.1259/bjr/58020866",
+                    "volume": "83",
+                    "author": "Y Li",
+                    "year": "2010",
+                    "unstructured": "Li Y, Yang ZG, Chen TW, Yu JQ, Sun JY, Chen HJ (2010) First-pass perfusion imaging of solitary pulmonary nodules with 64-detector row CT: comparison of perfusion parameters of malignant and benign lesions. Br J Radiol 83:785\u2013790. https://doi.org/10.1259/bjr/58020866",
+                    "journal-title": "The British Journal of Radiology"
+                },
+                {
+                    "key": "6661_CR34",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "599",
+                    "DOI": "10.1148/radiol.10100245",
+                    "volume": "258",
+                    "author": "Y Ohno",
+                    "year": "2011",
+                    "unstructured": "Ohno Y, Koyama H, Matsumoto K et al (2011) Differentiation of malignant and benign pulmonary nodules with quantitative first-pass 320-detector row perfusion CT versus FDG PET/CT. Radiology 258:599\u2013609. https://doi.org/10.1148/radiol.10100245",
+                    "journal-title": "Radiology"
+                },
+                {
+                    "key": "6661_CR35",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "593",
+                    "DOI": "10.2214/AJR.12.9197",
+                    "volume": "200",
+                    "author": "Y Ohno",
+                    "year": "2013",
+                    "unstructured": "Ohno Y, Nishio M, Koyama H et al (2013) Comparison of quantitatively analyzed dynamic area-detector CT using various mathematic methods with FDG PET/CT in management of solitary pulmonary nodules. AJR Am J Roentgenol 200:593\u2013602. https://doi.org/10.2214/AJR.12.9197",
+                    "journal-title": "AJR Am J Roentgenol"
+                },
+                {
+                    "key": "6661_CR36",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "256",
+                    "DOI": "10.1016/j.clinimag.2012.05.004",
+                    "volume": "37",
+                    "author": "SJ Shu",
+                    "year": "2013",
+                    "unstructured": "Shu SJ, Liu BL, Jiang HJ (2013) Optimization of the scanning technique and diagnosis of pulmonary nodules with first-pass 64-detector-row perfusion VCT. Clin Imaging 37:256\u2013264. https://doi.org/10.1016/j.clinimag.2012.05.004",
+                    "journal-title": "Clin Imaging"
+                },
+                {
+                    "issue": "7",
+                    "key": "6661_CR37",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "757",
+                    "DOI": "10.1177/0284185113481695",
+                    "volume": "54",
+                    "author": "Sergio Marrone Ribeiro",
+                    "year": "2013",
+                    "unstructured": "Ribeiro SM, Ruiz RL, Yoo HH, Cataneo DC, Cataneo AJ (2013) Proposal to utilize simplified swensen protocol in diagnosis of isolated pulmonary nodule. Acta Radiol 54:757\u2013764. https://doi.org/10.1177/0284185113481695",
+                    "journal-title": "Acta Radiologica"
+                },
+                {
+                    "issue": "1",
+                    "key": "6661_CR38",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "49",
+                    "DOI": "10.1007/s12094-013-1039-8",
+                    "volume": "16",
+                    "author": "X.-D. Ye",
+                    "year": "2013",
+                    "unstructured": "Ye XD, Ye JD, Yuan Z, Li WT, Xiao XS (2014) Dynamic CT of solitary pulmonary nodules: comparison of contrast medium distribution characteristic of malignant and benign lesions. Clin Transl Oncol 16:49\u201356. https://doi.org/10.1007/s12094-013-1039-8",
+                    "journal-title": "Clinical and Translational Oncology"
+                },
+                {
+                    "issue": "12",
+                    "key": "6661_CR39",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "e0130",
+                    "DOI": "10.1097/MD.0000000000010130",
+                    "volume": "97",
+                    "author": "Zhen-Zhen Li",
+                    "year": "2018",
+                    "unstructured": "Li ZZ, Huang YL, Song HJ, Wang YJ, Huang Y (2018) The value of 18 F-FDG-PET/CT in the diagnosis of solitary pulmonary nodules: a meta-analysis. Medicine (Baltimore) 97. https://doi.org/10.1097/MD.0000000000010130",
+                    "journal-title": "Medicine"
+                },
+                {
+                    "key": "6661_CR40",
+                    "first-page": "443",
+                    "volume": "47",
+                    "author": "CA Yi",
+                    "year": "2006",
+                    "unstructured": "Yi CA, Lee KS, Kim B-T et al (2006) Tissue characterization of solitary pulmonary nodule: comparative study between helical dynamic CT and integrated PET/CT. J Nucl Med 47:443\u2013450",
+                    "journal-title": "J Nucl Med"
+                },
+                {
+                    "key": "6661_CR41",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "525",
+                    "DOI": "10.1148/radiol.2018181159",
+                    "volume": "290",
+                    "author": "A Basso Dias",
+                    "year": "2019",
+                    "unstructured": "Basso Dias A, Zanon M, Altmayer S et al (2019) Fluorine 18-FDG PET/CT and diffusion-weighted MRI for malignant versus benign pulmonary lesions: a meta-analysis. Radiology 290:525\u2013534. https://doi.org/10.1148/radiol.2018181159",
+                    "journal-title": "Radiology"
+                },
+                {
+                    "key": "6661_CR42",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "409.e7",
+                    "DOI": "10.1016/j.crad.2018.12.022",
+                    "volume": "74",
+                    "author": "SC Zhou",
+                    "year": "2019",
+                    "unstructured": "Zhou SC, Wang YJ, Ai T et al (2019) Diagnosis of solitary pulmonary lesions with intravoxel incoherent motion diffusion-weighted MRI and semi-quantitative dynamic contrast-enhanced MRI. Clin Radiol 74:409.e7\u2013409.e16. https://doi.org/10.1016/j.crad.2018.12.022",
+                    "journal-title": "Clin Radiol"
+                },
+                {
+                    "key": "6661_CR43",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "164",
+                    "DOI": "10.2967/jnmt.109.062950",
+                    "volume": "37",
+                    "author": "J Ducharme",
+                    "year": "2009",
+                    "unstructured": "Ducharme J, Goertzen AL, Patterson J, Demeter S (2009) Practical aspects of 18 F-FDG PET when receiving 18 F-FDG from a distant supplier. J Nucl Med Technol 37:164\u2013170. https://doi.org/10.2967/jnmt.109.062950",
+                    "journal-title": "J Nucl Med Technol"
+                },
+                {
+                    "key": "6661_CR44",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "706",
+                    "DOI": "10.1016/S0009-9260(03)00166-1",
+                    "volume": "58",
+                    "author": "LA Comber",
+                    "year": "2003",
+                    "unstructured": "Comber LA, Keith CJ, Griffiths M, Miles KA (2003) Solitary pulmonary nodules: impact of quantitative contrast-enhanced CT on the cost-effectiveness of FDG-PET. Clin Radiol 58:706\u2013711. https://doi.org/10.1016/S0009-9260(03)00166-1",
+                    "journal-title": "Clin Radiol"
+                },
+                {
+                    "key": "6661_CR45",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1980",
+                    "DOI": "10.1056/NEJMoa1209120",
+                    "volume": "368",
+                    "author": "TR Church",
+                    "year": "2013",
+                    "unstructured": "Church TR, Black WC, Aberle DR et al (2013) Results of initial low-dose computed tomographic screening for lung cancer. N Engl J Med 368:1980\u20131991. https://doi.org/10.1056/NEJMoa1209120",
+                    "journal-title": "N Engl J Med"
+                },
+                {
+                    "key": "6661_CR46",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1332",
+                    "DOI": "10.1016/S1470-2045(14)70389-4",
+                    "volume": "15",
+                    "author": "N Horeweg",
+                    "year": "2014",
+                    "unstructured": "Horeweg N, van Rosmalen J, Heuvelmans MA et al (2014) Lung cancer probability in patients with CT-detected pulmonary nodules: a prespecified analysis of data from the NELSON trial of low-dose CT screening. Lancet Oncol 15:1332\u20131341. https://doi.org/10.1016/S1470-2045(14)70389-4",
+                    "journal-title": "Lancet Oncol"
+                },
+                {
+                    "issue": "11",
+                    "key": "6661_CR47",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "E537",
+                    "DOI": "10.1503/cmaj.121286",
+                    "volume": "185",
+                    "author": "M. M. G. Leeflang",
+                    "year": "2013",
+                    "unstructured": "Leeflang MM, Rutjes AW, Reitsma JB, Hooft L, Bossuyt PM (2013) Variation of a test\u2019s sensitivity and specificity with disease prevalence. CMAJ 185:537\u2013544. https://doi.org/10.1503/cmaj.121286",
+                    "journal-title": "Canadian Medical Association Journal"
+                }
+            ],
+            "container-title": "European Radiology",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1007/s00330-020-06661-8.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1007/s00330-020-06661-8/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1007/s00330-020-06661-8.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        14
+                    ]
+                ],
+                "date-time": "2021-02-14T10:35:37Z",
+                "timestamp": 1613298937000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        15
+                    ]
+                ]
+            },
+            "references-count": 47,
+            "journal-issue": {
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            6
+                        ]
+                    ]
+                },
+                "issue": "6"
+            },
+            "alternative-id": [
+                "6661"
+            ],
+            "URL": "http://dx.doi.org/10.1007/s00330-020-06661-8",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0938-7994",
+                "1432-1084"
+            ],
+            "subject": [
+                "Radiology Nuclear Medicine and imaging",
+                "General Medicine"
+            ],
+            "container-title-short": "Eur Radiol",
+            "assertion": [
+                {
+                    "value": "8 October 2019",
+                    "order": 1,
+                    "name": "received",
+                    "label": "Received",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "12 December 2019",
+                    "order": 2,
+                    "name": "revised",
+                    "label": "Revised",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "17 January 2020",
+                    "order": 3,
+                    "name": "accepted",
+                    "label": "Accepted",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "value": "15 February 2020",
+                    "order": 4,
+                    "name": "first_online",
+                    "label": "First Online",
+                    "group": {
+                        "name": "ArticleHistory",
+                        "label": "Article History"
+                    }
+                },
+                {
+                    "order": 1,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Compliance with ethical standards"
+                    }
+                },
+                {
+                    "value": "The scientific guarantor of this publication is FJG.",
+                    "order": 2,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Guarantor"
+                    }
+                },
+                {
+                    "value": "The authors of this manuscript declare no relationships with any companies, whose products or services may be related to the subject matter of the article.",
+                    "order": 3,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Conflict of interest"
+                    }
+                },
+                {
+                    "value": "One of the authors has significant statistical expertise.",
+                    "order": 4,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Statistics and biometry"
+                    }
+                },
+                {
+                    "value": "Written informed consent was not required for this study because it is a meta-analysis of published anonymous data.",
+                    "order": 5,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Informed consent"
+                    }
+                },
+                {
+                    "value": "Institutional Review Board approval was not required because it is a meta-analysis of published anonymous data.",
+                    "order": 6,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Ethical approval"
+                    }
+                },
+                {
+                    "value": "Some study subjects or cohorts have been previously reported in the respective original scientific articles from which the data has been extracted by meta-analysis.",
+                    "order": 7,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Study subjects or cohorts overlap"
+                    }
+                },
+                {
+                    "value": "\u2022 Meta-analysis",
+                    "order": 8,
+                    "name": "Ethics",
+                    "group": {
+                        "name": "EthicsHeading",
+                        "label": "Methodology"
+                    }
+                }
+            ]
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "Contrast media",
+                        "Lung cancer",
+                        "Meta-analysis",
+                        "Multi-detector computed tomography",
+                        "Solitary pulmonary nodule"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32060716",
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "11",
+                    "Day": "23"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "01",
+                    "Day": "10"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "02",
+                            "Day": "15"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1007/s00330-020-06661-8"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1432-1084",
+                        "JournalIssue": {
+                            "Volume": "30",
+                            "Issue": "6",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Jun"
+                            }
+                        },
+                        "Title": "European radiology",
+                        "ISOAbbreviation": "Eur Radiol"
+                    },
+                    "ArticleTitle": "Dynamic contrast-enhanced computed tomography for the diagnosis of solitary pulmonary nodules: a systematic review and meta-analysis.",
+                    "Pagination": {
+                        "MedlinePgn": "3310-3323"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "A systematic review and meta-analysis were performed to determine the diagnostic performance of dynamic contrast-enhanced computed tomography (DCE-CT) for the differentiation between malignant and benign pulmonary nodules.",
+                            "Ovid MEDLINE and EMBASE were searched for studies published up to October 2018 on the diagnostic accuracy of DCE-CT for the characterisation of pulmonary nodules. For the index test, studies with a minimum of a pre- and post-contrast computed tomography scan were evaluated. Studies with a reference standard of biopsy for malignancy, and biopsy or 2-year follow-up for benign disease were included. Study bias was assessed using QUADAS-2 (Quality Assessment of Diagnostic Accuracy Studies). The sensitivities, specificities, and diagnostic odds ratios were determined along with 95% confidence intervals (CIs) using a bivariate random effects model.",
+                            "Twenty-three studies were included, including 2397 study participants with 2514 nodules of which 55.3% were malignant (1389/2514). The pooled accuracy results were sensitivity 94.8% (95% CI 91.5; 96.9), specificity 75.5% (69.4; 80.6), and diagnostic odds ratio 56.6 (24.2-88.9). QUADAS 2 assessment showed intermediate/high risk of bias in a large proportion of the studies (52-78% across the domains). No difference was present in sensitivity or specificity between subgroups when studies were split based on CT technique, sample size, nodule size, or publication date.",
+                            "DCE-CT has a high diagnostic accuracy for the diagnosis of pulmonary nodules although study quality was indeterminate in a large number of cases.",
+                            "\u2022 The pooled accuracy results were sensitivity 95.1% and specificity 73.8% although individual studies showed wide ranges of values. \u2022 This is comparable to the results of previous meta-analyses of PET/CT (positron emission tomography/computed tomography) diagnostic accuracy for the diagnosis of solitary pulmonary nodules. \u2022 Robust direct comparative accuracy and cost-effectiveness studies are warranted to determine the optimal use of DCE-CT and PET/CT in the diagnosis of SPNs."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Radiology, University of Cambridge School of Clinical Medicine, Box 218, Level 5, Cambridge Biomedical Campus, Cambridge, CB2 0QQ, UK. jw2079@cam.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0001-5842-842X"
+                            ],
+                            "LastName": "Weir-McCall",
+                            "ForeName": "Jonathan R",
+                            "Initials": "JR"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Radiology, University of Cambridge School of Clinical Medicine, Box 218, Level 5, Cambridge Biomedical Campus, Cambridge, CB2 0QQ, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Joyce",
+                            "ForeName": "Stella",
+                            "Initials": "S"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Health Sciences, Faculty of Health and Wellbeing, University of Central Lancashire, Lancashire, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Clegg",
+                            "ForeName": "Andrew",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Radiology, University of Cambridge School of Clinical Medicine, Box 218, Level 5, Cambridge Biomedical Campus, Cambridge, CB2 0QQ, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "MacKay",
+                            "ForeName": "James W",
+                            "Initials": "JW"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Radiology, University of Cambridge School of Clinical Medicine, Box 218, Level 5, Cambridge Biomedical Campus, Cambridge, CB2 0QQ, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Baxter",
+                            "ForeName": "Gabrielle",
+                            "Initials": "G"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Radiology, Addenbrooke's Hospital, Cambridge, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Dendl",
+                            "ForeName": "Lena-Marie",
+                            "Initials": "LM"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Thoracic Oncology, Royal Papworth Hospital, Cambridge, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Oncology, University of Cambridge, Cambridge, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Rintoul",
+                            "ForeName": "Robert C",
+                            "Initials": "RC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Radiology, Royal Papworth Hospital, Cambridge, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Qureshi",
+                            "ForeName": "Nagmi R",
+                            "Initials": "NR"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Nuclear Medicine, University College London, London, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Miles",
+                            "ForeName": "Ken",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Radiology, University of Cambridge School of Clinical Medicine, Box 218, Level 5, Cambridge Biomedical Campus, Cambridge, CB2 0QQ, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Gilbert",
+                            "ForeName": "Fiona J",
+                            "Initials": "FJ"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "09/22/117",
+                            "Acronym": "DH_",
+                            "Agency": "Department of Health",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "09 22 117",
+                            "Agency": "Health Technology Assessment Programme",
+                            "Country": ""
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Meta-Analysis",
+                        "Systematic Review"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Germany",
+                    "MedlineTA": "Eur Radiol",
+                    "NlmUniqueID": "9114774",
+                    "ISSNLinking": "0938-7994"
+                },
+                "ChemicalList": [
+                    {
+                        "RegistryNumber": "0",
+                        "NameOfSubstance": "Radiopharmaceuticals"
+                    },
+                    {
+                        "RegistryNumber": "0Z5B2CJX4D",
+                        "NameOfSubstance": "Fluorodeoxyglucose F18"
+                    }
+                ],
+                "MeshHeadingList": [
+                    {
+                        "QualifierName": [
+                            "pharmacology"
+                        ],
+                        "DescriptorName": "Fluorodeoxyglucose F18",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [],
+                        "DescriptorName": "Humans",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnosis"
+                        ],
+                        "DescriptorName": "Lung Neoplasms",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnosis"
+                        ],
+                        "DescriptorName": "Multiple Pulmonary Nodules",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "pharmacology"
+                        ],
+                        "DescriptorName": "Radiopharmaceuticals",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "diagnosis"
+                        ],
+                        "DescriptorName": "Solitary Pulmonary Nodule",
+                        "MajorTopicYN": "N"
+                    },
+                    {
+                        "QualifierName": [
+                            "methods"
+                        ],
+                        "DescriptorName": "Tomography, X-Ray Computed",
+                        "MajorTopicYN": "N"
+                    }
+                ]
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2019",
+                        "Month": "10",
+                        "Day": "08"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "01",
+                        "Day": "17"
+                    },
+                    {
+                        "Year": "2019",
+                        "Month": "12",
+                        "Day": "12"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "2",
+                        "Day": "16",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "11",
+                        "Day": "24",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "2",
+                        "Day": "16",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "32060716",
+                    "10.1007/s00330-020-06661-8",
+                    "10.1007/s00330-020-06661-8"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32060716)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832060716%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832060716%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079483272"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079483272?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079483272&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079483272&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079483272",
+                        "dc:identifier": "SCOPUS_ID:85079483272",
+                        "eid": "2-s2.0-85079483272",
+                        "dc:title": "Dynamic contrast\u2013enhanced computed tomography for the diagnosis of solitary pulmonary nodules: a systematic review and meta-analysis",
+                        "dc:creator": "Weir-McCall J.R.",
+                        "prism:publicationName": "European Radiology",
+                        "prism:issn": "09387994",
+                        "prism:eIssn": "14321084",
+                        "prism:volume": "30",
+                        "prism:issueIdentifier": "6",
+                        "prism:pageRange": "3310-3323",
+                        "prism:coverDate": "2020-06-01",
+                        "prism:coverDisplayDate": "1 June 2020",
+                        "prism:doi": "10.1007/s00330-020-06661-8",
+                        "citedby-count": "1",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "School of Clinical Medicine",
+                                "affiliation-city": "Cambridge",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32060716",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "16687",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherfree2read"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Bronze"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "9DX38V34.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32060716"
+            }
+        },
+        "title": "Dynamic contrast-enhanced computed tomography for the diagnosis of solitary pulmonary nodules: a systematic review and meta-analysis.",
+        "full_author_list": [
+            {
+                "clean": "Weir-McCall J",
+                "family": "Weir-McCall",
+                "given": "Jonathan R",
+                "affiliation": {
+                    "name": "Department of Radiology, University of Cambridge School of Clinical Medicine, Box 218, Level 5, Cambridge Biomedical Campus, Cambridge, CB2 0QQ, UK. jw2079@cam.ac.uk."
+                }
+            },
+            {
+                "clean": "Joyce S",
+                "family": "Joyce",
+                "given": "Stella",
+                "affiliation": {
+                    "name": "Department of Radiology, University of Cambridge School of Clinical Medicine, Box 218, Level 5, Cambridge Biomedical Campus, Cambridge, CB2 0QQ, UK."
+                }
+            },
+            {
+                "clean": "Clegg A",
+                "family": "Clegg",
+                "given": "Andrew",
+                "affiliation": {
+                    "name": "School of Health Sciences, Faculty of Health and Wellbeing, University of Central Lancashire, Lancashire, UK."
+                }
+            },
+            {
+                "clean": "MacKay J",
+                "family": "MacKay",
+                "given": "James W",
+                "affiliation": {
+                    "name": "Department of Radiology, University of Cambridge School of Clinical Medicine, Box 218, Level 5, Cambridge Biomedical Campus, Cambridge, CB2 0QQ, UK."
+                }
+            },
+            {
+                "clean": "Baxter G",
+                "family": "Baxter",
+                "given": "Gabrielle",
+                "affiliation": {
+                    "name": "Department of Radiology, University of Cambridge School of Clinical Medicine, Box 218, Level 5, Cambridge Biomedical Campus, Cambridge, CB2 0QQ, UK."
+                }
+            },
+            {
+                "clean": "Dendl L",
+                "family": "Dendl",
+                "given": "Lena-Marie",
+                "affiliation": {
+                    "name": "Department of Radiology, Addenbrooke's Hospital, Cambridge, UK."
+                }
+            },
+            {
+                "clean": "Rintoul R",
+                "family": "Rintoul",
+                "given": "Robert C",
+                "affiliation": {
+                    "name": "Department of Thoracic Oncology, Royal Papworth Hospital, Cambridge, UK."
+                }
+            },
+            {
+                "clean": "Qureshi N",
+                "family": "Qureshi",
+                "given": "Nagmi R",
+                "affiliation": {
+                    "name": "Department of Radiology, Royal Papworth Hospital, Cambridge, UK."
+                }
+            },
+            {
+                "clean": "Miles K",
+                "family": "Miles",
+                "given": "Ken",
+                "affiliation": {
+                    "name": "Institute of Nuclear Medicine, University College London, London, UK."
+                }
+            },
+            {
+                "clean": "Gilbert F",
+                "family": "Gilbert",
+                "given": "Fiona J",
+                "affiliation": {
+                    "name": "Department of Radiology, University of Cambridge School of Clinical Medicine, Box 218, Level 5, Cambridge Biomedical Campus, Cambridge, CB2 0QQ, UK."
+                }
+            }
+        ],
+        "first_author": "Weir-McCall J",
+        "zotero_tags": [
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [
+                {
+                    "term": "Fluorodeoxyglucose F18",
+                    "major": "N"
+                },
+                {
+                    "term": "Humans",
+                    "major": "N"
+                },
+                {
+                    "term": "Lung Neoplasms",
+                    "major": "N"
+                },
+                {
+                    "term": "Multiple Pulmonary Nodules",
+                    "major": "N"
+                },
+                {
+                    "term": "Radiopharmaceuticals",
+                    "major": "N"
+                },
+                {
+                    "term": "Solitary Pulmonary Nodule",
+                    "major": "N"
+                },
+                {
+                    "term": "Tomography, X-Ray Computed",
+                    "major": "N"
+                }
+            ],
+            "other": [
+                "Contrast media",
+                "Lung cancer",
+                "Meta-analysis",
+                "Multi-detector computed tomography",
+                "Solitary pulmonary nodule"
+            ]
+        },
+        "journal": {
+            "journal_name": "Eur Radiol",
+            "volume": "30",
+            "issue": "6"
+        },
+        "abstract": "['A systematic review and meta-analysis were performed to determine the diagnostic performance of dynamic contrast-enhanced computed tomography (DCE-CT) for the differentiation between malignant and benign pulmonary nodules.', 'Ovid MEDLINE and EMBASE were searched for studies published up to October 2018 on the diagnostic accuracy of DCE-CT for the characterisation of pulmonary nodules. For the index test, studies with a minimum of a pre- and post-contrast computed tomography scan were evaluated. Studies with a reference standard of biopsy for malignancy, and biopsy or 2-year follow-up for benign disease were included. Study bias was assessed using QUADAS-2 (Quality Assessment of Diagnostic Accuracy Studies). The sensitivities, specificities, and diagnostic odds ratios were determined along with 95% confidence intervals (CIs) using a bivariate random effects model.', 'Twenty-three studies were included, including 2397 study participants with 2514 nodules of which 55.3% were malignant (1389/2514). The pooled accuracy results were sensitivity 94.8% (95% CI 91.5; 96.9), specificity 75.5% (69.4; 80.6), and diagnostic odds ratio 56.6 (24.2-88.9). QUADAS 2 assessment showed intermediate/high risk of bias in a large proportion of the studies (52-78% across the domains). No difference was present in sensitivity or specificity between subgroups when studies were split based on CT technique, sample size, nodule size, or publication date.', 'DCE-CT has a high diagnostic accuracy for the diagnosis of pulmonary nodules although study quality was indeterminate in a large number of cases.', '\u2022 The pooled accuracy results were sensitivity 95.1% and specificity 73.8% although individual studies showed wide ranges of values. \u2022 This is comparable to the results of previous meta-analyses of PET/CT (positron emission tomography/computed tomography) diagnostic accuracy for the diagnosis of solitary pulmonary nodules. \u2022 Robust direct comparative accuracy and cost-effectiveness studies are warranted to determine the optimal use of DCE-CT and PET/CT in the diagnosis of SPNs.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "1"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Radiology, University of Cambridge School of Clinical Medicine, Box 218, Level 5, Cambridge Biomedical Campus, Cambridge, CB2 0QQ, UK. jw2079@cam.ac.uk.",
+            "clean_institute": "University of Cambridge",
+            "country": "United Kingdom",
+            "latitude": "52.208055555556",
+            "longitude": "0.1225"
+        }
+    }
+}

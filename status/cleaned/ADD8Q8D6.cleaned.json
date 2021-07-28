@@ -1,0 +1,520 @@
+{
+    "IDs": {
+        "zotero": "ADD8Q8D6",
+        "DOI": "10.1136/ebnurs-2020-103279",
+        "DOI_filename": "a74f16f3a12649284b3fb0a5002f3bf9",
+        "PMID": "32855173",
+        "scopus": "2-s2.0-85092635852",
+        "hash": "1adcbc37f9ca38d512bbbe69b93e52ad"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "ADD8Q8D6",
+            "version": 986,
+            "itemType": "journalArticle",
+            "title": "Families may benefit from spiritual care in acute settings when loved ones are coming to the end of their lives",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Paul",
+                    "lastName": "Boland"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Zoe",
+                    "lastName": "Geddes"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "James",
+                    "lastName": "Hill"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Evidence Based Nursing",
+            "volume": "",
+            "issue": "",
+            "pages": "ebnurs-2020-103279",
+            "date": "2020-08-27",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Evid Based Nurs",
+            "language": "en",
+            "DOI": "10.1136/ebnurs-2020-103279",
+            "ISSN": "1367-6539, 1468-9618",
+            "shortTitle": "",
+            "url": "https://ebn.bmj.com/lookup/doi/10.1136/ebnurs-2020-103279",
+            "accessDate": "2021-07-23T16:46:11Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32855173",
+            "tags": [
+                {
+                    "tag": "MIDAS"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:24Z",
+            "dateModified": "2021-07-27T11:56:48Z",
+            "pmid": "32855173"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        26
+                    ]
+                ],
+                "date-time": "2020-09-26T17:22:20Z",
+                "timestamp": 1601140940192
+            },
+            "reference-count": 5,
+            "publisher": "BMJ",
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "DOI": "10.1136/ebnurs-2020-103279",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        27
+                    ]
+                ],
+                "date-time": "2020-08-27T22:55:24Z",
+                "timestamp": 1598568924000
+            },
+            "page": "ebnurs-2020-103279",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 0,
+            "title": "Families may benefit from spiritual care in acute settings when loved ones are coming to the end of their lives",
+            "prefix": "10.1136",
+            "author": [
+                {
+                    "given": "Paul",
+                    "family": "Boland",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Zoe",
+                    "family": "Geddes",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0003-1430-6927",
+                    "authenticated-orcid": false,
+                    "given": "James",
+                    "family": "Hill",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        27
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2020082714252525000_ebnurs-2020-103279v1.1",
+                    "author": "Ziwary",
+                    "volume": "16",
+                    "year": "2017",
+                    "article-title": "Impact of place of residence on place of death in Wales: an observational study",
+                    "journal-title": "BMC Palliat Care",
+                    "DOI": "10.1186/s12904-017-0261-5",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "2020082714252525000_ebnurs-2020-103279v1.2",
+                    "unstructured": "Irish Hospice Foundation . Our impact 1996\u20132016. Dublin, Ireland: Irish Hospice Foundation, 2016."
+                },
+                {
+                    "key": "2020082714252525000_ebnurs-2020-103279v1.3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1041",
+                    "DOI": "10.1111/jocn.15164",
+                    "article-title": "End of life in acute Hospital setting-A systematic review of families' experience of spiritual care",
+                    "volume": "29",
+                    "author": "Hennessy",
+                    "year": "2020",
+                    "journal-title": "J Clin Nurs"
+                },
+                {
+                    "key": "2020082714252525000_ebnurs-2020-103279v1.4",
+                    "DOI": "10.1007/s11135-017-0574-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2020082714252525000_ebnurs-2020-103279v1.5",
+                    "first-page": "25",
+                    "article-title": "Spiritual care in palliative care: a systematic review of the recent European literature",
+                    "volume": "7",
+                    "author": "Gijsberts",
+                    "year": "2019",
+                    "journal-title": "Med Sci"
+                }
+            ],
+            "container-title": "Evidence Based Nursing",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/ebnurs-2020-103279",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        26
+                    ]
+                ],
+                "date-time": "2020-09-26T02:55:10Z",
+                "timestamp": 1601088910000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        27
+                    ]
+                ]
+            },
+            "references-count": 5,
+            "alternative-id": [
+                "10.1136/ebnurs-2020-103279"
+            ],
+            "URL": "http://dx.doi.org/10.1136/ebnurs-2020-103279",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1367-6539",
+                "1468-9618"
+            ],
+            "subject": [
+                "Fundamentals and skills"
+            ],
+            "container-title-short": "Evid Based Nurs"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "intensive & critical care",
+                        "nursing"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM",
+                    "N"
+                ],
+                "PMID": "32855173",
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "08",
+                    "Day": "28"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "08",
+                            "Day": "27"
+                        }
+                    ],
+                    "ELocationID": [
+                        "ebnurs-2020-103279",
+                        "10.1136/ebnurs-2020-103279"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1468-9618",
+                        "JournalIssue": {
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Aug",
+                                "Day": "27"
+                            }
+                        },
+                        "Title": "Evidence-based nursing",
+                        "ISOAbbreviation": "Evid Based Nurs"
+                    },
+                    "ArticleTitle": "Families may benefit from spiritual care in acute settings when loved ones are coming to the end of their lives.",
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Research Support Team, University of Central Lancashire, Preston, Lancashire, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Boland",
+                            "ForeName": "Paul",
+                            "Initials": "P"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Neuro-oncology, Lancashire Teaching Hospitals NHS Foundation Trust, Preston, Lancashire, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Geddes",
+                            "ForeName": "Zoe",
+                            "Initials": "Z"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Health Technology Assessment Group, University of Central Lancashire, Preston, Lancashire, UK jehill1@uclan.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "http://orcid.org/0000-0003-1430-6927"
+                            ],
+                            "LastName": "Hill",
+                            "ForeName": "James",
+                            "Initials": "J"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Evid Based Nurs",
+                    "NlmUniqueID": "9815947",
+                    "ISSNLinking": "1367-6539"
+                },
+                "CoiStatement": "Competing interests: None declared."
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "08",
+                        "Day": "01"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "8",
+                        "Day": "29",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "8",
+                        "Day": "29",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "8",
+                        "Day": "29",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "aheadofprint",
+                "ArticleIdList": [
+                    "32855173",
+                    "ebnurs-2020-103279",
+                    "10.1136/ebnurs-2020-103279"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1136/ebnurs-2020-103279)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1136%2Febnurs-2020-103279%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1136%2Febnurs-2020-103279%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092635852"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092635852?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85092635852&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85092635852&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85092635852",
+                        "dc:identifier": "SCOPUS_ID:85092635852",
+                        "eid": "2-s2.0-85092635852",
+                        "dc:title": "Families may benefit from spiritual care in acute settings when loved ones are coming to the end of their lives",
+                        "dc:creator": "Boland P.",
+                        "prism:publicationName": "Evidence-Based Nursing",
+                        "prism:issn": "13676539",
+                        "prism:eIssn": "14689618",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-01-01",
+                        "prism:coverDisplayDate": "2020",
+                        "prism:doi": "10.1136/ebnurs-2020-103279",
+                        "citedby-count": "0",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Central Lancashire",
+                                "affiliation-city": "Preston",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "no",
+                        "subtypeDescription": "Note",
+                        "article-number": "103279",
+                        "source-id": "27689",
+                        "openaccess": "0",
+                        "openaccessFlag": false
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "ADD8Q8D6.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32855173"
+            }
+        },
+        "title": "Families may benefit from spiritual care in acute settings when loved ones are coming to the end of their lives.",
+        "full_author_list": [
+            {
+                "clean": "Boland P",
+                "family": "Boland",
+                "given": "Paul",
+                "affiliation": {
+                    "name": "Research Support Team, University of Central Lancashire, Preston, Lancashire, UK."
+                }
+            },
+            {
+                "clean": "Geddes Z",
+                "family": "Geddes",
+                "given": "Zoe",
+                "affiliation": {
+                    "name": "Neuro-oncology, Lancashire Teaching Hospitals NHS Foundation Trust, Preston, Lancashire, UK."
+                }
+            },
+            {
+                "clean": "Hill J",
+                "family": "Hill",
+                "given": "James",
+                "affiliation": {
+                    "name": "Health Technology Assessment Group, University of Central Lancashire, Preston, Lancashire, UK jehill1@uclan.ac.uk."
+                }
+            }
+        ],
+        "first_author": "Boland P",
+        "zotero_tags": [
+            {
+                "tag": "MIDAS"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "intensive & critical care",
+                "nursing"
+            ]
+        },
+        "journal": {
+            "journal_name": "Evid Based Nurs",
+            "volume": "",
+            "issue": ""
+        },
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "0"
+            }
+        },
+        "location": {
+            "candidate_institute": "Research Support Team, University of Central Lancashire, Preston, Lancashire, UK.",
+            "clean_institute": "University of Central Lancashire",
+            "country": "United Kingdom",
+            "latitude": "53.759444444444",
+            "longitude": "-2.6980555555556"
+        }
+    }
+}

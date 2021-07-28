@@ -1,0 +1,826 @@
+{
+    "IDs": {
+        "zotero": "92BFG6HD",
+        "DOI": "10.1136/jech-2020-215227",
+        "DOI_filename": "a966432921be0564bb887091e3ecdb1f",
+        "PMID": "33542030",
+        "scopus": "2-s2.0-85104645113",
+        "hash": "2828c19d867d8a7ebc59d7d8e583ea3c"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "92BFG6HD",
+            "version": 987,
+            "itemType": "journalArticle",
+            "title": "How does vulnerability to COVID-19 vary between communities in England? Developing a Small Area Vulnerability Index (SAVI)",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Konstantinos",
+                    "lastName": "Daras"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alexandros",
+                    "lastName": "Alexiou"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tanith C",
+                    "lastName": "Rose"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Iain",
+                    "lastName": "Buchan"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "David",
+                    "lastName": "Taylor-Robinson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Benjamin",
+                    "lastName": "Barr"
+                }
+            ],
+            "abstractNote": "Background\n              During the initial wave of the COVID-19 epidemic in England, several population characteristics were associated with increased risk of mortality\u2014including, age, ethnicity, income deprivation, care home residence and housing conditions. In order to target control measures and plan for future waves of the epidemic, public health agencies need to understand how these vulnerabilities are distributed across and clustered within communities.\n            \n            \n              Methods\n              We performed a cross-sectional ecological analysis across 6789 small areas in England. We assessed the association between COVID-19 mortality in each area and five vulnerability measures relating to ethnicity, poverty, prevalence of long-term health conditions, living in care homes and living in overcrowded housing. Estimates from multivariable Poisson regression models were used to derive a Small Area Vulnerability Index.\n            \n            \n              Results\n              Four vulnerability measures were independently associated with age-adjusted COVID-19 mortality. Each SD increase in the proportion of the population (1) living in care homes, (2) admitted to hospital in the past 5 years for a long-term health condition, (3) from an ethnic minority background and (4) living in overcrowded housing was associated with a 28%, 19% 8% and 11% increase in age-adjusted COVID-19 mortality rate, respectively.\n            \n            \n              Conclusion\n              Vulnerability to COVID-19 was noticeably higher in the North West, West Midlands and North East regions, with high levels of vulnerability clustered in some communities. Our analysis indicates the communities who will be most at risk from a second wave of the pandemic.",
+            "publicationTitle": "Journal of Epidemiology and Community Health",
+            "volume": "75",
+            "issue": "8",
+            "pages": "729-734",
+            "date": "08/2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "J Epidemiol Community Health",
+            "language": "en",
+            "DOI": "10.1136/jech-2020-215227",
+            "ISSN": "0143-005X, 1470-2738",
+            "shortTitle": "How does vulnerability to COVID-19 vary between communities in England?",
+            "url": "https://jech.bmj.com/lookup/doi/10.1136/jech-2020-215227",
+            "accessDate": "2021-07-23T16:46:13Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:33542030",
+            "tags": [
+                {
+                    "tag": "IPH"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:30Z",
+            "dateModified": "2021-07-27T11:58:33Z",
+            "pmid": "33542030"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        7,
+                        9
+                    ]
+                ],
+                "date-time": "2021-07-09T10:13:01Z",
+                "timestamp": 1625825581496
+            },
+            "reference-count": 22,
+            "publisher": "BMJ",
+            "issue": "8",
+            "license": [
+                {
+                    "URL": "https://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                2,
+                                4
+                            ]
+                        ],
+                        "date-time": "2021-02-04T00:00:00Z",
+                        "timestamp": 1612396800000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "unspecified"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/501100012349",
+                    "name": "School for Public Health Research",
+                    "doi-asserted-by": "crossref",
+                    "award": [
+                        "PD-SPH-2015-10062"
+                    ]
+                },
+                {
+                    "name": "MRC on a Clinician Scientist Fellowship",
+                    "award": [
+                        "MR/P008577/1"
+                    ]
+                },
+                {
+                    "name": "NIHR Senior Investigator award",
+                    "award": [
+                        "NF-SI-0617-10174"
+                    ]
+                },
+                {
+                    "name": "NIHR Applied Research Collaboration North West Coast",
+                    "award": [
+                        "NIHR200182"
+                    ]
+                }
+            ],
+            "content-domain": {
+                "domain": [
+                    "bmj.com"
+                ],
+                "crossmark-restriction": true
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2021,
+                        8
+                    ]
+                ]
+            },
+            "abstract": "<jats:sec><jats:title>Background</jats:title><jats:p>During the initial wave of the COVID-19 epidemic in England, several population characteristics were associated with increased risk of mortality\u2014including, age, ethnicity, income deprivation, care home residence and housing conditions. In order to target control measures and plan for future waves of the epidemic, public health agencies need to understand how these vulnerabilities are distributed across and clustered within communities.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>We performed a cross-sectional ecological analysis across 6789 small areas in England. We assessed the association between COVID-19 mortality in each area and five vulnerability measures relating to ethnicity, poverty, prevalence of long-term health conditions, living in care homes and living in overcrowded housing. Estimates from multivariable Poisson regression models were used to derive a Small Area Vulnerability Index.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Four vulnerability measures were independently associated with age-adjusted COVID-19 mortality. Each SD increase in the proportion of the population (1) living in care homes, (2) admitted to hospital in the past 5 years for a long-term health condition, (3) from an ethnic minority background and (4) living in overcrowded housing was associated with a 28%, 19% 8% and 11% increase in age-adjusted COVID-19 mortality rate, respectively.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>Vulnerability to COVID-19 was noticeably higher in the North West, West Midlands and North East regions, with high levels of vulnerability clustered in some communities. Our analysis indicates the communities who will be most at risk from a second wave of the pandemic.</jats:p></jats:sec>",
+            "DOI": "10.1136/jech-2020-215227",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        5
+                    ]
+                ],
+                "date-time": "2021-02-05T09:50:02Z",
+                "timestamp": 1612518602000
+            },
+            "page": "729-734",
+            "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+            "source": "Crossref",
+            "is-referenced-by-count": 5,
+            "title": "How does vulnerability to COVID-19 vary between communities in England? Developing a Small Area Vulnerability Index (SAVI)",
+            "prefix": "10.1136",
+            "volume": "75",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-4573-4628",
+                    "authenticated-orcid": false,
+                    "given": "Konstantinos",
+                    "family": "Daras",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Alexandros",
+                    "family": "Alexiou",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0001-5338-0359",
+                    "authenticated-orcid": false,
+                    "given": "Tanith C",
+                    "family": "Rose",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Iain",
+                    "family": "Buchan",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "David",
+                    "family": "Taylor-Robinson",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Benjamin",
+                    "family": "Barr",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "239",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        4
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "2021070902270810000_75.8.729.1",
+                    "unstructured": "Whitehead M , Barr B , Taylor-Robinson D . Covid-19: We are not \u201call in it together\u201d\u2014less privileged in society are suffering the brunt of the damage. The BMJ, 2020. Available: https://blogs.bmj.com/bmj/2020/05/22/covid-19-we-are-not-all-in-it-together-less-privileged-in-society-are-suffering-the-brunt-of-the-damage/ [Accessed 11 Jun 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.2",
+                    "unstructured": "Virological . Preliminary analysis of SARS-CoV-2 importation & establishment of UK transmission lineages, 2020. Available: https://virological.org/t/preliminary-analysis-of-sars-cov-2-importation-establishment-of-uk-transmission-lineages/507 [Accessed 10 Jun 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.3",
+                    "unstructured": "Office for National Statistics . Coronavirus (COVID-19) related deaths by ethnic group, England and Wales: 2 March 2020 to 10 April 2020, 2020. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/coronavirusrelateddeathsbyethnicgroupenglandandwales/2march2020to10april2020 [Accessed 13 May 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.4",
+                    "unstructured": "Office of National Statistics . Deaths involving COVID-19 by local area and socioeconomic deprivation, 2020. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19bylocalareasanddeprivation/deathsoccurringbetween1marchand17april [Accessed 11 Jun 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.5",
+                    "first-page": "05.06.20093351",
+                    "article-title": "Age-Adjusted associations between comorbidity and outcomes of COVID-19: a review of the evidence",
+                    "volume": "2020",
+                    "author": "Mason",
+                    "year": "2020",
+                    "journal-title": "medRxiv"
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.6",
+                    "unstructured": "Office for National Statistics . Deaths involving COVID-19 in the care sector, England and Wales. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsinvolvingcovid19inthecaresectorenglandandwales/deathsoccurringupto1may2020andregisteredupto9may2020provisional [Accessed 25 Jun 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.7",
+                    "unstructured": "Hous . The housing pandemic: four graphs showing the link between COVID-19 deaths and the housing crisis. Available: https://www.insidehousing.co.uk/insight/insight/the-housing-pandemic-four-graphs-showing-the-link-between-covid-19-deaths-and-the-housing-crisis-66562 [Accessed 26 Jun 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.8",
+                    "unstructured": "Office for National Statistics . Coronavirus (COVID-19) infections in the community in England. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19infectionsinthecommunityinengland/july2020 [Accessed 12 Jul 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.9",
+                    "DOI": "10.1136/bmj.m1932",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.10",
+                    "unstructured": "Health Found . Contact tracing APP threatens to exacerbate unequal risk of COVID-19. Available: https://www.health.org.uk/news-and-comment/news/contact-tracing-app-threatens-to-exacerbate-unequal-risk-of-covid-19 [Accessed 26 Jun 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.11",
+                    "unstructured": "COVID-19: emergency funding for local government. Gov.uk 2020 https://www.gov.uk/government/publications/covid-19-emergency-funding-for-local-government [Accessed 24 Apr 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.12",
+                    "unstructured": "Google Docs . British red cross COVID-19 vulnerability index. Available: https://docs.google.com/document/d/1aWpzgvLKGEF5Ay_xVps17nnbT1zIEki7RGIIJXL5APo/edit?usp=embed_facebook [Accessed 15 Jun 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.13",
+                    "unstructured": "Office for National Statistics . Deaths involving COVID-19, England and Wales. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsinvolvingcovid19englandandwales [Accessed 30 Jun 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.14",
+                    "unstructured": "nhs.uk . People at higher risk from coronavirus (COVID-19) - NHS England, 2020. Available: https://www.nhs.uk/conditions/coronavirus-covid-19/people-at-higher-risk/ [Accessed 12 Jul 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.15",
+                    "unstructured": "World Health Organization (WHO) . COVID-19 high risk groups. Available: https://www.who.int/westernpacific/emergencies/covid-19/information/high-risk-groups [Accessed 12 Jul 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.16",
+                    "unstructured": "Official Labour Market Statistics . QS412EW (Occupancy rating (bedrooms)) - Nomis. Available: https://www.nomisweb.co.uk/census/2011/qs412ew [Accessed 12 Jul 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.17",
+                    "unstructured": "Coronavirus (COVID-19) in the UK. Available: https://coronavirus.data.gov.uk/?_ga=2.103123523.2144319356.1593283736-41812953.1585265390 [Accessed 27 Jun 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.18",
+                    "DOI": "10.1136/jech-2019-213255",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.19",
+                    "DOI": "10.1068/a37168",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.20",
+                    "author": "Vatcheva",
+                    "volume": "6",
+                    "year": "2016",
+                    "article-title": "Multicollinearity in regression analyses conducted in epidemiologic studies",
+                    "journal-title": "Epidemiology"
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.21",
+                    "unstructured": "Office for National Statistics . Coronavirus (COVID-19) related deaths by occupation, England and Wales. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/bulletins/coronaviruscovid19relateddeathsbyoccupationenglandandwales/deathsregisteredbetween9marchand25may2020 [Accessed 30 Jun 2020]."
+                },
+                {
+                    "key": "2021070902270810000_75.8.729.22",
+                    "unstructured": "COVID-19: saving lives in the second wave. Available: https://www.themj.co.uk/COVID-19-Saving-lives-in-the-second-wave/217947 [Accessed 30 Jun 2020]."
+                }
+            ],
+            "container-title": "Journal of Epidemiology and Community Health",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://syndication.highwire.org/content/doi/10.1136/jech-2020-215227",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2021,
+                        7,
+                        9
+                    ]
+                ],
+                "date-time": "2021-07-09T09:31:44Z",
+                "timestamp": 1625823104000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        4
+                    ]
+                ]
+            },
+            "references-count": 22,
+            "journal-issue": {
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2021,
+                            7,
+                            9
+                        ]
+                    ]
+                },
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2021,
+                            8
+                        ]
+                    ]
+                },
+                "issue": "8"
+            },
+            "alternative-id": [
+                "10.1136/jech-2020-215227"
+            ],
+            "URL": "http://dx.doi.org/10.1136/jech-2020-215227",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "0143-005X",
+                "1470-2738"
+            ],
+            "subject": [
+                "Public Health, Environmental and Occupational Health",
+                "Epidemiology"
+            ],
+            "container-title-short": "J Epidemiol Community Health"
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "CitationSubset": [
+                    "IM"
+                ],
+                "GeneralNote": [],
+                "SpaceFlightMission": [],
+                "OtherAbstract": [],
+                "KeywordList": [
+                    [
+                        "Disease modeling",
+                        "Health inequalities",
+                        "PUBLIC HEALTH POLICY"
+                    ]
+                ],
+                "OtherID": [],
+                "PMID": "33542030",
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "07",
+                    "Day": "13"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2021",
+                            "Month": "02",
+                            "Day": "04"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1136/jech-2020-215227"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1470-2738",
+                        "JournalIssue": {
+                            "Volume": "75",
+                            "Issue": "8",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "08"
+                            }
+                        },
+                        "Title": "Journal of epidemiology and community health",
+                        "ISOAbbreviation": "J Epidemiol Community Health"
+                    },
+                    "ArticleTitle": "How does vulnerability to COVID-19 vary between communities in England? Developing a Small Area Vulnerability Index (SAVI).",
+                    "Pagination": {
+                        "MedlinePgn": "729-734"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "During the initial wave of the COVID-19 epidemic in England, several population characteristics were associated with increased risk of mortality-including, age, ethnicity, income deprivation, care home residence and housing conditions. In order to target control measures and plan for future waves of the epidemic, public health agencies need to understand how these vulnerabilities are distributed across and clustered within communities.",
+                            "We performed a cross-sectional ecological analysis across 6789 small areas in England. We assessed the association between COVID-19 mortality in each area and five vulnerability measures relating to ethnicity, poverty, prevalence of long-term health conditions, living in care homes and living in overcrowded housing. Estimates from multivariable Poisson regression models were used to derive a Small Area Vulnerability Index.",
+                            "Four vulnerability measures were independently associated with age-adjusted COVID-19 mortality. Each SD increase in the proportion of the population (1) living in care homes, (2) admitted to hospital in the past 5 years for a long-term health condition, (3) from an ethnic minority background and (4) living in overcrowded housing was associated with a 28%, 19% 8% and 11% increase in age-adjusted COVID-19 mortality rate, respectively.",
+                            "Vulnerability to COVID-19 was noticeably higher in the North West, West Midlands and North East regions, with high levels of vulnerability clustered in some communities. Our analysis indicates the communities who will be most at risk from a second wave of the pandemic."
+                        ],
+                        "CopyrightInformation": "\u00a9 Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY. Published by BMJ."
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK konstantinos.daras@liverpool.ac.uk."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0002-4573-4628"
+                            ],
+                            "LastName": "Daras",
+                            "ForeName": "Konstantinos",
+                            "Initials": "K"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Alexiou",
+                            "ForeName": "Alexandros",
+                            "Initials": "A"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "0000-0001-5338-0359"
+                            ],
+                            "LastName": "Rose",
+                            "ForeName": "Tanith C",
+                            "Initials": "TC"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Buchan",
+                            "ForeName": "Iain",
+                            "Initials": "I"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Taylor-Robinson",
+                            "ForeName": "David",
+                            "Initials": "D"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Barr",
+                            "ForeName": "Benjamin",
+                            "Initials": "B"
+                        }
+                    ],
+                    "GrantList": [
+                        {
+                            "GrantID": "G0802448",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        },
+                        {
+                            "GrantID": "MR/P008577/1",
+                            "Acronym": "MRC_",
+                            "Agency": "Medical Research Council",
+                            "Country": "United Kingdom"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article",
+                        "Research Support, Non-U.S. Gov't"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Epidemiol Community Health",
+                    "NlmUniqueID": "7909766",
+                    "ISSNLinking": "0143-005X"
+                },
+                "CoiStatement": "Competing interests: BB, TCR and KD are supported by the NIHR Applied Research Collaboration North West Coast; BB, AA and DT-R are supported by the NIHR School for Public Health Research; DT-R are funded by the Medical Research Council; IB is supported by NIHR Senior Investigator award."
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "07",
+                        "Day": "29"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "01",
+                        "Day": "06"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "01",
+                        "Day": "17"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "2",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "2",
+                        "Day": "6",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2021",
+                        "Month": "2",
+                        "Day": "5",
+                        "Hour": "5",
+                        "Minute": "46"
+                    }
+                ],
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": [
+                    "33542030",
+                    "jech-2020-215227",
+                    "10.1136/jech-2020-215227",
+                    "PMC7868127"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "DOI(10.1136/jech-2020-215227)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1136%2Fjech-2020-215227%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=DOI%2810.1136%2Fjech-2020-215227%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104645113"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104645113?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85104645113&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85104645113&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85104645113",
+                        "dc:identifier": "SCOPUS_ID:85104645113",
+                        "eid": "2-s2.0-85104645113",
+                        "dc:title": "How does vulnerability to COVID-19 vary between communities in England? Developing a Small Area Vulnerability Index (SAVI)",
+                        "dc:creator": "Daras K.",
+                        "prism:publicationName": "Journal of Epidemiology and Community Health",
+                        "prism:issn": "0143005X",
+                        "prism:eIssn": "14702738",
+                        "prism:volume": "75",
+                        "prism:issueIdentifier": "8",
+                        "prism:pageRange": "729-734",
+                        "prism:coverDate": "2021-08-01",
+                        "prism:coverDisplayDate": "1 August 2021",
+                        "prism:doi": "10.1136/jech-2020-215227",
+                        "citedby-count": "4",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "15896",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherhybridgold"
+                                },
+                                {
+                                    "$": "repository"
+                                },
+                                {
+                                    "$": "repositoryvor"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Hybrid Gold"
+                                },
+                                {
+                                    "$": "Green"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "92BFG6HD.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "33542030"
+            }
+        },
+        "title": "How does vulnerability to COVID-19 vary between communities in England? Developing a Small Area Vulnerability Index (SAVI).",
+        "full_author_list": [
+            {
+                "clean": "Daras K",
+                "family": "Daras",
+                "given": "Konstantinos",
+                "affiliation": {
+                    "name": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK konstantinos.daras@liverpool.ac.uk."
+                }
+            },
+            {
+                "clean": "Alexiou A",
+                "family": "Alexiou",
+                "given": "Alexandros",
+                "affiliation": {
+                    "name": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Rose T",
+                "family": "Rose",
+                "given": "Tanith C",
+                "affiliation": {
+                    "name": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Buchan I",
+                "family": "Buchan",
+                "given": "Iain",
+                "affiliation": {
+                    "name": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Taylor-Robinson D",
+                "family": "Taylor-Robinson",
+                "given": "David",
+                "affiliation": {
+                    "name": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Barr B",
+                "family": "Barr",
+                "given": "Benjamin",
+                "affiliation": {
+                    "name": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK."
+                }
+            }
+        ],
+        "first_author": "Daras K",
+        "zotero_tags": [
+            {
+                "tag": "IPH"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "Disease modeling",
+                "Health inequalities",
+                "PUBLIC HEALTH POLICY"
+            ]
+        },
+        "journal": {
+            "journal_name": "J Epidemiol Community Health",
+            "volume": "75",
+            "issue": "8"
+        },
+        "abstract": "['During the initial wave of the COVID-19 epidemic in England, several population characteristics were associated with increased risk of mortality-including, age, ethnicity, income deprivation, care home residence and housing conditions. In order to target control measures and plan for future waves of the epidemic, public health agencies need to understand how these vulnerabilities are distributed across and clustered within communities.', 'We performed a cross-sectional ecological analysis across 6789 small areas in England. We assessed the association between COVID-19 mortality in each area and five vulnerability measures relating to ethnicity, poverty, prevalence of long-term health conditions, living in care homes and living in overcrowded housing. Estimates from multivariable Poisson regression models were used to derive a Small Area Vulnerability Index.', 'Four vulnerability measures were independently associated with age-adjusted COVID-19 mortality. Each SD increase in the proportion of the population (1) living in care homes, (2) admitted to hospital in the past 5 years for a long-term health condition, (3) from an ethnic minority background and (4) living in overcrowded housing was associated with a 28%, 19% 8% and 11% increase in age-adjusted COVID-19 mortality rate, respectively.', 'Vulnerability to COVID-19 was noticeably higher in the North West, West Midlands and North East regions, with high levels of vulnerability clustered in some communities. Our analysis indicates the communities who will be most at risk from a second wave of the pandemic.']",
+        "clean_date": {
+            "year": "2021"
+        },
+        "year_published": "2021",
+        "citations": {
+            "scopus": {
+                "count": "4"
+            }
+        },
+        "location": {
+            "candidate_institute": "Department of Public Health, Policy and Systems, University of Liverpool, Liverpool, UK konstantinos.daras@liverpool.ac.uk.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}

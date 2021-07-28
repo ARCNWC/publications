@@ -1,0 +1,879 @@
+{
+    "IDs": {
+        "zotero": "LRYIZ9TE",
+        "DOI": "10.1017/S1041610220000794",
+        "DOI_filename": "80b5cd8c19eeea93da373e666adf2e70",
+        "PMID": "32484120",
+        "scopus": "2-s2.0-85085107109",
+        "hash": "d1f95e1ab6bf5260ad92016827862b47"
+    },
+    "raw": {
+        "zotero_data": {
+            "key": "LRYIZ9TE",
+            "version": 984,
+            "itemType": "journalArticle",
+            "title": "Ethnic disparities in the uptake of anti-dementia medication in young and late-onset dementia",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Clarissa",
+                    "lastName": "Giebel"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Monica",
+                    "lastName": "Cations"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Brian",
+                    "lastName": "Draper"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Aravind",
+                    "lastName": "Komuravelli"
+                }
+            ],
+            "abstractNote": "ABSTRACT\n            \n              Objectives:\n              People with dementia can face barriers when trying to access care after a diagnosis, particularly in young-onset dementia (YOD). Little is known about the effects of ethnicity on the use of anti-dementia medication and variations between age groups. The aim of this study was to analyze national data on variations in the uptake of anti-dementia medication between people with YOD and late-onset dementia (LOD).\n            \n            \n              Design:\n              Cross-sectional longitudinal cohort study.\n            \n            \n              Setting:\n              Data from the U.S. National Alzheimer\u2019s Coordinating Centre were obtained from September 2005 to March 2019.\n            \n            \n              Participants:\n              First visits of people with a diagnosis of Alzheimer\u2019s disease (AD) dementia, Lewy body dementia (LBD), and Parkinson\u2019s disease dementia (PDD) were included.\n            \n            \n              Measurements:\n              Logistic regression was used to analyze the effects of education and ethnicity on use of cholinesterase inhibitors and memantine, accounting for YOD/LOD, gender, living situation, severity stage, and comorbidities.\n            \n            \n              Results:\n              In total, 15,742 people with AD dementia and LBD/PDD were included, with 11,019 PwD having completed a first follow-up visit. Significantly more people with YOD used memantine than those with LOD, while fewer used cholinesterase inhibitors. PwD from minority ethnic backgrounds used memantine and cholinesterase inhibitors less often than those from a White ethnic background. Logistic regression analysis showed that ethnicity was a significant determinant of both memantine and cholinesterase inhibitors usage, while education was only a significant determinant for memantine usage.\n            \n            \n              Conclusions:\n              Findings highlight the impact of social factors on current usage of anti-dementia medication and the need for more resources to enable equitable use of anti-dementia medication.",
+            "publicationTitle": "International Psychogeriatrics",
+            "volume": "",
+            "issue": "",
+            "pages": "1-10",
+            "date": "2020-06-02",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Int. Psychogeriatr.",
+            "language": "en",
+            "DOI": "10.1017/S1041610220000794",
+            "ISSN": "1041-6102, 1741-203X",
+            "shortTitle": "",
+            "url": "https://www.cambridge.org/core/product/identifier/S1041610220000794/type/journal_article",
+            "accessDate": "2021-07-23T16:46:09Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "PMID:32484120",
+            "tags": [
+                {
+                    "tag": "HACAL"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-07-23T16:46:18Z",
+            "dateModified": "2021-07-27T11:55:11Z",
+            "pmid": "32484120"
+        },
+        "doi_data": {
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        14
+                    ]
+                ],
+                "date-time": "2021-03-14T02:23:57Z",
+                "timestamp": 1615688637235
+            },
+            "reference-count": 37,
+            "publisher": "Cambridge University Press (CUP)",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                6,
+                                2
+                            ]
+                        ],
+                        "date-time": "2020-06-02T00:00:00Z",
+                        "timestamp": 1591056000000
+                    },
+                    "delay-in-days": 0,
+                    "content-version": "unspecified"
+                }
+            ],
+            "content-domain": {
+                "domain": [],
+                "crossmark-restriction": false
+            },
+            "abstract": "<jats:title>ABSTRACT</jats:title>\n\t  <jats:sec id=\"S1041610220000794_as1\">\n\t    <jats:title>Objectives:</jats:title>\n\t    <jats:p>People with dementia can face barriers when trying to access care after a diagnosis, particularly in young-onset dementia (YOD). Little is known about the effects of ethnicity on the use of anti-dementia medication and variations between age groups. The aim of this study was to analyze national data on variations in the uptake of anti-dementia medication between people with YOD and late-onset dementia (LOD).</jats:p>\n\t  </jats:sec>\n\t  <jats:sec id=\"S1041610220000794_as2\">\n\t    <jats:title>Design:</jats:title>\n\t    <jats:p>Cross-sectional longitudinal cohort study.</jats:p>\n\t  </jats:sec>\n\t  <jats:sec id=\"S1041610220000794_as3\">\n\t    <jats:title>Setting:</jats:title>\n\t    <jats:p>Data from the U.S. National Alzheimer\u2019s Coordinating Centre were obtained from September 2005 to March 2019.</jats:p>\n\t  </jats:sec>\n\t  <jats:sec id=\"S1041610220000794_as4\">\n\t    <jats:title>Participants:</jats:title>\n\t    <jats:p>First visits of people with a diagnosis of Alzheimer\u2019s disease (AD) dementia, Lewy body dementia (LBD), and Parkinson\u2019s disease dementia (PDD) were included.</jats:p>\n\t  </jats:sec>\n\t  <jats:sec id=\"S1041610220000794_as5\">\n\t    <jats:title>Measurements:</jats:title>\n\t    <jats:p>Logistic regression was used to analyze the effects of education and ethnicity on use of cholinesterase inhibitors and memantine, accounting for YOD/LOD, gender, living situation, severity stage, and comorbidities.</jats:p>\n\t  </jats:sec>\n\t  <jats:sec id=\"S1041610220000794_as6\">\n\t    <jats:title>Results:</jats:title>\n\t    <jats:p>In total, 15,742 people with AD dementia and LBD/PDD were included, with 11,019 PwD having completed a first follow-up visit. Significantly more people with YOD used memantine than those with LOD, while fewer used cholinesterase inhibitors. PwD from minority ethnic backgrounds used memantine and cholinesterase inhibitors less often than those from a White ethnic background. Logistic regression analysis showed that ethnicity was a significant determinant of both memantine and cholinesterase inhibitors usage, while education was only a significant determinant for memantine usage.</jats:p>\n\t  </jats:sec>\n\t  <jats:sec id=\"S1041610220000794_as7\">\n\t    <jats:title>Conclusions:</jats:title>\n\t    <jats:p>Findings highlight the impact of social factors on current usage of anti-dementia medication and the need for more resources to enable equitable use of anti-dementia medication.</jats:p>\n\t  </jats:sec>",
+            "DOI": "10.1017/s1041610220000794",
+            "type": "article-journal",
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        2
+                    ]
+                ],
+                "date-time": "2020-06-02T09:34:59Z",
+                "timestamp": 1591090499000
+            },
+            "page": "1-10",
+            "source": "Crossref",
+            "is-referenced-by-count": 2,
+            "title": "Ethnic disparities in the uptake of anti-dementia medication in young and late-onset dementia",
+            "prefix": "10.1017",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-0746-0566",
+                    "authenticated-orcid": false,
+                    "given": "Clarissa",
+                    "family": "Giebel",
+                    "sequence": "first",
+                    "affiliation": []
+                },
+                {
+                    "given": "Monica",
+                    "family": "Cations",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Brian",
+                    "family": "Draper",
+                    "sequence": "additional",
+                    "affiliation": []
+                },
+                {
+                    "given": "Aravind",
+                    "family": "Komuravelli",
+                    "sequence": "additional",
+                    "affiliation": []
+                }
+            ],
+            "member": "56",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        2
+                    ]
+                ]
+            },
+            "reference": [
+                {
+                    "key": "S1041610220000794_ref12",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1223",
+                    "DOI": "10.3233/JAD-170672",
+                    "article-title": "Memantine for the treatment of dementia: a review on its current and future applications",
+                    "volume": "62",
+                    "author": "Folch",
+                    "year": "2018",
+                    "journal-title": "Journal of Alzheimer\u2019s Disease"
+                },
+                {
+                    "key": "S1041610220000794_ref15",
+                    "DOI": "10.1186/s12913-020-5027-8",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref18",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "233",
+                    "DOI": "10.1177/1471301212460608",
+                    "article-title": "Dementia diagnosis and post-diagnostic support in Scottish rural communities: experiences of people with dementia and their families",
+                    "volume": "13",
+                    "author": "Innes",
+                    "year": "2014",
+                    "journal-title": "Dementia"
+                },
+                {
+                    "key": "S1041610220000794_ref4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "32",
+                    "DOI": "10.1016/j.puhe.2016.08.005",
+                    "article-title": "Socio-economic inequalities in health and health service use among older adults in India: results from the WHO Study on Global AGEing and adult health survey",
+                    "volume": "141",
+                    "author": "Brinda",
+                    "year": "2016",
+                    "journal-title": "Public Health"
+                },
+                {
+                    "key": "S1041610220000794_ref22",
+                    "DOI": "10.1016/j.jalz.2015.12.007",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref2",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "249",
+                    "DOI": "10.1097/WAD.0b013e318142774e",
+                    "article-title": "The National Alzheimer\u2019s Center (NACC) database: the uniform data set",
+                    "volume": "21",
+                    "author": "Beekly",
+                    "year": "2007",
+                    "journal-title": "Alzheimer Disease and Associated Disorders"
+                },
+                {
+                    "key": "S1041610220000794_ref34",
+                    "DOI": "10.1016/j.jns.2005.04.014",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref8",
+                    "DOI": "10.1002/gps.4717",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref9",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1217",
+                    "DOI": "10.1002/gps.4430",
+                    "article-title": "Time to diagnosis in young-onset dementia and its determinants: the INSPIRED study",
+                    "volume": "31",
+                    "author": "Draper",
+                    "year": "2016",
+                    "journal-title": "International Journal of Geriatric Psychiatry"
+                },
+                {
+                    "key": "S1041610220000794_ref35",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "505",
+                    "DOI": "10.3233/JAD-160124",
+                    "article-title": "Inequalities in access to treatment and care for patients with dementia and immigrant background: a Danish nationwide study",
+                    "volume": "54",
+                    "author": "Stevnsborg",
+                    "year": "2016",
+                    "journal-title": "Journal of Alzheimer\u2019s Disease"
+                },
+                {
+                    "key": "S1041610220000794_ref32",
+                    "DOI": "10.7326/0003-4819-148-5-200803040-00009",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref19",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "233",
+                    "DOI": "10.1176/jnp.12.2.233",
+                    "article-title": "Validation of the NPI-Q, a brief clinical form of the Neuropsychiatric Inventory",
+                    "volume": "12",
+                    "author": "Kaufer",
+                    "year": "2000",
+                    "journal-title": "The Journal of Neuropsychiatry and Clinical Neurosciences"
+                },
+                {
+                    "key": "S1041610220000794_ref13",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e022820",
+                    "DOI": "10.1136/bmjopen-2018-022820",
+                    "article-title": "What are the predictors of AandE attendance in deprived neighbourhoods? Results from a cross-sectional household health survey in the North West of England",
+                    "volume": "9",
+                    "author": "Giebel",
+                    "year": "2019",
+                    "journal-title": "BMJ Open"
+                },
+                {
+                    "key": "S1041610220000794_ref16",
+                    "DOI": "10.1080/13607863.2017.1286451",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref20",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "858",
+                    "DOI": "10.1001/jama.2016.11237",
+                    "article-title": "The high cost of prescription drugs in the United States: origins and prospects for reform",
+                    "volume": "316",
+                    "author": "Kesselheim",
+                    "year": "2016",
+                    "journal-title": "JAMA"
+                },
+                {
+                    "key": "S1041610220000794_ref29",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1070",
+                    "DOI": "10.1017/S1041610211000214",
+                    "article-title": "Why do ethnic elders present later to UK dementia services? A qualitative study",
+                    "volume": "23",
+                    "author": "Mukadam",
+                    "year": "2011",
+                    "journal-title": "International Psychogeriatrics"
+                },
+                {
+                    "key": "S1041610220000794_ref27",
+                    "DOI": "10.1002/gps.4502",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref3",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1475",
+                    "DOI": "10.1016/S0140-6736(17)30571-8",
+                    "article-title": "Population health in an era of rising income inequality: USA, 1980\u20132015",
+                    "volume": "389",
+                    "author": "Bor",
+                    "year": "2016",
+                    "journal-title": "The Lancet"
+                },
+                {
+                    "key": "S1041610220000794_ref30",
+                    "DOI": "10.1177/1471301219853945",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref5",
+                    "author": "Cations",
+                    "year": "2017",
+                    "article-title": "Why aren\u2019t people with young onset dementia and their supporters using formal services? Results from the INSPIRED study",
+                    "journal-title": "PLOS One",
+                    "DOI": "10.1371/journal.pone.0180935",
+                    "doi-asserted-by": "crossref"
+                },
+                {
+                    "key": "S1041610220000794_ref17",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "566",
+                    "DOI": "10.1192/bjp.140.6.566",
+                    "article-title": "A new clinical scale for the staging of dementia",
+                    "volume": "140",
+                    "author": "Hughes",
+                    "year": "1982",
+                    "journal-title": "The British Journal of Psychiatry"
+                },
+                {
+                    "key": "S1041610220000794_ref26",
+                    "DOI": "10.1017/S1041610213001890",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref23",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "933",
+                    "DOI": "10.1080/13607863.2017.1334038",
+                    "article-title": "Age-appropriate services for people diagnosed with young onset dementia (YOD): a systematic review",
+                    "volume": "22",
+                    "author": "Mayrhofer",
+                    "year": "2018",
+                    "journal-title": "Aging and Mental Health"
+                },
+                {
+                    "key": "S1041610220000794_ref1",
+                    "year": "2016",
+                    "volume-title": "Improving Healthcare for People Living with Dementia: Coverage, Quality and Costs Now and in the Future"
+                },
+                {
+                    "key": "S1041610220000794_ref25",
+                    "DOI": "10.1016/j.jalz.2011.03.005",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref28",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "210",
+                    "DOI": "10.1097/01.wad.0000213865.09806.92",
+                    "article-title": "The Uniform Data Set (UDS): clinical and cognitive variables and descriptive data from Alzheimer Disease Centers",
+                    "volume": "20",
+                    "author": "Morris",
+                    "year": "2006",
+                    "journal-title": "Alzheimer Disease and Associated Disorders"
+                },
+                {
+                    "key": "S1041610220000794_ref36",
+                    "year": "2019",
+                    "volume-title": "Health, Prosperous Lives for All: The European Health Equity Status Report (2019)"
+                },
+                {
+                    "key": "S1041610220000794_ref37",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "741",
+                    "DOI": "10.1177/1060028014526562",
+                    "article-title": "Impact of health literacy on medication adherence: a systematic review and meta-analysis",
+                    "volume": "48",
+                    "author": "Zhang",
+                    "year": "2014",
+                    "journal-title": "Annals of Pharmacotherapy"
+                },
+                {
+                    "key": "S1041610220000794_ref24",
+                    "DOI": "10.1212/WNL.0000000000004058",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref11",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "539",
+                    "DOI": "10.1017/S104161020700511X",
+                    "article-title": "Potential ethnic modifiers in the assessment and treatment of Alzheimer\u2019s disease: challenges for the future",
+                    "volume": "19",
+                    "author": "Faison",
+                    "year": "2007",
+                    "journal-title": "International Psychogeriatrics"
+                },
+                {
+                    "key": "S1041610220000794_ref33",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "e1",
+                    "DOI": "10.3399/bjgp19X707093",
+                    "article-title": "Predictors of emergency department and GP use among patients with mental health conditions: a public health survey",
+                    "volume": "70",
+                    "author": "Saini",
+                    "year": "2020",
+                    "journal-title": "British Journal of General Practice"
+                },
+                {
+                    "key": "S1041610220000794_ref10",
+                    "DOI": "10.1016/S1474-4422(10)70194-0",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref31",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "222",
+                    "DOI": "10.1002/gps.4314",
+                    "article-title": "Knowledge and perceptions of dementia and Alzheimer\u2019s disease in four ethnic groups in Copenhagen, Denmark",
+                    "volume": "31",
+                    "author": "Nielsen",
+                    "year": "2016",
+                    "journal-title": "International Journal of Geriatric Psychiatry"
+                },
+                {
+                    "key": "S1041610220000794_ref21",
+                    "DOI": "10.1371/journal.pone.0145455",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref6",
+                    "DOI": "10.1097/JGP.0b013e3181bf9caf",
+                    "doi-asserted-by": "publisher"
+                },
+                {
+                    "key": "S1041610220000794_ref7",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "148",
+                    "DOI": "10.1093/ageing/afv154",
+                    "article-title": "Observational cohort study: deprivation and access to anti-dementia drugs in the UK",
+                    "volume": "45",
+                    "author": "Cooper",
+                    "year": "2016",
+                    "journal-title": "Age and Ageing"
+                },
+                {
+                    "key": "S1041610220000794_ref14",
+                    "unstructured": "Giebel, C. et al. (2019b). Age, memory loss and perceptions of dementia in South Asian ethnic minorities. Aging & Mental Health, 23(2), 173\u2013182.",
+                    "DOI": "10.1080/13607863.2017.1408772",
+                    "doi-asserted-by": "crossref"
+                }
+            ],
+            "container-title": "International Psychogeriatrics",
+            "original-title": [],
+            "language": "en",
+            "link": [
+                {
+                    "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1041610220000794",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        11,
+                        23
+                    ]
+                ],
+                "date-time": "2020-11-23T09:45:15Z",
+                "timestamp": 1606124715000
+            },
+            "score": 1.0,
+            "subtitle": [],
+            "short-title": [],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        2
+                    ]
+                ]
+            },
+            "references-count": 37,
+            "alternative-id": [
+                "S1041610220000794"
+            ],
+            "URL": "http://dx.doi.org/10.1017/S1041610220000794",
+            "relation": {
+                "cites": []
+            },
+            "ISSN": [
+                "1041-6102",
+                "1741-203X"
+            ],
+            "subject": [
+                "Gerontology",
+                "Clinical Psychology",
+                "Geriatrics and Gerontology",
+                "Psychiatry and Mental health"
+            ],
+            "container-title-short": "Int. Psychogeriatr."
+        },
+        "pmid_data": {
+            "MedlineCitation": {
+                "OtherID": [],
+                "GeneralNote": [],
+                "KeywordList": [
+                    [
+                        "access",
+                        "care",
+                        "health inequalities",
+                        "medication",
+                        "socio-economic status",
+                        "young-onset dementia"
+                    ]
+                ],
+                "OtherAbstract": [],
+                "SpaceFlightMission": [],
+                "CitationSubset": [
+                    "IM"
+                ],
+                "PMID": "32484120",
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "06",
+                    "Day": "02"
+                },
+                "Article": {
+                    "ArticleDate": [
+                        {
+                            "Year": "2020",
+                            "Month": "06",
+                            "Day": "02"
+                        }
+                    ],
+                    "ELocationID": [
+                        "10.1017/S1041610220000794"
+                    ],
+                    "Language": [
+                        "eng"
+                    ],
+                    "Journal": {
+                        "ISSN": "1741-203X",
+                        "JournalIssue": {
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "Jun",
+                                "Day": "02"
+                            }
+                        },
+                        "Title": "International psychogeriatrics",
+                        "ISOAbbreviation": "Int Psychogeriatr"
+                    },
+                    "ArticleTitle": "Ethnic disparities in the uptake of anti-dementia medication in young and late-onset dementia.",
+                    "Pagination": {
+                        "MedlinePgn": "1-10"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            "People with dementia can face barriers when trying to access care after a diagnosis, particularly in young-onset dementia (YOD). Little is known about the effects of ethnicity on the use of anti-dementia medication and variations between age groups. The aim of this study was to analyze national data on variations in the uptake of anti-dementia medication between people with YOD and late-onset dementia (LOD).",
+                            "Cross-sectional longitudinal cohort study.",
+                            "Data from the U.S. National Alzheimer's Coordinating Centre were obtained from September 2005 to March 2019.",
+                            "First visits of people with a diagnosis of Alzheimer's disease (AD) dementia, Lewy body dementia (LBD), and Parkinson's disease dementia (PDD) were included.",
+                            "Logistic regression was used to analyze the effects of education and ethnicity on use of cholinesterase inhibitors and memantine, accounting for YOD/LOD, gender, living situation, severity stage, and comorbidities.",
+                            "In total, 15,742 people with AD dementia and LBD/PDD were included, with 11,019 PwD having completed a first follow-up visit. Significantly more people with YOD used memantine than those with LOD, while fewer used cholinesterase inhibitors. PwD from minority ethnic backgrounds used memantine and cholinesterase inhibitors less often than those from a White ethnic background. Logistic regression analysis showed that ethnicity was a significant determinant of both memantine and cholinesterase inhibitors usage, while education was only a significant determinant for memantine usage.",
+                            "Findings highlight the impact of social factors on current usage of anti-dementia medication and the need for more resources to enable equitable use of anti-dementia medication."
+                        ]
+                    },
+                    "AuthorList": [
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "NIHR ARC NWC, Liverpool, UK."
+                                }
+                            ],
+                            "Identifier": [
+                                "https://orcid.org/0000-0002-0746-0566"
+                            ],
+                            "LastName": "Giebel",
+                            "ForeName": "Clarissa",
+                            "Initials": "C"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "South Australian Health and Medical Research Institute, Adelaide, Australia."
+                                },
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "College of Medicine and Public Health, Flinders University, Adelaide, Australia."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Cations",
+                            "ForeName": "Monica",
+                            "Initials": "M"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "School of Psychiatry, University of NSW, Sydney, Australia."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Draper",
+                            "ForeName": "Brian",
+                            "Initials": "B"
+                        },
+                        {
+                            "AffiliationInfo": [
+                                {
+                                    "Identifier": [],
+                                    "Affiliation": "North West Boroughs NHS Foundation Trust, Warrington, UK."
+                                }
+                            ],
+                            "Identifier": [],
+                            "LastName": "Komuravelli",
+                            "ForeName": "Aravind",
+                            "Initials": "A"
+                        }
+                    ],
+                    "PublicationTypeList": [
+                        "Journal Article"
+                    ]
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Int Psychogeriatr",
+                    "NlmUniqueID": "9007918",
+                    "ISSNLinking": "1041-6102"
+                }
+            },
+            "PubmedData": {
+                "ReferenceList": [],
+                "History": [
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    },
+                    {
+                        "Year": "2020",
+                        "Month": "6",
+                        "Day": "3",
+                        "Hour": "6",
+                        "Minute": "0"
+                    }
+                ],
+                "PublicationStatus": "aheadofprint",
+                "ArticleIdList": [
+                    "32484120",
+                    "S1041610220000794",
+                    "10.1017/S1041610220000794"
+                ]
+            }
+        },
+        "scopus_data": {
+            "search-results": {
+                "opensearch:totalResults": "1",
+                "opensearch:startIndex": "0",
+                "opensearch:itemsPerPage": "1",
+                "opensearch:Query": {
+                    "@role": "request",
+                    "@searchTerms": "PMID(32484120)",
+                    "@startPage": "0"
+                },
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832484120%29",
+                        "@type": "application/json"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "first",
+                        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=PMID%2832484120%29",
+                        "@type": "application/json"
+                    }
+                ],
+                "entry": [
+                    {
+                        "@_fa": "true",
+                        "link": [
+                            {
+                                "@_fa": "true",
+                                "@ref": "self",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085107109"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "author-affiliation",
+                                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085107109?field=author,affiliation"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus",
+                                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085107109&origin=inward"
+                            },
+                            {
+                                "@_fa": "true",
+                                "@ref": "scopus-citedby",
+                                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085107109&origin=inward"
+                            }
+                        ],
+                        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085107109",
+                        "dc:identifier": "SCOPUS_ID:85085107109",
+                        "eid": "2-s2.0-85085107109",
+                        "dc:title": "Ethnic disparities in the uptake of anti-dementia medication in young and late-onset dementia",
+                        "dc:creator": "Giebel C.",
+                        "prism:publicationName": "International Psychogeriatrics",
+                        "prism:issn": "10416102",
+                        "prism:eIssn": "1741203X",
+                        "prism:pageRange": null,
+                        "prism:coverDate": "2020-01-01",
+                        "prism:coverDisplayDate": "2020",
+                        "prism:doi": "10.1017/S1041610220000794",
+                        "pii": "S1041610220000794",
+                        "citedby-count": "3",
+                        "affiliation": [
+                            {
+                                "@_fa": "true",
+                                "affilname": "University of Liverpool",
+                                "affiliation-city": "Liverpool",
+                                "affiliation-country": "United Kingdom"
+                            }
+                        ],
+                        "pubmed-id": "32484120",
+                        "prism:aggregationType": "Journal",
+                        "subtype": "ar",
+                        "subtypeDescription": "Article",
+                        "source-id": "16200",
+                        "openaccess": "1",
+                        "openaccessFlag": true,
+                        "freetoread": {
+                            "value": [
+                                {
+                                    "$": "all"
+                                },
+                                {
+                                    "$": "publisherhybridgold"
+                                }
+                            ]
+                        },
+                        "freetoreadLabel": {
+                            "value": [
+                                {
+                                    "$": "All Open Access"
+                                },
+                                {
+                                    "$": "Hybrid Gold"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "filename": "LRYIZ9TE.merged",
+    "clean": {
+        "zotero_data": {
+            "extra": {
+                "PMID": "32484120"
+            }
+        },
+        "title": "Ethnic disparities in the uptake of anti-dementia medication in young and late-onset dementia.",
+        "full_author_list": [
+            {
+                "clean": "Giebel C",
+                "family": "Giebel",
+                "given": "Clarissa",
+                "affiliation": {
+                    "name": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK."
+                }
+            },
+            {
+                "clean": "Cations M",
+                "family": "Cations",
+                "given": "Monica",
+                "affiliation": {
+                    "name": "South Australian Health and Medical Research Institute, Adelaide, Australia."
+                }
+            },
+            {
+                "clean": "Draper B",
+                "family": "Draper",
+                "given": "Brian",
+                "affiliation": {
+                    "name": "School of Psychiatry, University of NSW, Sydney, Australia."
+                }
+            },
+            {
+                "clean": "Komuravelli A",
+                "family": "Komuravelli",
+                "given": "Aravind",
+                "affiliation": {
+                    "name": "North West Boroughs NHS Foundation Trust, Warrington, UK."
+                }
+            }
+        ],
+        "first_author": "Giebel C",
+        "zotero_tags": [
+            {
+                "tag": "HACAL"
+            }
+        ],
+        "keywords": {
+            "mesh": [],
+            "other": [
+                "access",
+                "care",
+                "health inequalities",
+                "medication",
+                "socio-economic status",
+                "young-onset dementia"
+            ]
+        },
+        "journal": {
+            "journal_name": "Int Psychogeriatr",
+            "volume": "",
+            "issue": ""
+        },
+        "abstract": "['People with dementia can face barriers when trying to access care after a diagnosis, particularly in young-onset dementia (YOD). Little is known about the effects of ethnicity on the use of anti-dementia medication and variations between age groups. The aim of this study was to analyze national data on variations in the uptake of anti-dementia medication between people with YOD and late-onset dementia (LOD).', 'Cross-sectional longitudinal cohort study.', \"Data from the U.S. National Alzheimer's Coordinating Centre were obtained from September 2005 to March 2019.\", \"First visits of people with a diagnosis of Alzheimer's disease (AD) dementia, Lewy body dementia (LBD), and Parkinson's disease dementia (PDD) were included.\", 'Logistic regression was used to analyze the effects of education and ethnicity on use of cholinesterase inhibitors and memantine, accounting for YOD/LOD, gender, living situation, severity stage, and comorbidities.', 'In total, 15,742 people with AD dementia and LBD/PDD were included, with 11,019 PwD having completed a first follow-up visit. Significantly more people with YOD used memantine than those with LOD, while fewer used cholinesterase inhibitors. PwD from minority ethnic backgrounds used memantine and cholinesterase inhibitors less often than those from a White ethnic background. Logistic regression analysis showed that ethnicity was a significant determinant of both memantine and cholinesterase inhibitors usage, while education was only a significant determinant for memantine usage.', 'Findings highlight the impact of social factors on current usage of anti-dementia medication and the need for more resources to enable equitable use of anti-dementia medication.']",
+        "clean_date": {
+            "year": "2020"
+        },
+        "year_published": "2020",
+        "citations": {
+            "scopus": {
+                "count": "3"
+            }
+        },
+        "location": {
+            "candidate_institute": "Institute of Population Health Sciences, University of Liverpool, Liverpool, UK.",
+            "clean_institute": "University of Liverpool",
+            "country": "United Kingdom",
+            "latitude": "53.406",
+            "longitude": "-2.967"
+        }
+    }
+}
