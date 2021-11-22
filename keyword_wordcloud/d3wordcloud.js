@@ -17,7 +17,7 @@
                 .append("g")
                 // without the transform, words words would get cutoff to the left and top, they would
                 // appear outside of the SVG area
-                .attr("transform", "translate(425,250)")
+                .attr("transform", "translate(400,250)")
                 .selectAll("text")
                 .data(words)
                 .enter().append("text")
