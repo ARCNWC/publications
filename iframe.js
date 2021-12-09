@@ -4,9 +4,9 @@ if ( window.location !== window.parent.location )
     // The page is in an iFrames
     console.log("The page is in an iFrame");
     
-    function sleep(ms) {
-        return new Promise(resolve => setTimeout(resolve, ms));
-     }
+    //function sleep(ms) {
+    //    return new Promise(resolve => setTimeout(resolve, ms));
+    // }
 
     // Add a listener to post to parent window the size of the screen. This is used
     // when displayed in an iframe and needs the dimensions to resize
@@ -19,7 +19,7 @@ if ( window.location !== window.parent.location )
         var elem = document.querySelector('#header-container');
         elem.style.display = 'none';
 
-        for (let i = 0; i < 5; i++) { 
+        //for (let i = 0; i < 5; i++) { 
 
         content_height = document.getElementById("wrapper").scrollHeight;
         footer_height = document.getElementsByClassName("foot")[0].scrollHeight;
@@ -30,9 +30,9 @@ if ( window.location !== window.parent.location )
         window.top.postMessage(message, "*");
         console.log(message);
 
-        await sleep(1000);
+        //await sleep(1000);
 
-        }
+        //}
 
 
         } else {
