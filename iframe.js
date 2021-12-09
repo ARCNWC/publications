@@ -30,7 +30,7 @@ if ( window.location !== window.parent.location )
         window.top.postMessage(message, "*");
         console.log(message);
 
-        await(sleep(1000));
+        await sleep(1000);
 
         }
 
