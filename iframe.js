@@ -9,7 +9,7 @@ if ( window.location !== window.parent.location )
     window.addEventListener('load', function() {
         //let message = { height: document.body.scrollHeight, width: document.body.scrollWidth };	
     
-        if (window.top != window.self) {        
+        if ( window.location !== window.parent.location ) {        
 
         content_height = document.getElementById("wrapper").scrollHeight;
         footer_height = document.getElementsByClassName("foot")[0].scrollHeight;
