@@ -9,6 +9,8 @@ if ( window.location !== window.parent.location )
     window.addEventListener('load', function() {
         //let message = { height: document.body.scrollHeight, width: document.body.scrollWidth };	
     
+        if (window.top != window.self) {        
+
         content_height = document.getElementById("wrapper").scrollHeight;
         footer_height = document.getElementsByClassName("foot")[0].scrollHeight;
 
@@ -22,6 +24,9 @@ if ( window.location !== window.parent.location )
         var elem = document.querySelector('#header-container');
         elem.style.display = 'none';
 
+        } else {
+            console.log("Spurious onload")
+        }
     });
 
 } 
