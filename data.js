@@ -1,1 +1,1 @@
-var cumulative =([['Year', 'Number of papers'],['2019',4],['2020',62],['2021',148],['2022',207],]);var papers_per_year=([['Year', 'Number of papers'],['2019',4],['2020',58],['2021',86],['2022',59],]);
+var cumulative =([['Year', 'Number of papers'],['2019',4],['2020',62],['2021',148],['2022',209],]);var papers_per_year=([['Year', 'Number of papers'],['2019',4],['2020',58],['2021',86],['2022',61],]);
