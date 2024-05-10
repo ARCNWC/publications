@@ -1,1 +1,1 @@
-var papers =([['Year', 'Number of papers'],['2020',3],['2021',7],['2022',5],['2023',5],]);var citations =([['Year', 'Number of Citations'],['2020',35],['2021',75],['2022',79],['2023',25],]);
+var papers =([['Year', 'Number of papers'],['2020',3],['2021',7],['2022',5],['2023',5],['2024',2],]);var citations =([['Year', 'Number of Citations'],['2020',36],['2021',77],['2022',85],['2023',24],['2024',0],]);
